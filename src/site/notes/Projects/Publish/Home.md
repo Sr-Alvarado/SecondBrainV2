@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/projects/publish/home/","tags":["#publish","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/projects/publish/home/","tags":["#publish","gardenEntry"]}
 ---
 
-Este es el home de mi Second Brain Online
+Este es el home de mi Second Brain Online v2
 
 > [!faq]- Holiii Nico
 > Este es un mensaje secreto para tí, la primera persona que tiene acceso a esta página
