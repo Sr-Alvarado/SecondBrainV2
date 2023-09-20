@@ -2,11 +2,8 @@
 {"dg-publish":true,"permalink":"/inputs/course/finding-purpose-and-meaning-in-life-living-for-what-matters-most/finding-purpose-and-meaning-in-life-living-for-what-matters-most/","tags":["home"]}
 ---
 
-2023-09-20## Week 1
 ### Introduction
 #### [[Inputs/Course/Finding Purpose and Meaning In Life - Living for What Matters Most/Introduction\|Intro]]
-
-{ .block-language-dataview}
 #### [[Inputs/Course/Finding Purpose and Meaning In Life - Living for What Matters Most/Who Is This Course For\|Who Is This Course For]]
 #### [[Inputs/Course/Finding Purpose and Meaning In Life - Living for What Matters Most/Couse Overview\|Couse Overview]]
 ### What Mathers Most
