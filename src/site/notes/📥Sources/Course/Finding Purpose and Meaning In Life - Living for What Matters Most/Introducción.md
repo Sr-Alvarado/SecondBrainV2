@@ -5,7 +5,7 @@
 >[!abstract] Summary
 > La falta de sentido o de una meta clara, conduce hacia la muerte. Tener un propósito, un objetivo, te hace más resiliente, repara tu ADN, potencia la creación de anticuerpos, mejora tu expectativa de vida, te hace dormir mejor, puede hacer que ganes más dinero, reduce las células inflamatorias, disminuye el riesgo de depresión y burnout.
 
-# Content 
+# Content
 - si quería sobrevivir, necesitaría superarlo por mí mismo y vivir por lo que más importa
    - "El hombre en busca de sentido" Viktor Frankl
       - el propósito servía para predecir si sobrevivirías. Si perdías tu propósito en la vida, comenzabas a enfermarte y a morir.
