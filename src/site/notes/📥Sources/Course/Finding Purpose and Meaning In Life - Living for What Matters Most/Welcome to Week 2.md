@@ -4,7 +4,7 @@
 
 # Summary
 >[!abstract] Summary
-> Hace 500 años no podíamos cuestionar nuestro propósito, estábamos condenados a la vida lo que nos tocó, si naciste campesino, morirás campesino. Hace 150 años gracias a la apertura del conocimiento pudimos entender que a través del conocimiento podemos evolucionar abandonando los valores tradicionales y creando los propios.
+> Hace 500 años no podíamos cuestionar nuestro propósito, estábamos condenados a la vida que nos tocó, si nacías campesino, morías campesino. Hace 150 años gracias a la apertura del conocimiento pudimos entender que a través de él podemos evolucionar abandonando los valores tradicionales y creando los propios.
 
 # Log
 - el quién soy y qué es lo que valoro están conectados al cerebro por la corteza prefrontal ventromedial
