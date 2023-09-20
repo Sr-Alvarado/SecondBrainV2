@@ -19,7 +19,7 @@
    - Tiempo
    - Energía
 - **El tema predominate** permite que te enfoques en una sola cosa y no estés haciendo muchas cosas que no te llevan a nada.
-- **La intención** responde a ¿Cuáles son las direcciones en mi vida, cuáles son las metas en mi vida? Y muy importante: ¿qué es lo que yo valoro en mi vida?
+- **La intención** responde a ¿Cuáles son las direcciones en mi vida, cuáles son las metas en mi vida? Y muy importante: ¿qué es lo que yo valoro en mi vida? 
 - ¿Cómo encuentro lo que amo? - Desarrollando la [[Autoafirmación\|Autoafirmación]]
    - Nos fijamos en valores personales relevantes, identifica:
       - Las cosas importantes para ti
