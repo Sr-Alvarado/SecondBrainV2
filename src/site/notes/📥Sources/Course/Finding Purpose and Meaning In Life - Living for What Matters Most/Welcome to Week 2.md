@@ -7,9 +7,9 @@
 > Hace 500 años no podíamos cuestionar nuestro propósito, estábamos condenados a la vida que nos tocó, si nacías campesino, morías campesino. Hace 150 años gracias a la apertura del conocimiento pudimos entender que a través de él podemos evolucionar abandonando los valores tradicionales y creando los propios.
 
 # Log
-- el quién soy y qué es lo que valoro están conectados al cerebro por la corteza prefrontal ventromedial
+- Quién soy y qué es lo que valoro están conectados al cerebro por la corteza prefrontal ventromedial
 - Hace 500 años:
-   - Vivíamos en una sociedad "feliz" porque las personas no se cuestionaban su lugar en el universo, estaban donde estaban por gracia de dios y el que se lo cuestionaba, cuestionaba a dios y, merecía ser castigado.
+   - Vivíamos en una sociedad "feliz" porque las personas no se cuestionaban su lugar en el universo, estaban donde estaban por gracia de Dios, cuestionar esta verdad  era cuestionar a Dios por tanto merecía ser castigado.
 - Hace 150 años:
 > [!quote] [[Wiki/Friedrich Nietzsche\|Friedrich Nietzsche]]
 > "Dios está muerto, y nosotros lo hemos matado"
