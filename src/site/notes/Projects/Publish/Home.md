@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/publish/home/","tags":["#publish","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/projects/publish/home/","tags":["#publish","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 Este es el home de mi Second Brain Online
