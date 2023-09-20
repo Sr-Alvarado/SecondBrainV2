@@ -4,7 +4,7 @@
 
 # Summary
 >[!abstract] Summary
-> El propósito puede hallarse en cualquier momento de la vida  y genera beneficios en cualquier situación por la que atravieses. Que tu la forma en que vives tu vida y tus valores, tu propósito, no estén alineados genera disonancia cognitiva, por ello asegurate que tu sistema de creencias sea fuerte y magnético, que no se pueda mover y que te atraiga siempre a él.
+> El propósito puede hallarse en cualquier momento de la vida  y genera beneficios en cualquier situación por la que atravieses. Si la forma en que vives tu vida, tus valores y tu propósito, no están lineados crearás disonancia cognitiva, por ello asegúrate que tu sistema de creencias sea fuerte y magnético, que no se pueda mover y que te atraiga siempre a él.
 
 # Log
 - ¿por qué no hay [[Existencialismo\|existencialistas]] en la salud pública, un [[Filosofía\|filósofo]] de la salud pública, alguien que piense en el propósito, [[El significado de la vida\|el significado de la vida]]?
