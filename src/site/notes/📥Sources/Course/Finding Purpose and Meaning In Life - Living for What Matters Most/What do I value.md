@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/sources/course/finding-purpose-and-meaning-in-life-living-for-what-matters-most/what-do-i-value/"}
 ---
 
-# Summary
 >[!abstract] Summary
 > La intención para actuar es encontrar lo que amas y enfócate solo en eso. Pero, ¿Cómo descubro lo que amo? Para ello debes practicar la autoafirmación: prestarle atención a tus valores, las personas más importantes, las cosas más valiosas, lo que te gustan, tus deseos y sueños.
 
