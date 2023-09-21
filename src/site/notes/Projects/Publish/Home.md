@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/projects/publish/home/","tags":["#publish","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/projects/publish/home/","tags":["#publish","gardenEntry"]}
 ---
 
+![NickName.png|150](/img/user/NickName.png)
 ¡Bienvenido a mi 🌱 Digital Garden!
 
 Te invito a explorar un espacio en constante crecimiento, donde las ideas son semillas que germinan y se entrelazan. La idea detrás de este proyecto es cultivar conceptos y perspectivas nuevas, a través de la investigación 📚 y reflexión 🤔.
