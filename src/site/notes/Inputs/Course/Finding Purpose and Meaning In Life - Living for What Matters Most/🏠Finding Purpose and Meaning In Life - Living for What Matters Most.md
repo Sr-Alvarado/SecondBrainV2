@@ -14,7 +14,7 @@
 #### [[Inputs/Course/Finding Purpose and Meaning In Life - Living for What Matters Most/7 Questions Exercise Introduction\|7 Questions Exercise Introduction]]
 #### [[Inputs/Course/Finding Purpose and Meaning In Life - Living for What Matters Most/How do you want to be remembered\|How do you want to be remembered]]
 #### [[Inputs/Course/Finding Purpose and Meaning In Life - Living for What Matters Most/The headstone Test Exercise Introduction\|The headstone Test Exercise Introduction]]
-#### [[😇Ideal/The headstone Test Reflection\|The headstone Test Reflection]]
+#### [[Me/The headstone Test Reflection\|The headstone Test Reflection]]
 ### Reflecting on What Matters Most
 #### [[Inputs/Course/Finding Purpose and Meaning In Life - Living for What Matters Most/Purpose A central, self organizing life aim\|Purpose A central, self organizing life aim]]
 #### [[Inputs/Course/Finding Purpose and Meaning In Life - Living for What Matters Most/The 2500 years old MRI\|The 2500 years old MRI]]
