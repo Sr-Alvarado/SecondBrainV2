@@ -18,5 +18,5 @@
 
 ---
 [[Inputs/Course/Finding Purpose and Meaning In Life - Living for What Matters Most/🏠Finding Purpose and Meaning In Life - Living for What Matters Most\|🏠Finding Purpose and Meaning In Life - Living for What Matters Most]]
-[[😇Ideal/What kind of legacy would you want to leave\|What kind of legacy would you want to leave]]
-[[😇Ideal/The headstone Test Reflection\|The headstone Test Reflection]]
+[[Me/What kind of legacy would you want to leave\|What kind of legacy would you want to leave]]
+[[Me/The headstone Test Reflection\|The headstone Test Reflection]]
