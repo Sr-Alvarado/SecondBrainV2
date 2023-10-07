@@ -37,4 +37,4 @@
 
 ---
 [[Inputs/Course/Finding Purpose and Meaning In Life - Living for What Matters Most/🏠Finding Purpose and Meaning In Life - Living for What Matters Most\|🏠Finding Purpose and Meaning In Life - Living for What Matters Most]]
-[[😇Ideal/Who I am, my best version\|Who I am, my best version]]
+[[Me/Who I am, my best version\|Who I am, my best version]]
