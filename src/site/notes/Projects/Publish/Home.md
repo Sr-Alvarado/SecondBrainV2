@@ -12,4 +12,4 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con estas ideas espero puedas ampliar tu perspectiva.✨
 
 > [!info] Ultima publicación
-> [[Inputs/Course/Responsive Web Disign/🏠Responsive Web Disign\|🏠Responsive Web Disign]]
+> [[Inputs/Course/Responsive Web Disign/🏠 Responsive Web Disign\|🏠 Responsive Web Disign]]
