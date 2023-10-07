@@ -23,4 +23,4 @@
 
 ---
 [[Inputs/Course/Finding Purpose and Meaning In Life - Living for What Matters Most/🏠Finding Purpose and Meaning In Life - Living for What Matters Most\|🏠Finding Purpose and Meaning In Life - Living for What Matters Most]]
-[[😇Ideal/My be goals\|My be goals]]
+[[Me/My be goals\|My be goals]]
