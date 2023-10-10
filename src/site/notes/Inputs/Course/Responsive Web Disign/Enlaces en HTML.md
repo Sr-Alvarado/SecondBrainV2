@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/inputs/course/responsive-web-disign/enlaces-en-html/","tags":["programation","HTML","FreeCodeCamp"]}
 ---
 
-> [!Abstract]- 
-> 
-
 [^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]]
 
 - **Enlazar con otra página**. Se define con la etiqueta `<a>` (anchor) y se usa el atributo `href` para especificar la dirección[^1].
