@@ -10,5 +10,6 @@ Primer curso de la ruta [[Full Stack\|Full Stack]] de [[Programation/FreeCodeCam
 - [[Inputs/Course/Responsive Web Disign/Enlaces en HTML\|Enlaces en HTML]]: Como enlazar otra página, en un texto, dentro de un párrafo, abrir en una nueva pestaña.
 - [[Inputs/Course/Responsive Web Disign/Listas en HTML\|Listas en HTML]]: Añadir listas ordenadas y desordenadas.
 - [[Inputs/Course/Responsive Web Disign/Forms en HTML\|Forms en HTML]]: Añadir un form, recolectar datos, definir tipo de input, nombrar input, dar pistas sobre el dato que se desea, hacer obligatorio un campo y enviar un form.
+- [[Inputs/Course/Responsive Web Disign/Botones en HTML\|Botones en HTML]]: Añadir botones, enviar info a forms, nombrar un botón, asociar botones, darle un valor a cada input y agrupar botones.
 
 { .block-language-dataview}
