@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/publish/home/","tags":["#publish","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/projects/publish/home/","tags":["#publish","gardenEntry"]}
 ---
 
 ![NickName.png|150](/img/user/NickName.png)
