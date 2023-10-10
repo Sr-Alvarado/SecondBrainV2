@@ -8,6 +8,7 @@
 [^4]: [Input type ="radio" - HTML | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/radio)
 [^5]: [<label>: The Label element - HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
 [^6]:[Formularios HTML](https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=520:formularios-html-form-label-name-value-id-ejemplos-checkbox-option-button-combobox-cu00720b&catid=69&Itemid=192)
+
 - **Añadir un botón simple**. Para añadir un botón se usa la etiqueta `button`, si no se definen atributos para el botón predeterminadamente este envía la información al atributo `action` del formulario[^1][^2]. Los elementos `button` y `input` son elementos *inline*[^3].
   ```HTML 
   <button>Nombre</button>
