@@ -5,7 +5,7 @@
 > [!Abstract]- Resumen
 > 
 
-[^1]: [[Inputs/Course/Responsive Web Disign/🏠 Responsive Web Disign\|🏠 Responsive Web Disign]]
+[^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]]
 
 - **Enlazar con otra página**. Se define con la etiqueta `<a>` (anchor) y se usa el atributo `href` para especificar la dirección[^1].
    ```HTML 
