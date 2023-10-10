@@ -5,7 +5,6 @@
 > [!Abstract]- Resumen
 > 
 
-## Enlaces en HTML^[[[🏠 Responsive Web Disign\|[🏠 Responsive Web Disign]]]
 - **Enlazar con otra página**. Se define con la etiqueta `<a>` (anchor) y se usa el atributo `href` para especificar la dirección.
    ```HTML 
    <a href="enlace.com"></a>
@@ -22,3 +21,5 @@
    ```HTML 
    <a href="enlace.com" target="_blank">Texto del enlace</a>
    ```
+
+**Fuentes:** ^[[[🏠 Responsive Web Disign\|[🏠 Responsive Web Disign]]]
