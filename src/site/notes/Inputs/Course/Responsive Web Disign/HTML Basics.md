@@ -5,7 +5,7 @@
 >[!Abstract]-  Resumen
 > 
 
-[^1]: [[Inputs/Course/Responsive Web Disign/🏠 Responsive Web Disign\|🏠 Responsive Web Disign]]
+[^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]]
 
 - **Etiquetas**. Los elementos en [[Programation/HTML\|HTML]] tienen etiquetas de apertura `<etiqueta>` y de cierre `</etiqueta>`[^1].
    ```html
