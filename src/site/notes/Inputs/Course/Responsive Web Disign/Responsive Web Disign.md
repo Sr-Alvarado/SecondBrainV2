@@ -8,6 +8,7 @@ Primer curso de la ruta [[Full Stack\|Full Stack]] de [[Programation/FreeCodeCam
 - [[Inputs/Course/Responsive Web Disign/HTML Basics\|HTML Basics]]: Etiquetas, títulos, párrafos, main, comentarios, indentation, atributos y self-closing tags en HTML.
 - [[Inputs/Course/Responsive Web Disign/Imágenes en HTML\|Imágenes en HTML]]: Como añadir una imagen, un enlace en esa imagen y un texto alternativo.
 - [[Inputs/Course/Responsive Web Disign/Enlaces en HTML\|Enlaces en HTML]]: Como enlazar otra página, en un texto, dentro de un párrafo, abrir en una nueva pestaña.
+- [[Inputs/Course/Responsive Web Disign/Listas en HTML\|Listas en HTML]]: Añadir listas ordenadas y desordenadas.
 - [[Inputs/Course/Responsive Web Disign/Forms en HTML\|Forms en HTML]]: \-
 
 { .block-language-dataview}
