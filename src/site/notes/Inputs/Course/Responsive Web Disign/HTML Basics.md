@@ -39,16 +39,12 @@
      </section>
    </main>
    ```
-> [!example]-
->   <main><h1>Todo sobre los gatos</h1><section><h2>Orígen de los gatos</h2></section></main>
 - **Indentación**. Los elementos contenidos dentro de otro se anidan usando 2 espacios antes de comenzar (sangría), se usa para mejorar la lectura del código[^1].
    ```HTML 
    <main>
      <h1>CatPhotoApp</h1>
    </main>
    ```
- > [!example]-
->   <main><h1>CatPhotoApp</h1></main>
 - **Atributos**. Son palabras especiales en la etiqueta de apertura de un elemento para controlar su comportamiento[^1].
 - **Self-closing tag**. Son etiquetas que no necesitan otra etiqueta de cierre[^1].
 - **Elemento Figure**. Declara que un contenido es independiente de toda la estructura. Permite asociar una imagen con una descripción[^2].
@@ -56,12 +52,11 @@
   ```HTML 
 <p>Los gatos <em>aman</em> la leche</p>
   ```
-> [!example]-
-> <p>Los gatos <em>aman</em> la leche</p>
-
 - **Indicar importancia de un texto**. Para indicar importancia o urgencia una parte de un texto podemos usar la etiqueta `<strong>`[^1].
   ```HTML 
 <p>Los gatos <strong>aman</strong> la leche</p>
   ```
-> [!example]-
-> <p>Los gatos <strong>aman</strong> la leche</p>
+- **Inline elements**. Son elementos que aparecen juntos en la página a pesar de añadir cada uno en una nueva linea[^1].
+- **Id attribute**. Identifica elementos HTML específicos, cada `id` debe tener un valor único, diferente a cualquiera de la misma página[^1].
+- **Orden de los atributos**. Cuando un elemento tiene multiples atributos, el orden de cada uno no es importante[^1].
+- **Block-level elements**. Agrupa los elementos anidados dentro en una nueva linea.
