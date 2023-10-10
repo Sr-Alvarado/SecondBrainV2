@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/inputs/course/responsive-web-disign/enlaces-en-html/","tags":["programation","HTML","FreeCodeCamp"]}
 ---
 
-> [!Abstract]- Resumen
+> [!Abstract]- 
 > 
 
 [^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]]
