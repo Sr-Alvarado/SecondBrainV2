@@ -5,7 +5,7 @@
 > [!Abstract]- Resumen
 > 
 
-[^1]: [[Inputs/Course/Responsive Web Disign/🏠 Responsive Web Disign\|🏠 Responsive Web Disign]]
+[^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]]
 
 - **Añadir una imagen**. Se usa la etiqueta `<img>`, esta es una *self-closing tag*[^1].
    ```HTML 
