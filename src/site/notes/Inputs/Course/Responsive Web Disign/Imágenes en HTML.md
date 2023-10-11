@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inputs/course/responsive-web-disign/imagenes-en-html/","tags":["programation","HTML","FreeCodeCamp"]}
+{"dg-publish":true,"permalink":"/inputs/course/responsive-web-disign/imagenes-en-html/","tags":["programation","HTML"]}
 ---
 
 [^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]]
