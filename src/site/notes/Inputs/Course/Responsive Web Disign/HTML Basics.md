@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inputs/course/responsive-web-disign/html-basics/","tags":["programation","HTML","FreeCodeCamp"]}
+{"dg-publish":true,"permalink":"/inputs/course/responsive-web-disign/html-basics/","tags":["programation","HTML"]}
 ---
 
 [^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]]
@@ -23,6 +23,7 @@
    ```HTML 
    <!-- Comentarios -->
    ```
+- **Elemento `body`**. Todos los elementos que deben ser renderizados o mostrados en la página deben estar en el elemento `<body>`[^1]. 
 - **Sección principal**. La etiqueta `<main>` define el contenido principal del cuerpo de una página, se usa para mejorar el [[Search Engine Optimization\|posicionamiento]] en [[Buscadores web\|buscadores]][^1].
    ```HTML 
    <main>
@@ -60,3 +61,13 @@
 - **Id attribute**. Identifica elementos HTML específicos, cada `id` debe tener un valor único, diferente a cualquiera de la misma página[^1].
 - **Orden de los atributos**. Cuando un elemento tiene multiples atributos, el orden de cada uno no es importante[^1].
 - **Block-level elements**. Agrupa los elementos anidados dentro en una nueva linea.
+- **Añadir un pie de página**. Se usa la etiqueta `<footer>` para definir un pie de página.
+  ```HTML 
+  <footer></footer>
+   ```
+- **Añadir un titulo de la pestaña**. Para esto se usa la etiqueta `<title>` dentro del elemento `<head>`.
+  ```HTML 
+  <head>
+    <title>Titulo que el navegador mostrará en la pestaña</title>
+  </head>
+```
