@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inputs/course/responsive-web-disign/botones-en-html/","tags":["programation","HTML","FreeCodeCamp"]}
+{"dg-publish":true,"permalink":"/inputs/course/responsive-web-disign/botones-en-html/","tags":["programation","HTML"]}
 ---
 
 [^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]]
@@ -20,6 +20,10 @@
 - **Botón de radio**. Se representa como un circulo pequeño que puede rellenar, generalmente se usan en grupos de radios `<fieldset>` donde solo se puede seleccionar un botón a mismo tiempo[^4]. Se usan dentro de una etiqueta `<input>`[^1].
   ```HTML 
   <input type="radio">
+   ```
+- **Botón de checkbox**. Se representa como una caja que puedes marcar, por lo general se usan para marcar más de una opción[^1]. Se usan dentro de una etiqueta `<input>`[^1].
+  ```HTML 
+  <input type="checkbox">
    ```
 - **Elemento label**. Asocia un texto con un `<input>`, al clickar en el texto se seleccionará el elemento `<input>`. Para una asociación implícita[^5] se anida el `<input>` dentro de la etiqueta `<label>`[^1].
   ```HTML 
@@ -43,15 +47,4 @@
   <label> Opción 2
     <input type="radio" name="grupo1" id="Opcion 2" value="Opcion 2">
   </label>
-   ```
-- **Agrupar elementos input - `<fieldset>` element**. Para agrupar elementos input relacionados se usa la etiqueta `<fieldset>`[^1], que es una block-level element[^3].
-  ```HTML 
-  <fieldset>
-    <label> Opción 1
-      <input type="radio" name="grupo1" id="Opcion 1" value="Opcion 1">
-    </label>
-    <label> Opción 2
-      <input type="radio" name="grupo1" id="Opcion 2" value="Opcion 2">
-    </label>
-  </fieldset>
    ```
