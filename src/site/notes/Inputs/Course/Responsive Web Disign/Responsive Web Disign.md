@@ -13,3 +13,4 @@ Primer curso de la ruta [[Full Stack\|Full Stack]] de [[Programation/FreeCodeCam
 - [[Inputs/Course/Responsive Web Disign/Botones en HTML\|Botones en HTML]]: Añadir botones, enviar info a forms, nombrar un botón, asociar botones, darle un valor a cada input y agrupar botones.
 
 { .block-language-dataview}
+[[]]
