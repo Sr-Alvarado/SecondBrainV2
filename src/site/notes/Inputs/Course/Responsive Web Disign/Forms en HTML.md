@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inputs/course/responsive-web-disign/forms-en-html/","tags":["programation","HTML","FreeCodeCamp"]}
+{"dg-publish":true,"permalink":"/inputs/course/responsive-web-disign/forms-en-html/","tags":["programation","HTML"]}
 ---
 
 [^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]]
@@ -46,3 +46,27 @@
     <input type="text" name="Titulo" placeholder="Email address"     required>
   </form>
    ```
+- **Agrupar elementos input - `<fieldset>` element**. Para agrupar elementos input relacionados se usa la etiqueta `<fieldset>`[^1], que es una block-level element[^3].
+  ```HTML 
+  <fieldset>
+    <label> Opción 1
+      <input type="radio" name="grupo1" id="Opcion 1" value="Opcion 1">
+    </label>
+    <label> Opción 2
+      <input type="radio" name="grupo1" id="Opcion 2" value="Opcion 2">
+    </label>
+  </fieldset>
+   ```
+- **Legend element**. Declara una descripción del elemento `<fieldset>`. Da contexto a los usuarios sobre que datos ingresar en el form[^1].
+  ```HTML 
+  <fieldset>
+    <legend>¿Qué opción prefieres?</legend>
+    <label> Opción 1
+      <input type="radio" name="grupo1" id="Opcion 1" value="Opcion 1">
+    </label>
+    <label> Opción 2
+      <input type="radio" name="grupo1" id="Opcion 2" value="Opcion 2">
+    </label>
+  </fieldset>
+   ```
+- 
