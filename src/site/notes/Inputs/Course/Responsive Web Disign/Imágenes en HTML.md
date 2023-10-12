@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/inputs/course/responsive-web-disign/imagenes-en-html/","tags":["programation","HTML"]}
+{"dg-publish":true,"permalink":"/inputs/course/responsive-web-disign/imagenes-en-html/","tags":["programation","HTML","DVC/RWD/1"]}
 ---
 
 [^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]]
 [^2]: [[Inputs/Course/Responsive Web Disign/Enlaces en HTML\|Enlaces en HTML]]
 [^3]: [[Inputs/Course/Responsive Web Disign/HTML Basics\|HTML Basics]]
 
-- **Añadir una imagen**. Se usa la etiqueta `<img>`, esta es una *self-closing tag*[^1].
+- **Añadir una imagen**. Se usa la etiqueta `<img>`, esta es una [[Inputs/Course/Responsive Web Disign/HTML Basics#^4af022\|self-closing tag]][^1].
    ```HTML 
    <img>
    ```
