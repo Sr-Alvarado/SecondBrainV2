@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/inputs/course/responsive-web-disign/forms-en-html/","tags":["programation","HTML"]}
+{"dg-publish":true,"permalink":"/inputs/course/responsive-web-disign/forms-en-html/","tags":["programation","HTML","DVC/RWD/1"]}
 ---
 
-[^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]]
+[^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign#1. Learn HTML by Building a Cat Photo App\|Responsive Web Disign#1. Learn HTML by Building a Cat Photo App]]
 [^2]: [Mi primer formulario HTML - MDN](https://developer.mozilla.org/es/docs/Learn/Forms/Your_first_form) 
 [^3]: [Atributos de formularios en HTML - Universidad de Murcia](https://www.um.es/docencia/barzana/DAWEB/Formularios-HTML5.html)
 [^4]: [[Inputs/Course/Responsive Web Disign/HTML Basics\|HTML Basics]]
@@ -12,6 +12,9 @@
   ```HTML 
   <form></form>
    ```
+
+{ #d6e3f2}
+
 - **Atributo action**. Indica la ubicación URL[^2] donde deben enviarse los datos del formulario[^1], si permanece vacío la página que contiene al formulario se recargará con los datos de este[^3].
   ```HTML 
   <form action="URL.com"></form>
