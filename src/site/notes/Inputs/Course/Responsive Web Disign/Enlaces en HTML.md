@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inputs/course/responsive-web-disign/enlaces-en-html/","tags":["programation","HTML"]}
+{"dg-publish":true,"permalink":"/inputs/course/responsive-web-disign/enlaces-en-html/","tags":["programation","HTML","DVC/RWD/1"]}
 ---
 
 [^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]]
