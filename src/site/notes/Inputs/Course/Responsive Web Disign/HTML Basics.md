@@ -60,6 +60,7 @@
    </main>
    ```
 
+
 - **Self-closing tag**. Son etiquetas que no necesitan otra etiqueta de cierre[^1].
 
 { #4af022}
