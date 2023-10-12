@@ -69,7 +69,12 @@
    <etiqueta atributo="valor">
    ```
 
-- **Elemento Figure**. Declara que un contenido es independiente de toda la estructura. Permite asociar una imagen con una descripción[^2].
+{ #4679bb}
+
+- **Elemento Figure**. Declara que un contenido es autónomo. Todos los elementos dentro de esta etiqueta representan una sola unidad. Permite asociar imágenes un titulo y una descripción[^2].
+  ```HTML 
+  
+   ```
 
 - **Inline elements**. Son elementos que aparecen juntos en la página a pesar de añadir cada uno en una nueva linea[^1].
 
