@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/inputs/course/responsive-web-disign/botones-en-html/","tags":["programation","HTML"]}
+{"dg-publish":true,"permalink":"/inputs/course/responsive-web-disign/botones-en-html/","tags":["programation","HTML","DVC/RWD/1"]}
 ---
 
 [^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]]
-[^2]: [[Inputs/Course/Responsive Web Disign/Forms en HTML\|Forms en HTML]]
+[^2]: [[Inputs/Course/Responsive Web Disign/Forms en HTML#^d6e3f2\|Añadir un formulario]]
 [^3]: [[Inputs/Course/Responsive Web Disign/HTML Basics\|HTML Basics]]
 [^4]: [Input type ="radio" - HTML | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/radio)
 [^5]: [<label>: The Label element - HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
