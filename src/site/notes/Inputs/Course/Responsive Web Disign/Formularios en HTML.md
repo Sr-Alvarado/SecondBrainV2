@@ -16,23 +16,32 @@
 { #d6e3f2}
 
 
+- **`action` - Ruta destino de los datos**. Para indicar la ubicación URL[^2] a donde se enviará los datos del formulario se usa el [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^4679bb\|atributo]] `action`[^1]. Si no se especifica, la página donde está el formulario se recargará con los datos del formulario[^3].
+  ```HTML 
+  <form action="URL.com"></form>
+   ``` { #568b7f}
+
+
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/inputs/course/responsive-web-disign/elementos-basicos-en-html/#4679bb" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-- **Atributos**. Son palabras especiales en la etiqueta de apertura de un elemento para controlar su comportamiento[^1].
+- **Atributos**. Son palabras especiales dentro de la etiqueta de apertura de un elemento para controlar su comportamiento[^1].
    ```HTML 
-   <etiqueta atributo="valor">
+   <etiqueta atributo="funcion/valor">
    ```
  
 
 </div></div>
 
 
-- **`action` - Ruta destino de los datos**. Para indicar la ubicación URL[^2] a donde se enviará los datos del formulario se usa el [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^4679bb\|atributo]] `action`[^1]. Si se deja vacío la página donde está el formulario se recargará con los datos de este[^3].
+
+- **`<input>` - Recolectar los datos**. [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^4af022\|Self-Closing tag]] que permite recolectar datos de un formulario[^1], a través de la creación de controles interactivos para recibir los datos[^5].
   ```HTML 
-  <form action="URL.com"></form>
+  <form action="URL.com">
+    <input>
+  </form>
    ```
 
 
@@ -47,69 +56,36 @@
 </div></div>
 
 
-- **`<input>` - Recolectar los datos**. Es una [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^4af022\|Self-Closing tag]] que permite recolectar datos de un formulario[^1], a través de la creación de controles interactivos para recibir los datos[^5].
-  ```HTML 
-  <form action="URL.com">
-    <input>
-  </form>
-   ```
 
-- **`type` - Definir el input**. Para definir el tipo de input se usa el atributo  `type`[^1]. Si no se especifica su valor predeterminado es `"text"`[^5].
+- **`type` - Definir el input**. El atributo  `type` define el tipo de dato que se debe llenar[^1]. Si no se especifica su valor predeterminado es `"text"`[^5].
   ```HTML 
   <form action="URL.com">
     <input type="text">
   </form>
    ```
 
-- **`name` - Poner nombre al input**. Para colocar nombre al input se usa el atributo `name`[^1], este será el título con el que se envían con los datos del formulario[^5].
+- **`name` - Poner nombre al input**. El atributo `name`[^1] define el título con el que se envían con los datos del formulario[^5].
   ```HTML 
   <form action="URL.com">
     <input type="text" name="Titulo">
   </form>
    ```
 
-- **`placeholder` - Dar una pista del campo**. Da una pista de que elementos deben ir en el formulario[^1]. No debe contener saltos de linea, hay veces en que no es visible[^5].
+- **`placeholder` - Dar una pista del campo**.  El atributo `placeholder` indica al usuario que elementos pide el formulario[^1]. No debe contener saltos de linea, veces no es visible[^5].
   ```HTML 
   <form action="URL.com">
     <input type="text" name="Titulo" placeholder="Email address">
   </form>
    ```
 
-- **`required` - Hacer obligatorio un campo**. Se usa el atributo `required` para especificar al usuario que debe llenar el campo si desea enviar el formulario[^5]. Este atributo no necesita ningún valor[^1].
+- **`required` - Hacer obligatorio un campo**. El atributo `required` especifica al usuario campos obligatorios del formulario[^5]. No necesita ningún valor[^1].
   ```HTML 
   <form action="URL.com">
     <input type="text" name="Titulo" placeholder="Email address"     required>
   </form>
    ```
 
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/inputs/course/responsive-web-disign/elementos-basicos-en-html/#37ea09" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-- **`id` - Identificar elementos**. Identifica elementos HTML específicos, cada `id` debe tener un valor único, diferente a cualquiera de la misma página[^5].
- 
-
-</div></div>
-
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/inputs/course/responsive-web-disign/botones-en-html/#08712f" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-- **Botón de radio**. Se representa como un circulo pequeño que puede rellenar, generalmente se usan en grupos de radios `<fieldset>` donde solo se puede seleccionar un botón a mismo tiempo[^4]. Se usan dentro de una etiqueta `<input>`[^1].
-  ```HTML 
-  <input type="radio">
-   ```
- 
-
-</div></div>
-
-
-- **`value` - Asignar un valor un campo seleccionable**. Este atributo declara que valor debe enviarse. En un [[Inputs/Course/Responsive Web Disign/Botones en HTML#^08712f\|radio button]] los datos se que se envían dependen del `name` y del `value`, si no se define un `value` el formulario enviará `nombre=on`. Por conveniencia se usa el mismo nombre del `id`[^1].
+- **`value` - Asignar un valor un campo seleccionable**. El atributo `value` declara que valor se enviará. En un [[Inputs/Course/Responsive Web Disign/Botones en HTML#^08712f\|radio button]] los datos dependen del `name` y del `value`, si no se define el `value` el formulario enviará `nombre=on`. Por conveniencia se usa el mismo nombre del `id`[^1].
   ```HTML 
   <form action="URL.com">
     <input type="radio" name="grupo1" id="opcion 1" value="opcion 1" required>
@@ -118,16 +94,33 @@
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/inputs/course/responsive-web-disign/elementos-basicos-en-html/#28750b" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/inputs/course/responsive-web-disign/botones-en-html/#08712f" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-- **Block-level elements**. Agrupa los elementos anidados dentro en una nueva linea[^1]. Usa todo el ancho disponible, se extiende a la derecha e izquierda tanto como puede[^6]. 
+- **`type="radio"` - Añadir un botón de radio**. La función `"radio"` define un circulo pequeño y clickable, generalmente se usa en [[Inputs/Course/Responsive Web Disign/Formularios en HTML#^0e7928\| grupos fieldsed]] para seleccionar un solo botón a mismo tiempo[^4]. Se define en el atributo `type` dentro de la etiqueta `<input>`[^1].
+  ```HTML 
+  <input type="radio">
+   ```
+ 
 
 </div></div>
 
 
-- **`<fieldset>` - Agrupar elementos input**. Para agrupar elementos input relacionados se usa la etiqueta `<fieldset>`[^1], es una [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^28750b\|block-level element]].
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/inputs/course/responsive-web-disign/elementos-basicos-en-html/#37ea09" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+- **`id` - Identificar elementos**. Atributo que identifica elementos específicos, cada `id` debe tener un valor único, diferente a cualquiera de la misma página[^5].
+ 
+
+</div></div>
+
+
+
+- **`<fieldset>` - Agrupar elementos**. La etiqueta `<fieldsed>` agrupar elementos `<input>`[^1] en una [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^28750b\|block-level element]].
   ```HTML 
   <fieldset>
     <label> 
@@ -139,9 +132,21 @@
       Opción 2
     </label>
   </fieldset>
-   ```
+   ``` { #0e7928}
 
-- **`<legend>` - Añade una descripción**. Declara una descripción del grupo (elemento `<fieldset>`). Da contexto a los usuarios sobre que datos ingresar en el formulario[^1].
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/inputs/course/responsive-web-disign/elementos-basicos-en-html/#28750b" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+- **Block-level elements**. Agrupa los elementos embebidos en una nueva linea[^1]. Usa todo el ancho disponible, se extiende a la derecha e izquierda tanto como puede[^6]. 
+
+</div></div>
+
+
+
+- **`<legend>` - Añade una descripción**. La etiqueta `<legend>` declara una descripción del grupo `<fieldset>`. Da contexto a los usuarios sobre que datos ingresar[^1].
   ```HTML 
   <fieldset>
     <legend>¿Qué opción prefieres?</legend>
@@ -155,6 +160,7 @@
     </label>
   </fieldset>
    ```
+
 
 > [!example]- 
 > 
