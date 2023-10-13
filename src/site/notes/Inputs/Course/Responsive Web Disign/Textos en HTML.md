@@ -4,7 +4,7 @@
 
 [^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]] - Cap 1
 
-- **`<h>` - Añadir títulos**. La etiqueta `<h>` se usa para títulos e indican importancia (1-6), a menor el número mayor importancia. Solo debe haber un `<h1>` por página[^1].
+- **`<h>` - Añadir títulos**. Los headers indican importancia (1-6), a menor el número mayor importancia. Solo debe haber un `<h1>` por página[^1].
    ```HTML 
    <h1>Titulo 1</h1>
    ⁝
