@@ -25,4 +25,4 @@
    ```
 
 > [!example]-
-> <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.vecteezy.com%2Fpng%2F15738191-ilustracion-de-galletas-de-chips-de-choco&psig=AOvVaw3hBXjDsd-8eZxT2_1dEft2&ust=1697244112249000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKCD3ZXl8YEDFQAAAAAdAAAAABAE" target="_blank">Has click aquí para una galleta</a>
+> <a href="https://static.vecteezy.com/system/resources/previews/015/738/191/original/choco-chips-cookies-illustration-png.png" target="_blank">Has click aquí para una galleta</a>
