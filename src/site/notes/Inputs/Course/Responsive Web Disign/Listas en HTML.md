@@ -3,6 +3,7 @@
 ---
 
 [^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]] - Cap 1
+
 - **`<ul>` - Lista desordenada**. Los elementos se separan por guiones. Se usa la etiqueta `<ul>` (Unordered List) para definir una lista desordenada[^1].
    ```HTML 
    <ul></ul>
