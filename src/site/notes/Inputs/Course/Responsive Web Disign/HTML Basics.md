@@ -4,7 +4,9 @@
 
 [^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]] - Cap 1
 [^2]: [[Inputs/Course/Responsive Web Disign/Imágenes en HTML\|Imágenes en HTML]]
-[^3]: [head: The Document Metadata (Header) element - HTML | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head)
+[^3]: [`<head>`: The Document Metadata (Header) element - HTML | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head)
+[^4]:[`<figure>`: The Figure with Optional Caption element - HTML | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
+[^5]:[[Inputs/Course/Responsive Web Disign/Forms en HTML\|Forms en HTML]]
 
 - **Etiquetas**. Los elementos en [[Programation/HTML\|HTML]] tienen etiquetas de apertura `<etiqueta>` y de cierre `</etiqueta>`[^1].
    ```html
@@ -60,7 +62,6 @@
    </main>
    ```
 
-
 - **Self-closing tag**. Son etiquetas que no necesitan otra etiqueta de cierre[^1].
 
 { #4af022}
@@ -72,12 +73,17 @@
 
 { #4679bb}
 
-- **Elemento Figure**. Declara que un contenido es autónomo. Todos los elementos dentro de esta etiqueta representan una sola unidad. Permite asociar imágenes un titulo y una descripción[^2].
+- **`<figure>` - Definir un bloque**. Declara que un contenido es autónomo. Todos los elementos dentro de esta etiqueta representan una sola unidad[^4]. Permite asociar imágenes un titulo y una descripción[^2].
   ```HTML 
-  
+  <figure>
+     <img src="rutaImagen.svg" alt="texto por si no carga">
+     <figcaption>Descripción de la imagen</figcaption>
+   </figure>
    ```
 
-- **Inline elements**. Son elementos que aparecen juntos en la página a pesar de añadir cada uno en una nueva linea[^1].
+{ #179304}
+
+- **Inline elements**. Son elementos que aparecen juntos en la página a pesar de añadir cada uno en una nueva linea[^5].
 
 - **Id attribute**. Identifica elementos HTML específicos, cada `id` debe tener un valor único, diferente a cualquiera de la misma página[^1].
 
