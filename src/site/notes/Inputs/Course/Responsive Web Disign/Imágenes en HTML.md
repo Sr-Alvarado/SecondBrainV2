@@ -2,17 +2,17 @@
 {"dg-publish":true,"permalink":"/inputs/course/responsive-web-disign/imagenes-en-html/","tags":["programation","HTML","DVC/RWD/1"]}
 ---
 
-[^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]]
+[^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]] - Cap 1
 [^2]: [[Inputs/Course/Responsive Web Disign/Enlaces en HTML\|Enlaces en HTML]]
-[^3]: [[Inputs/Course/Responsive Web Disign/HTML Basics\|HTML Basics]]
+[^3]: [[HTML Basics\|HTML Basics]]
 [^4]:[`<figure>`: The Figure with Optional Caption element - HTML | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
 
-- **`<img>` - Añadir una imagen**. Se usa la etiqueta `<img>`, esta es una [[Inputs/Course/Responsive Web Disign/HTML Basics#^4af022\|self-closing tag]][^1].
+- **`<img>` - Añadir una imagen**. Se usa la etiqueta `<img>`, esta es una [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^4af022\|self-closing tag]][^1].
    ```HTML 
    <img>
    ```
 
-- **`sourse` - Llamar una imagen externa**. Para llamar a un elemento externo se usa el [[Inputs/Course/Responsive Web Disign/HTML Basics#^4679bb\|atributo]] `src` (sourse) y se iguala a la URL (ruta interna o externa)[^1].
+- **`sourse` - Llamar una imagen externa**. Para llamar a un elemento externo se usa el [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^4679bb\|atributo]] `src` (sourse) y se iguala a la URL (ruta interna o externa)[^1].
    ```HTML 
    <img src="Ruta-imagen.svg">
    ```
@@ -29,7 +29,7 @@
 
 { #7d2cf2}
 
-- **`<figcaption>` - Añadir una descripción a la imagen**. Se anida el elemento `<img>` dentro de un [[Inputs/Course/Responsive Web Disign/HTML Basics#^179304\|elemento figure]] (`<figure>`).  Dentro agregamos la etiqueta `<figcaption>` para colocar una descripción de la imagen[^1], se recomienda que sea la misma del texto alternativo[^4].
+- **`<figcaption>` - Añadir una descripción a la imagen**. Se anida el elemento `<img>` dentro de un [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^179304\|elemento figure]] (`<figure>`).  Dentro agregamos la etiqueta `<figcaption>` para colocar una descripción de la imagen[^1], se recomienda que sea la misma del texto alternativo[^4].
    ```HTML 
    <figure>
      <img src="rutaImagen.svg" alt="texto por si no carga">
