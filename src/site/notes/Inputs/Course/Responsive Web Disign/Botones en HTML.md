@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/inputs/course/responsive-web-disign/botones-en-html/","tags":["programation","HTML","DVC/RWD/1"]}
 ---
 
-[^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]]
+[^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]] - Cap 1
 [^2]: [[Inputs/Course/Responsive Web Disign/Formularios en HTML#^d6e3f2\|Añadir un formulario]]
 [^3]: [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML\|Elementos básicos en HTML]]
 [^4]: [Input type ="radio" - HTML | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/radio)
@@ -118,4 +118,4 @@
 
 
 > [!Example]-
-> 
+> sdsd
