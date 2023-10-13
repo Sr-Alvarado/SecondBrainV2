@@ -11,7 +11,7 @@
 
 - **Etiquetas**. Los elementos en [[Programation/HTML\|HTML]] tienen etiquetas de apertura `<etiqueta>` y de cierre `</etiqueta>`[^1].
    ```html
-   <etiqueta>Texto</etiqueta>
+   <etiqueta>Texto</etiqueta> --> El conjunto reprecenta un elemento
    ```
 
 { #613cad}
@@ -35,7 +35,7 @@
   </head>
   ```
 
-- **`<body>` - Cuerpo de la página**. Todos los elementos que deben ser renderizados o mostrados en la página deben estar en el elemento `<body>`[^1].
+- **`<body>` - Cuerpo de la página**. Todos los elementos que deben ser renderizados o mostrados en la página deben estar dentro de la etiqueta `<body>`[^1].
   ```HTML 
   <body>
      <main>
@@ -67,14 +67,14 @@
 
 { #4af022}
 
-- **Atributos**. Son palabras especiales en la etiqueta de apertura de un elemento para controlar su comportamiento[^1].
+- **Atributos**. Son palabras especiales dentro de la etiqueta de apertura de un elemento para controlar su comportamiento[^1].
    ```HTML 
-   <etiqueta atributo="valor">
+   <etiqueta atributo="funcion/valor">
    ```
 
 { #4679bb}
 
-- **`<figure>` - Definir un bloque**. Declara que un contenido es autónomo. Todos los elementos dentro de esta etiqueta representan una sola unidad[^4]. Permite asociar imágenes un titulo y una descripción[^2].
+- **`<figure>` - Definir un bloque**. Declara que un contenido es autónomo. Todos los elementos dentro de esta etiqueta representan una sola unidad[^4]. Permite asociar imágenes con su titulo y su descripción[^2].
   ```HTML 
   <figure>
      <img src="rutaImagen.svg" alt="texto por si no carga">
@@ -84,15 +84,17 @@
 
 { #179304}
 
-- **Inline elements**. Son elementos que aparecen juntos en la página a pesar de añadir cada uno en una nueva linea[^5].
+- **Inline elements**. Son elementos que se muestran juntos en la página a pesar de que en el código aparezcan uno debajo del otro[^5].
 
-- **`id` - Identificar elementos**. Identifica elementos HTML específicos, cada `id` debe tener un valor único, diferente a cualquiera de la misma página[^5].
+{ #31cf25}
+
+- **`id` - Identificar elementos**. Atributo que identifica elementos específicos, cada `id` debe tener un valor único, diferente a cualquiera de la misma página[^5].
 
 { #37ea09}
 
 - **Orden de los atributos**. Cuando un elemento tiene multiples atributos, el orden de cada uno no es importante[^1].
 
-- **Block-level elements**. Agrupa los elementos anidados dentro en una nueva linea[^1]. Usa todo el ancho disponible, se extiende a la derecha e izquierda tanto como puede[^6].
+- **Block-level elements**. Agrupa los elementos embebidos en una nueva linea[^1]. Usa todo el ancho disponible, se extiende a la derecha e izquierda tanto como puede[^6].
 { #28750b}
 
 
