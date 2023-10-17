@@ -8,15 +8,36 @@
 [^4]:[`<figure>`: The Figure with Optional Caption element - HTML | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
 [^5]: [[Inputs/Course/Responsive Web Disign/Formularios en HTML\|Formularios en HTML]]
 [^6]: [HTML Block and Inline Elements | W3schools](https://www.w3schools.com/html/html_blocks.asp#:~:text=A%20block%2Dlevel%20element%20always%20takes%20up%20the%20full%20width,paragraph%20in%20an%20HTML%20document.)
+[^7]: [Aprende HTML y CSS - Curso Desde Cero | Youtube](https://www.youtube.com/watch?v=XqFR2lqBYPs)
 
-- **Etiquetas**. Los elementos en [[Programation/HTML\|HTML]] tienen etiquetas de apertura `<etiqueta>` y de cierre `</etiqueta>`[^1].
+- **Etiquetas y etiquetas**. Los elementos son los componentes básicos en [[Programation/HTML\|HTML]]. Las etiquetas definen el tipo de elemento[^7], su estructura es de apertura `<etiqueta>` y de cierre `</etiqueta>`[^1].
    ```html
-   <etiqueta>Texto</etiqueta> --> El conjunto reprecenta un elemento
+   <etiqueta>Contenido del elemento</etiqueta> --> El conjunto reprecenta un elemento
    ```
 
 { #613cad}
 
-- **Indentación**. Los elementos contenidos dentro de otro (embebidos) se anidan usando 2 espacios antes de comenzar (sangría), se usa para mejorar la lectura del código[^1]. Los elementos embebidos adquieren las propiedades del elemento de nivel superior.
+- **`index.html` - Nombre del archivo**. Es un estándar que el archivo principal de tu página web se llame `index`[^7].
+
+- **`<!DOCTYPE html>` - Versión de HTML**. Lo primero es informar al navegador la versión de HTML en que se escribió el documento[^7].
+  ```HTML 
+  <!DOCTYPE html>
+   ```
+
+- **Self-closing tag**. Son etiquetas que no necesitan otra etiqueta de cierre[^1].
+
+{ #4af022}
+
+- **`<html>` - Elemento raíz**. La etiqueta `<html>` declara el elemento raíz del archivo, todos los demás elementos van dentro[^7].
+
+- **`lang="es"` - Definir el idioma**. Para definir el idioma de una página web se usa el atributo `lang` en el elemento `<html>` y como valor el código internacional de ese idioma[^7].
+  ```HTML 
+  <!DOCTYPE html>
+  <html lang="es">
+  </html>
+   ```
+
+- **Indentación**. Los elementos contenidos dentro de otro (embebidos) se anidan usando 2 espacios antes de comenzar (sangría), mejora la lectura del código[^1]. Los elementos embebidos adquieren las propiedades del elemento de nivel superior.
    ```HTML 
    <body>
      <main>
@@ -24,13 +45,22 @@
    </body>
    ```
 
-- **`<head>` - Metadatos de la página**. Para indicar datos de la pág (scripts, ccs, title) que no debería ver el usuario se usa la etiqueta `head`[^3].
+- **`<head>` - Metadatos de la página**. Para indicar datos de la pág (scripts, ccs, title) que no va a ver el usuario se usa la etiqueta `head`[^3]. Si se omite, el navegador lo añadirá por defecto[^7].
 
 { #2d7802}
+
+
+- **`<meta charset="UTF-8">` - Declarar caracteres especiales**. Por defecto el navegador usa los caracteres en inglés, para declarar caracteres de otros idiomas de usa la etiqueta `meta` con el atributo `charset`.
+  ```HTML 
+  <head>
+    <meta charset="UTF-8">
+  </head> 
+   ```
 
 - **`<title>` - Añadir un titulo de la pestaña**. Se usa la etiqueta `<title>` dentro del elemento `<head>`.
   ```HTML 
   <head>
+    <meta charset="UTF-8">
     <title>Titulo que el navegador mostrará en la pestaña</title>
   </head>
   ```
@@ -62,10 +92,6 @@
      </section>
    </main>
    ```
-
-- **Self-closing tag**. Son etiquetas que no necesitan otra etiqueta de cierre[^1].
-
-{ #4af022}
 
 - **Atributos**. Son palabras especiales dentro de la etiqueta de apertura de un elemento para controlar su comportamiento[^1].
    ```HTML 
