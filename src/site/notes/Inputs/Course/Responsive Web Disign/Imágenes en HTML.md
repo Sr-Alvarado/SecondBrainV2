@@ -18,7 +18,10 @@
 
 
 
-- **Self-closing tag**. Son etiquetas que no necesitan otra etiqueta de cierre[^1].
+- **Self-closing tag**. Son etiquetas que no necesitan otra etiqueta de cierre[^1]. Estas etiquetas representan el segundo tipo de elementos en HTML, elementos reemplazables por otro contenido al ser remplazados no necesitan contenido interno por tanto no usan etiquetas internas.
+  ```HTML 
+<selftag src="">  
+   ```
  
 
 </div></div>
