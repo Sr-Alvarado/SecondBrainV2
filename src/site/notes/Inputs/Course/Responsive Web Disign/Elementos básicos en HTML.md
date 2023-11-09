@@ -10,12 +10,19 @@
 [^6]: [HTML Block and Inline Elements | W3schools](https://www.w3schools.com/html/html_blocks.asp#:~:text=A%20block%2Dlevel%20element%20always%20takes%20up%20the%20full%20width,paragraph%20in%20an%20HTML%20document.)
 [^7]: [Aprende HTML y CSS - Curso Desde Cero | Youtube](https://www.youtube.com/watch?v=XqFR2lqBYPs)
 
-- **Etiquetas y etiquetas**. Los elementos son los componentes básicos en [[Programation/HTML\|HTML]]. Las etiquetas definen el tipo de elemento[^7], su estructura es de apertura `<etiqueta>` y de cierre `</etiqueta>`[^1].
+- **Elementos y etiquetas**. Los elementos son los componentes básicos en [[Programation/HTML\|HTML]]. Las etiquetas definen el tipo de elemento[^7], su estructura es de apertura `<etiqueta>` y de cierre `</etiqueta>`[^1].
    ```html
    <etiqueta>Contenido del elemento</etiqueta> --> El conjunto reprecenta un elemento
    ```
 
 { #613cad}
+
+- **Self-closing tag**. Son etiquetas que no necesitan otra etiqueta de cierre[^1]. Estas etiquetas representan el segundo tipo de elementos en HTML, elementos reemplazables por otro contenido al ser remplazados no necesitan contenido interno por tanto no usan etiquetas internas.
+  ```HTML 
+<selftag src="">  
+   ```
+
+{ #4af022}
 
 - **`index.html` - Nombre del archivo**. Es un estándar que el archivo principal de tu página web se llame `index`[^7].
 
@@ -23,10 +30,6 @@
   ```HTML 
   <!DOCTYPE html>
    ```
-
-- **Self-closing tag**. Son etiquetas que no necesitan otra etiqueta de cierre[^1].
-
-{ #4af022}
 
 - **`<html>` - Elemento raíz**. La etiqueta `<html>` declara el elemento raíz del archivo, todos los demás elementos van dentro[^7].
 
