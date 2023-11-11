@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Cursos/Responsive Web Disign.md","permalink":"/cursos/responsive-web-disign/","tags":["programation","HTML","CSS","publish"]}
 ---
 
-## Sobre el curso
+## About
 Primer curso de la ruta [[Full Stack\|Full Stack]] de [[Programation/FreeCodeCamp\|FreeCodeCamp]] sobre los lenguajes que los desarrolladores usan para construir páginas web: [[Programation/HTML\|HTML]] para el contenido, y [[Inputs/Course/Responsive Web Disign/CSS\|CSS]] para el diseño.
 ## 1. Learn HTML by  Building a Cat Photo App
 - [[Inputs/Course/Responsive Web Disign/Textos en HTML\|Textos en HTML]]: Como añadir títulos, párrafos, comentarios, negrita, cursiva y pie de página.
