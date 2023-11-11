@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"\"Course/Responsive Web Disign\"","permalink":"//","tags":["programation","HTML","CSS","publish"]}
+{"dg-publish":true,"dg-path":"\"Course/Responsive Web Disign.md\"","permalink":"/course/responsive-web-disign/","tags":["programation","HTML","CSS","publish"]}
 ---
 
 ## About
