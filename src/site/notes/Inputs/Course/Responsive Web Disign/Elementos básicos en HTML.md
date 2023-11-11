@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Cursos/Elementos básicos en HTML.md","permalink":"/cursos/elementos-basicos-en-html/","hide":true,"tags":["programation","HTML","DVC/RWD/1","publish"]}
+{"dg-publish":true,"dg-path":"Elementos básicos en HTML.md","permalink":"/elementos-basicos-en-html/","hide":true,"tags":["programation","HTML","DVC/RWD/1","publish"]}
 ---
 
 [^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]] - Cap 1
