@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inputs/course/responsive-web-disign/responsive-web-disign/","tags":["programation","HTML","CSS"],"dgShowFileTree":true}
+{"dg-publish":true,"permalink":"/inputs/course/responsive-web-disign/responsive-web-disign/","tags":["programation","HTML","CSS","publish"],"dgShowFileTree":true}
 ---
 
 ## About
