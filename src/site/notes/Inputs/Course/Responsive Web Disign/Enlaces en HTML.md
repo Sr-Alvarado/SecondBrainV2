@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inputs/course/responsive-web-disign/enlaces-en-html/","hide":true,"tags":["programation","HTML","DVC/RWD/1","publish"]}
+{"dg-publish":true,"dg-path":"Cursos/Enlaces en HTML.md","permalink":"/cursos/enlaces-en-html/","hide":true,"tags":["programation","HTML","DVC/RWD/1","publish"]}
 ---
 
 [^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]] - Cap 1
