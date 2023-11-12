@@ -4,8 +4,7 @@
 
 [^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]] - Cap 1
 
-- **`<h>` - Añadir títulos**
-   Los headers indican importancia (1-6), a menor el número mayor importancia. Solo debe haber un `<h1>` por página[^1].
+- **`<h>` - Añadir títulos**. Los headers indican importancia (1-6), a menor el número mayor importancia. Solo debe haber un `<h1>` por página[^1].
    ```HTML 
    <h1>Titulo 1</h1>
    ⁝
@@ -23,17 +22,17 @@
    ```
 
 - **`<strong>` - Letra negrita**. Para indicar importancia o urgencia una parte de un texto podemos usar la etiqueta `<strong>`[^1].
-  ```HTML 
-<p>Los gatos <strong>aman</strong> la leche</p>
-  ```
+   ```HTML
+   <p>Los gatos <strong>aman</strong> la leche</p>
+   ```
   
 - **`<em>` - Letra cursiva**. Para enfatizar una parte de un texto podemos usar la etiqueta `<em>`[^1].
-  ```HTML 
-<p>Los gatos <em>aman</em> la leche</p>
-  ```
+   ```HTML
+   <p>Los gatos <em>aman</em> la leche</p>
+   ```
 
 - **`<footer>` - Añadir un pie de página**. Se usa la etiqueta `<footer>` para definir un pie de página.
-  ```HTML 
+   ```HTML 
   <footer></footer>
    ```
 
