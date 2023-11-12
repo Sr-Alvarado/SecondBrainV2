@@ -7,7 +7,7 @@
 [^3]: [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML\|Elementos básicos en HTML]]
 [^4]: [Input type ="radio" - HTML | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/radio)
 [^5]: [<label>: The Label element - HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
-[^6]:[Formularios HTML](https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=520:formularios-html-form-label-name-value-id-ejemplos-checkbox-option-button-combobox-cu00720b&catid=69&Itemid=192)
+[^6]: [Formularios HTML](https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=520:formularios-html-form-label-name-value-id-ejemplos-checkbox-option-button-combobox-cu00720b&catid=69&Itemid=192)
 
 - **`<button>` - Añadir un botón simple**. La etiqueta `button` añade una casilla clickable. Si no se define atributos por defecto este envía la información al atributo `action` del formulario[^1][^2]. Los elementos `button` e `input` son elementos [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^31cf25\|inline]][^3].
   ```HTML 
@@ -30,7 +30,6 @@
 
 
 
-
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/inputs/course/responsive-web-disign/elementos-basicos-en-html/#31cf25" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -41,19 +40,18 @@
 </div></div>
 
 
-
 - **`type="sumit"` - Enviar información del form**. La función `"sumit"` especifica la acción que cumplirá el botón. Se define en el atributo `type` dentro de la etiqueta `<button>`[^1].
-  ```HTML 
+   ```HTML 
   <button type="submit">Nombre</button>
    ```
 
 - **`type="chekbox"` - Añadir un botón checkbox**. La función `checkbox` se representa como una caja marcable, generalmente se usa para seleccionar más de una opción[^1]. Se define en el atributo `type` dentro la etiqueta `<input>`[^1].
-  ```HTML 
+   ```HTML 
   <input type="checkbox">
    ```
 
 - **`<label>` - Añadir una etiqueta**. La etiqueta `<label>` asocia un texto con un `<input>`, al clickar el texto se seleccionará el elemento `<input>`. Para una asociación implícita[^5] se anida el `<input>` dentro de la etiqueta `<label>`[^1].
-  ```HTML 
+   ```HTML 
   <label>
     Opción
     <input type="radio">
@@ -61,7 +59,7 @@
    ```
 
 - **`name` - Agrupar inputs**. El atributo `name` se usa para identificar un grupo de control[^6]. En un `radio button` permite seleccionar solo uno, todos los `<input>` a agrupar deben tener el mismo `name`.
-  ```HTML 
+   ```HTML 
   <label>
     Opción
     <input type="radio" name="grupo1">
@@ -69,7 +67,7 @@
    ```
 
 - **`type="radio"` - Añadir un botón de radio**. La función `"radio"` define un circulo pequeño y clickable, generalmente se usa en [[Inputs/Course/Responsive Web Disign/Formularios en HTML#^0e7928\| grupos fieldsed]] para seleccionar un solo botón a mismo tiempo[^4]. Se define en el atributo `type` dentro de la etiqueta `<input>`[^1].
-  ```HTML 
+   ```HTML 
   <input type="radio">
    ```
 
@@ -100,7 +98,6 @@
 
 
 
-
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/inputs/course/responsive-web-disign/formularios-en-html/#34f042" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -116,6 +113,5 @@
 </div></div>
 
 
-
 > [!Example]-
-> sdsd
+> Coming soon
