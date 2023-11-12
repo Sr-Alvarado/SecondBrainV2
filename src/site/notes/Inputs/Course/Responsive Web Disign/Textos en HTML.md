@@ -31,7 +31,7 @@
    <p>Los gatos <em>aman</em> la leche</p>
    ```
 
-- **`<footer>` - Añadir un pie de página**. Se usa la etiqueta `<footer>` para definir un pie de página.
+- **`<footer>` - Añadir un pie de página**. Se usa la etiqueta `<footer>` para definir un pie de página[^1].
    ```HTML 
   <footer></footer>
    ```
