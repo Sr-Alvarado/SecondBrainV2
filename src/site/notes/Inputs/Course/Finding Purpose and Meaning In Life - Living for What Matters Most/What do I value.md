@@ -11,24 +11,24 @@
 
 
 
-- Subcomponents 
+######Subcomponents 
 
 </div></div>
 
-- Intención para movilizar recursos
-   - Tiempo
-   - Energía
-- **El tema predominate** permite que te enfoques en una sola cosa y no estés haciendo muchas cosas que no te llevan a nada.
-- **La intención** responde a ¿Cuáles son las direcciones en mi vida, cuáles son las metas en mi vida? Y muy importante: ¿qué es lo que yo valoro en mi vida? 
-- ¿Cómo encuentro lo que amo? - Desarrollando la [[Autoafirmación\|Autoafirmación]]
-   - Nos fijamos en valores personales relevantes, identifica:
-      - Las cosas importantes para ti
-      - Las personas más importantes para ti
-      - Las cosas que más te gustan
-      - Lo que deseas más
-      - Tus sueños más profundos
+######Intención para movilizar recursos
+   ######Tiempo
+   ######Energía
+######**El tema predominate** permite que te enfoques en una sola cosa y no estés haciendo muchas cosas que no te llevan a nada.
+######**La intención** responde a ¿Cuáles son las direcciones en mi vida, cuáles son las metas en mi vida? Y muy importante: ¿qué es lo que yo valoro en mi vida? 
+######¿Cómo encuentro lo que amo? ######Desarrollando la [[Autoafirmación\|Autoafirmación]]
+   ######Nos fijamos en valores personales relevantes, identifica:
+      ######Las cosas importantes para ti
+      ######Las personas más importantes para ti
+      ######Las cosas que más te gustan
+      ######Lo que deseas más
+      ######Tus sueños más profundos
 
 ---
-[[Inputs/Course/Finding Purpose and Meaning In Life - Living for What Matters Most/🏠Finding Purpose and Meaning In Life - Living for What Matters Most\|🏠Finding Purpose and Meaning In Life - Living for What Matters Most]]
+[[🏠Finding Purpose and Meaning In Life #\|🏠Finding Purpose and Meaning In Life ######Living for What Matters Most]]
 
 mos a un sitio y entendamos, sintamos que nos acogen, que no nos desprecian, que no nos marginan. La cuarta motivación es una motivación al desafío, al reto. Si en la vida no hubiera retos, María, sería muy aburrida. Yo sé que, a veces, nos gusta mucho estar en la zona de confort, pero durante un tiempo, al cabo de un tiempo no hay quien lo aguante. Entonces, ese reto, ese desafío es una motivación importante. La quinta motivación es la de crecer, mejorar y progresar, y la sex
