@@ -2,12 +2,12 @@
 {"dg-publish":true,"dg-path":"Imágenes en HTML.md","permalink":"/imagenes-en-html/","hide":true,"tags":["programation","HTML","DVC/RWD/1","publish"]}
 ---
 
-[^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]] - Cap 1
+[^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]] ######Cap 1
 [^2]: [[Inputs/Course/Responsive Web Disign/Enlaces en HTML\|Enlaces en HTML]]
 [^3]: [[HTML Basics\|HTML Basics]]
-[^4]:[`<figure>`: The Figure with Optional Caption element - HTML | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
+[^4]:[`<figure>`: The Figure with Optional Caption element ######HTML | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
 
-- **`<img>` - Añadir una imagen**. Se usa la etiqueta `<img>`, esta es una [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^4af022\|self-closing tag]][^1].
+######**`<img>` ######Añadir una imagen**. Se usa la etiqueta `<img>`, esta es una [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^4af022\|self-closing tag]][^1].
    ```HTML 
    <img>
    ```
@@ -18,7 +18,7 @@
 
 
 
-- **Self-closing tag**. Son etiquetas que no necesitan otra etiqueta de cierre[^1]. Estas etiquetas representan el segundo tipo de elementos en HTML, elementos reemplazables por otro contenido al ser remplazados no necesitan contenido interno por tanto no usan etiquetas internas.
+######**Self-closing tag**. Son etiquetas que no necesitan otra etiqueta de cierre[^1]. Estas etiquetas representan el segundo tipo de elementos en HTML, elementos reemplazables por otro contenido al ser remplazados no necesitan contenido interno por tanto no usan etiquetas internas.
   ```HTML 
 <selftag src="">  
    ```
@@ -28,7 +28,7 @@
 
 
 
-- **`src` - Origen de la imagen**. Para llamar a la fuente de un elemento se usa el [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^4679bb\|atributo]] sourse y se iguala a la URL (ruta interna o externa)[^1].
+######**`src` ######Origen de la imagen**. Para llamar a la fuente de un elemento se usa el [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^4679bb\|atributo]] sourse y se iguala a la URL (ruta interna o externa)[^1].
    ```HTML 
    <img src="Ruta-imagen.svg">
    ```
@@ -39,7 +39,7 @@
 
 
 
-- **Atributos**. Son palabras especiales dentro de la etiqueta de apertura de un elemento para controlar su comportamiento[^1].
+######**Atributos**. Son palabras especiales dentro de la etiqueta de apertura de un elemento para controlar su comportamiento[^1].
    ```HTML 
    <etiqueta atributo="funcion/valor">
    ```
@@ -49,42 +49,42 @@
 
 
 
-- **`alt` - Texto alternativo en imágenes**. El atributo `alt` se usa para mostrar una descripción de la imagen si esta no carga, debe describir lo que se ve en la imagen[^1].
+######**`alt` ######Texto alternativo en imágenes**. El atributo `alt` se usa para mostrar una descripción de la imagen si esta no carga, debe describir lo que se ve en la imagen[^1].
    ```HTML 
    <img src="Ruta-imagen.svg" alt="descripción de la imagen">
    ```
 
-- **`href` - Convertir el elemento en un enlace**. El atributo hyper reference indica el link de destino. Se usa dentro de la etiqueta [[Inputs/Course/Responsive Web Disign/Enlaces en HTML#^1cbe87\|anchor]], todo lo que esté dentro será un enlace [^2].
+######**`href` ######Convertir el elemento en un enlace**. El atributo hyper reference indica el link de destino. Se usa dentro de la etiqueta [[Inputs/Course/Responsive Web Disign/Enlaces en HTML#^1cbe87\|anchor]], todo lo que esté dentro será un enlace [^2].
    ```HTML
    <a href="link.com">
       <img src="rutaImagen.svg">
    </a>
    ```
 
-- 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/inputs/course/responsive-web-disign/enlaces-en-html/#a-crear-un-enlace-o-link" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+######
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/inputs/course/responsive-web-disign/enlaces-en-html/#a" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-[^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]] - Cap 1
+[^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]] ######Cap 1
 
-- **`<a>` - Crear un enlace o link**. La etiqueta anchor define un enlace a otra página indicando la ruta con el [[Inputs/Course/Responsive Web Disign/Imágenes en HTML#^7d2cf2\|atributo href]][^1].
+######**`<a>` ######Crear un enlace o link**. La etiqueta anchor define un enlace a otra página indicando la ruta con el [[Inputs/Course/Responsive Web Disign/Imágenes en HTML#^7d2cf2\|atributo href]][^1].
    ```HTML 
    <a href="enlace.com"></a>
    ``` 
 
--  **Enlaces en textos**. Se coloca entre la etiqueta `<a>` envolviendo al texto[^1].
+###### **Enlaces en textos**. Se coloca entre la etiqueta `<a>` envolviendo al texto[^1].
    ```HTML 
    <a href="enlace.com">Texto del enlace</a>
    ```
 
-- **Enlaces dentro de párrafos**. Se añade la etiqueta `<a>` a la parte que quieras convertir en enlace[^1].
+######**Enlaces dentro de párrafos**. Se añade la etiqueta `<a>` a la parte que quieras convertir en enlace[^1].
    ```HTML 
    <p>Este es un texto con un <a href="enlace.com">link</a> dentro del texto</p>
    ```
 
-- **`target` - Definir donde abrir enlace**. Para definir si quieres que se abra el enlace en una nueva pestaña puedes usar el atributo `target` con el valor `_blank`[^1].
+######**`target` ######Definir donde abrir enlace**. Para definir si quieres que se abra el enlace en una nueva pestaña puedes usar el atributo `target` con el valor `_blank`[^1].
    ```HTML 
    <a href="enlace.com" target="_blank">Texto del enlace</a>
    ```
@@ -95,7 +95,7 @@
 </div></div>
 
 
-- **`<figcaption>` - Añadir una descripción a la imagen**. Se anida el elemento `<img>` dentro de la [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^179304\|etiqueta figure]] (`<figure>`), allí se agrega la etiqueta `<figcaption>` para definir la descripción de la imagen[^1], se recomienda que sea la misma del texto alternativo[^4].
+######**`<figcaption>` ######Añadir una descripción a la imagen**. Se anida el elemento `<img>` dentro de la [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^179304\|etiqueta figure]] (`<figure>`), allí se agrega la etiqueta `<figcaption>` para definir la descripción de la imagen[^1], se recomienda que sea la misma del texto alternativo[^4].
    ```HTML 
    <figure>
      <img src="rutaImagen.svg" alt="texto por si no carga">
@@ -109,7 +109,7 @@
 
 
 
-- **`<figure>` - Definir un bloque**. Declara que un contenido es autónomo. Todos los elementos dentro de esta etiqueta representan una sola unidad[^4]. Permite asociar imágenes con su titulo y su descripción[^2].
+######**`<figure>` ######Definir un bloque**. Declara que un contenido es autónomo. Todos los elementos dentro de esta etiqueta representan una sola unidad[^4]. Permite asociar imágenes con su titulo y su descripción[^2].
   ```HTML 
   <figure>
      <img src="rutaImagen.svg" alt="texto por si no carga">
