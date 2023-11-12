@@ -111,7 +111,6 @@
 
 
 
-
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/inputs/course/responsive-web-disign/elementos-basicos-en-html/#37ea09" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -120,7 +119,6 @@
  
 
 </div></div>
-
 
 
 - **`<fieldset>` - Agrupar elementos**. La etiqueta `<fieldsed>` agrupar elementos `<input>`[^1] en una [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^28750b\|block-level element]].
@@ -148,7 +146,6 @@
 </div></div>
 
 
-
 - **`<legend>` - Añade una descripción**. La etiqueta `<legend>` declara una descripción del grupo `<fieldset>`. Da contexto a los usuarios sobre que datos ingresar[^1].
   ```HTML 
   <fieldset>
@@ -164,9 +161,7 @@
   </fieldset>
    ```
 
-
 > [!example]- 
-> 
 > <fieldset>
 >    <legend>¿Quieres salir conmigo?</legend>
 >    <label>
