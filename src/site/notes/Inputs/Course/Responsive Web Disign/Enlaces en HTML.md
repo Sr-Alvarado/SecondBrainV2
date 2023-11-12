@@ -21,8 +21,8 @@
    <a href="link.com">
       <img src="rutaImagen.svg">
    </a>
-   ``` 
-
+   ```
+   
 
 </div></div>
 
