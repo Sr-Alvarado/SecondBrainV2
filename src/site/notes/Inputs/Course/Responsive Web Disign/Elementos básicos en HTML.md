@@ -66,7 +66,7 @@
     <meta charset="UTF-8">
     <title>Titulo que el navegador mostrará en la pestaña</title>
   </head>
-  ```
+   ```
 
 - **`<body>` - Cuerpo de la página**. Todos los elementos que deben ser renderizados o mostrados en la página deben estar dentro de la etiqueta `<body>`[^1].
    ```HTML 
