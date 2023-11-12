@@ -19,8 +19,8 @@
 
 
 - **Self-closing tag**. Son etiquetas que no necesitan otra etiqueta de cierre[^1]. Estas etiquetas representan el segundo tipo de elementos en HTML, elementos reemplazables por otro contenido al ser remplazados no necesitan contenido interno por tanto no usan etiquetas internas.
-  ```HTML 
-<selftag src="">  
+   ```HTML
+   <selftag src="">  
    ```
  
 
@@ -110,7 +110,7 @@
 
 
 - **`<figure>` - Definir un bloque**. Declara que un contenido es autónomo. Todos los elementos dentro de esta etiqueta representan una sola unidad[^4]. Permite asociar imágenes con su titulo y su descripción[^2].
-  ```HTML 
+   ```HTML 
   <figure>
      <img src="rutaImagen.svg" alt="texto por si no carga">
      <figcaption>Descripción de la imagen</figcaption>
