@@ -18,8 +18,8 @@
 { #613cad}
 
 - **Self-closing tag**. Son etiquetas que no necesitan otra etiqueta de cierre[^1]. Estas etiquetas representan el segundo tipo de elementos en HTML, elementos reemplazables por otro contenido al ser remplazados no necesitan contenido interno por tanto no usan etiquetas internas.
-  ```HTML 
-<selftag src="">  
+   ```HTML
+   <selftag src="">  
    ```
 
 { #4af022}
@@ -27,21 +27,21 @@
 - **`index.html` - Nombre del archivo**. Es un estándar que el archivo principal de tu página web se llame `index`[^7].
 
 - **`<!DOCTYPE html>` - Versión de HTML**. Lo primero es informar al navegador la versión de HTML en que se escribió el documento[^7].
-  ```HTML 
+   ```HTML 
   <!DOCTYPE html>
    ```
 
 - **`<html>` - Elemento raíz**. La etiqueta `<html>` declara el elemento raíz del archivo, todos los demás elementos van dentro[^7].
 
 - **`lang="es"` - Definir el idioma**. Para definir el idioma de una página web se usa el atributo `lang` en el elemento `<html>` y como valor el código internacional de ese idioma[^7].
-  ```HTML 
+   ```HTML 
   <!DOCTYPE html>
   <html lang="es">
   </html>
    ```
 
 - **Indentación**. Los elementos contenidos dentro de otro (embebidos) se anidan usando 2 espacios antes de comenzar (sangría), mejora la lectura del código[^1]. Los elementos embebidos adquieren las propiedades del elemento de nivel superior.
-   ```HTML 
+   ```HTML
    <body>
      <main>
      </main>
@@ -54,14 +54,14 @@
 
 
 - **`<meta charset="UTF-8">` - Declarar caracteres especiales**. Por defecto el navegador usa los caracteres en inglés, para declarar caracteres de otros idiomas de usa la etiqueta `meta` con el atributo `charset`.
-  ```HTML 
+   ```HTML 
   <head>
     <meta charset="UTF-8">
   </head> 
    ```
 
 - **`<title>` - Añadir un titulo de la pestaña**. Se usa la etiqueta `<title>` dentro del elemento `<head>`.
-  ```HTML 
+   ```HTML 
   <head>
     <meta charset="UTF-8">
     <title>Titulo que el navegador mostrará en la pestaña</title>
@@ -69,7 +69,7 @@
   ```
 
 - **`<body>` - Cuerpo de la página**. Todos los elementos que deben ser renderizados o mostrados en la página deben estar dentro de la etiqueta `<body>`[^1].
-  ```HTML 
+   ```HTML 
   <body>
      <main>
      </main>
@@ -104,7 +104,7 @@
 { #4679bb}
 
 - **`<figure>` - Definir un bloque**. Declara que un contenido es autónomo. Todos los elementos dentro de esta etiqueta representan una sola unidad[^4]. Permite asociar imágenes con su titulo y su descripción[^2].
-  ```HTML 
+   ```HTML 
   <figure>
      <img src="rutaImagen.svg" alt="texto por si no carga">
      <figcaption>Descripción de la imagen</figcaption>
