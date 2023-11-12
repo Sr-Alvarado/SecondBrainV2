@@ -16,17 +16,13 @@
 
 
 
-- **`alt` - Texto alternativo en imágenes**. El atributo `alt` se usa para mostrar una descripción de la imagen si esta no carga, debe describir lo que se ve en la imagen[^1].
-   ```HTML 
-   <img src="Ruta-imagen.svg" alt="descripción de la imagen">
-   ```
-
 - **`href` - Convertir el elemento en un enlace**. El atributo hyper reference indica el link de destino. Se usa dentro de la etiqueta [[Inputs/Course/Responsive Web Disign/Enlaces en HTML#^1cbe87\|anchor]], todo lo que esté dentro será un enlace [^2].
    ```HTML
    <a href="link.com">
       <img src="rutaImagen.svg">
    </a>
-   ``` 
+   ```
+
 
 </div></div>
 
