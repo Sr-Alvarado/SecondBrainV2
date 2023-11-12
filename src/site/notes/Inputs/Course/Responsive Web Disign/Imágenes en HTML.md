@@ -59,7 +59,7 @@
    <a href="link.com">
       <img src="rutaImagen.svg">
    </a>
-   ```
+   ``` { #811e25}
 
 
 
@@ -67,7 +67,7 @@
 
 
 
-- **`<a>` - Crear un enlace o link**. La etiqueta anchor define un enlace a otra página indicando la ruta con el [[Inputs/Course/Responsive Web Disign/Imágenes en HTML#^7d2cf2\|atributo href]][^1].
+- **`<a>` - Crear un enlace o link**. La etiqueta anchor define un enlace a otra página indicando la ruta con el [[Inputs/Course/Responsive Web Disign/Imágenes en HTML#^811e25\|atributo href]][^1].
    ```HTML 
    <a href="enlace.com"></a>
    ``` 
