@@ -21,7 +21,7 @@
 
 
 - **`action` - Ruta destino de los datos**. Para indicar la ubicación URL[^2] a donde se enviará los datos del formulario se usa el [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^4679bb\|atributo]] `action`[^1]. Si no se especifica, la página donde está el formulario se recargará con los datos del formulario[^3].
-  ```HTML 
+   ```HTML 
   <form action="URL.com"></form>
    ``` 
 
@@ -82,7 +82,7 @@
 
 
 - **`<fieldset>` - Agrupar elementos**. La etiqueta `<fieldsed>` agrupar elementos `<input>`[^1] en una [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^28750b\|block-level element]].
-  ```HTML 
+   ```HTML 
   <fieldset>
     <label> 
       <input type="radio" name="grupo1" id="Opcion 1" value="Opcion 1">
@@ -106,7 +106,7 @@
 
 
 - **`value` - Asignar un valor un campo seleccionable**. El atributo `value` declara que valor se enviará. En un [[Inputs/Course/Responsive Web Disign/Botones en HTML#^08712f\|radio button]] los datos dependen del `name` y del `value`, si no se define el `value` el formulario enviará `nombre=on`. Por conveniencia se usa el mismo nombre del `id`[^1].
-  ```HTML 
+   ```HTML 
   <form action="URL.com">
     <input type="radio" name="grupo1" id="opcion 1" value="opcion 1" required>
   </form>
