@@ -9,7 +9,7 @@
 [^5]: [`<input>` - HTML | MDN](https://developer.mozilla.org/es/docs/Web/HTML/Element/input)
 
 - **`<form>` - Añadir un formulario**. Se usa la etiqueta `<form>` para declarar un formulario[^1].
-  ```HTML 
+   ```HTML 
   <form></form>
    ```
 
@@ -17,7 +17,7 @@
 
 
 - **`action` - Ruta destino de los datos**. Para indicar la ubicación URL[^2] a donde se enviará los datos del formulario se usa el [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^4679bb\|atributo]] `action`[^1]. Si no se especifica, la página donde está el formulario se recargará con los datos del formulario[^3].
-  ```HTML 
+   ```HTML 
   <form action="URL.com"></form>
    ``` { #568b7f}
 
@@ -38,7 +38,7 @@
 
 
 - **`<input>` - Recolectar los datos**. [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^4af022\|Self-Closing tag]] que permite recolectar datos de un formulario[^1], a través de la creación de controles interactivos para recibir los datos[^5].
-  ```HTML 
+   ```HTML 
   <form action="URL.com">
     <input>
   </form>
@@ -61,35 +61,35 @@
 
 
 - **`type` - Definir el input**. El atributo  `type` define el tipo de dato que se debe llenar[^1]. Si no se especifica su valor predeterminado es `"text"`[^5].
-  ```HTML 
+   ```HTML 
   <form action="URL.com">
     <input type="text">
   </form>
    ```
 
 - **`name` - Poner nombre al input**. El atributo `name`[^1] define el título con el que se envían con los datos del formulario[^5].
-  ```HTML 
+   ```HTML 
   <form action="URL.com">
     <input type="text" name="Titulo">
   </form>
    ```
 
 - **`placeholder` - Dar una pista del campo**.  El atributo `placeholder` indica al usuario que elementos pide el formulario[^1]. No debe contener saltos de linea, veces no es visible[^5].
-  ```HTML 
+   ```HTML 
   <form action="URL.com">
     <input type="text" name="Titulo" placeholder="Email address">
   </form>
    ```
 
 - **`required` - Hacer obligatorio un campo**. El atributo `required` especifica al usuario campos obligatorios del formulario[^5]. No necesita ningún valor[^1].
-  ```HTML 
+   ```HTML 
   <form action="URL.com">
     <input type="text" name="Titulo" placeholder="Email address"     required>
   </form>
    ```
 
 - **`value` - Asignar un valor un campo seleccionable**. El atributo `value` declara que valor se enviará. En un [[Inputs/Course/Responsive Web Disign/Botones en HTML#^08712f\|radio button]] los datos dependen del `name` y del `value`, si no se define el `value` el formulario enviará `nombre=on`. Por conveniencia se usa el mismo nombre del `id`[^1].
-  ```HTML 
+   ```HTML 
   <form action="URL.com">
     <input type="radio" name="grupo1" id="opcion 1" value="opcion 1" required>
   </form>
@@ -122,7 +122,7 @@
 
 
 - **`<fieldset>` - Agrupar elementos**. La etiqueta `<fieldsed>` agrupar elementos `<input>`[^1] en una [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^28750b\|block-level element]].
-  ```HTML 
+   ```HTML 
   <fieldset>
     <label> 
       <input type="radio" name="grupo1" id="Opcion 1" value="Opcion 1">
@@ -147,7 +147,7 @@
 
 
 - **`<legend>` - Añade una descripción**. La etiqueta `<legend>` declara una descripción del grupo `<fieldset>`. Da contexto a los usuarios sobre que datos ingresar[^1].
-  ```HTML 
+   ```HTML 
   <fieldset>
     <legend>¿Qué opción prefieres?</legend>
     <label>
