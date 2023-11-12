@@ -2,13 +2,13 @@
 {"dg-publish":true,"dg-path":"Formularios en HTML.md","permalink":"/formularios-en-html/","hide":true,"tags":["programation","HTML","DVC/RWD/1","publish"]}
 ---
 
-[^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]] ######Cap 1
+[^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]] - Cap 1
 [^2]: [Mi primer formulario HTML | MDN](https://developer.mozilla.org/es/docs/Learn/Forms/Your_first_form) 
 [^3]: [Atributos de formularios en HTML | Universidad de Murcia](https://www.um.es/docencia/barzana/DAWEB/Formularios-HTML5.html)
 [^4]: [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML\|Elementos básicos en HTML]]
-[^5]: [`<input>` ######HTML | MDN](https://developer.mozilla.org/es/docs/Web/HTML/Element/input)
+[^5]: [`<input>` - HTML | MDN](https://developer.mozilla.org/es/docs/Web/HTML/Element/input)
 
-######**`<form>` ######Añadir un formulario**. Se usa la etiqueta `<form>` para declarar un formulario[^1].
+- **`<form>` - Añadir un formulario**. Se usa la etiqueta `<form>` para declarar un formulario[^1].
   ```HTML 
   <form></form>
    ```
@@ -16,7 +16,7 @@
 { #d6e3f2}
 
 
-######**`action` ######Ruta destino de los datos**. Para indicar la ubicación URL[^2] a donde se enviará los datos del formulario se usa el [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^4679bb\|atributo]] `action`[^1]. Si no se especifica, la página donde está el formulario se recargará con los datos del formulario[^3].
+- **`action` - Ruta destino de los datos**. Para indicar la ubicación URL[^2] a donde se enviará los datos del formulario se usa el [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^4679bb\|atributo]] `action`[^1]. Si no se especifica, la página donde está el formulario se recargará con los datos del formulario[^3].
   ```HTML 
   <form action="URL.com"></form>
    ``` { #568b7f}
@@ -27,7 +27,7 @@
 
 
 
-######**Atributos**. Son palabras especiales dentro de la etiqueta de apertura de un elemento para controlar su comportamiento[^1].
+- **Atributos**. Son palabras especiales dentro de la etiqueta de apertura de un elemento para controlar su comportamiento[^1].
    ```HTML 
    <etiqueta atributo="funcion/valor">
    ```
@@ -37,7 +37,7 @@
 
 
 
-######**`<input>` ######Recolectar los datos**. [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^4af022\|Self-Closing tag]] que permite recolectar datos de un formulario[^1], a través de la creación de controles interactivos para recibir los datos[^5].
+- **`<input>` - Recolectar los datos**. [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^4af022\|Self-Closing tag]] que permite recolectar datos de un formulario[^1], a través de la creación de controles interactivos para recibir los datos[^5].
   ```HTML 
   <form action="URL.com">
     <input>
@@ -50,7 +50,7 @@
 
 
 
-######**Self-closing tag**. Son etiquetas que no necesitan otra etiqueta de cierre[^1]. Estas etiquetas representan el segundo tipo de elementos en HTML, elementos reemplazables por otro contenido al ser remplazados no necesitan contenido interno por tanto no usan etiquetas internas.
+- **Self-closing tag**. Son etiquetas que no necesitan otra etiqueta de cierre[^1]. Estas etiquetas representan el segundo tipo de elementos en HTML, elementos reemplazables por otro contenido al ser remplazados no necesitan contenido interno por tanto no usan etiquetas internas.
   ```HTML 
 <selftag src="">  
    ```
@@ -60,35 +60,35 @@
 
 
 
-######**`type` ######Definir el input**. El atributo  `type` define el tipo de dato que se debe llenar[^1]. Si no se especifica su valor predeterminado es `"text"`[^5].
+- **`type` - Definir el input**. El atributo  `type` define el tipo de dato que se debe llenar[^1]. Si no se especifica su valor predeterminado es `"text"`[^5].
   ```HTML 
   <form action="URL.com">
     <input type="text">
   </form>
    ```
 
-######**`name` ######Poner nombre al input**. El atributo `name`[^1] define el título con el que se envían con los datos del formulario[^5].
+- **`name` - Poner nombre al input**. El atributo `name`[^1] define el título con el que se envían con los datos del formulario[^5].
   ```HTML 
   <form action="URL.com">
     <input type="text" name="Titulo">
   </form>
    ```
 
-######**`placeholder` ######Dar una pista del campo**.  El atributo `placeholder` indica al usuario que elementos pide el formulario[^1]. No debe contener saltos de linea, veces no es visible[^5].
+- **`placeholder` - Dar una pista del campo**.  El atributo `placeholder` indica al usuario que elementos pide el formulario[^1]. No debe contener saltos de linea, veces no es visible[^5].
   ```HTML 
   <form action="URL.com">
     <input type="text" name="Titulo" placeholder="Email address">
   </form>
    ```
 
-######**`required` ######Hacer obligatorio un campo**. El atributo `required` especifica al usuario campos obligatorios del formulario[^5]. No necesita ningún valor[^1].
+- **`required` - Hacer obligatorio un campo**. El atributo `required` especifica al usuario campos obligatorios del formulario[^5]. No necesita ningún valor[^1].
   ```HTML 
   <form action="URL.com">
     <input type="text" name="Titulo" placeholder="Email address"     required>
   </form>
    ```
 
-######**`value` ######Asignar un valor un campo seleccionable**. El atributo `value` declara que valor se enviará. En un [[Inputs/Course/Responsive Web Disign/Botones en HTML#^08712f\|radio button]] los datos dependen del `name` y del `value`, si no se define el `value` el formulario enviará `nombre=on`. Por conveniencia se usa el mismo nombre del `id`[^1].
+- **`value` - Asignar un valor un campo seleccionable**. El atributo `value` declara que valor se enviará. En un [[Inputs/Course/Responsive Web Disign/Botones en HTML#^08712f\|radio button]] los datos dependen del `name` y del `value`, si no se define el `value` el formulario enviará `nombre=on`. Por conveniencia se usa el mismo nombre del `id`[^1].
   ```HTML 
   <form action="URL.com">
     <input type="radio" name="grupo1" id="opcion 1" value="opcion 1" required>
@@ -101,7 +101,7 @@
 
 
 
-######**`type="radio"` ######Añadir un botón de radio**. La función `"radio"` define un circulo pequeño y clickable, generalmente se usa en [[Inputs/Course/Responsive Web Disign/Formularios en HTML#^0e7928\| grupos fieldsed]] para seleccionar un solo botón a mismo tiempo[^4]. Se define en el atributo `type` dentro de la etiqueta `<input>`[^1].
+- **`type="radio"` - Añadir un botón de radio**. La función `"radio"` define un circulo pequeño y clickable, generalmente se usa en [[Inputs/Course/Responsive Web Disign/Formularios en HTML#^0e7928\| grupos fieldsed]] para seleccionar un solo botón a mismo tiempo[^4]. Se define en el atributo `type` dentro de la etiqueta `<input>`[^1].
   ```HTML 
   <input type="radio">
    ```
@@ -116,14 +116,14 @@
 
 
 
-######**`id` ######Identificar elementos**. Atributo que identifica elementos específicos, cada `id` debe tener un valor único, diferente a cualquiera de la misma página[^5].
+- **`id` - Identificar elementos**. Atributo que identifica elementos específicos, cada `id` debe tener un valor único, diferente a cualquiera de la misma página[^5].
  
 
 </div></div>
 
 
 
-######**`<fieldset>` ######Agrupar elementos**. La etiqueta `<fieldsed>` agrupar elementos `<input>`[^1] en una [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^28750b\|block-level element]].
+- **`<fieldset>` - Agrupar elementos**. La etiqueta `<fieldsed>` agrupar elementos `<input>`[^1] en una [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^28750b\|block-level element]].
   ```HTML 
   <fieldset>
     <label> 
@@ -143,13 +143,13 @@
 
 
 
-######**Block-level elements**. Agrupa los elementos embebidos en una nueva linea[^1]. Usa todo el ancho disponible, se extiende a la derecha e izquierda tanto como puede[^6]. 
+- **Block-level elements**. Agrupa los elementos embebidos en una nueva linea[^1]. Usa todo el ancho disponible, se extiende a la derecha e izquierda tanto como puede[^6]. 
 
 </div></div>
 
 
 
-######**`<legend>` ######Añade una descripción**. La etiqueta `<legend>` declara una descripción del grupo `<fieldset>`. Da contexto a los usuarios sobre que datos ingresar[^1].
+- **`<legend>` - Añade una descripción**. La etiqueta `<legend>` declara una descripción del grupo `<fieldset>`. Da contexto a los usuarios sobre que datos ingresar[^1].
   ```HTML 
   <fieldset>
     <legend>¿Qué opción prefieres?</legend>
@@ -165,7 +165,7 @@
    ```
 
 
-> [!example]######
+> [!example]- 
 > 
 > <fieldset>
 >    <legend>¿Quieres salir conmigo?</legend>
@@ -183,7 +183,7 @@
 >    </label>
 > </fieldset>
 > 
-> > [!info]######Código
+> > [!info]- Código
 > > ```
 > > <fieldset>
 > >    <legend>¿Quieres salir conmigo?</legend>
