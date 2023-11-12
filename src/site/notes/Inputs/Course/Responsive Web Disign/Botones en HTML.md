@@ -11,8 +11,8 @@
 [^6]: [Formularios HTML](https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=520:formularios-html-form-label-name-value-id-ejemplos-checkbox-option-button-combobox-cu00720b&catid=69&Itemid=192)
 
 - **`<button>` - Añadir un botón simple**. La etiqueta `button` añade una casilla clickable. Si no se define atributos por defecto envía la información al atributo `action` del [[Inputs/Course/Responsive Web Disign/Formularios en HTML#^d6e3f2\|formulario]][^1]. Los elementos `button` e `input` son elementos [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^31cf25\|inline]][^3].
-   ```HTML 
-  <button>Nombre</button>
+   ```HTML
+   <button>Nombre</button>
    ```
 
 
@@ -43,33 +43,31 @@
 
 - **`type="sumit"` - Enviar información del form**. La función `"sumit"` especifica la acción que cumplirá el botón. Se define en el atributo `type` dentro de la etiqueta `<button>`[^1].
    ```HTML 
-  <button type="submit">Nombre</button>
+   <button type="submit">Nombre</button>
    ```
 
 - **`type="chekbox"` - Añadir un botón checkbox**. La función `checkbox` se representa como una caja marcable, generalmente se usa para seleccionar más de una opción[^1]. Se define en el atributo `type` dentro la etiqueta `<input>`[^1].
    ```HTML 
-  <input type="checkbox">
+   <input type="checkbox">
    ```
 
 - **`<label>` - Añadir una etiqueta**. La etiqueta `<label>` asocia un texto con un `<input>`, al clickar el texto se seleccionará el elemento `<input>`. Para una asociación implícita[^5] se anida el `<input>` dentro de la etiqueta `<label>`[^1].
    ```HTML 
-  <label>
-    Opción
-    <input type="radio">
-  </label>
+   <label>Opción
+     <input type="radio">
+   </label>
    ```
 
 - **`name` - Agrupar inputs**. El atributo `name` se usa para identificar un grupo de control[^6]. En un `radio button` permite seleccionar solo uno, todos los `<input>` a agrupar deben tener el mismo `name`.
    ```HTML 
-  <label>
-    Opción
-    <input type="radio" name="grupo1">
-  </label>
+   <label>Opción
+     <input type="radio" name="grupo1">
+   </label>
    ```
 
 - **`type="radio"` - Añadir un botón de radio**. La función `"radio"` define un circulo pequeño y clickable, generalmente se usa en [[Inputs/Course/Responsive Web Disign/Formularios en HTML#^0e7928\| grupos fieldsed]] para seleccionar un solo botón a mismo tiempo[^4]. Se define en el atributo `type` dentro de la etiqueta `<input>`[^1].
    ```HTML 
-  <input type="radio">
+   <input type="radio">
    ```
 
 { #08712f}
