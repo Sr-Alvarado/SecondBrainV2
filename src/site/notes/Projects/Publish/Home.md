@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["#publish","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["#publish","gardenEntry"]}
 ---
 
-![NickName.png|150](/img/user/NickName.png)
+![NickName.png|150](/img/user/Anexos/Imagen/NickName.png)
 ¡Bienvenido a mi 🌱 Digital Garden!
 
 Te invito a explorar un espacio en constante crecimiento, donde las ideas son semillas que germinan y se entrelazan. La idea detrás de este proyecto es cultivar conceptos y perspectivas nuevas, a través de la investigación 📚 y reflexión 🤔.
