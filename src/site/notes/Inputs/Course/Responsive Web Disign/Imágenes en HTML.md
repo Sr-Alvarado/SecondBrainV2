@@ -59,9 +59,7 @@
    <a href="link.com">
       <img src="rutaImagen.svg">
    </a>
-   ```
-  
-{ #811e25}
+   ```{ #811e25}
 
 
 
@@ -75,7 +73,6 @@
    ``` 
 
 </div></div>
-
 
 
 - **`<figcaption>` - Añadir una descripción a la imagen**. Se anida el elemento `<img>` dentro de la [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^179304\|etiqueta figure]] (`<figure>`), allí se agrega la etiqueta `<figcaption>` para definir la descripción de la imagen[^1], se recomienda que sea la misma del texto alternativo[^4].
