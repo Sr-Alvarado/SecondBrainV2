@@ -59,7 +59,7 @@
    <a href="link.com">
       <img src="rutaImagen.svg">
    </a>
-   ```{ #811e25}
+   ``` { #811e25}
 
 
 
