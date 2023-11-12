@@ -7,7 +7,9 @@
 - **`<a>` - Crear un enlace o link**. La etiqueta anchor define un enlace a otra página indicando la ruta con el [[Inputs/Course/Responsive Web Disign/Imágenes en HTML#^811e25\|atributo href]][^1].
    ```HTML 
    <a href="enlace.com"></a>
-   ``` { #1cbe87}
+   ``` 
+
+{ #1cbe87}
 
 
 
@@ -43,7 +45,3 @@
 
 > [!example]-
 > <a href="https://static.vecteezy.com/system/resources/previews/015/738/191/original/choco-chips-cookies-illustration-png.png" target="_blank">Has click aquí para una galleta</a>
-> > [!info]- Code
-> > ```HTML
-> > <a href="https://static.vecteezy.com/system/resources/previews/015/738/191/original/choco-chips-cookies-illustration-png.png" target="_blank">Has click aquí para una galleta</a>
-> > ```
