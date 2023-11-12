@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"Botones en HTML.md","permalink":"/botones-en-html/","hide":true,"tags":["programation","HTML","DVC/RWD/1","publish"]}
 ---
 
+
 [^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]] - Cap 1
 [^2]: [[Inputs/Course/Responsive Web Disign/Formularios en HTML#^d6e3f2\|Añadir un formulario]]
 [^3]: [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML\|Elementos básicos en HTML]]
@@ -10,7 +11,7 @@
 [^6]: [Formularios HTML](https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=520:formularios-html-form-label-name-value-id-ejemplos-checkbox-option-button-combobox-cu00720b&catid=69&Itemid=192)
 
 - **`<button>` - Añadir un botón simple**. La etiqueta `button` añade una casilla clickable. Si no se define atributos por defecto este envía la información al atributo `action` del formulario[^1][^2]. Los elementos `button` e `input` son elementos [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^31cf25\|inline]][^3].
-  ```HTML 
+   ```HTML 
   <button>Nombre</button>
    ```
 
