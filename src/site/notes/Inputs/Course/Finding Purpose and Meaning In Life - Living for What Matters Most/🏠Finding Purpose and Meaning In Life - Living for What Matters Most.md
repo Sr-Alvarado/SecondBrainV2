@@ -8,7 +8,7 @@
 #### [[Inputs/Course/Finding Purpose and Meaning In Life - Living for What Matters Most/Couse Overview\|Couse Overview]]
 ### What Mathers Most
 #### [[Inputs/Course/Finding Purpose and Meaning In Life - Living for What Matters Most/Welcome to Week 1\|Welcome to Week 1]]
-#### [[Inputs/Course/Finding Purpose and Meaning In Life - Living for What Matters Most/A story - Nietzche's Walking Stick\|A story - Nietzche's Walking Stick]]
+#### [[A story #\|A story ######Nietzche's Walking Stick]]
 #### [[Inputs/Course/Finding Purpose and Meaning In Life - Living for What Matters Most/Who I am\|Who I am]]
 #### [[Inputs/Course/Finding Purpose and Meaning In Life - Living for What Matters Most/What do I value\|What do I value]]
 #### [[Inputs/Course/Finding Purpose and Meaning In Life - Living for What Matters Most/7 Questions Exercise Introduction\|7 Questions Exercise Introduction]]
@@ -26,5 +26,5 @@
 ## Week 2
 ### Views on Purpose
 #### [[Inputs/Course/Finding Purpose and Meaning In Life - Living for What Matters Most/Welcome to Week 2\|Welcome to Week 2]]
-#### [[Inputs/Course/Finding Purpose and Meaning In Life - Living for What Matters Most/A story - 2001 A Space Odyssey\|A story - 2001 A Space Odyssey]]
+#### [[A story #\|A story ######2001 A Space Odyssey]]
 #### [[Inputs/Course/Finding Purpose and Meaning In Life - Living for What Matters Most/Learning about Purpose form Camus, Sartre, and Nietzsche\|Learning about Purpose form Camus, Sartre, and Nietzsche]]
