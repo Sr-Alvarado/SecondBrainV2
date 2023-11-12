@@ -8,10 +8,10 @@
 
 # Log
 En la cultura hindú  la ventromedial prefrontal cortex es donde se ubica el [[Wiki/Atman\|Atman]]:
-- Es ese yo casi divino que somos
-- Es nuestro verdadero yo
-- Nos enseña quién ser 
-- Y qué hacer
+######Es ese yo casi divino que somos
+######Es nuestro verdadero yo
+######Nos enseña quién ser 
+######Y qué hacer
 Cuando comparas dónde está ubicado este atman según la religión hindú y dónde la RM dice que reside nuestro propósito, te das cuenta que es exactamente el mismo lugar.
 ---
-[[Inputs/Course/Finding Purpose and Meaning In Life - Living for What Matters Most/🏠Finding Purpose and Meaning In Life - Living for What Matters Most\|🏠Finding Purpose and Meaning In Life - Living for What Matters Most]]
+[[🏠Finding Purpose and Meaning In Life #\|🏠Finding Purpose and Meaning In Life ######Living for What Matters Most]]
