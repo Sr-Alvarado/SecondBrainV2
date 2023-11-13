@@ -5,13 +5,13 @@
 
 [^1]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]] - Cap 2
 
-- **`<style>` - Elemento de estilo**. Se agrega dentro del elemento [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^2d7802\|head]] y permite dar estilos de diseño a la página web[^1].
+- **`<style>` - Estilos dentro de HTML**. Esta etiqueta agregada en el elemento [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^2d7802\|head]] permite dar estilos de diseño a la página web. Varios elementos pueden tener las mismas propiedades, solo se deben separar por una coma[^1].
    ```HTML
    <!DOCTYPE html>
    <html lang="en">
      <head>
        <style>
-         element {
+         element1, element2 {
            property: value;
          }
        </style>
@@ -47,4 +47,22 @@
 </div></div>
 
 
-- 
+- **`style` - Estilos en un archivo .ccs**. Se usa la misma estructura que en HTML, sin embargo la etiqueta `style` ya no necesita ir dentro de `<>`.
+   ```CSS
+   style
+         element1, element2 {
+           property: value;
+         }
+   /style
+   ```
+
+
+- **`<link rel="stylesheet">` - Vincular CSS**. Este elemento [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^4af022\|self-closing tag]] permite vincular la página `.html` con el archivo de estilos `.css` donde estarán todos los estilos de la página.
+   ```HTML 
+   <head>
+     <link rel="stylesheet" href="archivo de estilos.css">
+  </head>
+   ```
+
+
+- Paso 17
