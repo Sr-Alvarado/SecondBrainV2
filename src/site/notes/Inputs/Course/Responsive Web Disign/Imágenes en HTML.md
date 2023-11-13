@@ -39,7 +39,7 @@
 
 
 
-- **Atributos**. Son palabras especiales dentro de la etiqueta de apertura de un elemento para controlar su comportamiento[^1].
+- **Atributos o propiedades**. Son palabras especiales dentro de la etiqueta de apertura de un elemento para controlar su comportamiento definiendo funciones o valores[^1].
    ```HTML 
    <etiqueta atributo="funcion/valor">
    ```
