@@ -15,8 +15,7 @@ Primer curso de la ruta [[Full Stack\|Full Stack]] de [[Programation/FreeCodeCam
 
 { .block-language-dataview}
 ## Learn Basic CSS by Building a Cafe Menu
-- [[Inputs/Course/Responsive Web Disign/Anexos/tp.rwd\|tp.rwd]]: \-
 - [[Inputs/Course/Responsive Web Disign/Elementos Básicos en CSS\|Elementos Básicos en CSS]]: \-
 
 { .block-language-dataview}
-[[Inputs/Course/Responsive Web Disign/Elementos Básicos en CSS\|Elementos Básicos en CSS]]
+
