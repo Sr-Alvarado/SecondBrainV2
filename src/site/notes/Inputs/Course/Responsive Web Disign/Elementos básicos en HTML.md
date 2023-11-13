@@ -9,6 +9,7 @@
 [^5]: [[Inputs/Course/Responsive Web Disign/Formularios en HTML\|Formularios en HTML]]
 [^6]: [HTML Block and Inline Elements | W3schools](https://www.w3schools.com/html/html_blocks.asp#:~:text=A%20block%2Dlevel%20element%20always%20takes%20up%20the%20full%20width,paragraph%20in%20an%20HTML%20document.)
 [^7]: [Aprende HTML y CSS - Curso Desde Cero | Youtube](https://www.youtube.com/watch?v=XqFR2lqBYPs)
+[^8]: [[Inputs/Course/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]] - Cap 2
 
 - **Elementos y etiquetas**. Los elementos son los componentes básicos en [[Programation/HTML\|HTML]]. Las etiquetas definen el tipo de elemento[^7], su estructura es de apertura `<etiqueta>` y de cierre `</etiqueta>`[^1].
    ```html
@@ -62,7 +63,7 @@
    </head> 
    ```
 
-- **`<title>` - Añadir un titulo de la pestaña**. Se usa la etiqueta `<title>` dentro del elemento `<head>`.
+- **`<title>` - Añadir un titulo de la pestaña**. Se usa la etiqueta `<title>` dentro del elemento `<head>`[^1]. Este elemento es usado por los buscadores para indexar tu página web[^8].
    ```HTML 
    <head>
      <meta charset="UTF-8">
@@ -98,7 +99,7 @@
    </main>
    ```
 
-- **Atributos**. Son palabras especiales dentro de la etiqueta de apertura de un elemento para controlar su comportamiento[^1].
+- **Atributos o propiedades**. Son palabras especiales dentro de la etiqueta de apertura de un elemento para controlar su comportamiento definiendo funciones o valores[^1].
    ```HTML 
    <etiqueta atributo="funcion/valor">
    ```
