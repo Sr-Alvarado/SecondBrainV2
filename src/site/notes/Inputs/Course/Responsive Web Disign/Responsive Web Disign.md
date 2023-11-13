@@ -3,7 +3,7 @@
 ---
 
 ## About
-Primer curso de la ruta [[Full Stack\|Full Stack]] de [[Programation/FreeCodeCamp\|FreeCodeCamp]] sobre los lenguajes que los desarrolladores usan para construir páginas web: [[Programation/HTML\|HTML]] para el contenido, y [[Inputs/Course/Responsive Web Disign/CSS\|CSS]] para el diseño.
+Primer curso de la ruta [[Full Stack\|Full Stack]] de [[Programation/FreeCodeCamp\|FreeCodeCamp]] sobre los lenguajes que los desarrolladores usan para construir páginas web: [[Programation/HTML\|HTML]] para el contenido, y [[Wiki/CSS\|CSS]] para el diseño.
 ## Learn HTML by  Building a Cat Photo App
 - [[Inputs/Course/Responsive Web Disign/Textos en HTML\|Textos en HTML]]: Como añadir títulos, párrafos, comentarios, negrita, cursiva y pie de página.
 - [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML\|Elementos básicos en HTML]]: Que son las etiquetas, títulos, párrafos, el elemento main, comentarios, indentation, atributos y self-closing tags en HTML.
@@ -14,3 +14,9 @@ Primer curso de la ruta [[Full Stack\|Full Stack]] de [[Programation/FreeCodeCam
 - [[Inputs/Course/Responsive Web Disign/Botones en HTML\|Botones en HTML]]: Añadir botones, enviar info a forms, nombrar un botón, asociar botones, darle un valor a cada input y agrupar botones.
 
 { .block-language-dataview}
+## Learn Basic CSS by Building a Cafe Menu
+- [[Inputs/Course/Responsive Web Disign/Anexos/tp.rwd\|tp.rwd]]: \-
+- [[Inputs/Course/Responsive Web Disign/Elementos Básicos en CSS\|Elementos Básicos en CSS]]: \-
+
+{ .block-language-dataview}
+[[Inputs/Course/Responsive Web Disign/Elementos Básicos en CSS\|Elementos Básicos en CSS]]
