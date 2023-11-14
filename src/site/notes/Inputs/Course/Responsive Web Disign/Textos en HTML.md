@@ -39,3 +39,27 @@
 > [!example]-
 > <h1>Quisque ut dolor gravida, placerat libero vel, euismod.</h1>
 > <p>Plura mihi bona sunt, inclinet, amari petere vellent. Ab illo tempore, ab est sed immemorabili. Ullamco <strong>texto con más importancia</strong> ex ea commodi consequat. Quae vero auctorem tractata ab fiducia dicuntur. At nos hinc posthac, sitientis piros Afros.</p><p>Petierunt uti sibi concilium totius <em>texto enfatizado</em> certam indicere. Morbi fringilla convallis sapien, id pulvinar odio volutpat. A communi observantia non est recedendum.</p><footer>Pie de página: Inmensae subtilitatis, obscuris et malesuada fames.</footer>
+> 
+> > [!info]- Code
+> >```HTML
+> >   <h1>
+> >     Quisque ut dolor gravida, placerat libero vel, euismod.
+> >   </h1>
+> >   <p>
+> >     Plura mihi bona sunt, inclinet, amari petere vellent. Ab illo tempore, ab est sed immemorabili. Ullamco 
+> >     <strong>
+> >       texto con más importancia
+> >     </strong> 
+> >     ex ea commodi consequat. Quae vero auctorem tractata ab fiducia dicuntur. At nos hinc posthac, sitientis piros Afros.
+> >   </p>
+> >   <p>
+> >     Petierunt uti sibi concilium totius 
+> >     <em>
+> >       texto enfatizado
+> >     </em> 
+> >     certam indicere. Morbi fringilla convallis sapien, id pulvinar odio volutpat. A communi observantia non est recedendum.
+> >   </p>
+> >   <footer>
+> >     Pie de página: Inmensae subtilitatis, obscuris et malesuada fames.
+> >   </footer>
+> >```
