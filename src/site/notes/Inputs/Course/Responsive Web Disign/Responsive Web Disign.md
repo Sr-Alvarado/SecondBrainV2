@@ -19,4 +19,3 @@ Primer curso de la ruta [[Full Stack\|Full Stack]] de [[Programation/FreeCodeCam
 - [[Inputs/Course/Responsive Web Disign/CSS para textos\|CSS para textos]]: \-
 
 { .block-language-dataview}
-
