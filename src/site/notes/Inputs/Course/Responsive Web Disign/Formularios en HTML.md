@@ -176,7 +176,7 @@
 > </fieldset>
 > 
 > > [!info]- Código
-> > ```
+> > ```HTML
 > > <fieldset>
 > >    <legend>¿Quieres salir conmigo?</legend>
 > >    <label>
