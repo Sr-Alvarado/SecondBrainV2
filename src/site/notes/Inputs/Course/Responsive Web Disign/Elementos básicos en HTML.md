@@ -56,6 +56,14 @@
 { #2d7802}
 
 
+- **`<meta name="value" content="value">` - declarar meta-datos del documento**. Este elemento con atributos `name` y `content` en conjunto permiten describir a la pág web. Es una [[Inputs/Course/Responsive Web Disign/Elementos básicos en HTML#^4af022\|Self-closing tag]]. En el ejemplo se describen metadatos para que la pág se vea similar en móvil y PC.
+   ```HTML 
+   <meta 
+     name="viewport" 
+     content="width=device-width, initial-scale=1.0" 
+   /> 
+   ```
+
 - **`<meta charset="UTF-8">` - Declarar caracteres especiales**. Por defecto el navegador usa los caracteres en inglés, para declarar caracteres de otros idiomas de usa la etiqueta `meta` con el atributo `charset`.
    ```HTML
    <head>
