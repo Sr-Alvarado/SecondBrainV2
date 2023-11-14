@@ -44,3 +44,11 @@
 
 > [!example]-
 > <a href="https://static.vecteezy.com/system/resources/previews/015/738/191/original/choco-chips-cookies-illustration-png.png" target="_blank">Has click aquí para una galleta</a>
+> > [!info]- Code
+> >```HTML
+> >   <a
+> >     href="https://static.vecteezy.com/system/resources/previews/015/738/191/original/choco-chips-cookies-illustration-png.png" 
+> >     target="_blank"
+> >   > Has click aquí para una galleta
+> >   </a>
+> >```
