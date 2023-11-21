@@ -3,7 +3,7 @@
 ---
 
 ## About
-Primer curso de la ruta [[Full Stack\|Full Stack]] de [[Programation/FreeCodeCamp\|FreeCodeCamp]] sobre los lenguajes que los desarrolladores usan para construir páginas web: [[Programation/HTML\|HTML]] para el contenido, y [[Wiki/CSS\|CSS]] para el diseño.
+Este es el primer curso de la ruta [[Full Stack\|Full Stack]] de [[Programation/FreeCodeCamp\|FreeCodeCamp]] sobre los lenguajes que los desarrolladores usan para construir páginas web: [[Programation/HTML\|HTML]] para el contenido, y [[Wiki/CSS\|CSS]] para el diseño.
 ## Learn HTML by  Building a Cat Photo App
 - [[Responsive Web Disign/Textos en HTML\|Textos en HTML]]: Como añadir títulos, párrafos, comentarios, negrita, cursiva y pie de página.
 - [[Responsive Web Disign/Elementos básicos en HTML\|Elementos básicos en HTML]]: Que son las etiquetas, títulos, párrafos, el elemento main, comentarios, indentation, atributos y self-closing tags en HTML.
