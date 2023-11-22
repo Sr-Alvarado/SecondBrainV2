@@ -4,6 +4,7 @@
 
 
 [^1]: [[Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]] - Cap 2
+[^2]: [Class selectors - CSS | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Class_selectors)
 
 - **Estructura de los elementos en CSS**. La estructura de un documento CSS define a un elemento y entre `{}` las propiedades de este elemento. El valor de cada propiedad justo a continuación de `:`, y cada propiedad cerrada por `;`[^1].
    ```CSS
@@ -83,9 +84,49 @@
    }
    ```
 
+{ #1af052}
+
 - **`/* text */` - Añadir comentarios en CSS**. Esta estructura permite añadir texto que no se tomará en cuenta para modificar la página web.
    ```CSS 
    /* Holi! Soy un comentario en CSS */
    ```
 
-- 
+- **`.class` - Agregar clases en CSS**. Para crear un elemento de tipo `class` se usa el `.` antes del elemento. De esta forma puedes usar esa clase en otros elementos CSS[^1][^2].
+   ```CSS 
+   /* Todos los elementos <li> con clase spacious */
+   li.spacious {
+     margin: 2em;
+   }
+   /* Todos los elementos <li> anidados en cualquier elemento con clase spacious */
+   .spacious li {
+     margin: 2em;
+   }
+
+   ```
+
+{ #09fbc3}
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/responsive-web-disign/elementos-basicos-en-html/#f68674" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+- **`class` - Añadir clases a un elemento HTML**. Atributo que agrega clases, estilos CSS, a un elemento HTML.
+   ```HTML 
+   <p
+     class="spacious clase_2"
+   >holi!</p>
+   ``` 
+
+
+</div></div>
+
+
+- **`display: inline-block` - Hacer que varios elementos ocupen la misma linea**. La propiedad `display` con el valor `inline-block` permite que varios bloques ocupen la misma linea y solo el ancho de su contenido[^1].
+   ```CSS 
+   p {
+     display: inline-block;
+   }
+   ```
+
