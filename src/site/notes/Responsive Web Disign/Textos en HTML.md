@@ -3,6 +3,7 @@
 ---
 
 [^1]: [[Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]] - Cap 1
+[^2]: [`<article>`: The Article Contents element - HTML | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article)
 
 - **`<h>` - Añadir títulos**. Los headers indican importancia (1-6), a menor el número mayor importancia. Solo debe haber un `<h1>` por página[^1].
    ```HTML 
@@ -34,6 +35,13 @@
 - **`<footer>` - Añadir un pie de página**. Se usa la etiqueta `<footer>` para definir un pie de página[^1].
    ```HTML 
    <footer></footer>
+   ```
+
+- **`<article>` - Agregar un componente independiente del artículo**. Elemento que agrega un espacio independiente del contenido del artículo, que puede ser reusado[^2]. Por lo general contiene multiples elementos dentro[^1]. 
+   ```HTML 
+   <article>
+     <p>Este es un articulo</p>
+   </article>
    ```
 
 > [!example]-
