@@ -139,8 +139,38 @@
 - **Block-level elements**. Agrupa los elementos embebidos en una nueva linea[^1]. Usa todo el ancho disponible, se extiende a la derecha e izquierda tanto como puede[^6].{ #28750b}
 
 
-- **`<div>` - Crea un contenedor genérico**. Este elemento permite crear un contenedor sin ninguna propiedad a menos que se modifique usando CSS[^9]. Se usa principalmente para agregar diseños[^8].
+- **`<div>` - Crea un contenedor genérico**. Elemento que crea un contenedor sin propiedades[^9]. Se usa principalmente para agregar diseños en CSS[^8].
    ```HTML 
    <div>
    </div>
    ```
+
+- **`class` - Añadir clases a un elemento HTML**. Atributo que agrega clases, estilos CSS, a un elemento HTML.
+   ```HTML 
+   <p
+     class="spacious clase_2"
+   >holi!</p>
+   ``` { #f68674}
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/responsive-web-disign/elementos-basicos-en-css/#09fbc3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+- **`.class` - Agregar clases en CSS**. Para crear un elemento de tipo `class` se usa el `.` antes del elemento. De esta forma puedes usar esa clase en otros elementos CSS[^1][^2].
+   ```CSS 
+   /* Todos los elementos <li> con clase spacious */
+   li.spacious {
+     margin: 2em;
+   }
+   /* Todos los elementos <li> anidados en cualquier elemento con clase spacious */
+   .spacious li {
+     margin: 2em;
+   }
+
+   ```
+ 
+
+</div></div>
+
