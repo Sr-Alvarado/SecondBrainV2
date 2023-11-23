@@ -16,6 +16,7 @@ Este es el primer curso de la ruta [[Full Stack\|Full Stack]] de [[Programation/
 { .block-language-dataview}
 ## Learn Basic CSS by Building a Cafe Menu
 - [[Responsive Web Disign/Elementos Básicos en CSS\|Elementos Básicos en CSS]]: \-
+- [[Responsive Web Disign/Textos en CSS\|Textos en CSS]]: \-
 - [[Responsive Web Disign/Áreas en CSS\|Áreas en CSS]]: \-
 - [[Responsive Web Disign/Colores en CSS\|Colores en CSS]]: \-
 
