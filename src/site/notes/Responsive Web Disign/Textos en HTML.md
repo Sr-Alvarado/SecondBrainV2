@@ -44,9 +44,16 @@
    </article>
    ```
 
+- **`<hr>` - Añadir una linea divisoria**. Elemento [[Responsive Web Disign/Elementos básicos en HTML#^4af022\|self-closing tag]] que agrega una linea divisoria entre secciones con diferente contenido.
+   ```HTML 
+   <hr>
+   ```{ #f966d7}
+
+
+
 > [!example]-
 > <h1>Quisque ut dolor gravida, placerat libero vel, euismod.</h1>
-> <p>Plura mihi bona sunt, inclinet, amari petere vellent. Ab illo tempore, ab est sed immemorabili. Ullamco <strong>texto con más importancia</strong> ex ea commodi consequat. Quae vero auctorem tractata ab fiducia dicuntur. At nos hinc posthac, sitientis piros Afros.</p><p>Petierunt uti sibi concilium totius <em>texto enfatizado</em> certam indicere. Morbi fringilla convallis sapien, id pulvinar odio volutpat. A communi observantia non est recedendum.</p><footer>Pie de página: Inmensae subtilitatis, obscuris et malesuada fames.</footer>
+> <p>Plura mihi bona sunt, inclinet, amari petere vellent. Ab illo tempore, ab est sed immemorabili. Ullamco <strong>texto con más importancia</strong> ex ea commodi consequat. Quae vero auctorem tractata ab fiducia dicuntur. At nos hinc posthac, sitientis piros Afros.</p><hr><p>Petierunt uti sibi concilium totius <em>texto enfatizado</em> certam indicere. Morbi fringilla convallis sapien, id pulvinar odio volutpat. A communi observantia non est recedendum.</p><footer>Pie de página: Inmensae subtilitatis, obscuris et malesuada fames.</footer>
 > 
 > > [!info]- Code
 > >```HTML
@@ -60,6 +67,7 @@
 > >     </strong> 
 > >     ex ea commodi consequat. Quae vero auctorem tractata ab fiducia dicuntur. At nos hinc posthac, sitientis piros Afros.
 > >   </p>
+> >   <hr>
 > >   <p>
 > >     Petierunt uti sibi concilium totius 
 > >     <em>
