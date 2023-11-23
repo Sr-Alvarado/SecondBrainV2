@@ -130,3 +130,18 @@
    }
    ```
 
+- **Agregar un pseudo-selector**. Para agregar un elemento de este tipo se coloca un `:` antes de poner el nombre del elemento.
+   ```CSS 
+   a:visited { /* Modifica las propiedades de un enlace que ya fue visitado */
+     color: grey;
+   }
+
+   a:hover { /* Modifica las propiedades de un enlace cuando el ratón pasa por encima */
+     color: brown;
+   }
+
+   a:active { /* Modifica las propiedades de un enlace cuando está siendo clikado */
+     color: white;
+   }
+   ```
+
