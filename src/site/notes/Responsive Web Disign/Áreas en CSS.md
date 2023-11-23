@@ -18,7 +18,8 @@
         text-align: left;
       }
     </style>
-   ```
+   ```{ #a3dc50}
+
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/responsive-web-disign/elementos-basicos-en-css/#8e818e" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -39,13 +40,23 @@
 - **`width` - Modificar el ancho de un elemento**. Esta propiedad modifica cuanto espacio ocupará el elemento en pantalla. Se define en pixeles `px` o en porcentaje `%`.
    ```CSS 
    #gato {
-     width: 250px;
+     width: 250px; /* Ocupará 250px del espacio disponible */
    }
 
    #perro {
-     width: 80%;
+     width: 80%; /* Ocupará el 80% del espacio disponible */
    }
-   ``` 
+   ```
+
+
+- **`max-width` - Añadir un ancho máximo en CSS**. Propiedad que fija en un máximo el espacio que puede existir para un elemento.
+   ```CSS
+   #gato {
+     width: 80%; /* Ocupará el 80% del espacio disponible */
+     max-width: 500 px; /* Ocupará máximo 500px a pesar de que el espacio disponible es mayor */
+   }
+   ```
+
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/responsive-web-disign/elementos-basicos-en-css/#1af052" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -78,8 +89,10 @@
 
 - **Centrar un elemento en CSS**. Se usan las 2 propiedades `margin-left` y `margin-right` lo que añade espacios a los 2 lados del elemento centrándolo.
    ```CSS 
-   margin-left: auto;
-   margin-right: auto;
+   margin-left: auto; /* Agrega un margen a la izquierda */
+   margin-right: auto; /* Agrega un margen a la derecha */
+   margin-top: auto;  /* Agrega un margen arriba */
+   margin-bottom: auto; /* Agrega un margen abajo */
    ```
 
 - **`ulr()` - Agrega un enlace en CSS**. Valor que permite agregar enlaces, el enlace debe ir dentro de `()`.
