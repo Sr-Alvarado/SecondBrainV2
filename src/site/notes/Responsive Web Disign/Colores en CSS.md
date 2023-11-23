@@ -5,6 +5,13 @@
 
 [^1]: [[Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]] - Cap 2
 
+- **`color` - Cambia el color a un elemento**. Propiedad que cambia el color de un elemento.
+   ```CSS 
+   a {
+     color: black;
+   }
+   ```
+
 - **`background-color` - Cambiar el color de fondo**. Esta propiedad permite cambiar añadir un color personalizado al fondo usando el nombre del color o también con la estructura RGB.
    ```CSS 
    body {
@@ -28,4 +35,12 @@
 </div></div>
 
 
-- 
+- **`border-color` - Cambiar el color del borde de una linea divisoria**. Propiedad que cambia los bordes de un elemento [[Textos en HTML#^f966d7|`<hr>`]].
+   ```CSS 
+   hr {
+     height: 3px; /* Cambia el tamaño de la linea a 3px */
+     background-color: brown; /* Cambia el color de la linea */
+     border-color: brown; /* Cambia el color del borde de la linea */
+   }
+   ``` 
+^74451d
