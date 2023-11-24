@@ -105,7 +105,7 @@
 - **`class` - Añadir clases a un elemento HTML**. Atributo que agrega clases, estilos CSS, a un elemento HTML.
    ```HTML 
    <p
-     class="spacious clase_2"
+     class="spacious clase_2" <! Este elemento tiene 2 clases >
    >holi!</p>
    ``` 
 
