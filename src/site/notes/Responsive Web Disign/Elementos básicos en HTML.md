@@ -56,7 +56,7 @@
 { #2d7802}
 
 
-- **`<meta>` - Añadir meta-información de la página**. Este elemento es un [[Responsive Web Disign/Elementos básicos en HTML#^4af022\|self-closing tag]] que permite añadir información de la página web que no están contenidos en otros elementos del HTML.
+- **`<meta>` - Añadir meta-información de la página**. Este elemento es un [[Responsive Web Disign/Elementos básicos en HTML#^4af022\|self-closing tag]] que permite añadir información de la página web que no están contenidos en otros elementos del HTML. Pueden haber varios, cada uno añade información diferente.
 
 - **`<meta name="value" content="value">` - declarar el alto y el ancho**. Este atributos declaran el alto y el ancho de página en la pantalla renderizada. `name` define que se hablará del viewport y `content` define el ancho y el alto. En conjunto permiten que la página se vea similar en web y en móvil.
    ```HTML 
@@ -148,7 +148,7 @@
 - **`class` - Añadir clases a un elemento HTML**. Atributo que agrega clases, estilos CSS, a un elemento HTML.
    ```HTML 
    <p
-     class="spacious clase_2"
+     class="spacious clase_2" <! Este elemento tiene 2 clases >
    >holi!</p>
    ``` { #f68674}
 
