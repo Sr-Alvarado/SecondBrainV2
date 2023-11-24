@@ -56,16 +56,6 @@
 </div></div>
 
 
-- **`style` - Estilos en un archivo .ccs**. Se usa la misma estructura que en HTML, sin embargo ya no se usa la etiqueta `style`.
-   ```CSS
-   element1, element2 {
-     property1: value1;
-     property2: value2;
-     property3: value3;
-   }
-   ```
-
-
 - **`<link rel="stylesheet">` - Vincular CSS**. Este elemento [[Responsive Web Disign/Elementos básicos en HTML#^4af022\|self-closing tag]] permite vincular la página `.html` con el archivo de estilos `.css` donde estarán todos los estilos de la página.
    ```HTML 
    <head>
