@@ -67,12 +67,13 @@
    }
    ```
 
-- **`height` - Cambiar la altura de una linea divisoria**. Propiedad que modifica la altura de un elemento [[Textos en HTML#^f966d7|`<hr>`]] .
+- **`height` - Cambiar la altura de un elemento**. Propiedad que modifica la altura de un elemento.
    ```CSS 
    hr {
      height: 3px; /* Cambia la altura de la linea a 3px */
    }
-   ```
+   ```{ #993faf}
+
 
 
 
@@ -87,7 +88,7 @@
      background-color: brown; /* Cambia el color de la linea */
      border-color: brown; /* Cambia el color del borde de la linea */
    }
-   ``` 
+   ```
 
 
 </div></div>
