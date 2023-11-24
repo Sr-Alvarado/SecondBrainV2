@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"Colores en CSS.md","permalink":"/colores-en-css/","hide":true,"tags":["programation","CSS","DVC/RWD/2","publish"]}
+{"dg-publish":true,"dg-path":"Colores en CSS.md","permalink":"/colores-en-css/","hide":true,"tags":["programation","CSS","DVC/RWD/2","publish","DVC/RWD/3"]}
 ---
 
 
 [^1]: [[Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]] - Cap 2
+[^2]: [[Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]] - Cap 3
 
 - **`color` - Cambia el color a un elemento**. Propiedad que cambia el color de un elemento.
    ```CSS 
@@ -42,5 +43,5 @@
      background-color: brown; /* Cambia el color de la linea */
      border-color: brown; /* Cambia el color del borde de la linea */
    }
-   ``` 
+   ```
 ^74451d
