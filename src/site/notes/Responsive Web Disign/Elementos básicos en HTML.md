@@ -12,7 +12,7 @@
 [^8]: [[Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]] - Cap 2
 [^9]: [`<div>`: The Content Division element - HTML | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)
 
-- **Elementos y etiquetas**. Los elementos son los componentes básicos en [[Programation/HTML\|HTML]]. Las etiquetas definen el tipo de elemento[^7], su estructura es de apertura `<etiqueta>` y de cierre `</etiqueta>`[^1].
+- **Elementos y etiquetas**. Los elementos son los componentes básicos en [[Brain/Programation/HTML\|HTML]]. Las etiquetas definen el tipo de elemento[^7], su estructura es de apertura `<etiqueta>` y de cierre `</etiqueta>`[^1].
    ```html
    <etiqueta>Contenido del elemento</etiqueta> --> El conjunto reprecenta un elemento
    ```
