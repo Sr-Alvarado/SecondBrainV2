@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Botones en HTML.md","permalink":"/botones-en-html/","hide":true,"tags":["programation","HTML","DVC/RWD/1","publish"]}
+{"dg-publish":true,"dg-path":"Botones en HTML.md","permalink":"/botones-en-html/","title":"Botones en HTML","hide":true,"tags":["programation","HTML","DVC/RWD/1","publish"]}
 ---
 
 
