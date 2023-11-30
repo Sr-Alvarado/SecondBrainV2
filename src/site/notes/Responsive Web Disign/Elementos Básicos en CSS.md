@@ -33,7 +33,7 @@
 
 
 
-- **Elementos y etiquetas**. Los elementos son los componentes básicos en [[Programation/HTML\|HTML]]. Las etiquetas definen el tipo de elemento[^7], su estructura es de apertura `<etiqueta>` y de cierre `</etiqueta>`[^1].
+- **Elementos y etiquetas**. Los elementos son los componentes básicos en [[Brain/Programation/HTML\|HTML]]. Las etiquetas definen el tipo de elemento[^7], su estructura es de apertura `<etiqueta>` y de cierre `</etiqueta>`[^1].
    ```html
    <etiqueta>Contenido del elemento</etiqueta> --> El conjunto reprecenta un elemento
    ```
