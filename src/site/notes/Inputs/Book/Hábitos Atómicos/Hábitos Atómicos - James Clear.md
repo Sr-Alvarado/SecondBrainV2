@@ -25,8 +25,8 @@
 
 [[Wiki/Hábito\|Hábito]]
 
-## PRINCIPIOS FUNDAMENTALES  
-POR QUÉ LOS PEQUEÑOS CAMBIOS GENERAN UNA GRAN DIFERENCIA
+## Principios fundamentales 
+Por qué los pequeños cambios generan una gran diferencia
 ### El sorprendente poder de los hábitos atómicos
 
 > La matemática de las pequeñas mejoras funciona de la siguiente manera: si logras ser 1% mejor cada día durante un año, terminarás siendo 37 veces mejor al final del período. [28/11/23 18:53](calibre://view-book/_hex_-43616c69627265626f6f6b73/28/EPUB?open_at=epubcfi%28/20/2/4/30/1%3A211%29){ #85d69b}
@@ -68,7 +68,7 @@ POR QUÉ LOS PEQUEÑOS CAMBIOS GENERAN UNA GRAN DIFERENCIA
 > Problema 4: Las metas no coinciden con el progreso a largo plazo. El propósito de definir metas consiste en convertirse en un ganador de una sola ocasión. El propósito de construir sistemas consiste en seguir participando en el juego. La mentalidad que verdaderamente se enfoca en el largo plazo no se centra en el cumplimiento de metas. No se trata de alcanzar metas aisladas. Se trata de un ciclo de refinamiento interminable y de mejora continua. Por encima de todo, tu compromiso con el proceso es lo que va a determinar tu progreso. [28/11/23 19:51](calibre://view-book/_hex_-43616c69627265626f6f6b73/28/EPUB?open_at=epubcfi%28/20/2/4/144/1%3A0%29)
 
 > Si tienes problemas para cambiar tus hábitos, el problema no eres tú. El problema es tu sistema. Los malos hábitos se repiten constantemente no porque tú no los quieras cambiar, sino porque tienes un sistema que no funciona. No te elevas al nivel de tus metas. Desciendes al nivel de tus sistemas. [28/11/23 19:52](calibre://view-book/_hex_-43616c69627265626f6f6b73/28/EPUB?open_at=epubcfi%28/20/2/4/148/1%3A0%29)
-#### RESUMEN DEL CAPÍTULO
+#### Resumen del capítulo
 - Los hábitos son el interés compuesto de la superación personal. Trabajar para lograr ser un 1% mejor cada día cuenta mucho a la larga.
 - Los hábitos son una espada de doble filo. Pueden trabajar a tu favor o en contra tuya. Por este motivo, entender los detalles es indispensable.
 - Los pequeños cambios con frecuencia parecen no tener ningún efecto hasta que logras cruzar un umbral crítico. Los resultados más poderosos de cualquier proceso acumulativo suelen retrasarse. Debes aprender a ser paciente.
