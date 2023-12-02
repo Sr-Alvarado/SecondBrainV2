@@ -23,5 +23,6 @@ Este es el primer curso de la ruta [[Full Stack\|Full Stack]] de [[Wiki/FreeCode
 { .block-language-dataview}
 ## Learn CSS colors by Building a Set of Colored Markers
 - [[Responsive Web Disign/Colores en CSS\|Colores en CSS]]: Como añadir y cambiar colores a un elemento, al fondo, al borde.
+- [[Responsive Web Disign/Gradientes en CSS\|Gradientes en CSS]]: \-
 
 { .block-language-dataview}
