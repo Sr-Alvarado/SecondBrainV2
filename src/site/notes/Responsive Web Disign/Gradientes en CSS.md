@@ -23,6 +23,5 @@
 - **Especificar el espacio que ocupara cada color.** Puedes añadir un `color-stop` o porcentaje de espacio que ocupará un color puro en el degradado con un `%` al lado del color.
    ```CSS 
    h1{
-     background: linear-gradient(to left top, blue 10%, red); /* Degradado de azul a rojo la esquina inferior derecha hacia la esquina superior izquierda */
+     background: linear-gradient(to left top, blue 10%, red); /* Degradado de azul ocupando el 10% del espacio a rojo ocupando el resto desde la esquina inferior derecha hacia la esquina superior izquierda */
    ```
-
