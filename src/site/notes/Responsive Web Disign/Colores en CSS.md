@@ -5,6 +5,7 @@
 
 [^1]: [[Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]] - Cap 2
 [^2]: [[Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]] - Cap 3
+[^3]: [linear-gradient() - CSS | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/linear-gradient)
 
 - **`color` - Cambia el color a un elemento**. Propiedad que cambia el color de un elemento.
    ```CSS 
@@ -43,5 +44,7 @@
      background-color: brown; /* Cambia el color de la linea */
      border-color: brown; /* Cambia el color del borde de la linea */
    }
-   ```
-^74451d
+   ```{ #74451d}
+
+
+
