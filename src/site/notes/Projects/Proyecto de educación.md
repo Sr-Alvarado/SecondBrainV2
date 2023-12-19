@@ -31,11 +31,11 @@ El proyecto está limitado a preparar a estudiantes que quieran ingresar a la un
 2. Más del 70% de los estudiantes que terminan el programa aumentan sus posibilidades de entrar.
 3. Más del 50% de los estudiantes que terminan el programa logran alcanzar una plaza universitaria.
 #### Recursos
-- Espacio de enseñanza adecuando. Lugar techado con carpetas, pizarras y proyector.
-- Materiales de estudio. Plumones, lapiceros y artículos de escritorio varios.
-- Profesores calificados. Personas preparadas y con experiencia en el curso que dictan.
-- Materiales educativos. Bancos de preguntas, balotarios, resúmenes, mazos de estudio, etc.
-- Presupuesto. Dinero necesario para llevar a cabo las actividades del proyecto.
+- **Espacio de enseñanza adecuando**. Lugar techado con carpetas, pizarras y proyector.
+- **Materiales de estudio**. Plumones, lapiceros y artículos de escritorio varios.
+- **Profesores calificados**. Personas preparadas y con experiencia en el curso que dictan.
+- **Materiales educativos**. Bancos de preguntas, balotarios, resúmenes, mazos de estudio, etc.
+- **Presupuesto**. Dinero necesario para llevar a cabo las actividades del proyecto.
 
 #### Hoja de ruta - Cronograma
 - #FALTA
