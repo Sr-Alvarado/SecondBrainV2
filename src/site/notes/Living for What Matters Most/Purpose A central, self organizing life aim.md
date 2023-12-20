@@ -22,5 +22,5 @@
 [[Ventromedial prefrontal cortex\|Ventromedial prefrontal cortex]] (vmPFC) es la parte del cerebro más relacionada con la autoconciencia.
 
 ---
-[[Living for What Matters Most/🏠 Finding Purpose and Meaning In Life - Living for What Matters Most\|🏠 Finding Purpose and Meaning In Life - Living for What Matters Most]]
+[[Living for What Matters Most/Finding Purpose and Meaning In Life\|Finding Purpose and Meaning In Life]]
 [[Me/My be goals\|My be goals]]
