@@ -17,6 +17,6 @@
          - ¿O te gustaría que la gente dijera que fuiste amable, que le cambiaste la vida?
 
 ---
-[[Living for What Matters Most/🏠 Finding Purpose and Meaning In Life - Living for What Matters Most\|🏠 Finding Purpose and Meaning In Life - Living for What Matters Most]]
+[[🏠 Finding Purpose and Meaning In Life - Living for What Matters Most\|🏠 Finding Purpose and Meaning In Life - Living for What Matters Most]]
 [[Me/What kind of legacy would you want to leave\|What kind of legacy would you want to leave]]
 [[Me/The headstone Test Reflection\|The headstone Test Reflection]]
