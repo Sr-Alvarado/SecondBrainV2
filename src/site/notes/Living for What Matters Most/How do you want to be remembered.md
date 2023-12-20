@@ -24,4 +24,4 @@
    > La muerte es casi el mejor invento de la vida: es el agente de cambio de la vida.
 
 ---
-[[Living for What Matters Most/🏠 Finding Purpose and Meaning In Life - Living for What Matters Most\|🏠 Finding Purpose and Meaning In Life - Living for What Matters Most]]
+[[Living for What Matters Most/Finding Purpose and Meaning In Life\|Finding Purpose and Meaning In Life]]
