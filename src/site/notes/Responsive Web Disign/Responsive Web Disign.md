@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Cursos/Responsive Web Disign.md","permalink":"/cursos/responsive-web-disign/","tags":["programation","HTML","CSS","publish"]}
+{"dg-publish":true,"dg-path":"Cursos/Responsive Web Disign.md","permalink":"/cursos/responsive-web-disign/","title":"Representar colores en CSS","tags":["programation","HTML","CSS","publish"]}
 ---
 
 ## About
