@@ -31,4 +31,4 @@
 - La [[Living for What Matters Most/Loving-kindness meditation Practice\|meditación de bondad amorosa]] ha demostrado que expresando felicidad y liberación este tipo de meditación mejora tu propósito de vida.
 
 ---
-[[Living for What Matters Most/🏠 Finding Purpose and Meaning In Life - Living for What Matters Most\|🏠 Finding Purpose and Meaning In Life - Living for What Matters Most]]
+[[Living for What Matters Most/Finding Purpose and Meaning In Life\|Finding Purpose and Meaning In Life]]
