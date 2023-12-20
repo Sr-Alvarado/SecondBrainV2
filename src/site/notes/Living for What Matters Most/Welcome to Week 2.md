@@ -17,4 +17,4 @@
    [[Wiki/Friedrich Nietzsche\|Nietzche]] se refería a que el avance de la ciencia hizo que Dios dejara de ser relevante para explicarse la vida. En "[[Así habló Zaratustra\|Así habló Zaratustra]]" el autor cuenta una metáfora sobre, un camello que quiere ser cargado con todo para comprenderlo todo, una vez está completamente cargado el camello se convierte en un león y se topa con un dragón, cada escama brillante del dragón representa los valores que hemos mantenido por miles de años, el león mata al dragón y se transforma en un niño, inocente y con un nuevo comienzo por delante, listo para construir sus propios valores libre del peso de los valores de los demás.
 
 ---
-[[🏠 Finding Purpose and Meaning In Life - Living for What Matters Most\|🏠 Finding Purpose and Meaning In Life - Living for What Matters Most]]
+[[Living for What Matters Most/Finding Purpose and Meaning In Life\|Finding Purpose and Meaning In Life]]
