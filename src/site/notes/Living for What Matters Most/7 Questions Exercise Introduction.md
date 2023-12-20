@@ -39,5 +39,5 @@
 7. ¿Cómo quieres ser recordado? / How do you want to be remembered?
 
 ---
-[[Living for What Matters Most/🏠 Finding Purpose and Meaning In Life - Living for What Matters Most\|🏠 Finding Purpose and Meaning In Life - Living for What Matters Most]]
+[[Living for What Matters Most/Finding Purpose and Meaning In Life\|Finding Purpose and Meaning In Life]]
 [[Me/What I do value\|What I do value]]
