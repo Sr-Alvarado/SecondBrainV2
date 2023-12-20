@@ -31,4 +31,4 @@ También dijo que es importante tener un estilo. Una vez que tienes un tema empi
  - <span style="background:rgba(136, 49, 204, 0.2)">El estilo es lo que como la guia de diseño de una marca, la marca escogió un tema (Ejemplo: Mar), con ese tema desarrolló un estilo (Ejemplo: Azul), y ahora cada diseño que crea sigue ese estilo definido.</span>
 
 ---
-[[Living for What Matters Most/🏠 Finding Purpose and Meaning In Life - Living for What Matters Most\|🏠 Finding Purpose and Meaning In Life - Living for What Matters Most]]
+[[🏠 Finding Purpose and Meaning In Life - Living for What Matters Most\|🏠 Finding Purpose and Meaning In Life - Living for What Matters Most]]
