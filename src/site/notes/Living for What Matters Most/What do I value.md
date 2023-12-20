@@ -29,6 +29,6 @@
       - Tus sueños más profundos
 
 ---
-[[Living for What Matters Most/🏠 Finding Purpose and Meaning In Life - Living for What Matters Most\|🏠 Finding Purpose and Meaning In Life - Living for What Matters Most]]
+[[🏠 Finding Purpose and Meaning In Life - Living for What Matters Most\|🏠 Finding Purpose and Meaning In Life - Living for What Matters Most]]
 
 mos a un sitio y entendamos, sintamos que nos acogen, que no nos desprecian, que no nos marginan. La cuarta motivación es una motivación al desafío, al reto. Si en la vida no hubiera retos, María, sería muy aburrida. Yo sé que, a veces, nos gusta mucho estar en la zona de confort, pero durante un tiempo, al cabo de un tiempo no hay quien lo aguante. Entonces, ese reto, ese desafío es una motivación importante. La quinta motivación es la de crecer, mejorar y progresar, y la sex
