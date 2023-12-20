@@ -22,4 +22,4 @@ El propósito se puede encontrar en cualquiera de estas etapas. Si te encuentras
 Estar perdido significa que tu propósito y la forma en que vives tu vida son incongruentes, esto es llamado [[Disonancia cognitiva\|disonancia cognitiva]]. Asegúrate que tu sistema de creencias (raíces) sean muy fuertes, para que nadie pueda moverlos y que sean magnéticos, cuando estés perdido te atraiga hacia ellos.
 
 ---
-[[Living for What Matters Most/🏠 Finding Purpose and Meaning In Life - Living for What Matters Most\|🏠 Finding Purpose and Meaning In Life - Living for What Matters Most]]
+[[🏠 Finding Purpose and Meaning In Life - Living for What Matters Most\|🏠 Finding Purpose and Meaning In Life - Living for What Matters Most]]
