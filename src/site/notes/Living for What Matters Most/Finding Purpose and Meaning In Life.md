@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Cursos/Finding Purpose And Meaning In Life.md","permalink":"/cursos/finding-purpose-and-meaning-in-life/","title":"Finding Purpose and Meaning In Life - Living for What Matters Most","tags":["home"]}
+{"dg-publish":true,"dg-path":"Cursos/Finding Purpose And Meaning In Life.md","permalink":"/cursos/finding-purpose-and-meaning-in-life/","title":"Finding Purpose and Meaning In Life","tags":["home"]}
 ---
 
 ## Week 1
