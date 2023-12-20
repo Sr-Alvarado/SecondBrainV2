@@ -14,4 +14,4 @@ En la cultura hindú  la ventromedial prefrontal cortex es donde se ubica el [[W
 - Y qué hacer
 Cuando comparas dónde está ubicado este atman según la religión hindú y dónde la RM dice que reside nuestro propósito, te das cuenta que es exactamente el mismo lugar.
 ---
-[[Living for What Matters Most/🏠 Finding Purpose and Meaning In Life - Living for What Matters Most\|🏠 Finding Purpose and Meaning In Life - Living for What Matters Most]]
+[[Living for What Matters Most/Finding Purpose and Meaning In Life\|Finding Purpose and Meaning In Life]]
