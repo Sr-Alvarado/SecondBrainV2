@@ -32,4 +32,4 @@ Durante su tiempo en los campos de concentración en psiquiatra Viktor Frankl de
 
 ---
 
-[[Living for What Matters Most/🏠 Finding Purpose and Meaning In Life - Living for What Matters Most\|🏠 Finding Purpose and Meaning In Life - Living for What Matters Most]]
+[[Living for What Matters Most/Finding Purpose and Meaning In Life\|Finding Purpose and Meaning In Life]]
