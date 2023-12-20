@@ -13,4 +13,4 @@
 En 2001 Odisea en el Espacio, al final aparece un "Starchild" y la película acaba, este hace referencia al "child" de [[Wiki/Friedrich Nietzsche\|Friedrich Nietzsche]], un ser nuevo emergido de la pelea con con el dragón de los valores antiguos, nuevo e inocente listo para crear su propio camino.
 
 ---
-[[Living for What Matters Most/🏠 Finding Purpose and Meaning In Life - Living for What Matters Most\|🏠 Finding Purpose and Meaning In Life - Living for What Matters Most]]
+[[Living for What Matters Most/Finding Purpose and Meaning In Life\|Finding Purpose and Meaning In Life]]
