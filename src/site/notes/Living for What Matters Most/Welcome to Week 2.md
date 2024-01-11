@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/living-for-what-matters-most/welcome-to-week-2/"}
+{"dg-publish":true,"permalink":"/living-for-what-matters-most/welcome-to-week-2/","hide":true}
 ---
 
 # Summary
