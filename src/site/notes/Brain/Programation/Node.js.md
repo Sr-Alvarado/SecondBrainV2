@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/brain/programation/node-js/"}
+{"dg-publish":true,"dg-path":"NodeJS.md","permalink":"/node-js/"}
 ---
 
 ## ¿Qué es Node.js?
