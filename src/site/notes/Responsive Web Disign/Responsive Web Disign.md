@@ -16,8 +16,8 @@ Este es el primer curso de la ruta [[Full Stack\|Full Stack]] de [[Wiki/FreeCode
 { .block-language-dataview}
 ## Learn Basic CSS by Building a Cafe Menu
 - [[Responsive Web Disign/Elementos Básicos en CSS\|Elementos Básicos en CSS]]: Estructura, CSS en HTML, elementos básicos, vincular CSS a HTML, ID, comentarios, clases, muti-bloques, pseudo-selector.
-- [[Responsive Web Disign/Textos en CSS\|Textos en CSS]]: Cambiar la fuente y fuente de respaldo, tamaño de la letra, espaciado.
 - [[Responsive Web Disign/Áreas en CSS\|Áreas en CSS]]: Alinear un texto, modificar el ancho y ancho máximo, margen, centrar y padding.
+- [[Responsive Web Disign/Textos en CSS\|Textos en CSS]]: Cambiar la fuente y fuente de respaldo, tamaño de la letra, espaciado.
 - [[Responsive Web Disign/Colores en CSS\|Colores en CSS]]: Como añadir y cambiar colores a un elemento, al fondo, al borde.
 
 { .block-language-dataview}
