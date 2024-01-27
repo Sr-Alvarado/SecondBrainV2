@@ -7,7 +7,7 @@ Basado en el video de [midudev](https://github.com/midudev) en [Youtube](https:/
 Existen varias páginas web que recopilan proyectos (issues) para poder contribuir:
 - [For Good First Issue](https://forgoodfirstissue.github.com/): Página oficial de GitHub con proyectos Open Source y de apoyo a la sociedad en los que contribuir.
 - [Good First Issue](https://goodfirstissue.dev/): Página enfocada en issues para personas que están comenzado, recopila issues "fáciles" de solucionar para que puedas hacer tus primeras contribuciones.
-- [Good First Issues](https://goodfirstissues.com/): Está enfocada en el mismo objetivo que la anterior, busca todas las Issues con la etiqueta `goodfirstissue` y las recopila en su página.
+- [Good First Issues](https://goodfirstissues.com/): Está enfocada en el mismo objetivo que la anterior, busca todas las Issues con la etiqueta `good-first-issue` y las recopila en su página.
 ### Tips:
 - Busca Issues de proyectos que te interesen.
 - Revisa los comentarios para verificar que la Issue aún no ha sido resuelta.
