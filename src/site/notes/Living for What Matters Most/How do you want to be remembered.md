@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/living-for-what-matters-most/how-do-you-want-to-be-remembered/"}
+{"dg-publish":true,"permalink":"/living-for-what-matters-most/how-do-you-want-to-be-remembered/","hide":true}
 ---
 
 # Summary
