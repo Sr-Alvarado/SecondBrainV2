@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/living-for-what-matters-most/who-is-this-course-for/"}
+{"dg-publish":true,"permalink":"/living-for-what-matters-most/who-is-this-course-for/","hide":true}
 ---
 
 >[!abstract] Summary
