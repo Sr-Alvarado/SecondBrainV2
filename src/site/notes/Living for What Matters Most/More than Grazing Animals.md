@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/living-for-what-matters-most/more-than-grazing-animals/"}
+{"dg-publish":true,"permalink":"/living-for-what-matters-most/more-than-grazing-animals/","hide":true}
 ---
 
 # Summary
