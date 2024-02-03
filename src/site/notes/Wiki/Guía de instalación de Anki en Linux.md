@@ -13,7 +13,7 @@ sudo apt install libxcb-xinerama0 libxcb-cursor0
    - [Anki - powerful, intelligent flashcards](https://apps.ankiweb.net/)
 1. Descomprimir. Usa los comandos `tar xaf` en el archivo descargado dentro de la carpeta de descargas.
    ```shell
-   tar xaf Downloads/anki-2.1.XX-linux-qt6.tar.zst
+   tar xaf ./anki-2.1.XX-linux-qt6.tar.zst
    ```
 1. Acceder a la carpeta. Ingresa a la carpeta que se acaba de descomprimir.
    ```shell
@@ -45,7 +45,7 @@ sudo apt install libxcb-xinerama0 libxcb-cursor0
 #### To Read Pronunciation
 1. Añade este enlace a la configuración de AnkiConnect.
    ```
-   http://127.0.0.1:8765,
+   "http://127.0.0.1:8765",
    ```
 2. Usa este formato dentro de la configuración de Read Pronunciation.
    - Palabra: `{{word}} /{{word.phonetic}}/`
@@ -54,11 +54,19 @@ sudo apt install libxcb-xinerama0 libxcb-cursor0
    - Oración: `{{sentence}}`
    - Traducción: `{{sentence.translated}}`
    - Audio: `{{word.audio}}`
-
+#### Obsidian-to-anki
+1. Añade este enlace a la configuración de AnkiConnect:
+   ```
+   "app://obsidian.md",
+   ```
 ## Añadir audio (solo para linux)
-En linux debemos añadir una aplicación que permita a Anki reproducir audios, Anki nos recomienda 2 opciones: mpv y mplayer. La primera es una aplicación completa con interfaz gráfica, la segunda por defecto es una aplicación de terminal, aunque se le puede añadir una interfaz gráfica. Personalmente me gusta la segunda ya que no añado toda la aplicación, solo la parte que me interesa.
+En linux debemos añadir una aplicación que permita a Anki reproducir audios, Anki nos recomienda 2 opciones:
+- **mpv**: Es una aplicación completa con interfaz gráfica.
+- **mplayer**: Por defecto es una aplicación de terminal, se le puede añadir una interfaz gráfica.
+
+Personalmente me gusta la segunda, no añado toda la aplicación solo la parte que me interesa.
 ### Install mplayer
-Copia en la terminal el siguiente comando:
+Copia el siguiente comando en la terminal:
    ```bash
-   sudo apt install mplayer
+   sudo apt install mplayer -y
    ```
