@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/living-for-what-matters-most/the-headstone-test-exercise-introduction/"}
+{"dg-publish":true,"permalink":"/living-for-what-matters-most/the-headstone-test-exercise-introduction/","hide":true}
 ---
 
 # Summary
