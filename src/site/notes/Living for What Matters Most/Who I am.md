@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/living-for-what-matters-most/who-i-am/"}
+{"dg-publish":true,"permalink":"/living-for-what-matters-most/who-i-am/","hide":true}
 ---
 
 # Summary
