@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/living-for-what-matters-most/a-story-nietzche-s-walking-stick/"}
+{"dg-publish":true,"permalink":"/living-for-what-matters-most/a-story-nietzche-s-walking-stick/","hide":true}
 ---
 
 # Summary
