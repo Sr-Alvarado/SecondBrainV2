@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/living-for-what-matters-most/the-2500-years-old-mri/"}
+{"dg-publish":true,"permalink":"/living-for-what-matters-most/the-2500-years-old-mri/","hide":true}
 ---
 
 # Summary
