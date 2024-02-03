@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/living-for-what-matters-most/learning-about-purpose-form-camus-sartre-and-nietzsche/"}
+{"dg-publish":true,"permalink":"/living-for-what-matters-most/learning-about-purpose-form-camus-sartre-and-nietzsche/","hide":true}
 ---
 
 # Summary
