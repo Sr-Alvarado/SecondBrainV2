@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/living-for-what-matters-most/a-story-2001-a-space-odyssey/"}
+{"dg-publish":true,"permalink":"/living-for-what-matters-most/a-story-2001-a-space-odyssey/","hide":true}
 ---
 
 # Summary
