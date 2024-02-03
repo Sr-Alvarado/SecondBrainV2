@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/living-for-what-matters-most/7-questions-exercise-introduction/"}
+{"dg-publish":true,"permalink":"/living-for-what-matters-most/7-questions-exercise-introduction/","hide":true}
 ---
 
 # Summary
