@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/living-for-what-matters-most/purpose-a-central-self-organizing-life-aim/"}
+{"dg-publish":true,"permalink":"/living-for-what-matters-most/purpose-a-central-self-organizing-life-aim/","hide":true}
 ---
 
 # Summary
