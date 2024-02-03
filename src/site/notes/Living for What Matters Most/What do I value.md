@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/living-for-what-matters-most/what-do-i-value/"}
+{"dg-publish":true,"permalink":"/living-for-what-matters-most/what-do-i-value/","hide":true}
 ---
 
 >[!abstract] Summary
