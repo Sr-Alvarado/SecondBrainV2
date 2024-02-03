@@ -4,6 +4,7 @@
 
 ## ¿Qué es Node.js?
 Es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor basado en el lenguaje de programación JavaScript, asíncrono, con E/S de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google.
+
 ## Instalar Node.js como [[Brain/Programation/NVM\|NVM]]
 Se instala desde su [página de GitHub](https://github.com/nvm-sh/nvm) ejecutando los siguientes comandos:
 1. Instalar y/o actualizar NVM:
