@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/living-for-what-matters-most/introduction/"}
+{"dg-publish":true,"permalink":"/living-for-what-matters-most/introduction/","hide":true}
 ---
 
 >[!abstract] Summary
