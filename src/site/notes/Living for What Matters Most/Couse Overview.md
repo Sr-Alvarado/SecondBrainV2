@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/living-for-what-matters-most/couse-overview/"}
+{"dg-publish":true,"permalink":"/living-for-what-matters-most/couse-overview/","hide":true}
 ---
 
 # Summary
