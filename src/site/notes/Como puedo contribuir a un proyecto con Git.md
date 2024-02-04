@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Como contribuir a un proyecto con Git.md","permalink":"/como-contribuir-a-un-proyecto-con-git/","title":"Como contribuir a un proyecto con Git","tags":["git","github","terminal","publish"]}
+{"dg-publish":true,"dg-path":"Como contribuir a un proyecto con Git.md","permalink":"/como-contribuir-a-un-proyecto-con-git/","title":"Como contribuir a un proyecto con Git","tags":["git","github","terminal","publish"],"created":"2024-01-27T14:23","updated":"2024-01-27T18:09"}
 ---
 
 Basado en el video de [midudev](https://github.com/midudev) en [Youtube](https://www.youtube.com/watch?v=niPExbK8lSw) 
