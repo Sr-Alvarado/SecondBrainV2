@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Listas en HTML.md","permalink":"/listas-en-html/","hide":true,"tags":["programation","HTML","DVC/RWD/1","publish"]}
+{"dg-publish":true,"dg-path":"Listas en HTML.md","permalink":"/listas-en-html/","hide":true,"tags":["programation","HTML","DVC/RWD/1","publish"],"created":"2024-01-25T19:06","updated":"2024-01-10T19:24"}
 ---
 
 [^1]: [[Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]] - Cap 1
