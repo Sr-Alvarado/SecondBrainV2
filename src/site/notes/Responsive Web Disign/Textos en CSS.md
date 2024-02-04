@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Textos en CSS.md","permalink":"/textos-en-css/","hide":true,"tags":["programation","CSS","DVC/RWD/2","publish"]}
+{"dg-publish":true,"dg-path":"Textos en CSS.md","permalink":"/textos-en-css/","hide":true,"tags":["programation","CSS","DVC/RWD/2","publish"],"created":"2024-01-25T19:06","updated":"2023-11-24T16:41"}
 ---
 
 
