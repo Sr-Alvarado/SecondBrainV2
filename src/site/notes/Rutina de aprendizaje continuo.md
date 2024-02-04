@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rutina-de-aprendizaje-continuo/"}
+{"dg-publish":true,"permalink":"/rutina-de-aprendizaje-continuo/","created":"2024-01-25T19:06","updated":"2023-11-30T21:48"}
 ---
 
 > **Nunca pares de aprender**. El aprendizaje continuo es un viaje no un destino.
