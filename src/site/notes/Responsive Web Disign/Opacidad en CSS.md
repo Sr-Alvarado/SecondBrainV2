@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Opacidad en CSS.md","permalink":"/opacidad-en-css/","hide":true,"tags":["programation","CSS","publish","DVC/RWD/3"]}
+{"dg-publish":true,"dg-path":"Opacidad en CSS.md","permalink":"/opacidad-en-css/","hide":true,"tags":["programation","CSS","publish","DVC/RWD/3"],"created":"2024-01-25T19:06","updated":"2023-12-02T13:06"}
 ---
 
 
