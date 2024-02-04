@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Áreas en CSS.md","permalink":"/areas-en-css/","hide":true,"tags":["programation","CSS","DVC/RWD/2","publish"]}
+{"dg-publish":true,"dg-path":"Áreas en CSS.md","permalink":"/areas-en-css/","hide":true,"tags":["programation","CSS","DVC/RWD/2","publish"],"created":"2024-01-25T19:06","updated":"2024-01-10T19:24"}
 ---
 
 
