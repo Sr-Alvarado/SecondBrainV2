@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lanzar programas desde la terminal.md","permalink":"/lanzar-programas-desde-la-terminal/","tags":["linux","terminal","bash"]}
+{"dg-publish":true,"dg-path":"Lanzar programas desde la terminal.md","permalink":"/lanzar-programas-desde-la-terminal/","tags":["linux","terminal","bash"],"created":"2024-01-25T19:06","updated":"2024-01-31T23:29"}
 ---
 
 ## Vamos de frente a lo bueno
