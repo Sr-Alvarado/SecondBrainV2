@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Abrir una URL desde la terminal.md","permalink":"/abrir-una-url-desde-la-terminal/","tags":["#linux","#terminal","bash","Web"]}
+{"dg-publish":true,"dg-path":"Abrir una URL desde la terminal.md","permalink":"/abrir-una-url-desde-la-terminal/","tags":["#linux","#terminal","bash","Web"],"created":"2024-01-25T19:06","updated":"2024-01-22T14:22"}
 ---
 
 ## Como siempre... Vamos de frente a lo bueno
