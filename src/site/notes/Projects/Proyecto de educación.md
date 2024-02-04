@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Proyecto de educacion.md","permalink":"/proyecto-de-educacion/"}
+{"dg-publish":true,"dg-path":"Proyecto de educacion.md","permalink":"/proyecto-de-educacion/","created":"2024-01-25T19:06","updated":"2024-01-02T13:47"}
 ---
 
 [PROPUESTA METODOLÓGICA PARA LA GESTIÓN DE PROYECTOS
