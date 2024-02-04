@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bordes en CSS.md","permalink":"/bordes-en-css/","hide":true,"tags":["programation","CSS","publish","DVC/RWD/3"]}
+{"dg-publish":true,"dg-path":"Bordes en CSS.md","permalink":"/bordes-en-css/","hide":true,"tags":["programation","CSS","publish","DVC/RWD/3"],"created":"2024-01-25T19:06","updated":"2023-12-02T13:41"}
 ---
 
 
