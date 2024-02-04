@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Cursos/Responsive Web Disign.md","permalink":"/cursos/responsive-web-disign/","title":"Responsive Web Design","tags":["programation","HTML","CSS","publish"]}
+{"dg-publish":true,"dg-path":"Cursos/Responsive Web Disign.md","permalink":"/cursos/responsive-web-disign/","title":"Responsive Web Design","tags":["programation","HTML","CSS","publish"],"created":"2023-09-24","updated":"2024-01-10T19:24"}
 ---
 
 ## About
