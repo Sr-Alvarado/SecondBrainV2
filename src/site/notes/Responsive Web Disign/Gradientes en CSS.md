@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gradientes en CSS.md","permalink":"/gradientes-en-css/","hide":true,"tags":["programation","CSS","publish","DVC/RWD/3"]}
+{"dg-publish":true,"dg-path":"Gradientes en CSS.md","permalink":"/gradientes-en-css/","hide":true,"tags":["programation","CSS","publish","DVC/RWD/3"],"created":"2024-01-25T19:06","updated":"2023-12-02T12:49"}
 ---
 
 
