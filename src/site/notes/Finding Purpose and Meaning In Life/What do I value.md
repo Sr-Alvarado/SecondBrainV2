@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"What do I value.md","permalink":"/what-do-i-value/","hide":true,"tags":["publish"]}
+{"dg-publish":true,"dg-path":"What do I value.md","permalink":"/what-do-i-value/","hide":true,"tags":["publish"],"created":"2024-01-25T19:06","updated":"2024-02-03T12:43"}
 ---
 
 >[!abstract] Summary
