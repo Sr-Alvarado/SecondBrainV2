@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"NodeJS.md","permalink":"/node-js/"}
+{"dg-publish":true,"dg-path":"NodeJS.md","permalink":"/node-js/","created":"2024-01-25T19:06","updated":"2024-01-31T21:12"}
 ---
 
 ## ¿Qué es Node.js?
