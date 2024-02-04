@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Colores en CSS.md","permalink":"/colores-en-css/","hide":true,"tags":["programation","CSS","DVC/RWD/2","publish","DVC/RWD/3"]}
+{"dg-publish":true,"dg-path":"Colores en CSS.md","permalink":"/colores-en-css/","hide":true,"tags":["programation","CSS","DVC/RWD/2","publish","DVC/RWD/3"],"created":"2024-01-25T19:06","updated":"2023-12-02T13:46"}
 ---
 
 
