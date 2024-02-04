@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finding-purpose-and-meaning-in-life/a-story-2001-a-space-odyssey/","hide":true}
+{"dg-publish":true,"permalink":"/finding-purpose-and-meaning-in-life/a-story-2001-a-space-odyssey/","hide":true,"created":"2024-01-25T19:06","updated":"2024-02-03T12:26"}
 ---
 
 # Summary
