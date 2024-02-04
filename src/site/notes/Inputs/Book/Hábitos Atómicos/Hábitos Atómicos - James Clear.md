@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Books/Hábitos Atómicos - James Clear.md","permalink":"/books/habitos-atomicos-james-clear/","title":"Hábitos Atómicos","tags":["booknotes"]}
+{"dg-publish":true,"dg-path":"Books/Hábitos Atómicos - James Clear.md","permalink":"/books/habitos-atomicos-james-clear/","title":"Hábitos Atómicos","tags":["booknotes"],"created":"2023-11-29","updated":"2023-11-29T22:29"}
 ---
 
 ![cover|150](http://books.google.com/books/content?id=TXiMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
