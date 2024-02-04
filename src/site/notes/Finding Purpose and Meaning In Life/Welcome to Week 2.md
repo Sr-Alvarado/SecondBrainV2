@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finding-purpose-and-meaning-in-life/welcome-to-week-2/","hide":true}
+{"dg-publish":true,"permalink":"/finding-purpose-and-meaning-in-life/welcome-to-week-2/","hide":true,"created":"2024-01-25T19:06","updated":"2024-01-10T19:21"}
 ---
 
 # Summary
