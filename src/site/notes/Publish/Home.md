@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["#publish","gardenEntry","gardenEntry"],"created":"2024-01-25T19:06","updated":"2024-02-04T16:20"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["#publish","gardenEntry"],"created":"2024-01-25T19:06","updated":"2024-02-04T16:20"}
 ---
 
 ¡Bienvenido a mi 🌱 [[Publish/Digital Garden\|Digital Garden]]!
