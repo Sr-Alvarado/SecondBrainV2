@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/astro/","created":"2024-01-25T19:06","updated":"2024-02-04T19:57"}
 ---
 
-
 ## Uso
 ### Crear un nuevo proyecto
 ```bash
@@ -26,7 +25,7 @@ yarn upgrade astro --latest
 ```bash
 npx astro add INTEGRACION-1 INTEGRACION-2
 ```
-- Puedes añadir varias integraciones a la ves.
+- Puedes añadir varias integraciones a la vez.
 - Añadiendo `--list` puedes ver todas las integraciones disponibles.
 ### Actualizar las extensiones
 Proximamente...
