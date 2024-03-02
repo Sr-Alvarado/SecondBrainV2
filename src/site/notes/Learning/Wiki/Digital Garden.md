@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Digital Garden.md","permalink":"/digital-garden/","hide":true,"created":"2024-02-03T22:39","updated":"2024-02-18T18:03"}
+{"dg-publish":true,"dg-path":"Digital Garden.md","permalink":"/digital-garden/","hide":true,"created":"2024-02-03T22:39","updated":"2024-02-28T11:15"}
 ---
 
 > [!info] ¿Qué es un Digital Garden?
