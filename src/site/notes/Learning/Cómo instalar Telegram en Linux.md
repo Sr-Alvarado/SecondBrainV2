@@ -10,20 +10,20 @@ Fuente original: [How to install Telegram on Linux Desktop in 2023 - Linux Shout
    ```shell
    wget "https://telegram.org/dl/desktop/linux" -O telegram.tar.xz
    ```
-2. Extrae las carpetas de instalación[^1] con este comando:
+2. Extrae las carpetas de instalación[^1]:
    ```shell
    tar -xvf telegram.tar.xz
    ```
-3. Mueve las carpetas extraídas al fichero `/opt/`[^2] para evitar borrarlas por error.
+3. Mueve las carpetas extraídas al fichero `/opt/`[^2] para evitar borrarlas por error:
    ```shell
    sudo mv Telegram /opt/
    ```
 4. Ejecuta la aplicación y crear un acceso directo al lanzador de aplicaciones.
-   1. Accede a la nueva ubicación de Telegram
+   1. Accede a la nueva ubicación de Telegram:
          ```shell
          cd /opt/Telegram/
          ```
-   2. Ejecuta el binario
+   2. Ejecuta el binario:
          ```shell
          ./Telegram
          ```
