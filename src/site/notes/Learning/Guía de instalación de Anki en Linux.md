@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Guía de instalación de Anki en Linux.md","permalink":"/guia-de-instalacion-de-anki-en-linux/","created":"2024-01-25T19:06","updated":"2024-03-01T21:01"}
+{"dg-publish":true,"dg-path":"Guía de instalación de Anki en Linux.md","permalink":"/guia-de-instalacion-de-anki-en-linux/","created":"2024-01-25T19:06","updated":"2024-03-02T21:52"}
 ---
 
 ## Instalación
@@ -59,7 +59,7 @@ sudo apt install libxcb-xinerama0 libxcb-cursor0
    ```
    "app://obsidian.md",
    ```
-## Añadir audio (solo para linux)
+## Añadir audio
 En linux debemos añadir una aplicación que permita a Anki reproducir audios, Anki nos recomienda 2 opciones:
 - **mpv**: Es una aplicación completa con interfaz gráfica.
 - **mplayer**: Por defecto es una aplicación de terminal, se le puede añadir una interfaz gráfica.
