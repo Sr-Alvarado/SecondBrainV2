@@ -9,6 +9,6 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Última actualización
->  - [[Guía de instalación de Anki en Linux\|Guía de instalación de Anki en Linux]]
+>  - [[Learning/Como crear un alias para la terminal en Linux\|Como crear un alias para la terminal en Linux]]
 > 
 { .block-language-dataview}
