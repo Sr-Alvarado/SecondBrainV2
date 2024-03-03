@@ -14,4 +14,6 @@ echo "alias NOMBRE_ALIAS='COMANDO'" >> .bashrc
 
 Si lo pruebas, **aún no funcionará**. Para que los cambios surtan efecto debes reiniciar la terminal, cerrando y volviendo a abrirla.
 
+Listo! Ahora ya sabes como crear un alias reusable en la terminal.
+
 [^1]: Las carpetas ocultas en Linux se identifican por tener un punto (.) al inicio del nombre.
