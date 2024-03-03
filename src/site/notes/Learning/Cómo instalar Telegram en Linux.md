@@ -18,7 +18,7 @@ Fuente original: [How to install Telegram on Linux Desktop in 2023 - Linux Shout
    ```shell
    sudo mv Telegram /opt/
    ```
-4. Ejecuta la aplicación y crear un acceso directo al lanzador de aplicaciones.
+4. Ejecuta la aplicación y crea un acceso directo al lanzador/menú de aplicaciones.
    1. Accede a la nueva ubicación de Telegram:
          ```shell
          cd /opt/Telegram/
