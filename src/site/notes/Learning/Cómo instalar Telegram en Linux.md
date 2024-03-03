@@ -32,5 +32,5 @@ Fuente original: [How to install Telegram on Linux Desktop in 2023 - Linux Shout
 
 Eso es todo, espero que te este pequeño tutorial te haya ayudado.
 
-[^1]: En este paso técnicamente ya podrías ejecutar la aplicación, sin embargo al tener los ficheros base de la aplicación tan expuestos podrías borrarlos por error eliminando la aplicación.
+[^1]: Al finalizar este paso técnicamente ya podrías ejecutar la aplicación, sin embargo al tener los ficheros base de la aplicación tan expuestos podrías borrarlos por error eliminando la aplicación.
 [^2]: Esta es la carpeta donde Linux guarda aplicaciones opcionales de terceros.
