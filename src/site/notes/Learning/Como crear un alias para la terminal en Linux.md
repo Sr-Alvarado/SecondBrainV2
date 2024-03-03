@@ -3,14 +3,15 @@
 ---
 
 ## Vamos directo a lo bueno
-Para crear un alias usamos el comando `alias NOMBRE_ALIAS='COMANDO'`. Sin embargo el alias solo estará activo mientas está abierta esa terminal. Para guardarlo y usarlo cuando queramos ejecutamos:
+Para crear un alias usamos el comando `alias NOMBRE_ALIAS='COMANDO'`. Sin embargo el alias solo estará activo mientas está abierta esa terminal. Para guardarlo y usarlo cuando queramos Usamos la misma estructura descrita arriba y envuelta en comillas dobles. Ejecutemos:
 
 ```bash
 echo "alias NOMBRE_ALIAS='COMANDO'" >> .bashrc
 ```
-- Usamos la misma estructura descrita arriba y envuelta en comillas dobles.
-- El comando `echo` nos devuelve el resultado de todo lo que está en comillas dobles.
-- Los `>>` informan al sistema que todo lo anterior debe enviarlo a la ubicación que esta a ala derecha.
-- El `.bashrc` indica que enviaremos el resultado del `echo` a la carpeta oculta bashrc que es donde el sistema guarda los comandos de terminal.
+- **`echo`** devuelve el resultado de todo lo que está en comillas dobles (").
+- **`>>`** informa al sistema que todo lo anterior debe ser enviado a la ubicación que esta a la derecha.
+- **`.bashrc`** es una carpeta oculta[^1] donde el sistema guarda los comandos de terminal, aquí enviaremos el resultado del `echo`.
 
 Si lo pruebas, **aún no funcionará**. Para que los cambios surtan efecto debes reiniciar la terminal, cerrando y volviendo a abrirla.
+
+[^1]: Las carpetas ocultas en Linux se identifican por tener un punto (.) al inicio del nombre.
