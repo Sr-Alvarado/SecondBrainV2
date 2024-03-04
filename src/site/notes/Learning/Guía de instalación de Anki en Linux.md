@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Guía de instalación de Anki en Linux.md","permalink":"/guia-de-instalacion-de-anki-en-linux/","created":"2024-01-25T19:06","updated":"2024-03-02T21:52"}
+{"dg-publish":true,"permalink":"/learning/guia-de-instalacion-de-anki-en-linux/","created":"2024-01-25T19:06","updated":"2024-03-02T21:52"}
 ---
 
 ## Instalación
