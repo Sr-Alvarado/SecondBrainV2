@@ -21,7 +21,7 @@ which virtualenv
 ```
 Y listo! Ya instalaste virtualenv para crear entornos virtuales con Python.
 
-## Crear y activa un entorno virtual con virtualenv
+## Crear y activar un entorno virtual con virtualenv
 - **Fuente original**: [Instalar y usar virtualenv con Python 3 – Centro de Ayuda de DreamHost](https://help.dreamhost.com/hc/es/articles/115000695551-Instalar-y-usar-virtualenv-con-Python-3)
 
 Ubícate en la dirección del fichero donde ejecutarás el virtualenv.
