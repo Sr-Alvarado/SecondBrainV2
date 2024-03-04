@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Cómo instalar Telegram en Linux.md","permalink":"/como-instalar-telegram-en-linux/","created":"2024-03-02T22:09","updated":"2024-03-02T22:09"}
+{"dg-publish":true,"permalink":"/learning/como-instalar-telegram-en-linux/","created":"2024-03-02T22:09","updated":"2024-03-02T22:09"}
 ---
 
 Cuando queremos instalar Telegram el equipo de la app nos ofrece varias opciones, sin embargo no cuentan con un `.deb`, si eres linuxero de corazón no querrás instalar la versión [[snap\|snap]] y sabrás que [[flatpak\|flatpak]] suele dar problemas, entonces... Solo nos queda instalar desde los [[binarios\|binarios]], asi que allí vamos.
