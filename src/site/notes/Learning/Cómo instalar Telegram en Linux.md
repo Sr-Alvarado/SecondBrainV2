@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/learning/como-instalar-telegram-en-linux/","created":"2024-03-02T22:09","updated":"2024-03-02T22:09"}
+{"dg-publish":true,"permalink":"/learning/como-instalar-telegram-en-linux/","created":"2024-03-02T22:09","updated":"2024-03-02T22:43"}
 ---
 
-Cuando queremos instalar Telegram el equipo de la app nos ofrece varias opciones, sin embargo no cuentan con un `.deb`, si eres linuxero de corazón no querrás instalar la versión [[snap\|snap]] y sabrás que [[flatpak\|flatpak]] suele dar problemas, entonces... Solo nos queda instalar desde los [[binarios\|binarios]], asi que allí vamos.
+Cuando queremos instalar Telegram el equipo de la app nos ofrece varias opciones, sin embargo no cuentan con un `.deb`[^3], si eres linuxero de corazón no querrás instalar la versión [[snap\|snap]] y sabrás que [[flatpak\|flatpak]] suele dar problemas, entonces... Solo nos queda instalar desde los [[binarios\|binarios]], asi que allí vamos.
 
 ## Como instalar Telegram Desktop desde `.tar.xz`
 Fuente original: [How to install Telegram on Linux Desktop in 2023 - Linux Shout](https://linux.how2shout.com/how-to-install-telegram-on-linux-desktop-in-2023/#Option_2_Use_the_official_Telegram_Desktop_PPA_for_Ubuntu_and_derivatives)
@@ -34,3 +34,4 @@ Eso es todo, espero que te este pequeño tutorial te haya ayudado.
 
 [^1]: Al finalizar este paso técnicamente ya podrías ejecutar la aplicación, sin embargo al tener los ficheros base de la aplicación tan expuestos podrías borrarlos por error eliminando la aplicación.
 [^2]: Esta es la carpeta donde Linux guarda aplicaciones opcionales de terceros.
+[^3]: En realidad hay una versión .deb, ejecutando `sudo apt install telegram-desktop`, pero la versión que te instala es muy antigua.
