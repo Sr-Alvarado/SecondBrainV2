@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/learning/como-instalar-telegram-en-linux/","created":"2024-03-02T22:09","updated":"2024-03-04T16:31"}
 ---
 
-Si deseas aprender a instalar Telegram desde su código fuente, los binarios del programa, este tutorial es para ti
+Si deseas aprender a instalar Telegram desde su código fuente, los binarios del programa, este tutorial es para ti.
 
 ## Como instalar Telegram Desktop desde `.tar.xz`
 Fuente original: [How to install Telegram on Linux Desktop in 2023 - Linux Shout](https://linux.how2shout.com/how-to-install-telegram-on-linux-desktop-in-2023/#Option_2_Use_the_official_Telegram_Desktop_PPA_for_Ubuntu_and_derivatives)
