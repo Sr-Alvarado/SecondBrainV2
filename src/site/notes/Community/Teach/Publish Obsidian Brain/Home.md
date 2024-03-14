@@ -9,6 +9,6 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Última actualización
->  - [[Learning/Cómo instalar Telegram en Linux\|Cómo instalar Telegram en Linux]]
+>  - [[Learning/Git\|Git]]
 > 
 { .block-language-dataview}
