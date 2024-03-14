@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/git/","created":"2024-03-14T13:56","updated":"2024-03-14T15:14"}
+{"dg-publish":true,"permalink":"/learning/git/","created":"2024-03-14T13:56","updated":"2024-03-14T15:43"}
 ---
 
 Esta guía está diseñada para ser seguida de forma lineal, más hacia el principio se explican conceptos básicos y necesarios para entender lo que sigue luego, más hacia el final se da por sentado que se comprende ciertos conceptos y ya no se explican cosas que fueron explicadas antes. Sin embargo la estructura permite que encuentres justo lo que estas buscando.
@@ -115,13 +115,13 @@ git status
 ```
 - `status`. Permite ver que ficheros incluidos si se hace una [[Learning/Fotografía\|Fotografía]] y cuales no, cuales ficheros se han modificado.
 
-#### Añadir ficheros a la [[Learning/Fotografía\|Fotografía]] en Git
+#### Añadir ficheros a la fotografía en Git
 ```shell
 git add NOMBRE_FICHERO
 ```
 - `add`. Propiedad de Git que permite seleccionar que ficheros se agregarán a la [[Learning/Fotografía\|Fotografía]].
 
-#### Hacer una [[Learning/Fotografía\|Fotografía]] en Git
+#### Hacer una fotografía en Git
 Si ya definiste que ficheros se agregarán a la [[Learning/Fotografía\|Fotografía]] de tu proyecto es momento de hacerla:
 ```shell
 git commit -m "COMENTARIO"
