@@ -9,6 +9,6 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Última actualización
->  - [[Learning/Wiki/Instalar y usar virtualenv para Python 3\|Instalar y usar virtualenv para Python 3]]
+>  - [[Learning/Wiki/Rama\|Rama]]
 > 
 { .block-language-dataview}
