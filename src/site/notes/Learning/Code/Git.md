@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/code/git/","created":"2024-03-14T13:56","updated":"2024-03-16T15:54"}
+{"dg-publish":true,"permalink":"/learning/code/git/","created":"2024-03-14T13:56","updated":"2024-03-16T16:15"}
 ---
 
 Esta guía está diseñada para ser seguida de forma lineal, más hacia el principio se explican conceptos básicos y necesarios para entender lo que sigue luego, más hacia el final se da por sentado que se comprende ciertos conceptos y ya no se explican cosas que fueron explicadas antes. Sin embargo la estructura permite que encuentres justo lo que estas buscando.
@@ -7,9 +7,9 @@ Esta guía está diseñada para ser seguida de forma lineal, más hacia el princ
 **Fuentes**: 
 - [Curso de GIT y GITHUB desde CERO para PRINCIPIANTES - YouTube](https://youtube.com/watch?v=3GymExBkKjE)
 ## ¿Qué es?
-Es un [[Learning/Wiki/Sistema de control de versiones\|Sistema de control de versiones]] [[Learning/Wiki/distribuido\|distribuido]], es decir, es:
+Es un [[Learning/Wiki/Sistema de control de versiones\|Sistema de control de versiones]] [[Learning/Wiki/Distribuido\|Distribuido]], es decir, es:
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/sistema-de-control-de-versiones/#4a1b0e" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -18,7 +18,7 @@ Historial de todos los cambios de un proyecto. Documenta cada cambio hecho en un
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/distribuido/#703a42" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -33,7 +33,7 @@ El sistema de control de versiónes usa la idea de [[Learning/Wiki/Rama\|rama]]s
 
 
 
-Bifurcación de un proyecto, puede existir infinitas ramas, cada rama tiene un nombre específico que la identifica. Todas comparten un único origen pero cada una es independiente y puede ser modificada de cualquier forma. La rama origen o principal se le conoce regularmente con el nombre de [[Learning/Wiki/main\|main]]. 
+Bifurcación de un proyecto, puede existir infinitas ramas, cada rama tiene un nombre específico que la identifica. Todas comparten un único origen pero cada una es independiente y puede ser modificada de cualquier forma. La rama origen o principal se le conoce regularmente con el nombre de [[Learning/Wiki/Main\|Main]]. 
 
 </div></div>
 
@@ -97,7 +97,7 @@ En la ruta de la carpeta de ese proyecto ejecuta:
 ```shell
 git init
 ```
-- `init`. Este comando crea una carpeta oculta `.git` que nos permite comenzar a trabajar con el control de versiones de Git y asigna nuestra carpeta como la [[Learning/Wiki/Rama\|Rama]] [[Learning/Wiki/main\|main]] del proyecto. Se puede cambiar el nombre de la rama.
+- `init`. Este comando crea una carpeta oculta `.git` que nos permite comenzar a trabajar con el control de versiones de Git y asigna nuestra carpeta como la [[Learning/Wiki/Rama\|Rama]] [[Learning/Wiki/Main\|Main]] del proyecto. Se puede cambiar el nombre de la rama.
 
 #### Modificar el nombre de una rama en Git
 En la ruta de la carpeta de ese proyecto ejecuta:
@@ -125,7 +125,7 @@ Si ya definiste que ficheros se agregarán a la [[Learning/Wiki/Fotografía\|Fot
 ```shell
 git commit -m "COMENTARIO"
 ```
-- `commit`. Propiedad que graba los cambios de una rama en Git. Todo cambio necesita un comentario. Crea un [[Learning/Wiki/hash\|hash]].
+- `commit`. Propiedad que graba los cambios de una rama en Git. Todo cambio necesita un comentario. Crea un [[Learning/Wiki/Hash\|Hash]].
 - `-m`. Etiqueta que declara que se hará un comentario para la grabación.
 
 #### Mostrar el registro de fotografías Git
