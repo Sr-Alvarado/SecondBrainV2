@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Main.md","permalink":"/main/","hide":true,"created":"2024-03-14T14:47","updated":"2024-03-16T16:14"}
+{"dg-publish":true,"permalink":"/learning/wiki/main/","hide":true,"created":"2024-03-14T14:47","updated":"2024-03-16T16:14"}
 ---
 
 ## [[Learning/Code/Git\|Git]]
