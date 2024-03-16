@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Rama.md","permalink":"/rama/","hide":true,"created":"2024-03-14T14:41","updated":"2024-03-16T15:56"}
+{"dg-publish":true,"permalink":"/learning/wiki/rama/","hide":true,"created":"2024-03-14T14:41","updated":"2024-03-16T15:56"}
 ---
 
 ## [[Learning/Code/Git\|Git]]
