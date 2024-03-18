@@ -42,7 +42,7 @@ YOUR_PYTHON_VERSION
 - **Una sola linea**: `'cadena de texto simple'`
 - **Una sola linea**: `"cadena de texto simple"`
 - **Multi-linea**: `'''cadena de texto de varias lineas de texto'''`
-- **Caso especial**: `"""text"""`, si un texto con comillas triples no es asignada a una variable, python lo reconocerá como un comentario
+- **Caso especial**: `"""text"""`, si un texto con comillas triples no es asignada a una variable, python lo reconocerá como un comentario.
 ## Create blocks / Indentation
 Python usa la indentación para crear bloques, puedes usar una sangría de 2 espacios para crear la indentación, python reconocerá todo lo que lleve esa sangria como parte bloque anterior sin sangría.
 ## Installing vscode
