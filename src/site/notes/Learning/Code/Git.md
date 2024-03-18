@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/code/git/","created":"2024-03-14T13:56","updated":"2024-03-16T16:15"}
+{"dg-publish":true,"permalink":"/learning/code/git/","created":"2024-03-14T13:56","updated":"2024-03-18T16:13"}
 ---
 
 Esta guía está diseñada para ser seguida de forma lineal, más hacia el principio se explican conceptos básicos y necesarios para entender lo que sigue luego, más hacia el final se da por sentado que se comprende ciertos conceptos y ya no se explican cosas que fueron explicadas antes. Sin embargo la estructura permite que encuentres justo lo que estas buscando.
@@ -120,6 +120,19 @@ git add NOMBRE_FICHERO
 ```
 - `add`. Propiedad de Git que permite seleccionar que ficheros se agregarán a la [[Learning/Wiki/Fotografía\|Fotografía]].
 
+#### Indicar a Git que ignore un archivo
+Si no quieres añadir algún archivo a los commits, y no quieres que Git te indique que no lo has añadido, puedes indicar que lo ignore añadiendo su ruta al fichero `.gitignore`. Si no lo tienes, primero créalo:
+```shell
+touch .gitignore
+```
+- `touch`. Comando de Linux que permite crear nuevos archivos.
+- `.gitignore`. Fichero de Git que registra ficheros a ignorar.
+
+Ya con el fichero creado, añade las rutas dentro:
+```git
+**/NOMBRE_FICHERO_A_IGNORAR
+```
+- `**/`. Indica que se buscará ficheros con ese nombre en la carpeta principal y en todas sus sub-carpetas.
 #### Hacer una fotografía en Git
 Si ya definiste que ficheros se agregarán a la [[Learning/Wiki/Fotografía\|Fotografía]] de tu proyecto es momento de hacerla:
 ```shell
@@ -130,9 +143,13 @@ git commit -m "COMENTARIO"
 
 #### Mostrar el registro de fotografías Git
 ```shell
-git log
+git log --graph --decorate --all --oneline
 ```
 - `log`. Muestra el registro de commits. Con el autor, email, hash, comentario, fecha y rama que se modificó.
+- `--graph`. Etiqueta de `log` que permite ver los commits de forma más gráfica.
+- `--decorate`. Etiqueta de `log` que permite modificar el estilo del `log`.
+- `--all`. Etiqueta de `log` que indica que se modificará todo el `log`.
+- `--oneline`. Etiqueta de `log` que indica que se mostrará el resultado del `log` en una sola linea por commit.
 
 #### Volver a la última fotografía de un fichero
 Si luego de hacer una fotografía, modificas el fichero y quieres volver a como estaba antes, puedes usar:
@@ -147,4 +164,22 @@ Si hiciste una fotografía pero quieres volver a la anterior ejecuta:
 git reset
 ```
 - `reset`. Retrocede una fotografía. Modifica el proyecto o fichero dejándolo tal como estaba en la penúltima fotografía.
+
+#### Crear "alias" en git
+Git nos permite crear "alias" al mismo estilo de la terminal, solo debes añadir:
+```shell
+git config --global alias.ALIAS_NAME "YOUR_GIT_COMMAND"
+```
+- `alias.tree`. Propiedad de `config` que indica que se creará un alias en git.
+- `.ALIAS_NAME`. Valor que tomará el nombre del alias.
+- `"YOUR_GIT_COMMAND"`. El comando en git que se ejecutará cuando se llame a ese alias.
+- **Ejemplo:** `git config --global alias.tree "log --graph --decorate --all --oneline"`
+
+#### Ver los cambios entre el proyecto actual y la última fotografía
+Si modificas tu proyecto pero no estás seguro de hacer una fotografía y quieres ver que parte del código cambiaste con respecto a la última fotografía puedes usar:
+```shell
+git diff
+```
+- `diff`. Propiedad de Git que devuelve los cambios en el código realizados entre la última fotografía y el momento actual. Devuelve: Nombre del archivo modificado, indica si se agregó o se eliminó algo, se especifica el número de lineas afectadas, y se imprime el antes y el después.
+   ![Pasted image 20240318170923.png|600](/img/user/Engine/Attachments/Pasted%20image%2020240318170923.png)
 
