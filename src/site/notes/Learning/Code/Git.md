@@ -183,3 +183,4 @@ git diff
 - `diff`. Propiedad de Git que devuelve los cambios en el código realizados entre la última fotografía y el momento actual. Devuelve: Nombre del archivo modificado, indica si se agregó o se eliminó algo, se especifica el número de lineas afectadas, y se imprime el antes y el después.
    ![Pasted image 20240318170923.png|600](/img/user/Engine/Attachments/Pasted%20image%2020240318170923.png)
 
+[Última actualización](https://youtu.be/3GymExBkKjE?si=3L2hPUM-bUVwChtM&t=4351)
