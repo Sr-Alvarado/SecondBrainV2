@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/nvm/","created":"2024-01-25T19:06","updated":"2024-03-19T15:19"}
+{"dg-publish":true,"permalink":"/learning/nvm/","created":"2024-01-25T19:06","updated":"2024-03-19T15:33"}
 ---
 
 
@@ -7,7 +7,7 @@
 ## ¿Qué es?
 Programa que permite instalar multiples versiones de Node en un solo dispositivo.
 
-## Instalación y activación
+## Uso
 
 ### Instalar y/o actualizar NVM
 ```shell
