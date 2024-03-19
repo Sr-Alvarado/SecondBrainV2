@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"NodeJS.md","permalink":"/node-js/","created":"2024-01-25T19:06","updated":"2024-03-19T15:20"}
+{"dg-publish":true,"permalink":"/learning/node-js/","created":"2024-01-25T19:06","updated":"2024-03-19T15:20"}
 ---
 
 **Fuentes:** [Linux para Desarrollo Web, Instalando Programas en Linux Lite 4 - YouTube](https://www.youtube.com/watch?v=526NfikEVCM&t=460s)
