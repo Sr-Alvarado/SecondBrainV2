@@ -3,7 +3,7 @@
 ---
 
 ## Info
-Proyecto de investigación científica que busca encontrar la relación entre el nivel de uso de las pantallas y el rendimiento escolar de niños de entre 4 y 5 años. Para medir el rendimiento escolar se usará las notas, el nivel de ejercicio, la socialización, comportamiento, y las horas de sueño del niño. El experimento se ejecutará en 8 semanas, para medir correctamente las variables se hará uso de cuestionarios a los padres y las maestras del infante. El resultado de este experimento será presentado a todos los involucrados con el fin de dar claridad en un tema aún opaco.
+Proyecto de investigación científica que busca encontrar la relación entre el nivel de uso de las pantallas y el rendimiento escolar de niños de entre 4 y 5 años. Para medir el rendimiento escolar se usará las notas, el nivel de ejercicio, la sociabilidad, el vocabulario y la pronunciación, y las horas de sueño del niño. El experimento se ejecutará en 8 semanas, para medir correctamente las variables se hará uso de hojas de registro a los padres y las maestras del infante. El resultado de este experimento será presentado a todos los involucrados con el fin de dar claridad en un tema aún opaco.
 
 ## Antecedentes
 - Por propia experiencia saben que el uso del celular daña el desarrollo y disminuye el rendimiento de los niños.
@@ -35,15 +35,17 @@ Proyecto de investigación científica que busca encontrar la relación entre el
    -  Hacer firmar [[compromiso\|compromiso]] a los padres voluntarios.
 
 Establecer cronograma de entrevistas a los padres.
-- Reunión de seguimiento para registrar:
-   - El nivel de ejercicio
-   - El promedio de horas de sueño
+- Reunión de seguimiento para registrar en número de horas de:
+   - Ejercicio
+   - Sueño
+   - Celular y otras pantallas
 
 Establecer cronograma de entrevistas con las maestras
-- Reunion de seguimiento para revisar:
+- Reunion de seguimiento para revisar si mejoró (+1) empeoró (-1) o se mantuvo igual (0):
    - El comportamiento del niño
    - La creatividad
-   - El nivel de socialización
+   - La sociabilidad
+   - El vocabulario y la pronunciación
 
 **Semana 14 - 20**. Ejecutar el experimento
 - Entrevista con padres
@@ -56,3 +58,7 @@ Establecer cronograma de entrevistas con las maestras
 - Organizar reunión con padres y profesoras para presentar los resultados.
 
 ## Recursos
+- Consentimiento informado
+- Carta de compromiso
+- Hoja de registro para padres
+- Hoja de registro para profesora
