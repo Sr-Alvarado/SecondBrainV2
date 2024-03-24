@@ -26,7 +26,7 @@ Demostrar con pruebas y datos medibles en sus propios hijos que restringir el ce
 
 **25 de marzo**: Reunión con maestras
 - Explicar la idea y Convencer a las maestras
-- Definir una reunión de padres de familia para buscar voluntarios
+- Definir una reunión de padres de familia para buscar voluntarios, mostrar los resultados de investigaciones anteriores, antecedentes.
 
 **Semana 13**. Reunión con los padres de familia
 - Explicar claramente los riesgos del uso de celulares.
