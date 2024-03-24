@@ -19,8 +19,8 @@ Proyecto de investigación científica que busca encontrar la relación entre el
 > Déficit visual. La exposición continua a las pantallas de los celulares a temprana edad puede provocar problemas como miopía o astigmatismo.
 > [Fuente](https://www.crp.com.pe/noticia/efectos-del-uso-excesivo-del-celular-en-los-ninos/)
 
-> Por ello...
-> Vamos a demostrar con hechos que el uso del celular afecta a sus hijos.
+## Idea
+Demostrar con pruebas y datos medibles en sus propios hijos que restringir el celular y otras pantallas mejora potencia el rendimiento escolar de sus hijos, la sociabilidad, regula las horas de sueño aumenta el vocabulario y mejora la pronunciación de sus hijos.
 
 ## Cronograma
 
