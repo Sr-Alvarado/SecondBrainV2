@@ -58,7 +58,8 @@ Establecer cronograma de entrevistas con las maestras
 - Organizar reunión con padres y profesoras para presentar los resultados.
 
 ## Recursos
-- Consentimiento informado
-- Carta de compromiso
-- Hoja de registro para padres
-- Hoja de registro para profesora
+- [[Consentimiento informado\|Consentimiento informado]]
+- [[Carta de compromiso\|Carta de compromiso]]
+- [[Hoja de registro para padres\|Hoja de registro para padres]]
+- [[Hoja de registro para profesora\|Hoja de registro para profesora]]
+
