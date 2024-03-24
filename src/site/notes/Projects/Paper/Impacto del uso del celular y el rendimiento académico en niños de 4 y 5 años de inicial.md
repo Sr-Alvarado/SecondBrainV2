@@ -30,23 +30,20 @@ Proyecto de investigación científica que busca encontrar la relación entre el
 
 **Semana 13**. Reunión con los padres de familia
 - Explicar claramente los riesgos del uso de celulares.
-   - Hacer firmar consentimiento informado a todos los padres.
+   - Hacer firmar [[consentimiento informado\|consentimiento informado]] a todos los padres.
 - Pedir voluntarios que se comprometan a disminuir el uso de celulares en sus hijos.
-   -  Hacer firmar compromiso a los padres voluntarios.
+   -  Hacer firmar [[compromiso\|compromiso]] a los padres voluntarios.
 
 Establecer cronograma de entrevistas a los padres.
-- Reuniones de seguimiento para revisar:
-   - El comportamiento del niño
+- Reunión de seguimiento para registrar:
    - El nivel de ejercicio
    - El promedio de horas de sueño
-   - Su capacidad para comunicarse
 
 Establecer cronograma de entrevistas con las maestras
 - Reunion de seguimiento para revisar:
    - El comportamiento del niño
    - La creatividad
    - El nivel de socialización
-   - Su capacidad para comunicarse
 
 **Semana 14 - 20**. Ejecutar el experimento
 - Entrevista con padres
