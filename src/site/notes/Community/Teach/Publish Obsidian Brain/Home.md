@@ -10,7 +10,7 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Learning/Code/Git\|Git]]: 1:13 PM - March 27, 2024
+>  - [[Learning/Code/Git\|Git]]: 4:27 PM - March 27, 2024
 > - [[Learning/Wiki/Fotografía\|Fotografía]]: 1:07 PM - March 27, 2024
 > - [[Projects/Paper/Impacto del uso del celular y el rendimiento académico en niños de 4 y 5 años de inicial\|Impacto del uso del celular y el rendimiento académico en niños de 4 y 5 años de inicial]]: 7:06 PM - March 23, 2024
 > 
