@@ -3,4 +3,5 @@
 ---
 
 ## [[Learning/Code/Git\|Git]]
-Identificador único que se le asigna a cada fotografía o grabación de datos en Git.
+- Identificador único de 40 dígitos que se le asigna a cada fotografía o grabación de datos en Git.
+- En proyectos pequeños se puede usar solo los últimos 7 dígitos del hash para identificarlo.
