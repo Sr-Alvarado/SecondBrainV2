@@ -3,5 +3,5 @@
 ---
 
 ## [[Learning/Code/Git\|Git]]
-Historial de todos los cambios de un proyecto. Documenta cada cambio hecho en una linea del tiempo que permite movernos entre cambios.
+Es un historial de todos los cambios de un proyecto. Documenta cada modificación en una linea del tiempo que permite moverse entre cambios.
 { #4a1b0e}
