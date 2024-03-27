@@ -61,7 +61,7 @@ Para trabajar con Git necesitas 2 cosas básicas: un usuario y un email. Git es 
 ### Usando git en la terminal
 Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los OS. Los comandos más usados son:
 - [[Learning/Code/Git Terminal/Versión de Git\|Versión de Git]]
-- [[Configurar Git con `config`]]
+- [[Learning/Code/Git Terminal/Configurar Git\|Configurar Git]]
 - [[Learning/Code/Git Terminal/Configurar el usuario en Git\|Configurar el usuario en Git]]
 - [[Learning/Code/Git Terminal/Configurar el email en Git\|Configurar el email en Git]]
 - [[Learning/Code/Git Terminal/Usar Git en un proyecto\|Usar Git en un proyecto]]
