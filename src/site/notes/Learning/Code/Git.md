@@ -56,10 +56,7 @@ Creado por [[Linus Torvalds\|Linus Torvalds]] para facilitar el desarrollo de [[
 Descarga la última versión para tu [[OS\|OS]] desde la página oficial Git.
 
 ## Uso
-Para trabajar con Git necesitas 2 cosas básicas: un usuario y un email. Git es un programa para la terminal, sin embargo existen algunas opciones con interfaz gráfica:
-- GitKraken
-- GitHub Desktop
-- Sourcetree
+Para trabajar con Git necesitas 2 cosas básicas: un usuario y un email. Git es un programa para la terminal, sin embargo existen algunas opciones con interfaz gráfica.
 ### Usando git en la terminal
 Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los OS. Los comandos más usados son:
 - [[Learning/Code/Git Terminal/Versión de Git\|Versión de Git]]
@@ -79,3 +76,8 @@ Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los 
 - [[Learning/Code/Git Terminal/Volver atrás una fotografía\|Volver atrás una fotografía]]
 - [[Learning/Code/Git Terminal/Crear alias en git\|Crear alias en git]]
 - [[Learning/Code/Git Terminal/Ver los cambios entre el proyecto actual y la última fotografía\|Ver los cambios entre el proyecto actual y la última fotografía]]
+
+### Usando Git con Interfaz gráfica
+- GitKraken
+- GitHub Desktop
+- Sourcetree
