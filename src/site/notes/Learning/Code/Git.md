@@ -2,8 +2,9 @@
 {"dg-publish":true,"permalink":"/learning/code/git/","created":"2024-03-14T13:56","updated":"2024-03-27T16:27"}
 ---
 
+
 > [!info]
-> Esta guía está diseñada para ser seguida de forma lineal, más hacia el principio se explican conceptos básicos y necesarios para entender lo que sigue luego, más hacia el final se da por sentado que se comprende ciertos conceptos y ya no se explican cosas que fueron explicadas antes. Sin embargo la estructura permite que encuentres justo lo que estas buscando.
+> Esta es una guía diseñada para leerse de forma lineal. Hacia el principio se explican conceptos básicos, más hacia el final se asume que comprendes conceptos básico y ya no se vuelven a explican. Además, la estructura permite que encuentres justo lo que estas buscando.
 > 
 >> [!cite]- **Fuentes:**
 >> - [Curso de GIT y GITHUB desde CERO para PRINCIPIANTES - YouTube](https://youtube.com/watch?v=3GymExBkKjE)
