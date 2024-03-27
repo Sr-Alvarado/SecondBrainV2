@@ -1,22 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/learning/code/git/","created":"2024-03-14T13:56","updated":"2024-03-18T16:13"}
+{"dg-publish":true,"permalink":"/learning/code/git/","created":"2024-03-14T13:56","updated":"2024-03-27T13:03"}
 ---
 
-Esta guía está diseñada para ser seguida de forma lineal, más hacia el principio se explican conceptos básicos y necesarios para entender lo que sigue luego, más hacia el final se da por sentado que se comprende ciertos conceptos y ya no se explican cosas que fueron explicadas antes. Sin embargo la estructura permite que encuentres justo lo que estas buscando.
+> [!info]
+> Esta guía está diseñada para ser seguida de forma lineal, más hacia el principio se explican conceptos básicos y necesarios para entender lo que sigue luego, más hacia el final se da por sentado que se comprende ciertos conceptos y ya no se explican cosas que fueron explicadas antes. Sin embargo la estructura permite que encuentres justo lo que estas buscando.
 
-**Fuentes**: 
-- [Curso de GIT y GITHUB desde CERO para PRINCIPIANTES - YouTube](https://youtube.com/watch?v=3GymExBkKjE)
 ## ¿Qué es?
-Es un [[Learning/Wiki/Sistema de control de versiones\|Sistema de control de versiones]] [[Learning/Wiki/Distribuido\|Distribuido]], es decir, es:
+Es un [[Learning/Wiki/Sistema de control de versiones\|Sistema de control de versiones]]:
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/learning/wiki/sistema-de-control-de-versiones/#4a1b0e" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-Historial de todos los cambios de un proyecto. Documenta cada cambio hecho en una linea del tiempo que permite movernos entre cambios. 
+Es un historial de todos los cambios de un proyecto. Documenta cada modificación en una linea del tiempo que permite moverse entre cambios. 
 
 </div></div>
 
+
+Es [[Learning/Wiki/Distribuido\|Distribuido]]:
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/learning/wiki/distribuido/#703a42" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -27,22 +28,24 @@ Permite tener una copia local del contenido. No existe un repositorio central ú
 </div></div>
 
 
-El sistema de control de versiónes usa la idea de [[Learning/Wiki/Rama\|rama]]s, y de [[Learning/Wiki/Fotografía\|Fotografía]]s de un proyecto es decir, es:
+Usa la idea de [[Learning/Wiki/Rama\|rama]]s:
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/learning/wiki/rama/#200880" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-Bifurcación de un proyecto, puede existir infinitas ramas, cada rama tiene un nombre específico que la identifica. Todas comparten un único origen pero cada una es independiente y puede ser modificada de cualquier forma. La rama origen o principal se le conoce regularmente con el nombre de [[Learning/Wiki/Main\|Main]]. 
+Una rama es una bifurcación de un proyecto. Puede existir infinitas ramas, cada rama tiene un nombre específico y un [[Learning/Wiki/Hash\|hash]] que la identifica. Todas comparten un único origen o rama principal, [[Learning/Wiki/Main\|main]], pero cada una es independiente y puede ser modificada de cualquier forma. 
 
 </div></div>
 
+
+Y de [[Learning/Wiki/Fotografía\|Fotografía]]s:
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/learning/wiki/fotografia/#3dcda9" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-Graba/Guarda la estructura, características y datos que un proyecto tenía en un determinado momento en el tiempo. 
+Una fotografía es una instantánea de un proyecto. Graba/Guarda la estructura, características y datos de un proyecto en un determinado momento en el tiempo. 
 
 </div></div>
 
@@ -55,10 +58,8 @@ Descarga la última versión para tu [[OS\|OS]] desde la página oficial Git.
 
 ## Uso
 Para trabajar con Git necesitas 2 cosas básicas: un usuario y un email.
-### Terminal `git`
-Todos los comandos usados por Git funcionan el todos los OS de la misma forma. 
-
-Los comandos más comunes de Git son:
+### Git en la terminal
+Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los OS. Los comandos más usados son:
 
 #### Versión de Git
 Una forma fácil de saber si tenemos instalado Git, y que versión tenemos, es usar:
@@ -145,7 +146,7 @@ git commit -m "COMENTARIO"
 ```shell
 git log --graph --decorate --all --oneline
 ```
-- `log`. Muestra el registro de commits. Con el autor, email, hash, comentario, fecha y rama que se modificó.
+- `log`. Muestra el registro de commits. Con el autor, email, [[Learning/Wiki/Hash\|hash]], comentario, fecha y rama que se modificó.
 - `--graph`. Etiqueta de `log` que permite ver los commits de forma más gráfica.
 - `--decorate`. Etiqueta de `log` que permite modificar el estilo del `log`.
 - `--all`. Etiqueta de `log` que indica que se modificará todo el `log`.
@@ -154,9 +155,22 @@ git log --graph --decorate --all --oneline
 #### Volver a la última fotografía de un fichero
 Si luego de hacer una fotografía, modificas el fichero y quieres volver a como estaba antes, puedes usar:
 ```shell
-git checkout NOMBRE_FICHERO
+git checkout NOMBRE_FICHERO_OPCIONAL
 ```
 - `chekout`. Devuelve los datos de como estaba un fichero o todo el proyecto en la última fotografía.
+
+#### Moverse a una fotografía específica
+Para moverte a una fotografía específica solo debes copiar su [[Learning/Wiki/Hash\|hash]] como valor para el `checkout`.
+```shell
+git checkout HASH_DE_LA_FOTOGRAFIA_DESTINO
+```
+- **Info:** En algunos casos puede no funcionar, debido a que hay archivos que no han sido añadidos a la fotografía.
+#### Definir la fotografía de destino como la última rama
+Si quieres que la rama a la que te moviste sea reconocido por git como la última rama (fotografía).
+```shell
+git checkout HEAD
+```
+- `HEAD`. Declara a la rama actual como la última fotografía. Aún se conservan las ramas siguiente pero el árbol ahora crecerá desde esta rama.
 
 #### Volver atrás una fotografía
 Si hiciste una fotografía pero quieres volver a la anterior ejecuta:
@@ -183,4 +197,6 @@ git diff
 - `diff`. Propiedad de Git que devuelve los cambios en el código realizados entre la última fotografía y el momento actual. Devuelve: Nombre del archivo modificado, indica si se agregó o se eliminó algo, se especifica el número de lineas afectadas, y se imprime el antes y el después.
    ![Pasted image 20240318170923.png|600](/img/user/Engine/Attachments/Pasted%20image%2020240318170923.png)
 
-[Última actualización](https://youtu.be/3GymExBkKjE?si=3L2hPUM-bUVwChtM&t=4351)
+---
+**Fuentes**:
+- [Curso de GIT y GITHUB desde CERO para PRINCIPIANTES - YouTube](https://youtube.com/watch?v=3GymExBkKjE)
