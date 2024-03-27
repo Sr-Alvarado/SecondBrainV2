@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/learning/code/instalar-y-usar-virtualenv-para-python-3/","tags":["python/3","virtualenv","shell","terminal"],"created":"2024-03-04T11:36","updated":"2024-03-16T16:27"}
 ---
 
-Si estás en este artículo, se asume que: sabes que es [[virtualenv\|virtualenv]], [[Learning/Code/python3\|python3]] y [[pip\|pip]], y tienes instalado los 2 últimos. Así que vamos de frente a lo bueno.
+Si estás en este artículo, se asume que: sabes que es [[virtualenv\|virtualenv]], [[Python 3\|Python 3]] y [[pip\|pip]], y tienes instalado los 2 últimos. Así que vamos de frente a lo bueno.
 
 ## Como instalar virtualenv
 - **Fuente original**: [Instalar y usar virtualenv con Python 3 – Centro de Ayuda de DreamHost](https://help.dreamhost.com/hc/es/articles/115000695551-Instalar-y-usar-virtualenv-con-Python-3)
