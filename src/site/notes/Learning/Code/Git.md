@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/code/git/","created":"2024-03-14T13:56","updated":"2024-03-27T16:50"}
+{"dg-publish":true,"permalink":"/learning/code/git/","created":"2024-03-14T13:56","updated":"2024-03-27T17:00"}
 ---
 
 
@@ -70,13 +70,13 @@ Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los 
 - [[Learning/Code/Git Terminal/Añadir ficheros a la fotografía en Git\|Añadir ficheros a la fotografía en Git]]
 - [[Learning/Code/Git Terminal/Indicar a Git que ignore un archivo\|Indicar a Git que ignore un archivo]]
 - [[Learning/Code/Git Terminal/Hacer una fotografía en Git\|Hacer una fotografía en Git]]
-- [[Learning/Code/Git Terminal/Mostrar el registro de fotografías Git\|Mostrar el registro de fotografías Git]]
-- [[Learning/Code/Git Terminal/Volver a la última fotografía de un fichero\|Volver a la última fotografía de un fichero]]
-- [[Learning/Code/Git Terminal/Moverse a una fotografía específica\|Moverse a una fotografía específica]]
-- [[Learning/Code/Git Terminal/Definir la fotografía de destino como la última rama\|Definir la fotografía de destino como la última rama]]
-- [[Learning/Code/Git Terminal/Volver atrás una fotografía\|Volver atrás una fotografía]]
-- [[Learning/Code/Git Terminal/Crear alias en git\|Crear alias en git]]
-- [[Learning/Code/Git Terminal/Ver los cambios entre el proyecto actual y la última fotografía\|Ver los cambios entre el proyecto actual y la última fotografía]]
+- [[Learning/Code/Git Terminal/Mostrar el registro de fotografías en Git\|Mostrar el registro de fotografías en Git]]
+- [[Learning/Code/Git Terminal/Volver a la última fotografía de un fichero en Git\|Volver a la última fotografía de un fichero en Git]]
+- [[Learning/Code/Git Terminal/Moverse a una fotografía específica en Git\|Moverse a una fotografía específica en Git]]
+- [[Learning/Code/Git Terminal/Definir la fotografía de destino como la última rama  en Git\|Definir la fotografía de destino como la última rama  en Git]]
+- [[Learning/Code/Git Terminal/Volver atrás una fotografía en Git\|Volver atrás una fotografía en Git]]
+- [[Learning/Code/Git Terminal/Crear alias en Git\|Crear alias en Git]]
+- [[Learning/Code/Git Terminal/Ver los cambios entre el proyecto actual y la última fotografía en Git\|Ver los cambios entre el proyecto actual y la última fotografía en Git]]
 
 ### Usando Git con Interfaz gráfica
 - GitKraken
