@@ -12,6 +12,6 @@ Publico mi Digital Garden porque creo firmemente que el conocimiento es más val
 > [!info] Últimas actualizaciones
 >  - [[Learning/Code/Git Terminal/Versión de Git\|Versión de Git]]: 4:51 PM - March 27, 2024
 > - [[Learning/Code/Git\|Git]]: 4:50 PM - March 27, 2024
-> - [[Learning/Wiki/Fotografía\|Fotografía]]: 1:07 PM - March 27, 2024
+> - [[Learning/Code/Git Terminal/Añadir ficheros a la fotografía en Git\|Añadir ficheros a la fotografía en Git]]: 4:18 PM - March 27, 2024
 > 
 { .block-language-dataview}
