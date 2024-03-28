@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Git Terminal/checkout - Restaurar fotografías o archivos específicos en Git.md","permalink":"/code/git-terminal/checkout-restaurar-fotografias-o-archivos-especificos-en-git/","created":"2024-03-27T16:18","updated":"2024-03-27T19:23"}
+{"dg-publish":true,"dg-path":"Git/checkout - Restaurar fotografías o archivos específicos en Git.md","permalink":"/git/checkout-restaurar-fotografias-o-archivos-especificos-en-git/","created":"2024-03-27T16:18","updated":"2024-03-27T19:23"}
 ---
 
 
