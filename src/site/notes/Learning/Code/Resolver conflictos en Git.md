@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/code/resolver-conflictos-en-git/","created":"2024-03-27T20:38","updated":"2024-03-27T20:38"}
+{"dg-publish":true,"dg-path":"Code/Resolver conflictos en Git.md","permalink":"/code/resolver-conflictos-en-git/","created":"2024-03-27T20:38","updated":"2024-03-27T20:38"}
 ---
 
 Si tienes conflictos y estas usando el editor de código [[vscode\|vscode]], en el mismo editor te aparecerán las lineas de código en conflicto. Lo único que tienes que hacer es:
