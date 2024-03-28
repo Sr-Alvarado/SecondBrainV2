@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/code/git/","created":"2024-03-14T13:56","updated":"2024-03-27T20:15"}
+{"dg-publish":true,"permalink":"/learning/code/git/","created":"2024-03-14T13:56","updated":"2024-03-27T20:26"}
 ---
 
 
@@ -81,6 +81,9 @@ Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los 
 - [[Learning/Code/checkout tags - Moverse entre fotografías usando los tags en Git\|checkout tags - Moverse entre fotografías usando los tags en Git]] 
 - [[Learning/Code/branch - Añadir nuevas ramas en Git\|branch - Añadir nuevas ramas en Git]] 
 - [[Learning/Code/switch - Moverse entre ramas en Git\|switch - Moverse entre ramas en Git]] 
+- [[Learning/Code/merge - Traer la última actualización de la rama principal a una rama secundaria en Git\|merge - Traer la última actualización de la rama principal a una rama secundaria en Git]] 
+   - [[Learning/Code/Resolver conflictos en Git\|Resolver conflictos en Git]]
+- 
 
 ### Usando Git con Interfaz gráfica
 - GitKraken
