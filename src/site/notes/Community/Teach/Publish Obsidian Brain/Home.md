@@ -11,7 +11,7 @@ Publico mi Digital Garden porque creo firmemente que el conocimiento es más val
 
 > [!info] Últimas actualizaciones
 >  - [[Learning/Code/Git\|Git]]: 8:15 PM - March 27, 2024
-> - [[Learning/Code/Git Terminal/reset - Retroceder a una fotografía anterior en  Git\|reset - Retroceder a una fotografía anterior en  Git]]: 7:37 PM - March 27, 2024
-> - [[Learning/Code/Git Terminal/checkout - Restaurar fotografías o archivos específicos en Git\|checkout - Restaurar fotografías o archivos específicos en Git]]: 7:23 PM - March 27, 2024
+> - [[Learning/Code/switch - Moverse entre ramas en Git\|switch - Moverse entre ramas en Git]]: 8:08 PM - March 27, 2024
+> - [[Learning/Code/branch - Añadir nuevas ramas en Git\|branch - Añadir nuevas ramas en Git]]: 8:05 PM - March 27, 2024
 > 
 { .block-language-dataview}
