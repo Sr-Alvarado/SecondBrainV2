@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/code/git-terminal/init-usar-git-en-un-proyecto/","created":"2024-03-27T16:18","updated":"2024-03-27T16:18"}
+{"dg-publish":true,"dg-path":"Code/Git Terminal/init - Usar Git en un proyecto.md","permalink":"/code/git-terminal/init-usar-git-en-un-proyecto/","created":"2024-03-27T16:18","updated":"2024-03-27T16:18"}
 ---
 
 En la ruta de la carpeta de ese proyecto ejecuta:
