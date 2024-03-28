@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/learning/code/git-terminal/checkout-head-definir-la-fotografia-como-la-cabeza-del-proyecto-en-git/","created":"2024-03-27T16:18","updated":"2024-03-27T16:18"}
+{"dg-publish":true,"permalink":"/learning/code/git-terminal/checkout-head-definir-la-fotografia-como-la-cabeza-del-proyecto-en-git/","created":"2024-03-27T16:18","updated":"2024-03-27T16:58"}
 ---
 
-Si quieres que la rama a la que te moviste sea reconocido por git como la última rama (fotografía).
+Si quieres que la fotografía a la que te moviste sea reconocida por git como la cabeza del proyecto usa:
 ```shell
 git checkout HEAD
 ```
-- `HEAD`. Declara a la rama actual como la última fotografía. Aún se conservan las ramas siguiente pero el árbol ahora crecerá desde esta rama.
+- `HEAD`. Declara a la fotografía actual como la última. Aún se conservan las fotografías siguientes pero la rama ahora crecerá desde esta fotografía.
