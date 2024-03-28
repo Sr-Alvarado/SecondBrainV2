@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Git/-m branch - Modificar el nombre de una rama en Git.md","permalink":"/git/m-branch-modificar-el-nombre-de-una-rama-en-git/","created":"2024-03-27T16:18","updated":"2024-03-27T16:18"}
+{"dg-publish":true,"dg-path":"Code/Git Terminal/-m branch - Modificar el nombre de una rama en Git.md","permalink":"/code/git-terminal/m-branch-modificar-el-nombre-de-una-rama-en-git/","created":"2024-03-27T16:18","updated":"2024-03-27T16:18"}
 ---
 
 En la ruta de la carpeta de ese proyecto ejecuta:
