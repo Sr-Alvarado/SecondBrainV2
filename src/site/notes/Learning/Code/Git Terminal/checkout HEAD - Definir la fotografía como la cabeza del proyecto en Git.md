@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Git Terminal/checkout HEAD - Definir la fotografía como la cabeza del proyecto en Git.md","permalink":"/code/git-terminal/checkout-head-definir-la-fotografia-como-la-cabeza-del-proyecto-en-git/","created":"2024-03-27T16:18","updated":"2024-03-27T16:58"}
+{"dg-publish":true,"dg-path":"Git/checkout HEAD - Definir la fotografía como la cabeza del proyecto en Git.md","permalink":"/git/checkout-head-definir-la-fotografia-como-la-cabeza-del-proyecto-en-git/","created":"2024-03-27T16:18","updated":"2024-03-27T16:58"}
 ---
 
 Si quieres que la fotografía a la que te moviste sea reconocida por git como la cabeza del proyecto usa:
