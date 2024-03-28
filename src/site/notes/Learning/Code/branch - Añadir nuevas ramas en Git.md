@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/code/branch-anadir-nuevas-ramas-en-git/","created":"2024-03-27T20:05","updated":"2024-03-27T20:05"}
+{"dg-publish":true,"dg-path":"Code/branch - Añadir nuevas ramas en Git.md","permalink":"/code/branch-anadir-nuevas-ramas-en-git/","created":"2024-03-27T20:05","updated":"2024-03-27T20:05"}
 ---
 
 Si quieres añadir una rama nueva para hacer modificaciones sin que afecten a la rama principal [[Learning/Wiki/Main\|main]] puedes usar:
