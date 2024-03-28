@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Git/tag - Añadir una etiqueta a una fotografía en Git.md","permalink":"/git/tag-anadir-una-etiqueta-a-una-fotografia-en-git/","created":"2024-03-27T19:39","updated":"2024-03-27T19:40"}
+{"dg-publish":true,"dg-path":"Code/Git Terminal/tag - Añadir una etiqueta a una fotografía en Git.md","permalink":"/code/git-terminal/tag-anadir-una-etiqueta-a-una-fotografia-en-git/","created":"2024-03-27T19:39","updated":"2024-03-27T19:40"}
 ---
 
 Si en una fotografía quieres añadir un valor para identificar ese punto específico puedes usar:
