@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/code/git/","created":"2024-03-14T13:56","updated":"2024-03-27T19:45"}
+{"dg-publish":true,"permalink":"/learning/code/git/","created":"2024-03-14T13:56","updated":"2024-03-27T19:55"}
 ---
 
 
@@ -72,14 +72,15 @@ Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los 
 - [[Learning/Code/Git Terminal/config alias - Crear alias en Git\|config alias - Crear alias en Git]]
 - [[Learning/Code/Git Terminal/commit - Hacer una fotografía en Git\|commit - Hacer una fotografía en Git]]
 - [[Learning/Code/Git Terminal/log - Mostrar el registro de fotografías hasta la cabeza del proyecto en Git\|log - Mostrar el registro de fotografías hasta la cabeza del proyecto en Git]] 
-- [[Learning/Code/Git Terminal/checkout - Restaurar ramas o archivos específicos en Git\|checkout - Restaurar ramas o archivos específicos en Git]] 
+- [[Learning/Code/Git Terminal/checkout - Restaurar fotografías o archivos específicos en Git\|checkout - Restaurar fotografías o archivos específicos en Git]] 
 - [[Learning/Code/Git Terminal/checkout HEAD - Definir la fotografía como la cabeza del proyecto en Git\|checkout HEAD - Definir la fotografía como la cabeza del proyecto en Git]] 
 - [[Learning/Code/Git Terminal/reset - Retroceder a una fotografía anterior en  Git\|reset - Retroceder a una fotografía anterior en  Git]] 
 - [[Learning/Code/Git Terminal/diff - Ver los cambios entre el proyecto actual y la última fotografía en Git\|diff - Ver los cambios entre el proyecto actual y la última fotografía en Git]]
 - [[Learning/Code/reflog - Ver todos los cambios del proyecto en el tiempo en Git\|reflog - Ver todos los cambios del proyecto en el tiempo en Git]] 
 - [[Learning/Code/tag - Añadir una etiqueta a una fotografía en Git\|tag - Añadir una etiqueta a una fotografía en Git]] 
-- [[Learning/Code/checkout tags - Moverse entre fotografías usando los tags\|checkout tags - Moverse entre fotografías usando los tags]] 
-- 
+- [[Learning/Code/checkout tags - Moverse entre fotografías usando los tags en Git\|checkout tags - Moverse entre fotografías usando los tags en Git]] 
+- [[Añadir ramas nuevas (experimentales) en git\|Añadir ramas nuevas (experimentales) en git]] 
+- [[Moverse entre ramas en Git\|Moverse entre ramas en Git]] 
 
 ### Usando Git con Interfaz gráfica
 - GitKraken
