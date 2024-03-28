@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/learning/code/git/","created":"2024-03-14T13:56","updated":"2024-03-27T17:00"}
+{"dg-publish":true,"permalink":"/learning/code/git/","created":"2024-03-14T13:56","updated":"2024-03-27T19:45"}
 ---
 
 
 > [!info]
-> Esta es una guía diseñada para leerse de forma lineal. Hacia el principio se explican conceptos básicos, más hacia el final se asume que comprendes conceptos básico y ya no se vuelven a explican. Además, la estructura permite que encuentres justo lo que estas buscando.
+> Esta es una guía diseñada para seguirse linealmente. Hacia el principio se explican conceptos más básicos, avanzando hacia el final se asume que comprendes esos conceptos y ya no se vuelven a explican. Además, la estructura permite que encuentres justo lo que estas buscando.
 > 
 >> [!cite]- **Fuentes:**
 >> - [Curso de GIT y GITHUB desde CERO para PRINCIPIANTES - YouTube](https://youtube.com/watch?v=3GymExBkKjE)
 
-## ¿Qué es?
+## ¿Qué es Git?
 **Es un [[Learning/Wiki/Sistema de control de versiones\|Sistema de control de versiones]]:** 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/learning/wiki/sistema-de-control-de-versiones/#4a1b0e" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -61,22 +61,25 @@ Git es un programa para la terminal, sin embargo existen algunas opciones con in
 ### Usando git en la terminal
 Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los OS. Los comandos más usados son:
 - [[Learning/Code/Git Terminal/Versión de Git\|Versión de Git]]
-- [[Learning/Code/Git Terminal/Configurar Git\|Configurar Git]]
-- [[Learning/Code/Git Terminal/Configurar el usuario en Git\|Configurar el usuario en Git]]
-- [[Learning/Code/Git Terminal/Configurar el email en Git\|Configurar el email en Git]]
-- [[Learning/Code/Git Terminal/Usar Git en un proyecto\|Usar Git en un proyecto]]
-- [[Learning/Code/Git Terminal/Modificar el nombre de una rama en Git\|Modificar el nombre de una rama en Git]] 
-- [[Learning/Code/Git Terminal/Ver el estado del control de versiones en Git\|Ver el estado del control de versiones en Git]]
-- [[Learning/Code/Git Terminal/Añadir ficheros a la fotografía en Git\|Añadir ficheros a la fotografía en Git]]
-- [[Learning/Code/Git Terminal/Indicar a Git que ignore un archivo\|Indicar a Git que ignore un archivo]]
-- [[Learning/Code/Git Terminal/Hacer una fotografía en Git\|Hacer una fotografía en Git]]
-- [[Learning/Code/Git Terminal/Mostrar el registro de fotografías en Git\|Mostrar el registro de fotografías en Git]]
-- [[Learning/Code/Git Terminal/Volver a la última fotografía de un fichero en Git\|Volver a la última fotografía de un fichero en Git]]
-- [[Learning/Code/Git Terminal/Moverse a una fotografía específica en Git\|Moverse a una fotografía específica en Git]]
-- [[Learning/Code/Git Terminal/Definir la fotografía de destino como la última rama  en Git\|Definir la fotografía de destino como la última rama  en Git]]
-- [[Learning/Code/Git Terminal/Volver atrás una fotografía en Git\|Volver atrás una fotografía en Git]]
-- [[Learning/Code/Git Terminal/Crear alias en Git\|Crear alias en Git]]
-- [[Learning/Code/Git Terminal/Ver los cambios entre el proyecto actual y la última fotografía en Git\|Ver los cambios entre el proyecto actual y la última fotografía en Git]]
+- [[Learning/Code/Git Terminal/config - Configurar Git\|config - Configurar Git]]
+- [[Learning/Code/Git Terminal/config user.name - Configurar el usuario en Git\|config user.name - Configurar el usuario en Git]]
+- [[Learning/Code/Git Terminal/config user.mail - Configurar el email en Git\|config user.mail - Configurar el email en Git]]
+- [[Learning/Code/Git Terminal/init - Usar Git en un proyecto\|init - Usar Git en un proyecto]]
+- [[Learning/Code/Git Terminal/branch - Modificar el nombre de una rama en Git\|branch - Modificar el nombre de una rama en Git]] 
+- [[Learning/Code/Git Terminal/status - Ver el estado del control de versiones en Git\|status - Ver el estado del control de versiones en Git]]
+- [[Learning/Code/Git Terminal/add - Añadir ficheros a la fotografía en Git\|add - Añadir ficheros a la fotografía en Git]]
+- [[Learning/Code/Git Terminal/gitignore - Indicar a Git que ignore un archivo\|gitignore - Indicar a Git que ignore un archivo]]
+- [[Learning/Code/Git Terminal/config alias - Crear alias en Git\|config alias - Crear alias en Git]]
+- [[Learning/Code/Git Terminal/commit - Hacer una fotografía en Git\|commit - Hacer una fotografía en Git]]
+- [[Learning/Code/Git Terminal/log - Mostrar el registro de fotografías hasta la cabeza del proyecto en Git\|log - Mostrar el registro de fotografías hasta la cabeza del proyecto en Git]] 
+- [[Learning/Code/Git Terminal/checkout - Restaurar ramas o archivos específicos en Git\|checkout - Restaurar ramas o archivos específicos en Git]] 
+- [[Learning/Code/Git Terminal/checkout HEAD - Definir la fotografía como la cabeza del proyecto en Git\|checkout HEAD - Definir la fotografía como la cabeza del proyecto en Git]] 
+- [[Learning/Code/Git Terminal/reset - Retroceder a una fotografía anterior en  Git\|reset - Retroceder a una fotografía anterior en  Git]] 
+- [[Learning/Code/Git Terminal/diff - Ver los cambios entre el proyecto actual y la última fotografía en Git\|diff - Ver los cambios entre el proyecto actual y la última fotografía en Git]]
+- [[Learning/Code/reflog - Ver todos los cambios del proyecto en el tiempo en Git\|reflog - Ver todos los cambios del proyecto en el tiempo en Git]] 
+- [[Learning/Code/tag - Añadir una etiqueta a una fotografía en Git\|tag - Añadir una etiqueta a una fotografía en Git]] 
+- [[Learning/Code/checkout tags - Moverse entre fotografías usando los tags\|checkout tags - Moverse entre fotografías usando los tags]] 
+- 
 
 ### Usando Git con Interfaz gráfica
 - GitKraken
