@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/code/como-instalar-telegram-en-linux/","created":"2024-03-02T22:09","updated":"2024-03-04T16:31"}
+{"dg-publish":true,"dg-path":"Code/Cómo instalar Telegram en Linux.md","permalink":"/code/como-instalar-telegram-en-linux/","created":"2024-03-02T22:09","updated":"2024-03-04T16:31"}
 ---
 
 Si deseas aprender a instalar Telegram desde su código fuente, los binarios del programa, este tutorial es para ti.
