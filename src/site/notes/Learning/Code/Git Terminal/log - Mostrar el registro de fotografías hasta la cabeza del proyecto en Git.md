@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Git/log - Mostrar el registro de fotografías hasta la cabeza del proyecto en Git.md","permalink":"/git/log-mostrar-el-registro-de-fotografias-hasta-la-cabeza-del-proyecto-en-git/","created":"2024-03-27T16:18","updated":"2024-03-27T19:20"}
+{"dg-publish":true,"dg-path":"Code/Git Terminal/log - Mostrar el registro de fotografías hasta la cabeza del proyecto en Git.md","permalink":"/code/git-terminal/log-mostrar-el-registro-de-fotografias-hasta-la-cabeza-del-proyecto-en-git/","created":"2024-03-27T16:18","updated":"2024-03-27T19:20"}
 ---
 
 Si quieres ver los cambios o fotografías de tu proyecto desde el inicio hasta la cabeza de tu proyecto o la versión más actual puedes usar: 
