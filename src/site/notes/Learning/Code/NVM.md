@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/code/nvm/","created":"2024-01-25T19:06","updated":"2024-03-19T16:30"}
+{"dg-publish":true,"dg-path":"Code/NVM.md","permalink":"/code/nvm/","created":"2024-01-25T19:06","updated":"2024-03-19T16:30"}
 ---
 
 **Fuentes**: 
