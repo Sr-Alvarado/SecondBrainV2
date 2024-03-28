@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Git/merge - Traer la última actualización de la rama principal a una rama secundaria en Git.md","permalink":"/git/merge-traer-la-ultima-actualizacion-de-la-rama-principal-a-una-rama-secundaria-en-git/","created":"2024-03-27T20:22","updated":"2024-03-27T20:37"}
+{"dg-publish":true,"dg-path":"Code/Git Terminal/merge - Traer la última actualización de la rama principal a una rama secundaria en Git.md","permalink":"/code/git-terminal/merge-traer-la-ultima-actualizacion-de-la-rama-principal-a-una-rama-secundaria-en-git/","created":"2024-03-27T20:22","updated":"2024-03-27T20:37"}
 ---
 
 Si estas trabajando con una rama secundaria y la rama principal se actualiza, puedes actualizar tu rama con los últimos cambios de la rama principal con:
