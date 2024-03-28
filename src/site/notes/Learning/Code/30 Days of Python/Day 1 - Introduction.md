@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/code/30-days-of-python/day-1-introduction/","created":"2024-03-08T15:10","updated":"2024-03-16T16:12"}
+{"dg-publish":true,"dg-path":"Code/30 Days of Python/Day 1 - Introduction.md","permalink":"/code/30-days-of-python/day-1-introduction/","created":"2024-03-08T15:10","updated":"2024-03-16T16:12"}
 ---
 
 ## Download and Install python
