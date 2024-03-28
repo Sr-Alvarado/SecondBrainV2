@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/code/git-terminal/config-configurar-git/","created":"2024-03-27T16:18","updated":"2024-03-27T16:18"}
+{"dg-publish":true,"dg-path":"Code/Git Terminal/config - Configurar Git.md","permalink":"/code/git-terminal/config-configurar-git/","created":"2024-03-27T16:18","updated":"2024-03-27T16:18"}
 ---
 
 Toda configuración de Git se registra en el [[fichero\|fichero]] `.gitconfig`. Podrías añadir o modificar cualquier configuración directamente editando este fichero.
