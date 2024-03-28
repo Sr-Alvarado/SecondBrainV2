@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/code/git/","created":"2024-03-14T13:56","updated":"2024-03-27T19:55"}
+{"dg-publish":true,"permalink":"/learning/code/git/","created":"2024-03-14T13:56","updated":"2024-03-27T20:15"}
 ---
 
 
@@ -35,7 +35,7 @@ Permite tener una copia local del contenido. No existe un repositorio central ú
 
 
 
-Una rama es una bifurcación de un proyecto. Puede existir infinitas ramas, cada rama tiene un nombre específico y un [[Learning/Wiki/Hash\|hash]] que la identifica. Todas comparten un único origen o rama principal, [[Learning/Wiki/Main\|main]], pero cada una es independiente y puede ser modificada de cualquier forma. 
+Una rama es una bifurcación de un proyecto. Puede existir infinitas ramas, cada una con infinitas fotografías, cada rama tiene un nombre específico que la identifica. Todas comparten un único origen o rama principal, [[Learning/Wiki/Main\|main]], pero cada una es independiente y puede ser modificada de cualquier forma. 
 
 </div></div>
 
@@ -65,7 +65,7 @@ Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los 
 - [[Learning/Code/Git Terminal/config user.name - Configurar el usuario en Git\|config user.name - Configurar el usuario en Git]]
 - [[Learning/Code/Git Terminal/config user.mail - Configurar el email en Git\|config user.mail - Configurar el email en Git]]
 - [[Learning/Code/Git Terminal/init - Usar Git en un proyecto\|init - Usar Git en un proyecto]]
-- [[Learning/Code/Git Terminal/branch - Modificar el nombre de una rama en Git\|branch - Modificar el nombre de una rama en Git]] 
+- [[Learning/Code/Git Terminal/-m branch - Modificar el nombre de una rama en Git\|-m branch - Modificar el nombre de una rama en Git]] 
 - [[Learning/Code/Git Terminal/status - Ver el estado del control de versiones en Git\|status - Ver el estado del control de versiones en Git]]
 - [[Learning/Code/Git Terminal/add - Añadir ficheros a la fotografía en Git\|add - Añadir ficheros a la fotografía en Git]]
 - [[Learning/Code/Git Terminal/gitignore - Indicar a Git que ignore un archivo\|gitignore - Indicar a Git que ignore un archivo]]
@@ -79,8 +79,8 @@ Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los 
 - [[Learning/Code/reflog - Ver todos los cambios del proyecto en el tiempo en Git\|reflog - Ver todos los cambios del proyecto en el tiempo en Git]] 
 - [[Learning/Code/tag - Añadir una etiqueta a una fotografía en Git\|tag - Añadir una etiqueta a una fotografía en Git]] 
 - [[Learning/Code/checkout tags - Moverse entre fotografías usando los tags en Git\|checkout tags - Moverse entre fotografías usando los tags en Git]] 
-- [[Añadir ramas nuevas (experimentales) en git\|Añadir ramas nuevas (experimentales) en git]] 
-- [[Moverse entre ramas en Git\|Moverse entre ramas en Git]] 
+- [[Learning/Code/branch - Añadir nuevas ramas en Git\|branch - Añadir nuevas ramas en Git]] 
+- [[Learning/Code/switch - Moverse entre ramas en Git\|switch - Moverse entre ramas en Git]] 
 
 ### Usando Git con Interfaz gráfica
 - GitKraken
