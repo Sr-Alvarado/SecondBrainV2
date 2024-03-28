@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-03-27T20:38"}
+{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-03-28T12:42"}
 ---
 
 
@@ -76,12 +76,12 @@ Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los 
 - [[Learning/Code/Git Terminal/checkout HEAD - Definir la fotografía como la cabeza del proyecto en Git\|checkout HEAD - Definir la fotografía como la cabeza del proyecto en Git]] 
 - [[Learning/Code/Git Terminal/reset - Retroceder a una fotografía anterior en  Git\|reset - Retroceder a una fotografía anterior en  Git]] 
 - [[Learning/Code/Git Terminal/diff - Ver los cambios entre el proyecto actual y la última fotografía en Git\|diff - Ver los cambios entre el proyecto actual y la última fotografía en Git]]
-- [[Learning/Code/reflog - Ver todos los cambios del proyecto en el tiempo en Git\|reflog - Ver todos los cambios del proyecto en el tiempo en Git]] 
-- [[Learning/Code/tag - Añadir una etiqueta a una fotografía en Git\|tag - Añadir una etiqueta a una fotografía en Git]] 
-- [[Learning/Code/checkout tags - Moverse entre fotografías usando los tags en Git\|checkout tags - Moverse entre fotografías usando los tags en Git]] 
-- [[Learning/Code/branch - Añadir nuevas ramas en Git\|branch - Añadir nuevas ramas en Git]] 
-- [[Learning/Code/switch - Moverse entre ramas en Git\|switch - Moverse entre ramas en Git]] 
-- [[Learning/Code/merge - Traer la última actualización de la rama principal a una rama secundaria en Git\|merge - Traer la última actualización de la rama principal a una rama secundaria en Git]] 
+- [[Learning/Code/Git Terminal/reflog - Ver todos los cambios del proyecto en el tiempo en Git\|reflog - Ver todos los cambios del proyecto en el tiempo en Git]] 
+- [[Learning/Code/Git Terminal/tag - Añadir una etiqueta a una fotografía en Git\|tag - Añadir una etiqueta a una fotografía en Git]] 
+- [[Learning/Code/Git Terminal/checkout tags - Moverse entre fotografías usando los tags en Git\|checkout tags - Moverse entre fotografías usando los tags en Git]] 
+- [[Learning/Code/Git Terminal/branch - Añadir nuevas ramas en Git\|branch - Añadir nuevas ramas en Git]] 
+- [[Learning/Code/Git Terminal/switch - Moverse entre ramas en Git\|switch - Moverse entre ramas en Git]] 
+- [[Learning/Code/Git Terminal/merge - Traer la última actualización de la rama principal a una rama secundaria en Git\|merge - Traer la última actualización de la rama principal a una rama secundaria en Git]] 
    - [[Learning/Code/Resolver conflictos en Git\|Resolver conflictos en Git]]
 
 ### Usando Git con Interfaz gráfica
