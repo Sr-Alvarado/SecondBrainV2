@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Git/reflog - Ver todos los cambios del proyecto en el tiempo en Git.md","permalink":"/git/reflog-ver-todos-los-cambios-del-proyecto-en-el-tiempo-en-git/","created":"2024-03-27T19:12","updated":"2024-03-27T19:12"}
+{"dg-publish":true,"dg-path":"Code/Git Terminal/reflog - Ver todos los cambios del proyecto en el tiempo en Git.md","permalink":"/code/git-terminal/reflog-ver-todos-los-cambios-del-proyecto-en-el-tiempo-en-git/","created":"2024-03-27T19:12","updated":"2024-03-27T19:12"}
 ---
 
 Si retrocediste a una fotografía anterior con la propiedad `hard` o cambiaste el `HEAD` de tu proyecto y al ejecutar `log` solo te muestra los cambios anteriores a la fotografía actual, puedes usar:
