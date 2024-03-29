@@ -16,5 +16,6 @@ Publico mi Digital Garden porque creo firmemente que el conocimiento es más val
 > 
 { .block-language-dataview}
 
+---
 **Create with ❤️ in [[Obsidian\|Obsidian]]** 
 **Power by [Digital Garden plugin](https://dg-docs.ole.dev/) and [Vercel](https://vercel.com/)** 
