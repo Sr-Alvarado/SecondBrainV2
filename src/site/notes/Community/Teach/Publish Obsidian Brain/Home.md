@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-01-25T19:06","updated":"2024-03-16T16:28"}
+{"dg-publish":true,"permalink":"/community/teach/publish-obsidian-brain/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-01-25T19:06","updated":"2024-03-16T16:28"}
 ---
 
 ![NickNamePersonal.png|250](/img/user/Engine/Attachments/NickNamePersonal.png)
