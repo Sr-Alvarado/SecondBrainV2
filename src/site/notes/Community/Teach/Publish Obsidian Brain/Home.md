@@ -18,4 +18,4 @@ Publico mi Digital Garden porque creo firmemente que el conocimiento es más val
 
 ---
 **Create with ❤️ in [Obsidian](https://obsidian.md/)** 
-**Power by [Digital Garden plugin](https://dg-docs.ole.dev/) and [Vercel](https://vercel.com/)** 
+**Power by [Digital Garden Plugin](https://dg-docs.ole.dev/) and [Vercel](https://vercel.com/)** 
