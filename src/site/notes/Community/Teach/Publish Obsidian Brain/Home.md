@@ -15,3 +15,6 @@ Publico mi Digital Garden porque creo firmemente que el conocimiento es más val
 > - [[Learning/Code/Git Terminal/merge - Traer la última actualización de la rama principal a una rama secundaria en Git\|merge - Traer la última actualización de la rama principal a una rama secundaria en Git]]: 8:37 PM - March 27, 2024
 > 
 { .block-language-dataview}
+
+**Create with ❤️ in [[Obsidian\|Obsidian]]** 
+**Power by [Digital Garden plugin](https://dg-docs.ole.dev/) and [Vercel](https://vercel.com/)** 
