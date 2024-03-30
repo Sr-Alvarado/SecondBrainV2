@@ -92,6 +92,6 @@ Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los 
 - GitHub Desktop
 - Sourcetree
 
-### Usando Git en plataformas online
+### Usando Git con plataformas online 
 - [[Learning/Code/GitHub\|GitHub]] 
 - GitLab
