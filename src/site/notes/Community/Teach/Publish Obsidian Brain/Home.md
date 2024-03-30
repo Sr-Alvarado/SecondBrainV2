@@ -10,9 +10,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Learning/Code/Git\|Git]]: 12:42 PM - March 28, 2024
-> - [[Learning/Code/Resolver conflictos en Git\|Resolver conflictos en Git]]: 8:38 PM - March 27, 2024
-> - [[Learning/Code/Git Terminal/merge - Traer la última actualización de la rama principal a una rama secundaria en Git\|merge - Traer la última actualización de la rama principal a una rama secundaria en Git]]: 8:37 PM - March 27, 2024
+>  - [[Learning/Code/Git Terminal/checkout - Restaurar fotografías o archivos específicos en Git\|checkout - Restaurar fotografías o archivos específicos en Git]]: 6:53 PM - March 29, 2024
+> - [[Learning/Code/Git Terminal/log - Mostrar el registro de fotografías hasta la cabeza del proyecto en Git\|log - Mostrar el registro de fotografías hasta la cabeza del proyecto en Git]]: 6:52 PM - March 29, 2024
+> - [[Learning/Code/Git Terminal/branch - Crear y eliminar ramas en Git\|branch - Crear y eliminar ramas en Git]]: 6:49 PM - March 29, 2024
 > 
 { .block-language-dataview}
 
