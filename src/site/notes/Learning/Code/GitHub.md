@@ -6,8 +6,8 @@
 Plataforma de desarrollo colaborativo, usa el sistema de control de versiones [[Learning/Code/Git\|Git]]. Permite a los desarrolladores almacenar, gestionar y compartir proyectos de software de forma eficiente.
 
 ## Historia
-Fue fundada en 2008. Actualmente le pertenece a Microsoft
+Fue fundada en 2008. Actualmente le pertenece a Microsoft.
 
 ## Uso
-GitHub está presente en todos los canales, web, Android, Linux, Windows y IOS. Pero lo más común es usarlo con [[vscode\|vscode]] y a través de la [[terminal\|terminal]].
+GitHub está presente en todos los canales: web, Android, Linux, Windows y IOS. Pero lo más común es usarlo con [[vscode\|vscode]] y a través de la [[terminal\|terminal]].
 
