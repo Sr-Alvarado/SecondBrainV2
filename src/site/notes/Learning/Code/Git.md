@@ -88,11 +88,11 @@ Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los 
 - [[Learning/Code/Git Terminal/stash pop - Recuperar los cambios guardados temporalmente en Git\|stash pop - Recuperar los cambios guardados temporalmente en Git]] 
 - [[Learning/Code/Git Terminal/stash drop - Elimina los cambios guardados de temporalmente en Git\|stash drop - Elimina los cambios guardados de temporalmente en Git]] 
 
+### Usando Git con plataformas online 
+- [[Learning/Code/GitHub\|GitHub]] 
+- GitLab
+
 ### Usando Git con Interfaz gráfica
 - GitKraken
 - GitHub Desktop
 - Sourcetree
-
-### Usando Git con plataformas online 
-- [[Learning/Code/GitHub\|GitHub]] 
-- GitLab
