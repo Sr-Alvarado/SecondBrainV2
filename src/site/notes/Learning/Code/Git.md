@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-03-29T18:48"}
+{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-03-29T19:00"}
 ---
 
 
@@ -83,11 +83,15 @@ Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los 
 - [[Learning/Code/Git Terminal/switch - Moverse entre ramas en Git\|switch - Moverse entre ramas en Git]] 
 - [[Learning/Code/Git Terminal/merge - Fusionar la rama actual con otra rama en Git\|merge - Fusionar la rama actual con otra rama en Git]] 
    - [[Learning/Code/Resolver conflictos en Git\|Resolver conflictos en Git]]
-- [[Learning/Code/stash - Guardar los cambios de forma temporal el Git\|stash - Guardar los cambios de forma temporal el Git]] 
-- [[Learning/Code/stash pop - Recuperar los cambios guardados temporalmente en Git\|stash pop - Recuperar los cambios guardados temporalmente en Git]] 
-- [[Learning/Code/stash drop - Elimina los cambios guardados de temporalmente en Git\|stash drop - Elimina los cambios guardados de temporalmente en Git]] 
+- [[Learning/Code/Git Terminal/stash - Guardar los cambios de forma temporal en Git\|stash - Guardar los cambios de forma temporal en Git]] 
+- [[Learning/Code/Git Terminal/stash pop - Recuperar los cambios guardados temporalmente en Git\|stash pop - Recuperar los cambios guardados temporalmente en Git]] 
+- [[Learning/Code/Git Terminal/stash drop - Elimina los cambios guardados de temporalmente en Git\|stash drop - Elimina los cambios guardados de temporalmente en Git]] 
 
 ### Usando Git con Interfaz gráfica
 - GitKraken
 - GitHub Desktop
 - Sourcetree
+
+### Usando Git en plataformas online
+- [[Learning/Code/GitHub\|GitHub]] 
+- GitLab
