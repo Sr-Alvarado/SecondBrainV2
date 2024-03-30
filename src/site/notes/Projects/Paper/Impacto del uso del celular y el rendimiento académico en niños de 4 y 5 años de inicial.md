@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/paper/impacto-del-uso-del-celular-y-el-rendimiento-academico-en-ninos-de-4-y-5-anos-de-inicial/","hide":true,"created":"2024-03-22T18:09","updated":"2024-03-23T19:06"}
+{"dg-publish":true,"dg-path":"Impacto-uso-celular-rendimiento-academico-ninos-4-5-anos","permalink":"/impacto-uso-celular-rendimiento-academico-ninos-4-5-anos/","hide":true,"created":"2024-03-22T18:09","updated":"2024-03-30T14:04"}
 ---
 
 ## Info
