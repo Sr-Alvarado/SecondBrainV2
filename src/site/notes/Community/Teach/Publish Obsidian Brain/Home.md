@@ -12,7 +12,7 @@ Publico mi Digital Garden porque creo firmemente que el conocimiento es más val
 > [!info] Últimas actualizaciones
 >  - [[Community/Teach/Publish Obsidian Brain/Home\|Home]]: 2:04 PM - March 30, 2024
 > - [[Projects/Paper/Impacto del uso del celular y el rendimiento académico en niños de 4 y 5 años de inicial\|Impacto del uso del celular y el rendimiento académico en niños de 4 y 5 años de inicial]]: 2:04 PM - March 30, 2024
-> - [[Learning/Code/Git\|Git]]: 7:15 PM - March 29, 2024
+> - [[Learning/Code/Git\|Git]]: 9:22 PM - March 29, 2024
 > 
 { .block-language-dataview}
 
