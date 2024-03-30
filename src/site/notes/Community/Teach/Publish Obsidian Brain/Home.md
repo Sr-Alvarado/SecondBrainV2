@@ -10,9 +10,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Learning/Code/Git Terminal/stash drop - Elimina los cambios guardados de temporalmente en Git\|stash drop - Elimina los cambios guardados de temporalmente en Git]]: 7:07 PM - March 29, 2024
+>  - [[Learning/Code/Git\|Git]]: 7:15 PM - March 29, 2024
+> - [[Learning/Code/Git Terminal/stash drop - Elimina los cambios guardados de temporalmente en Git\|stash drop - Elimina los cambios guardados de temporalmente en Git]]: 7:07 PM - March 29, 2024
 > - [[Learning/Code/Git Terminal/stash pop - Recuperar los cambios guardados temporalmente en Git\|stash pop - Recuperar los cambios guardados temporalmente en Git]]: 7:07 PM - March 29, 2024
-> - [[Learning/Code/Git\|Git]]: 7:00 PM - March 29, 2024
 > 
 { .block-language-dataview}
 
