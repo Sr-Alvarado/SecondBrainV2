@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-03-28T12:42"}
+{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-03-29T18:48"}
 ---
 
 
@@ -75,14 +75,17 @@ Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los 
 - [[Learning/Code/Git Terminal/checkout - Restaurar fotografías o archivos específicos en Git\|checkout - Restaurar fotografías o archivos específicos en Git]] 
 - [[Learning/Code/Git Terminal/checkout HEAD - Definir la fotografía como la cabeza del proyecto en Git\|checkout HEAD - Definir la fotografía como la cabeza del proyecto en Git]] 
 - [[Learning/Code/Git Terminal/reset - Retroceder a una fotografía anterior en  Git\|reset - Retroceder a una fotografía anterior en  Git]] 
-- [[Learning/Code/Git Terminal/diff - Ver los cambios entre el proyecto actual y la última fotografía en Git\|diff - Ver los cambios entre el proyecto actual y la última fotografía en Git]]
+- [[Learning/Code/Git Terminal/diff - Ver las diferencias entre el estado actual y la última fotografía u otra rama en Git\|diff - Ver las diferencias entre el estado actual y la última fotografía u otra rama en Git]] 
 - [[Learning/Code/Git Terminal/reflog - Ver todos los cambios del proyecto en el tiempo en Git\|reflog - Ver todos los cambios del proyecto en el tiempo en Git]] 
 - [[Learning/Code/Git Terminal/tag - Añadir una etiqueta a una fotografía en Git\|tag - Añadir una etiqueta a una fotografía en Git]] 
 - [[Learning/Code/Git Terminal/checkout tags - Moverse entre fotografías usando los tags en Git\|checkout tags - Moverse entre fotografías usando los tags en Git]] 
-- [[Learning/Code/Git Terminal/branch - Añadir nuevas ramas en Git\|branch - Añadir nuevas ramas en Git]] 
+- [[Learning/Code/Git Terminal/branch - Crear y eliminar ramas en Git\|branch - Crear y eliminar ramas en Git]] 
 - [[Learning/Code/Git Terminal/switch - Moverse entre ramas en Git\|switch - Moverse entre ramas en Git]] 
-- [[Learning/Code/Git Terminal/merge - Traer la última actualización de la rama principal a una rama secundaria en Git\|merge - Traer la última actualización de la rama principal a una rama secundaria en Git]] 
+- [[Learning/Code/Git Terminal/merge - Fusionar la rama actual con otra rama en Git\|merge - Fusionar la rama actual con otra rama en Git]] 
    - [[Learning/Code/Resolver conflictos en Git\|Resolver conflictos en Git]]
+- [[Learning/Code/stash - Guardar los cambios de forma temporal el Git\|stash - Guardar los cambios de forma temporal el Git]] 
+- [[Learning/Code/stash pop - Recuperar los cambios guardados temporalmente en Git\|stash pop - Recuperar los cambios guardados temporalmente en Git]] 
+- [[Learning/Code/stash drop - Elimina los cambios guardados de temporalmente en Git\|stash drop - Elimina los cambios guardados de temporalmente en Git]] 
 
 ### Usando Git con Interfaz gráfica
 - GitKraken
