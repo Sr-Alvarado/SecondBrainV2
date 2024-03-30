@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Git Terminal/branch - Crear y eliminar ramas en Git.md","permalink":"/code/git-terminal/branch-crear-y-eliminar-ramas-en-git/","created":"2024-03-27T20:05","updated":"2024-03-29T18:49"}
+{"dg-publish":true,"dg-path":"Code/Git Terminal/branch - Crear y eliminar ramas en Git.md","permalink":"/code/git-terminal/branch-crear-y-eliminar-ramas-en-git/","created":"2024-03-27T20:05","updated":"2024-03-29T19:00"}
 ---
 
 Si quieres **añadir una rama nueva** para hacer modificaciones sin que afecten a la rama principal [[Learning/Wiki/Main\|main]] puedes usar:
@@ -15,4 +15,5 @@ git branch -d NOMBRE_RAMA
 - `-d`. Etiqueta de `branch` que indica al sistema que quieres eliminar la rama.
 
 > [!tip]
-> En Git nada se elimina realmente, si revisas los [[Learning/Code/Git Terminal/log - Mostrar el registro de fotografías hasta la cabeza del proyecto en Git\|log]]s y copias el [[Learning/Wiki/Hash\|hash]] de una rama eliminada, puedes acceder a ella con [[Learning/Code/Git Terminal/checkout - Restaurar fotografías o archivos específicos en Git\|chechout]]; porque el trabajo de Git es guardar el registro de cambios. Las ramas eliminadas persisten en el tiempo y por eso puedes crear nuevas ramas desde cualquier fotografía del proyecto.
+> En Git nada se elimina realmente, si revisas los [[Learning/Code/Git Terminal/log - Mostrar el registro de fotografías hasta la cabeza del proyecto en Git\|log]]s y copias el [[Learning/Wiki/Hash\|hash]] de una rama eliminada, puedes acceder a ella con [[Learning/Code/Git Terminal/checkout - Restaurar fotografías o archivos específicos en Git\|chechout]]. 
+> El trabajo de Git es guardar el registro de cambios. Las ramas eliminadas persisten en el tiempo y por eso puedes crear nuevas ramas desde cualquier fotografía del proyecto.
