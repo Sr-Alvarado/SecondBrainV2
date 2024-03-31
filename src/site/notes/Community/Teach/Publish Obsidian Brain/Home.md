@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-01-25T19:06","updated":"2024-03-30T19:16"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"dgShowBacklinks":"false","created":"2024-01-25T19:06","updated":"2024-03-30T19:16"}
 ---
 
 ![NickNamePersonal.png|250](/img/user/Engine/Attachments/NickNamePersonal.png)
