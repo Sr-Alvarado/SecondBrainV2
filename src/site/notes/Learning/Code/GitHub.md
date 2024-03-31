@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/GitHub.md","permalink":"/code/git-hub/","created":"2024-03-29T19:03","updated":"2024-03-30T22:47"}
+{"dg-publish":true,"dg-path":"Code/GitHub.md","permalink":"/code/git-hub/","created":"2024-03-29T19:03","updated":"2024-03-30T22:57"}
 ---
 
 
@@ -16,7 +16,12 @@ Plataforma de desarrollo colaborativo, usa el sistema de control de versiones [[
 Fue fundada en 2008. Actualmente le pertenece a Microsoft.
 
 ## Uso
-GitHub está presente en todas las plataformas: Web, Android, [[Linux\|Linux]], Windows y IOS. Pero lo más común es usarlo con [[vscode\|vscode]], a través de la [[terminal\|terminal]] y en su versión web.
+GitHub está presente en todas las plataformas: Web, Android, [[Linux\|Linux]], Windows y IOS. Pero lo más común es usarlo con [[vscode\|vscode]], a través de la [[terminal\|terminal]] y en su versión web. Lo único que necesitas para usarlo es crearte una cuenta.
+
+### Autenticar tu PC con GitHub
+Si quieres comenzar a trabajar con GitHub debes autenticar tu dispositivo para poder subir y bajar repositorios y proyectos de sus servidores, existen algunas formas de hacerlo las más comunes son:
+- [[Learning/Code/SSH\|SSH]] 
+- HTTP
 
 ### Personaliza tu perfil
 - [[Learning/Code/Añadir una descripción a mi perfil de GitHub usando README.md\|Añadir una descripción a mi perfil de GitHub usando README.md]] 
