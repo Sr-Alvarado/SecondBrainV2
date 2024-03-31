@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Como crear un alias para la terminal en Linux.md","permalink":"/code/como-crear-un-alias-para-la-terminal-en-linux/","tags":["linux","terminal","bash"],"created":"2024-01-27T22:11","updated":"2024-03-02T21:50"}
+{"dg-publish":true,"dg-path":"Code/Como crear un alias para la terminal en Linux.md","permalink":"/code/como-crear-un-alias-para-la-terminal-en-linux/","tags":["linux","terminal","bash"],"created":"2024-01-27T22:11","updated":"2024-03-02T22:05"}
 ---
 
 ## Vamos directo a lo bueno
@@ -16,4 +16,4 @@ Si lo pruebas, **aún no funcionará**. Para que los cambios surtan efecto debes
 
 Listo! Ahora ya sabes como crear un alias reusable en la terminal.
 
-[^1]: Las carpetas ocultas en Linux se identifican por tener un punto (.) al inicio del nombre.
+[^1]: Las carpetas ocultas en [[Learning/Wiki/Linux\|Linux]] se identifican por tener un punto (.) al inicio del nombre.
