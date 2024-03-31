@@ -24,7 +24,9 @@ GitHub es una red social para programadores, por eso te permite personalizar tu 
 ##### Crear el repo
 1. Crear un nuevo repositorio con el mismo nombre de tu usuario.
    ![Pasted image 20240330222329.png|600](/img/user/Engine/Attachments/Pasted%20image%2020240330222329.png)
-2. Seleccionar la opción "Añadir un archivo README"
+2. Selecciona la opción de "Publico"
+   ![Pasted image 20240330223717.png|600](/img/user/Engine/Attachments/Pasted%20image%2020240330223717.png)
+1. Y seleccionar la opción "Añadir un archivo README"
    ![Pasted image 20240330222620.png|600](/img/user/Engine/Attachments/Pasted%20image%2020240330222620.png)
 
 ##### Modificar el archivo README
