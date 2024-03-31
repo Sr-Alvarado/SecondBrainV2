@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-03-30T19:14"}
+{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-03-30T23:45"}
 ---
 
 
@@ -59,7 +59,7 @@ Descarga la última versión para tu [[OS\|OS]] desde la página oficial Git.
 
 ## Uso
 Git es un programa para la terminal, sin embargo existen algunas opciones online como [[Learning/Code/GitHub\|GitHub]] y otras con interfaz gráfica como [[GitKraken\|GitKraken]]. Para usar Git siempre vas a necesitar 2 cosas básicas: un usuario y un email.
-### Usando git en la terminal
+### Usando git de forma local en la terminal
 Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los OS. Los comandos más usados son:
 - [[Learning/Code/Git Terminal/Versión de Git\|Versión de Git]]
 - [[Learning/Code/Git Terminal/config - Configurar Git\|config - Configurar Git]]
@@ -85,6 +85,8 @@ Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los 
 - [[Learning/Code/Git Terminal/merge - Fusionar la rama actual con otra rama en Git\|merge - Fusionar la rama actual con otra rama en Git]] 
    - [[Learning/Code/Resolver conflictos en Git\|Resolver conflictos en Git]]
 - [[Learning/Code/Git Terminal/stash - Guardar los cambios de forma temporal en Git\|stash - Guardar los cambios de forma temporal en Git]] 
+{ #bdc807}
+
 - [[Learning/Code/Git Terminal/stash pop - Recuperar los cambios guardados temporalmente en Git\|stash pop - Recuperar los cambios guardados temporalmente en Git]] 
 - [[Learning/Code/Git Terminal/stash drop - Elimina los cambios guardados de temporalmente en Git\|stash drop - Elimina los cambios guardados de temporalmente en Git]] 
 
@@ -92,6 +94,9 @@ Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los 
 - [[Learning/Code/GitHub\|GitHub]] 
 - GitLab
 
+### Usando Git en la terminal con repositorios remotos
+Para hacer esto primero debes haber [[Learning/Code/GitHub#^e8e559\|autenticado]] tu dispositivo con una plataforma online que trabaje con Git como [[Learning/Code/GitHub\|GitHub]].
+- 
 ### Usando Git con Interfaz gráfica
 - GitKraken
 - GitHub Desktop
