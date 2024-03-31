@@ -10,9 +10,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Learning/Code/30 Days of Python/30 Days of Python\|30 Days of Python]]: 8:04 PM - March 30, 2024
+>  - [[Learning/Code/GitHub\|GitHub]]: 8:15 PM - March 30, 2024
+> - [[Learning/Code/30 Days of Python/30 Days of Python\|30 Days of Python]]: 8:04 PM - March 30, 2024
 > - [[Projects/Paper/Impacto del uso del celular en el rendimiento académico de niños de 4 y 5 años de inicial\|Impacto del uso del celular en el rendimiento académico de niños de 4 y 5 años de inicial]]: 7:50 PM - March 30, 2024
-> - [[Community/Teach/Publish Obsidian Brain/Home\|Home]]: 7:16 PM - March 30, 2024
 > 
 { .block-language-dataview}
 
