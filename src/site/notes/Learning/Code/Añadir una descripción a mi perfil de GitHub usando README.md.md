@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Code/Añadir una descripción a mi perfil de GitHub usando README.md.md","permalink":"/code/anadir-una-descripcion-a-mi-perfil-de-git-hub-usando-readme-md/","created":"2024-03-30T22:47","updated":"2024-03-30T22:47"}
 ---
 
-GitHub es una red social para programadores, por eso te permite personalizar tu perfil usando código. Solo necesitas:
+[[Learning/Code/GitHub\|GitHub]] es una red social para programadores, por eso te permite personalizar tu perfil usando código. Solo necesitas:
 ## Crear el repo
 1. Crea un nuevo repositorio con el mismo nombre de tu usuario.
    ![Pasted image 20240330222329.png|600](/img/user/Engine/Attachments/Pasted%20image%2020240330222329.png)
