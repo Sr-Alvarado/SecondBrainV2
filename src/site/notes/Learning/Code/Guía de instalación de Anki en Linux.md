@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Guía de instalación de Anki en Linux.md","permalink":"/code/guia-de-instalacion-de-anki-en-linux/","created":"2024-01-25T19:06","updated":"2024-03-02T21:52"}
+{"dg-publish":true,"dg-path":"Code/Guía de instalación de Anki en Linux.md","permalink":"/code/guia-de-instalacion-de-anki-en-linux/","created":"2024-01-25T19:06","updated":"2024-03-31T14:33"}
 ---
 
 ## Instalación
@@ -19,7 +19,7 @@ sudo apt install libxcb-xinerama0 libxcb-cursor0
    ```shell
    cd anki-2.1.XX-linux-qt6
    ```
-4. Ejecuta el instalador de Anki para Linux.
+4. Ejecuta el instalador de Anki para [[Learning/Wiki/Linux\|Linux]].
    ```shell
    sudo ./install.sh
    ```
@@ -60,7 +60,7 @@ sudo apt install libxcb-xinerama0 libxcb-cursor0
    "app://obsidian.md",
    ```
 ## Añadir audio
-En linux debemos añadir una aplicación que permita a Anki reproducir audios, Anki nos recomienda 2 opciones:
+En [[Learning/Wiki/Linux\|linux]] debemos añadir una aplicación que permita a Anki reproducir audios, Anki nos recomienda 2 opciones:
 - **mpv**: Es una aplicación completa con interfaz gráfica.
 - **mplayer**: Por defecto es una aplicación de terminal, se le puede añadir una interfaz gráfica.
 
