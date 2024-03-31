@@ -9,5 +9,5 @@ Plataforma de desarrollo colaborativo, usa el sistema de control de versiones [[
 Fue fundada en 2008. Actualmente le pertenece a Microsoft.
 
 ## Uso
-GitHub está presente en todos las plataformas: web, Android, Linux, Windows y IOS. Pero lo más común es usarlo con [[vscode\|vscode]] y a través de la [[terminal\|terminal]].
+GitHub está presente en todos las plataformas: Web, Android, Linux, Windows y Mac. Pero lo más común es usarlo con [[vscode\|vscode]] y a través de la [[terminal\|terminal]].
 
