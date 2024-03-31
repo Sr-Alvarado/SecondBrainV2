@@ -22,7 +22,7 @@ GitHub está presente en todas las plataformas: Web, Android, [[Linux\|Linux]], 
 #### Añadir una descripción de tu perfil con un `README.md`
 GitHub es una red social para programadores, por eso te permite personalizar tu perfil usando código. Solo necesitas:
 ##### Crear el repo
-1. Crear un nuevo repositorio con el mismo nombre de tu usuario.
+1. Crea un nuevo repositorio con el mismo nombre de tu usuario.
    ![Pasted image 20240330222329.png|600](/img/user/Engine/Attachments/Pasted%20image%2020240330222329.png)
 2. Selecciona la opción de "Publico"
    ![Pasted image 20240330223717.png|600](/img/user/Engine/Attachments/Pasted%20image%2020240330223717.png)
@@ -30,7 +30,13 @@ GitHub es una red social para programadores, por eso te permite personalizar tu 
    ![Pasted image 20240330222620.png|600](/img/user/Engine/Attachments/Pasted%20image%2020240330222620.png)
 
 ##### Modificar el archivo README
-El `README` es un archivo [[Learning/Code/Markdown\|markdown]], por lo que ademas de usar este lenguaje podemos usar [[Learning/Wiki/HTML\|HTML]].
+El `README` es un archivo [[Learning/Code/Markdown\|markdown]], por lo que ademas de usar este lenguaje podemos usar [[Learning/Wiki/HTML\|HTML]]. Ahora lo único que debes hacer es modificar el archivo `README` de tu repositorio:
+
+- Puedes hacerlo desde el propio [[Learning/Code/GitHub\|GitHub]] haciendo click en el lápiz de la esquina superior derecha de tu `README`.
+   ![Pasted image 20240330224103.png|600](/img/user/Engine/Attachments/Pasted%20image%2020240330224103.png)
+
+
+
 
 ### Licencias
 Es el reglamento legal que indica el nivel de permisos que sede el creador del repositorio. Las más usadas son:
