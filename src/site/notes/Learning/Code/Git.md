@@ -63,8 +63,8 @@ Git es un programa para la terminal, sin embargo existen algunas opciones online
 Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los OS. Los comandos más usados son:
 - [[Learning/Code/Git Terminal/Versión de Git\|Versión de Git]]
 - [[Learning/Code/Git Terminal/config - Configurar Git\|config - Configurar Git]]
-- [[Learning/Code/Git Terminal/config user.name - Configurar el usuario en Git\|config user.name - Configurar el usuario en Git]]
-- [[Learning/Code/Git Terminal/config user.mail - Configurar el email en Git\|config user.mail - Configurar el email en Git]]
+- [[Learning/Code/Git Terminal/config user name - Configurar el usuario en Git\|config user name - Configurar el usuario en Git]]
+- [[Learning/Code/Git Terminal/config user mail - Configurar el email en Git\|config user mail - Configurar el email en Git]]
 - [[Learning/Code/Git Terminal/init - Usar Git en un proyecto\|init - Usar Git en un proyecto]]
 - [[Learning/Code/Git Terminal/-m branch - Modificar el nombre de una rama en Git\|-m branch - Modificar el nombre de una rama en Git]] 
 - [[Learning/Code/Git Terminal/status - Ver el estado del control de versiones en Git\|status - Ver el estado del control de versiones en Git]]
