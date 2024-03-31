@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/NVM.md","permalink":"/code/nvm/","created":"2024-01-25T19:06","updated":"2024-03-19T19:43"}
+{"dg-publish":true,"dg-path":"Code/NVM.md","permalink":"/code/nvm/","created":"2024-01-25T19:06","updated":"2024-03-31T14:38"}
 ---
 
 
@@ -8,7 +8,7 @@
 >> - [GitHub - nvm-sh/nvm: Node Version Manager](https://github.com/nvm-sh/nvm)
 
 ## ¿Qué es?
-Programa que permite instalar multiples versiones de [[Learning/Code/Node.js\|Node]] en un solo dispositivo.
+Programa que permite instalar multiples versiones de [[Learning/Code/Node\|Node]] en un solo dispositivo.
 
 ## Uso
 ### Instalar y/o actualizar NVM
