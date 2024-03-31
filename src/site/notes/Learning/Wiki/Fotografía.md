@@ -3,5 +3,5 @@
 ---
 
 ## [[Learning/Code/Git\|Git]]
-Una fotografía es una instantánea de un proyecto. Graba/Guarda la estructura, características y datos de un proyecto en un determinado momento en el tiempo.
+Conocida en Git como [[Learning/Code/Git Terminal/commit - Hacer una fotografía en Git\|commit]], una fotografía es una instantánea de un proyecto. Graba/Guarda la estructura, características y datos de un proyecto en un determinado momento en el tiempo.
 { #3dcda9}
