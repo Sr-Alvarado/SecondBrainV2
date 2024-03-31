@@ -10,7 +10,7 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Projects/Paper/Impacto del uso del celular y el rendimiento académico en niños de 4 y 5 años de inicial\|Impacto del uso del celular y el rendimiento académico en niños de 4 y 5 años de inicial]]: 7:39 PM - March 30, 2024
+>  - [[Projects/Paper/Impacto del uso del celular y el rendimiento académico en niños de 4 y 5 años de inicial\|Impacto del uso del celular y el rendimiento académico en niños de 4 y 5 años de inicial]]: 7:50 PM - March 30, 2024
 > - [[Community/Teach/Publish Obsidian Brain/Home\|Home]]: 7:16 PM - March 30, 2024
 > - [[Learning/Code/Git\|Git]]: 3:30 PM - March 30, 2024
 > 
