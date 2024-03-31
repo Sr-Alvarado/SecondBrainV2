@@ -1,15 +1,16 @@
 ---
-{"dg-publish":true,"dg-path":"Code/NVM.md","permalink":"/code/nvm/","created":"2024-01-25T19:06","updated":"2024-03-19T16:30"}
+{"dg-publish":true,"dg-path":"Code/NVM.md","permalink":"/code/nvm/","created":"2024-01-25T19:06","updated":"2024-03-19T19:43"}
 ---
 
-**Fuentes**: 
-- [GitHub - nvm-sh/nvm: Node Version Manager](https://github.com/nvm-sh/nvm)
+
+> [!info]-
+>> [!cite]+ Fuentes y enlaces de interés
+>> - [GitHub - nvm-sh/nvm: Node Version Manager](https://github.com/nvm-sh/nvm)
 
 ## ¿Qué es?
-Programa que permite instalar multiples versiones de Node en un solo dispositivo.
+Programa que permite instalar multiples versiones de [[Learning/Code/Node.js\|Node]] en un solo dispositivo.
 
 ## Uso
-
 ### Instalar y/o actualizar NVM
 ```shell
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
@@ -19,8 +20,8 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
 - `| bash`. Define la salida standard como la sesión de terminal actual. 
 - **Resultado**. El archivo descargado a través de `curl` no se guardará en vez de eso se devolverá a la salida predeterminada que se definió como `bash` es decir, la sesión actual de la terminal.
 
-### Activar NVM para Linux
-Ahora solo queda activar NVM con:
+### Activar NVM en Linux
+Ahora solo queda activar NVM en tu dispositivo [[Learning/Wiki/Linux\|Linux]] con:
 ```shell
 source ~/.bashrc
 ```
