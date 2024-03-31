@@ -29,7 +29,7 @@ Si quieres comenzar a trabajar con GitHub debes autenticar tu dispositivo para p
 - HTTP
 
 ### Personaliza tu perfil
-- [[Learning/Code/Añadir una descripción a mi perfil de GitHub usando README.md\|Añadir una descripción a mi perfil de GitHub usando README.md]] 
+- [[Learning/Code/Añadir una descripción a mi perfil de GitHub usando README\|Añadir una descripción a mi perfil de GitHub usando README]] 
 
 ### Licencias
 Es el reglamento legal que indica el nivel de permisos que sede el creador del repositorio. Las más usadas son:
