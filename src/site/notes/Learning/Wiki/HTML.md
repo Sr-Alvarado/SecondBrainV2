@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"HTML.md","permalink":"/html/","created":"2024-01-25T19:06","updated":"2024-03-19T14:53"}
+{"dg-publish":true,"dg-path":"HTML.md","permalink":"/html/","hide":true,"created":"2024-01-25T19:06","updated":"2024-03-30T23:52"}
 ---
 
 ## ¿Qué es HTML?
