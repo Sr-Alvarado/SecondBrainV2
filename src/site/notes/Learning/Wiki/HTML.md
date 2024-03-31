@@ -3,4 +3,4 @@
 ---
 
 ## ¿Qué es HTML?
-Hyper Text Markup Language, es un lenguaje de etiquetas que definen la estructura de una página web. Puedes usar etiquetas HTML para añadir fotos, botones, y otros elementos en tu página. Los archivos HTML usan la extension del mismo nombre `.html`
+Hyper Text Markup Language es un lenguaje de etiquetas, define la estructura de una página web. Permite añadir etiquetas para: fotos, botones, textos, títulos, enlaces y otros elementos web; todo  archivo HTML usa la extension `.html` 
