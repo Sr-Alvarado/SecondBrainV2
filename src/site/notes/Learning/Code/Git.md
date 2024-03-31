@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-03-30T15:30"}
+{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-03-30T19:14"}
 ---
 
 
@@ -58,7 +58,7 @@ Creado por [[Linus Torvalds\|Linus Torvalds]] para facilitar el desarrollo de [[
 Descarga la última versión para tu [[OS\|OS]] desde la página oficial Git.
 
 ## Uso
-Git es un programa para la terminal, sin embargo existen algunas opciones online y otras con interfaz gráfica. Para usar Git necesitas 2 cosas básicas: un usuario y un email.
+Git es un programa para la terminal, sin embargo existen algunas opciones online como [[Learning/Code/GitHub\|GitHub]] y otras con interfaz gráfica como [[GitKraken\|GitKraken]]. Para usar Git siempre vas a necesitar 2 cosas básicas: un usuario y un email.
 ### Usando git en la terminal
 Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los OS. Los comandos más usados son:
 - [[Learning/Code/Git Terminal/Versión de Git\|Versión de Git]]
