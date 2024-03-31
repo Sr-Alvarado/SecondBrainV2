@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Impacto-uso-celular-rendimiento-academico-ninos-4-5-anos.md","permalink":"/impacto-uso-celular-rendimiento-academico-ninos-4-5-anos/","metatags":{"description":"Proyecto de la Psicóloga Isabel Atalaya Vargas que busca hallar la relación entre el uso regular de pantallas y el rendimiento academico de los niños de jardín.","og.image":"https://www.eluniverso.com/resizer/2AFLHduJEoZqUkCfUW6eYYFlZKw=/1008x670/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/W5KQCZYLUNEH5OEM6KAC35K77Q.jpg"},"hide":true,"dgHomeLink":"false","dgShowBacklinks":"false","dgShowFileTree":"false","dgEnableSearch":"false","created":"2024-03-22T18:09","updated":"2024-03-30T19:50"}
+{"dg-publish":true,"dg-path":"Impacto-uso-celular-rendimiento-academico-ninos-4-5-anos.md","permalink":"/impacto-uso-celular-rendimiento-academico-ninos-4-5-anos/","metatags":{"description":"Proyecto de la Psicóloga Isabel Atalaya Vargas que busca hallar la relación entre el uso regular de pantallas y el rendimiento academico de los niños de jardín.","og.image":"obsidian://open?vault=Second%20Brain%20Vaul%202.0&file=Engine%2FAttachments%2FNickNamePersonal.png"},"hide":true,"dgHomeLink":"false","dgShowBacklinks":"false","dgShowFileTree":"false","dgEnableSearch":"false","created":"2024-03-22T18:09","updated":"2024-03-30T19:50"}
 ---
 
 ## Info
