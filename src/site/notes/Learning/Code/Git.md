@@ -52,7 +52,7 @@ Conocida en Git como [[Learning/Code/Git Terminal/commit - Hacer una fotografía
 
 
 ## Historia
-Creado por [[Linus Torvalds\|Linus Torvalds]] para facilitar el desarrollo de [[Linux\|Linux]].
+Creado por [[Linus Torvalds\|Linus Torvalds]] para facilitar el desarrollo de [[Learning/Wiki/Linux\|Linux]].
 
 ## Instalación
 Descarga la última versión para tu [[OS\|OS]] desde la página oficial Git.
