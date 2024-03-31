@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-01-25T19:06","updated":"2024-03-30T14:04"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-01-25T19:06","updated":"2024-03-30T19:16"}
 ---
 
 ![NickNamePersonal.png|250](/img/user/Engine/Attachments/NickNamePersonal.png)
@@ -10,9 +10,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Learning/Code/Git\|Git]]: 3:30 PM - March 30, 2024
-> - [[Community/Teach/Publish Obsidian Brain/Home\|Home]]: 2:04 PM - March 30, 2024
-> - [[Projects/Paper/Impacto del uso del celular y el rendimiento académico en niños de 4 y 5 años de inicial\|Impacto del uso del celular y el rendimiento académico en niños de 4 y 5 años de inicial]]: 2:04 PM - March 30, 2024
+>  - [[Projects/Paper/Impacto del uso del celular y el rendimiento académico en niños de 4 y 5 años de inicial\|Impacto del uso del celular y el rendimiento académico en niños de 4 y 5 años de inicial]]: 7:18 PM - March 30, 2024
+> - [[Community/Teach/Publish Obsidian Brain/Home\|Home]]: 7:16 PM - March 30, 2024
+> - [[Learning/Code/Git\|Git]]: 3:30 PM - March 30, 2024
 > 
 { .block-language-dataview}
 
