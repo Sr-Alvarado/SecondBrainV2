@@ -19,7 +19,7 @@ Fue fundada en 2008. Actualmente le pertenece a Microsoft.
 GitHub está presente en todas las plataformas: Web, Android, [[Linux\|Linux]], Windows y IOS. Pero lo más común es usarlo con [[vscode\|vscode]] y a través de la [[terminal\|terminal]].
 
 ### Personalizar tu perfil
-#### Añadir un `README.md`
+#### Añadir una descripción de tu perfil con un `README.md`
 GitHub es una red social para programadores, por eso te permite personalizar tu perfil usando código. Solo necesitas:
 ##### Crear el repo
 1. Crear un nuevo repositorio con el mismo nombre de tu usuario.
