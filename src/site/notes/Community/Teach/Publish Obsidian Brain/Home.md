@@ -10,9 +10,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Learning/Code/Responsive Web Disign/Responsive Web Disign\|Responsive Web Disign]]: 11:30 PM - March 31, 2024
-> - [[Learning/Code/HTML Tags/<body> - Cuerpo de la página en HTML\|<body> - Cuerpo de la página en HTML]]: 11:29 PM - March 31, 2024
-> - [[Learning/Code/HTML Tags/<!DOCTYPE html> - Versión de HTML\|<!DOCTYPE html> - Versión de HTML]]: 11:29 PM - March 31, 2024
+>  - [[Learning/Code/NVM\|NVM]]: 2:38 PM - March 31, 2024
+> - [[Learning/Code/Node\|Node]]: 2:36 PM - March 31, 2024
+> - [[Learning/Code/Guía de instalación de Anki en Linux\|Guía de instalación de Anki en Linux]]: 2:33 PM - March 31, 2024
 > 
 { .block-language-dataview}
 
