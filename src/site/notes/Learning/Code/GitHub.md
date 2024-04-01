@@ -19,6 +19,7 @@ Fue fundada en 2008. Actualmente le pertenece a Microsoft.
 GitHub está presente en todas las plataformas: Web, Android, [[Learning/Wiki/Linux\|Linux]], Windows y IOS. Pero lo más común es usarlo con [[vscode\|vscode]], a través de la [[terminal\|terminal]] y en su versión web. Lo único que necesitas para usarlo es crearte una cuenta.
 
 ### Usar comandos `git`
+[[Learning/Code/Git\|Git]] 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/code/git/#dac427" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -43,5 +44,3 @@ Si quieres comenzar a trabajar con GitHub debes autenticar tu dispositivo para p
 Es el reglamento legal que indica el nivel de permisos que sede el creador del repositorio. Las más usadas son:
 - MIT License
 - Apache license 2.0
-
-
