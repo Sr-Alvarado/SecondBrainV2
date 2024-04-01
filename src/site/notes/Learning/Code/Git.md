@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-03-30T23:45"}
+{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-03-30T23:56"}
 ---
 
 
@@ -94,8 +94,7 @@ Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los 
 - [[Learning/Code/GitHub\|GitHub]] 
 - GitLab
 
-### Usando Git en la terminal con repositorios remotos
-{ #dac427}
+### Usando Git en la terminal con repositorios remotos{ #dac427}
 
 
 Para hacer esto primero debes haber [[Learning/Code/GitHub#^e8e559\|autenticado]] tu dispositivo con una plataforma online que trabaje con Git como [[Learning/Code/GitHub\|GitHub]].
