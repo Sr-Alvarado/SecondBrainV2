@@ -10,9 +10,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Learning/Code/NVM\|NVM]]: 2:38 PM - March 31, 2024
+>  - [[Learning/Code/SSH\|SSH]]: 6:47 PM - April 01, 2024
+> - [[Learning/Code/NVM\|NVM]]: 2:38 PM - March 31, 2024
 > - [[Learning/Code/Node\|Node]]: 2:36 PM - March 31, 2024
-> - [[Learning/Code/Guía de instalación de Anki en Linux\|Guía de instalación de Anki en Linux]]: 2:33 PM - March 31, 2024
 > 
 { .block-language-dataview}
 
