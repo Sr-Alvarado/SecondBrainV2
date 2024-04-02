@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/SSH.md","permalink":"/code/ssh/","created":"2024-03-30T22:57","updated":"2024-04-01T18:47"}
+{"dg-publish":true,"dg-path":"Code/SSH.md","permalink":"/code/ssh/","created":"2024-03-30T22:57","updated":"2024-04-01T19:00"}
 ---
 
 
@@ -16,8 +16,8 @@ Es un protocolo criptográfico de comunicación en red segura basado [[clave pri
 El proceso de comunicación entre el servidor y el usuario se hace de esta manera:
 - El **cliente** inicia la conexión con el servidor, solicita un canal seguro. 
 - El **servidor** genera 2 claves criptográficas, una pública que se envía al usuario y otra privada que guarda de forma segura en si mismo. 
-- El **cliente** [[Learning/Code/Como generar una clave aleatoria en la terminal\|genera una clave aleatoria]] (clave de sesión) y la cifra usando la clave pública que le devolvió el servidor, y luego, envía la clave cifrada al servidor.
-- El **servidor** descifra la clave usando su clave privada, y luego, envía un mensaje de éxito al usuario.
+- El **cliente** [[Learning/Code/Como generar una clave aleatoria en la terminal\|genera una clave aleatoria]] (clave de sesión) y la cifra usando la clave pública que le devolvió el servidor, luego, envía la clave cifrada al servidor.
+- El **servidor** descifra la clave usando su clave privada, luego, envía un mensaje de éxito al usuario.
 
 Desde este momento todos los datos transmitidos entre cliente-servidor son cifrados con la clave del usuario (clave de sesión).
 
