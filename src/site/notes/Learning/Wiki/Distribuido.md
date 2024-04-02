@@ -3,5 +3,5 @@
 ---
 
 ## [[Learning/Code/Git\|Git]]
-Permite tener una copia local del contenido. No existe un repositorio central único, cada usuario tiene una copia local y modificable del repositorio.
+Permite tener una copia local completa del contenido. No existe un repositorio central único, cada usuario tiene una copia local y modificable del repositorio que puede actualizar.
 { #703a42}
