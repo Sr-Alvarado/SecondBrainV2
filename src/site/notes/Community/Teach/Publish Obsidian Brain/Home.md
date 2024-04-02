@@ -10,8 +10,8 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Learning/Code/Como generar una clave aleatoria en la terminal\|Como generar una clave aleatoria en la terminal]]: 6:48 PM - April 01, 2024
-> - [[Learning/Code/SSH\|SSH]]: 6:47 PM - April 01, 2024
+>  - [[Learning/Code/SSH\|SSH]]: 7:00 PM - April 01, 2024
+> - [[Learning/Code/Como generar una clave aleatoria en la terminal\|Como generar una clave aleatoria en la terminal]]: 6:48 PM - April 01, 2024
 > - [[Learning/Code/NVM\|NVM]]: 2:38 PM - March 31, 2024
 > 
 { .block-language-dataview}
