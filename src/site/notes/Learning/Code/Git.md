@@ -109,7 +109,7 @@ Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los 
 
 ### Usando Git en la terminal con repositorios remotos
 
-{ #dac427}
+En progreso...{ #dac427}
 
 
 Para hacer esto primero debes haber [[Learning/Code/GitHub#^e8e559\|autenticado]] tu dispositivo con una plataforma online que trabaje con Git como [[Learning/Code/GitHub\|GitHub]].
