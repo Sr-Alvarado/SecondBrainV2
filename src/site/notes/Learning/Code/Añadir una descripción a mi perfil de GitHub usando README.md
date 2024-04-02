@@ -12,7 +12,7 @@
    ![Pasted image 20240330222620.png|600](/img/user/Engine/Attachments/Pasted%20image%2020240330222620.png)
 
 ## Modificar el archivo README
-El `README` es un archivo [[Learning/Code/Markdown\|markdown]], por lo que ademas de usar este lenguaje podemos usar [[Learning/Wiki/HTML\|HTML]]. Ahora lo único que debes hacer es modificar el archivo `README` de tu repositorio:
+El `README` es un archivo [[Learning/Wiki/Markdown\|markdown]], por lo que ademas de usar este lenguaje podemos usar [[Learning/Wiki/HTML\|HTML]]. Ahora lo único que debes hacer es modificar el archivo `README` de tu repositorio:
 
 - Puedes hacerlo desde el propio [[Learning/Code/GitHub\|GitHub]] haciendo click en el lápiz de la esquina superior derecha del `README`.
    ![Pasted image 20240330224103.png|600](/img/user/Engine/Attachments/Pasted%20image%2020240330224103.png)
