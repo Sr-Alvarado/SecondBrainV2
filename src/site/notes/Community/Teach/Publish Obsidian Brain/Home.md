@@ -10,9 +10,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Learning/Code/SSH\|SSH]]: 7:00 PM - April 01, 2024
-> - [[Learning/Code/Como generar una clave aleatoria en la terminal\|Como generar una clave aleatoria en la terminal]]: 6:48 PM - April 01, 2024
-> - [[Learning/Code/NVM\|NVM]]: 2:38 PM - March 31, 2024
+>  - [[Learning/Code/Git\|Git]]: 5:59 PM - April 02, 2024
+> - [[Learning/Wiki/Hash\|Hash]]: 5:58 PM - April 02, 2024
+> - [[Learning/Wiki/Fotografía\|Fotografía]]: 5:45 PM - April 02, 2024
 > 
 { .block-language-dataview}
 
