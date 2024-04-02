@@ -19,7 +19,7 @@ El proceso de comunicación entre el servidor y el usuario se hace de esta maner
 - El **cliente** [[Learning/Code/Como generar una clave aleatoria en la terminal\|genera una clave aleatoria]] (clave de sesión) y la cifra usando la clave pública que le devolvió el servidor, luego, envía la clave cifrada al servidor.
 - El **servidor** descifra la clave usando su clave privada, luego, envía un mensaje de éxito al usuario.
 
-Desde este momento todos los datos transmitidos entre cliente-servidor son cifrados con la clave del usuario (clave de sesión).
+Desde este momento todos los datos transmitidos entre cliente-servidor son cifrados con la clave de sesión del usuario.
 
 ## Uso
 ### Usar SSH para autentificarse en GitHub
