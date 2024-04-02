@@ -25,7 +25,8 @@ GitHub está presente en todas las plataformas: Web, Android, [[Learning/Wiki/Li
 
 
 
-### Usando Git en la terminal con repositorios remotos
+En progreso...
+
 
 </div></div>
 
