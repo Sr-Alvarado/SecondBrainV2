@@ -108,12 +108,12 @@ Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los 
 - GitLab
 
 ### Usando Git en la terminal con repositorios remotos
-
-En progreso...{ #dac427}
-
-
 Para hacer esto primero debes haber [[Learning/Code/GitHub#^e8e559\|autenticado]] tu dispositivo con una plataforma online que trabaje con Git como [[Learning/Code/GitHub\|GitHub]].
-- 
+
+
+-
+{ #dac427}
+
 ### Usando Git con Interfaz gráfica
 - GitKraken
 - GitHub Desktop
