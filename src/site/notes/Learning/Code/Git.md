@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-04-02T17:59"}
+{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-04-02T23:28"}
 ---
 
 
@@ -70,12 +70,12 @@ Existen otros tipos de sistemas de control de versiones:
 Creado por [[Linus Torvalds\|Linus Torvalds]] para facilitar el desarrollo de [[Learning/Wiki/Linux\|Linux]].
 
 ## Instalación
-Descarga la última versión para tu [[OS\|OS]] desde la página oficial Git.
+Descarga la última versión para tu [[OS\|OS]] desde la [página oficial Git](https://git-scm.com/).
 
 ## Uso
 Git es un programa para la terminal, sin embargo existen algunas opciones online como [[Learning/Code/GitHub\|GitHub]] y otras con interfaz gráfica como [[GitKraken\|GitKraken]]. Para usar Git siempre vas a necesitar 2 cosas básicas: un usuario y un email.
 ### Usando git de forma local en la terminal
-Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los OS. Los comandos más usados son:
+Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los [[OS\|OS]]. Los comandos más usados son:
 - [[Learning/Code/Git Terminal/v - Versión de Git\|v - Versión de Git]]
 - [[Learning/Code/Git Terminal/config - Configurar Git\|config - Configurar Git]]
 - [[Learning/Code/Git Terminal/config user name - Configurar el usuario en Git\|config user name - Configurar el usuario en Git]]
