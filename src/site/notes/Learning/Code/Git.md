@@ -58,7 +58,7 @@ Conocida en Git como [[Learning/Code/Git Terminal/commit - Hacer una fotografía
 
 
 
-Identificador único de 40 dígitos [[hexadecimales\|hexadecimales]] calculado en base al contenido del archivo o la estructura del directorio. Integrada al más bajo nivel, hace imposible la perdida o corrupción de datos durante la transmisión, además de no poder modificar los datos sin que Git lo sepa. En proyectos pequeños se puede usar solo los últimos 7 dígitos como identificardor. 
+Identificador único de 40 dígitos [[Learning/Wiki/hexadecimales\|hexadecimales]] calculado en base al contenido del archivo o la estructura del directorio. Integrada al más bajo nivel, hace imposible la perdida o corrupción de datos durante la transmisión, impide la modificación de los datos sin que el sistema se entere. En proyectos pequeños se puede usar solo los últimos 7 dígitos como identificardor. 
 
 </div></div>
   
