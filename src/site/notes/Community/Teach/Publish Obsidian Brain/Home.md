@@ -10,7 +10,7 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Learning/Code/restore - Restaurar un archivo a la última versión en Git\|restore - Restaurar un archivo a la última versión en Git]]: 9:56 PM - April 03, 2024
+>  - [[Learning/Code/Git Terminal/restore - Restaurar un archivo a la última versión en Git\|restore - Restaurar un archivo a la última versión en Git]]: 9:56 PM - April 03, 2024
 > - [[Learning/Code/Git\|Git]]: 9:55 PM - April 03, 2024
 > - [[Learning/Code/Git Terminal/clone - Descargar un proyecto de un repo remoto en Git\|clone - Descargar un proyecto de un repo remoto en Git]]: 9:44 PM - April 03, 2024
 > 
