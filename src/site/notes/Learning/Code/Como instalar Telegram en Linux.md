@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Como instalar Telegram en Linux.md","permalink":"/code/como-instalar-telegram-en-linux/","created":"2024-03-02T22:09","updated":"2024-03-05T21:35"}
+{"dg-publish":true,"dg-path":"Code/Como instalar Telegram en Linux.md","permalink":"/code/como-instalar-telegram-en-linux/","created":"2024-03-02T22:09","updated":"2024-03-31T14:30"}
 ---
 
 > [!info]-
@@ -9,29 +9,34 @@
 Si deseas aprender a instalar Telegram desde su código fuente, los binarios del programa, este tutorial es para ti.
 
 ## Como instalar Telegram Desktop desde `.tar.xz`
-1. Descarga la ultima versión de Telegram desde la web oficial ejecutando este comando:
-   ```shell
-   wget "https://telegram.org/dl/desktop/linux" -O telegram.tar.xz
-   ```
-2. Extrae las carpetas de instalación[^1]:
-   ```shell
-   tar -xvf telegram.tar.xz
-   ```
-3. Mueve las carpetas extraídas al fichero `/opt/`[^2] para evitar borrarlas por error:
-   ```shell
-   sudo mv Telegram /opt/
-   ```
-4. Ejecuta la aplicación y crea un acceso directo al lanzador/menú de aplicaciones.
-   1. Accede a la nueva ubicación de Telegram:
-         ```shell
-         cd /opt/Telegram/
-         ```
-   2. Ejecuta el binario:
-         ```shell
-         ./Telegram
-         ```
-5. Se abrirá la aplicación, por el momento ciérrala.
-6. Ahora abre el menú de aplicaciones y voalá, ya tienes Telegram instalado en [[Learning/Wiki/Linux\|Linux]] desde los binarios.
+Descarga la ultima versión de Telegram desde la web oficial ejecutando este comando:
+```shell
+wget "https://telegram.org/dl/desktop/linux" -O telegram.tar.xz
+```
+
+Extrae las carpetas de instalación[^1]:
+```shell
+tar -xvf telegram.tar.xz
+```
+
+Mueve las carpetas extraídas al fichero `/opt/`[^2] para evitar borrarlas por error:
+```shell
+sudo mv Telegram /opt/
+```
+
+Accede a la nueva ubicación de Telegram:
+```shell
+cd /opt/Telegram/
+```
+
+Ejecuta el binario:
+```shell
+./Telegram
+```
+
+Se abrirá la aplicación, por el momento ciérrala.
+
+Ahora abre el menú de aplicaciones y voalá, ya tienes Telegram instalado en [[Learning/Wiki/Linux\|Linux]] desde los binarios.
 
 Eso es todo, espero que te este pequeño tutorial te haya ayudado.
 
