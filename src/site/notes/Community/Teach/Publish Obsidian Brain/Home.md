@@ -10,9 +10,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Learning/Code/Git\|Git]]: 11:28 PM - April 02, 2024
-> - [[Learning/Wiki/Hash\|Hash]]: 5:58 PM - April 02, 2024
-> - [[Learning/Wiki/Fotografía\|Fotografía]]: 5:45 PM - April 02, 2024
+>  - [[Learning/Code/Git\|Git]]: 9:44 PM - April 03, 2024
+> - [[Learning/Code/clone - Descargar un proyecto de un repo remoto en Git\|clone - Descargar un proyecto de un repo remoto en Git]]: 9:44 PM - April 03, 2024
+> - [[Learning/Code/Git Terminal/config pull - Configurar como se modificarán los ficheros al descargar cambios de un repo remoto en Git\|config pull - Configurar como se modificarán los ficheros al descargar cambios de un repo remoto en Git]]: 9:33 PM - April 03, 2024
 > 
 { .block-language-dataview}
 
