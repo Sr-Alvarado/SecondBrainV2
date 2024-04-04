@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-04-03T21:44"}
+{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-04-03T21:55"}
 ---
 
 
@@ -92,7 +92,8 @@ Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los 
 - [[Learning/Code/Git Terminal/checkout - Moverse entre fotografías o archivos específicos en Git\|checkout - Moverse entre fotografías o archivos específicos en Git]] 
 - [[Learning/Code/Git Terminal/checkout tags - Moverse entre fotografías usando los tags en Git\|checkout tags - Moverse entre fotografías usando los tags en Git]] 
 - [[Learning/Code/Git Terminal/checkout HEAD - Definir la fotografía como la cabeza del proyecto en Git\|checkout HEAD - Definir la fotografía como la cabeza del proyecto en Git]] 
-- [[Learning/Code/Git Terminal/reset - Retroceder a una fotografía anterior en  Git\|reset - Retroceder a una fotografía anterior en  Git]] 
+- [[Learning/Code/restore - Restaurar un archivo a la última versión en Git\|restore - Restaurar un archivo a la última versión en Git]] 
+- [[Learning/Code/Git Terminal/reset - Restaurar los cambios a una fotografía anterior en  Git\|reset - Restaurar los cambios a una fotografía anterior en  Git]] 
 - [[Learning/Code/Git Terminal/diff - Ver las diferencias entre el estado actual y la última fotografía u otra rama en Git\|diff - Ver las diferencias entre el estado actual y la última fotografía u otra rama en Git]] 
 - [[Learning/Code/Git Terminal/reflog - Ver todos los cambios del proyecto en el tiempo en Git\|reflog - Ver todos los cambios del proyecto en el tiempo en Git]] 
 - [[Learning/Code/Git Terminal/tag - Añadir una etiqueta a una fotografía en Git\|tag - Añadir una etiqueta a una fotografía en Git]] 
