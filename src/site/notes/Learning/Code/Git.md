@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-04-03T21:55"}
+{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-04-04T14:19"}
 ---
 
 
@@ -71,6 +71,8 @@ Creado por [[Linus Torvalds\|Linus Torvalds]] para facilitar el desarrollo de [[
 
 ## Instalación
 Descarga la última versión para tu [[OS\|OS]] desde la [página oficial Git](https://git-scm.com/).
+{ #96012c}
+
 
 ## Uso
 Git es un programa para la terminal, sin embargo existen algunas opciones online como [[Learning/Code/GitHub\|GitHub]] y otras con interfaz gráfica como [[GitKraken\|GitKraken]]. Para usar Git siempre vas a necesitar 2 cosas básicas: un usuario y un email.
@@ -113,7 +115,7 @@ Usando Git en la terminal **con repositorios remotos**:
 - [[Learning/Code/Git Terminal/pull - Descargar los cambios del repo remoto en Git\|pull - Descargar los cambios del repo remoto en Git]] 
 - [[Learning/Code/Git Terminal/config pull - Configurar como se modificarán los ficheros al descargar cambios de un repo remoto en Git\|config pull - Configurar como se modificarán los ficheros al descargar cambios de un repo remoto en Git]] 
 - [[Learning/Code/Git Terminal/clone - Descargar un proyecto de un repo remoto en Git\|clone - Descargar un proyecto de un repo remoto en Git]] 
-- fork - Próximamente...
+- [[Learning/Code/Git Terminal/fork - Hacer una copia de un repo remoto de otro usuario a mi propio repo remoto\|fork - Hacer una copia de un repo remoto de otro usuario a mi propio repo remoto]] 
 
 ### Usando Git con plataformas online 
 - [[Learning/Code/GitHub\|GitHub]] 
@@ -123,3 +125,7 @@ Usando Git en la terminal **con repositorios remotos**:
 - GitKraken
 - GitHub Desktop
 - Sourcetree
+
+## Flujos de trabajo en Git
+- [[Learning/Code/Trabajo local con Git\|Trabajo local con Git]] 
+- [[Learning/Code/Flujo colaborativo\|Flujo colaborativo]] 
