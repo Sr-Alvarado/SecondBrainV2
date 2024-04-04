@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-04-02T23:28"}
+{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-04-03T21:44"}
 ---
 
 
@@ -74,6 +74,7 @@ Descarga la última versión para tu [[OS\|OS]] desde la [página oficial Git](h
 
 ## Uso
 Git es un programa para la terminal, sin embargo existen algunas opciones online como [[Learning/Code/GitHub\|GitHub]] y otras con interfaz gráfica como [[GitKraken\|GitKraken]]. Para usar Git siempre vas a necesitar 2 cosas básicas: un usuario y un email.
+
 ### Usando git de forma local en la terminal
 Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los [[OS\|OS]]. Los comandos más usados son:
 - [[Learning/Code/Git Terminal/v - Versión de Git\|v - Versión de Git]]
@@ -103,16 +104,19 @@ Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los 
 - [[Learning/Code/Git Terminal/stash pop - Recuperar los cambios guardados temporalmente en Git\|stash pop - Recuperar los cambios guardados temporalmente en Git]] 
 - [[Learning/Code/Git Terminal/stash drop - Elimina los cambios guardados de temporalmente en Git\|stash drop - Elimina los cambios guardados de temporalmente en Git]] 
 
+Usando Git en la terminal **con repositorios remotos**: 
+- [[Learning/Code/Git Terminal/remote add origin - Conecta tu repositorio local con un servidor remoto en Git\|remote add origin - Conecta tu repositorio local con un servidor remoto en Git]] 
+- [[Learning/Code/Git Terminal/push -u origin - Asociar una rama remota con una rama local en Git\|push -u origin - Asociar una rama remota con una rama local en Git]] 
+- [[Learning/Code/Git Terminal/push - Subir los cambios a una rama remota\|push - Subir los cambios a una rama remota]] 
+- [[Learning/Code/Git Terminal/fetch - Descargar solo el historial de un repo remoto en Git\|fetch - Descargar solo el historial de un repo remoto en Git]] 
+- [[Learning/Code/Git Terminal/pull - Descargar los cambios del repo remoto en Git\|pull - Descargar los cambios del repo remoto en Git]] 
+- [[Learning/Code/Git Terminal/config pull - Configurar como se modificarán los ficheros al descargar cambios de un repo remoto en Git\|config pull - Configurar como se modificarán los ficheros al descargar cambios de un repo remoto en Git]] 
+- [[Learning/Code/clone - Descargar un proyecto de un repo remoto en Git\|clone - Descargar un proyecto de un repo remoto en Git]] 
+- fork - Próximamente...
+
 ### Usando Git con plataformas online 
 - [[Learning/Code/GitHub\|GitHub]] 
 - GitLab
-
-### Usando Git en la terminal con repositorios remotos
-Para hacer esto primero debes haber [[Learning/Code/GitHub#^e8e559\|autenticado]] tu dispositivo con una plataforma online que trabaje con Git como [[Learning/Code/GitHub\|GitHub]].
-
-
--
-{ #dac427}
 
 ### Usando Git con Interfaz gráfica
 - GitKraken
