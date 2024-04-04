@@ -135,7 +135,7 @@ Usando Git en la terminal **con repositorios remotos**:
 - [[Learning/Code/Git Terminal/fetch - Descargar solo el historial de un repo remoto en Git\|fetch - Descargar solo el historial de un repo remoto en Git]] 
 - [[Learning/Code/Git Terminal/pull - Descargar los cambios del repo remoto en Git\|pull - Descargar los cambios del repo remoto en Git]] 
 - [[Learning/Code/Git Terminal/config pull - Configurar como se modificarán los ficheros al descargar cambios de un repo remoto en Git\|config pull - Configurar como se modificarán los ficheros al descargar cambios de un repo remoto en Git]] 
-- [[Learning/Code/clone - Descargar un proyecto de un repo remoto en Git\|clone - Descargar un proyecto de un repo remoto en Git]] 
+- [[Learning/Code/Git Terminal/clone - Descargar un proyecto de un repo remoto en Git\|clone - Descargar un proyecto de un repo remoto en Git]] 
 - fork - Próximamente...
 
 ### Usando Git con plataformas online 
