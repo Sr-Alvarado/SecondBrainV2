@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-04-04T18:47"}
+{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-04-04T19:11"}
 ---
 
 
@@ -30,7 +30,7 @@ Es un historial de todos los cambios de un proyecto. Documenta cada modificació
 Permite tener una copia local completa del contenido. No existe un repositorio central único, cada usuario tiene una copia local y modificable del repositorio que puede actualizar. 
 
 </div></div>
-![Pasted image 20240402173426.png](/img/user/Engine/Attachments/Pasted%20image%2020240402173426.png)
+![Pasted image 20240402173426.png|100%](/img/user/Engine/Attachments/Pasted%20image%2020240402173426.png)
 
 
 **y usa [[Learning/Wiki/Fotografía\|Fotografía]]s:** 
@@ -42,7 +42,7 @@ Conocida en Git como [[Learning/Code/Git Terminal/commit - Hacer una fotografía
 
 </div></div>
 
-![Pasted image 20240404191110.png](/img/user/Engine/Attachments/Pasted%20image%2020240404191110.png)
+![Pasted image 20240404191110.png|100%](/img/user/Engine/Attachments/Pasted%20image%2020240404191110.png)
 
 **Utiliza un [[Learning/Wiki/Hash\|hash]] para confirmar la integridad de los datos e identificar un commit:** 
 
