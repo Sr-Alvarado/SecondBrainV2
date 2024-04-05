@@ -9,4 +9,4 @@
 ## ¿Que es?
 Sistema de gestión de versiones de archivos basados en un único servidor central que guarda varias versiones, y varios clientes acceden. Los administradores tienen un control mayor sobre lo que los usuarios pueden o no hacer. El problema más evidente es la dependencia del servidor, si se cae ningún cliente podrá trabajar y si se corrompen los datos todo el proyecto se habrá perdido.
 
-![Pasted image 20240402173336.png](/img/user/Engine/Attachments/Pasted%20image%2020240402173336.png)
+![Pasted image 20240402173336.png|100%](/img/user/Engine/Attachments/Pasted%20image%2020240402173336.png)
