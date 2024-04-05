@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-04-04T19:11"}
+{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-04-05T14:52"}
 ---
 
 
@@ -82,13 +82,13 @@ Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los 
 - [[Learning/Code/Git Terminal/gitignore - Indicar a Git que ignore un archivo\|gitignore - Indicar a Git que ignore un archivo]]
 - [[Learning/Code/Git Terminal/config alias - Crear alias en Git\|config alias - Crear alias en Git]]
 - [[Learning/Code/Git Terminal/commit - Hacer una fotografía en Git\|commit - Hacer una fotografía en Git]]
-- [[Learning/Code/Git Terminal/log - Mostrar el registro de fotografías hasta la cabeza del proyecto en Git\|log - Mostrar el registro de fotografías hasta la cabeza del proyecto en Git]] 
+- [[Learning/Code/Git Terminal/log - Mostrar el registro de fotografías del proyecto en Git\|log - Mostrar el registro de fotografías del proyecto en Git]] 
 - [[Learning/Code/Git Terminal/checkout - Moverse entre fotografías o archivos específicos en Git\|checkout - Moverse entre fotografías o archivos específicos en Git]] 
 - [[Learning/Code/Git Terminal/checkout tags - Moverse entre fotografías usando los tags en Git\|checkout tags - Moverse entre fotografías usando los tags en Git]] 
 - [[Learning/Code/Git Terminal/checkout HEAD - Definir la fotografía como la cabeza del proyecto en Git\|checkout HEAD - Definir la fotografía como la cabeza del proyecto en Git]] 
 - [[Learning/Code/Git Terminal/restore - Restaurar un archivo a la última versión en Git\|restore - Restaurar un archivo a la última versión en Git]] 
 - [[Learning/Code/Git Terminal/reset - Restaurar los cambios a una fotografía anterior en  Git\|reset - Restaurar los cambios a una fotografía anterior en  Git]] 
-- [[Learning/Code/Git Terminal/diff - Ver las diferencias entre el estado actual y la última fotografía u otra rama en Git\|diff - Ver las diferencias entre el estado actual y la última fotografía u otra rama en Git]] 
+- [[Learning/Code/Git Terminal/diff - Ver diferencias entre un commit y ahora en Git\|diff - Ver diferencias entre un commit y ahora en Git]] 
 - [[Learning/Code/Git Terminal/reflog - Ver todos los cambios del proyecto en el tiempo en Git\|reflog - Ver todos los cambios del proyecto en el tiempo en Git]] 
 - [[Learning/Code/Git Terminal/tag - Añadir una etiqueta a una fotografía en Git\|tag - Añadir una etiqueta a una fotografía en Git]] 
 - [[Learning/Code/Git Terminal/branch - Crear y eliminar ramas en Git\|branch - Crear y eliminar ramas en Git]] 
@@ -105,9 +105,9 @@ Usando Git en la terminal **con repositorios remotos**:
 - [[Learning/Code/Git Terminal/push - Subir los cambios a una rama remota\|push - Subir los cambios a una rama remota]] 
 - [[Learning/Code/Git Terminal/fetch - Descargar solo el historial de un repo remoto en Git\|fetch - Descargar solo el historial de un repo remoto en Git]] 
 - [[Learning/Code/Git Terminal/pull - Descargar los cambios del repo remoto en Git\|pull - Descargar los cambios del repo remoto en Git]] 
-- [[Learning/Code/Git Terminal/config pull - Configurar como se modificarán los ficheros al descargar cambios de un repo remoto en Git\|config pull - Configurar como se modificarán los ficheros al descargar cambios de un repo remoto en Git]] 
+- [[Learning/Code/Git Terminal/config pull - Configurar el tipo de modificación de ficheros con pull en Git\|config pull - Configurar el tipo de modificación de ficheros con pull en Git]] 
 - [[Learning/Code/Git Terminal/clone - Descargar un proyecto de un repo remoto en Git\|clone - Descargar un proyecto de un repo remoto en Git]] 
-- [[Learning/Code/Git Terminal/fork - Hacer una copia de un repo remoto de otro usuario a mi propio repo remoto\|fork - Hacer una copia de un repo remoto de otro usuario a mi propio repo remoto]] 
+- [[Learning/Code/Git Terminal/fork - Copiar un repo remoto a mi propio repo remoto\|fork - Copiar un repo remoto a mi propio repo remoto]] 
 
 ### Usando Git con plataformas online 
 - [[Learning/Code/GitHub\|GitHub]] 
