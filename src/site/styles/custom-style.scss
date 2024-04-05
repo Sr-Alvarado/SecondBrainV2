@@ -1,15 +1,7 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
+    //ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
+    //IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
     //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
     p {
         font-size: 1rem;
     }
@@ -27,6 +19,9 @@ body {
         height: 0;
         opacity: 0;
         visibility: hidden;
+    }
+    .filetree-sidebar {
+        padding-left: 0px;
     }
     //.folder {
     //    padding-left: 0px;
