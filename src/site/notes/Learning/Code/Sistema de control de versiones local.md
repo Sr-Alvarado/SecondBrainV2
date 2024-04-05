@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Sistema de control de versiones local.md","permalink":"/code/sistema-de-control-de-versiones-local/","created":"2024-04-02T17:20","updated":"2024-04-02T17:20"}
+{"dg-publish":true,"dg-path":"Code/Sistema de control de versiones local.md","permalink":"/code/sistema-de-control-de-versiones-local/","created":"2024-04-02T17:20","updated":"2024-04-02T17:33"}
 ---
 
 
@@ -9,4 +9,4 @@
 ## ¿Que es?
 Sistema de gestión de versiones de un archivo basado en la idea de parches. Cada parche representa las diferencias entre la versión anterior y la versión actual de un archivo. Permite recrear cualquier versión anterior de un archivo gracias a esos parches. 
 
-![Pasted image 20240402173355.png](/img/user/Engine/Attachments/Pasted%20image%2020240402173355.png)
+![Pasted image 20240402173355.png|100%](/img/user/Engine/Attachments/Pasted%20image%2020240402173355.png)
