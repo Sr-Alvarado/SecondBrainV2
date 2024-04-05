@@ -15,5 +15,5 @@ git branch -d NOMBRE_RAMA
 - `-d`. Etiqueta de `branch` que indica al sistema que quieres eliminar la rama.
 
 > [!tip]
-> En Git nada se elimina realmente, si revisas los [[Learning/Code/Git Terminal/log - Mostrar el registro de fotografías hasta la cabeza del proyecto en Git\|log]]s y copias el [[Learning/Wiki/Hash\|hash]] de una rama eliminada, puedes acceder a ella con [[Learning/Code/Git Terminal/checkout - Moverse entre fotografías o archivos específicos en Git\|chechout]]. 
+> En Git nada se elimina realmente, si revisas los [[Learning/Code/Git Terminal/log - Mostrar el registro de fotografías del proyecto en Git\|log]]s y copias el [[Learning/Wiki/Hash\|hash]] de una rama eliminada, puedes acceder a ella con [[Learning/Code/Git Terminal/checkout - Moverse entre fotografías o archivos específicos en Git\|chechout]]. 
 > El trabajo de Git es guardar el registro de cambios. Las ramas eliminadas persisten en el tiempo y por eso puedes crear nuevas ramas desde cualquier fotografía del proyecto.
