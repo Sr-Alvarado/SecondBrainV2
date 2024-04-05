@@ -10,7 +10,7 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Learning/Code/Trabajo local con Git\|Trabajo local con Git]]: 6:50 PM - April 04, 2024
+>  - [[Learning/Code/Trabajo local con Git\|Trabajo local con Git]]: 7:03 PM - April 04, 2024
 > - [[Learning/Code/Git\|Git]]: 6:47 PM - April 04, 2024
 > - [[Learning/Code/Flujo colaborativo\|Flujo colaborativo]]: 2:22 PM - April 04, 2024
 > 
