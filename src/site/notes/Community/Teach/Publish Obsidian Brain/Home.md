@@ -11,8 +11,8 @@ Publico mi Digital Garden porque creo firmemente que el conocimiento es más val
 
 > [!info] Últimas actualizaciones
 >  - [[Learning/Code/Trabajo local con Git\|Trabajo local con Git]]: 6:50 PM - April 04, 2024
+> - [[Learning/Code/Git\|Git]]: 6:47 PM - April 04, 2024
 > - [[Learning/Code/Flujo colaborativo\|Flujo colaborativo]]: 2:22 PM - April 04, 2024
-> - [[Learning/Code/Git Terminal/fork - Hacer una copia de un repo remoto de otro usuario a mi propio repo remoto\|fork - Hacer una copia de un repo remoto de otro usuario a mi propio repo remoto]]: 2:19 PM - April 04, 2024
 > 
 { .block-language-dataview}
 
