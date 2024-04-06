@@ -11,13 +11,23 @@ body {
     ol {
         padding-left: 5px;
     }
-    div.toc-container nav.toc ol { // Contenedor de titulos
-        padding-left: 5px;
-        margin-top: 0px;
-        margin-bottom: 0px;
+    // Contenedor de titulo -> Titulo
+    div.toc-title-container div.toc {
+        font-size:0.85rem;
+    }
+    
+    // Contenedor de titulos -> Contenido
+    div.toc-container nav.toc {
+        padding:5px;
         
-        li { // Titulos
-            font-size:0.7rem;
+        ol {
+            padding-left: 5px;
+            margin-top: 0px;
+            margin-bottom: 0px;
+        
+            li { // Titulos
+                font-size:0.75rem;
+            }
         }
     }
     .toc-title {
