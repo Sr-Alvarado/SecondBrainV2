@@ -10,7 +10,9 @@ body {
     }
     ol {
         padding-left: 5px;
-        margin-top: 0px;
+    }
+    div.toc-container nav.toc ol {
+        margin-top: 5px;
     }
     .toc-title {
         font-size: 0.85rem;
