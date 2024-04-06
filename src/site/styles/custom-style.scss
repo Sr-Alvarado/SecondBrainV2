@@ -11,28 +11,50 @@ body {
     ol {
         padding-left: 5px;
     }
-    // Contenedor de titulo -> Titulo
-    div.toc-title-container div.toc-title {
-        font-size:0.85rem;
+
+    // Indice de titulos
+    div.toc { 
+        // Titulo
+        div.toc-title-container div.toc-title {
+            font-size:0.85rem;
+        }
+        
+        // Contenedor de Contenido
+        div.toc-container nav.toc {
+            padding:5px;
+
+            // Contenido
+            ol {
+                padding-left: 5px;
+                margin-top: 0px;
+                margin-bottom: 0px;
+
+                // Texto
+                li { 
+                    font-size:0.75rem;
+                }
+            }
+        }
     }
-    
-    // Contenedor de titulos -> Contenido
-    div.toc-container nav.toc {
-        padding:5px;
-        
-        ol {
-            padding-left: 5px;
-            margin-top: 0px;
-            margin-bottom: 0px;
-        
-            li { // Titulos
+
+    // Enlaces a otras paginas
+    div.backlinks {
+        // Titulo
+        div.backlink-title {
+            font-size:0.85rem;
+        }
+
+        // Contenido
+        div.backlink-list div.back-card {
+
+            // Texto
+            a.backlink {
                 font-size:0.75rem;
             }
         }
     }
-    .toc-title {
-        font-size:0.85rem;
-    }
+    
+    
     .filename {
         font-size:0.85rem;
     }
@@ -48,10 +70,3 @@ body {
     .filetree-sidebar {
         padding-left: 0px;
     }
-    .toc-title-container {
-        font-size:0.85rem;
-    }
-    .backlinks {
-        font-size:0.85rem;
-    }
-}
