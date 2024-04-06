@@ -46,17 +46,18 @@ body {
 
         // Contenido
         div.backlink-list div.backlink-card {
-            margin-left: 5px;
+            margin-left:5px;
+            padding-bottom:5px;
             
             //Icono
             svg.lucide-link {
-                width:15px;
-                height:15px;
+                width: 15px;
+                height: 15px;
             }
             
             // Texto
             a.backlink {
-                font-size:0.5rem;
+                font-size:0.2rem;
             }
         }
     }
