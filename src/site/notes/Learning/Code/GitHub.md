@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/GitHub.md","permalink":"/code/git-hub/","created":"2024-03-29T19:03","updated":"2024-04-03T21:49"}
+{"dg-publish":true,"dg-path":"Code/GitHub.md","permalink":"/code/git-hub/","created":"2024-03-29T19:03","updated":"2024-04-10T16:44"}
 ---
 
 
@@ -18,10 +18,12 @@ Fue fundada en 2008. Actualmente le pertenece a Microsoft.
 ## Uso
 GitHub está presente en todas las plataformas: Web, Android, [[Learning/Wiki/Linux\|Linux]], Windows y IOS. Pero lo más común es usarlo con [[vscode\|vscode]], a través de la [[terminal\|terminal]] y en su versión web. Lo único que necesitas para usarlo es crearte una cuenta.
 
+Adicionalmente tiene herramientas como:
+- [GitHub Pages](https://pages.github.com/). Pensada para la documentación de un proyecto, permite publicar tu repo directamente en un servidor gratuito de GitHub siempre y cuando el proyecto sea público. 
+- [GitHub Actions](https://docs.github.com/en/actions). Permite crear automatizaciones para nuestro proyecto. Ejemplo: Por cada push hacer un test. Es de pago, pero tiene una capa gratuita generosa.
+
 ### Autenticar tu PC con GitHub
 Si quieres comenzar a trabajar con GitHub debes autenticar tu dispositivo para poder subir y bajar repositorios y proyectos de sus servidores, existen algunas formas de hacerlo las más comunes son:
-{ #e8e559}
-
 - [[Learning/Code/SSH\|SSH]]. La mejor forma de autenticar
 - HTTP. Actualmente ya no se recomienda
 
