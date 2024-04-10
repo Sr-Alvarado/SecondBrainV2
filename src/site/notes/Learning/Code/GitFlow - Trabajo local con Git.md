@@ -11,7 +11,7 @@
 
 Los pre-requisitos son,  tener [[Learning/Code/Git#^96012c\|instalado Git]] en una [[Learning/Code/Git Terminal/v - Versión de Git\|versión]] reciente, tener configurado el [[Learning/Code/Git Terminal/config user name - Configurar el usuario en Git\|usuario]] y el [[Learning/Code/Git Terminal/config user mail - Configurar el email en Git\|correo]]. Ya con estas configuraciones el flujo de trabajo sería:
 
-## Flujo básico para proyectos simples
+## Flujo básico en local
 ![Pasted image 20240405205416.png|100%](/img/user/Engine/Attachments/Pasted%20image%2020240405205416.png)
 Este flujo de trabajo es recomendado para proyectos pequeños y simples, se usa solo la rama [[Learning/Wiki/Main\|principal]]. Si piensas llevar a producción tu proyecto debes seguir un flujo más avanzado
 
