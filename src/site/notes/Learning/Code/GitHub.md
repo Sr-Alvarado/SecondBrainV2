@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/GitHub.md","permalink":"/code/git-hub/","created":"2024-03-29T19:03","updated":"2024-03-31T15:00"}
+{"dg-publish":true,"dg-path":"Code/GitHub.md","permalink":"/code/git-hub/","created":"2024-03-29T19:03","updated":"2024-04-03T21:49"}
 ---
 
 
@@ -26,7 +26,7 @@ Si quieres comenzar a trabajar con GitHub debes autenticar tu dispositivo para p
 - HTTP. Actualmente ya no se recomienda
 
 ### Personaliza tu perfil
-- [[Learning/Code/Añadir una descripción a mi perfil de GitHub usando README\|Añadir una descripción a mi perfil de GitHub usando README]] 
+- [[Learning/Code/Añadir una descripción a mi perfil de GitHub usando README\|Añadir una descripción a mi perfil de GitHub usando README]] con [[Learning/Wiki/Markdown\|Markdown]] 
 
 ### Licencias
 Es el reglamento legal que indica el nivel de permisos que sede el creador del repositorio. Las más usadas son:
