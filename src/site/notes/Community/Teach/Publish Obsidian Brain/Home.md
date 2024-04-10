@@ -12,7 +12,7 @@ Publico mi Digital Garden porque creo firmemente que el conocimiento es más val
 > [!info] Últimas actualizaciones
 >  - [[Learning/Code/GitFlow\|GitFlow]]: 5:42 PM - April 10, 2024
 > - [[Learning/Code/Git\|Git]]: 5:41 PM - April 10, 2024
-> - [[Learning/Code/Trabajo local con Git\|Trabajo local con Git]]: 5:00 PM - April 10, 2024
+> - [[Learning/Code/Flujo colaborativo\|Flujo colaborativo]]: 5:00 PM - April 10, 2024
 > 
 { .block-language-dataview}
 
