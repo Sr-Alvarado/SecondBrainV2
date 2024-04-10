@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-04-10T16:56"}
+{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-04-10T17:41"}
 ---
 
 
@@ -116,5 +116,6 @@ Usando Git en la terminal **con repositorios remotos**:
 - [GitKraken](https://www.gitkraken.com/). Herramienta muy completa y preparada para flujos completos, útil para visualizar proyectos muy grandes. Es gratuita para repos públicos y de pago para repos privados. 
 
 ## Flujos de trabajo en Git
-- [[Learning/Code/GitFlow - Trabajo local con Git\|GitFlow - Trabajo local con Git]] 
-- [[Learning/Code/GitHub Flow - Flujo colaborativo\|GitHub Flow - Flujo colaborativo]] 
+- [[Learning/Code/Trabajo local con Git\|Trabajo local con Git]] 
+- [[Learning/Code/Flujo colaborativo\|Flujo colaborativo]] 
+- [[Learning/Code/GitFlow\|GitFlow]] 
