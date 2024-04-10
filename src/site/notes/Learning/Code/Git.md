@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-04-05T17:23"}
+{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-04-10T16:56"}
 ---
 
 
@@ -27,7 +27,7 @@ Es un historial de todos los cambios de un proyecto. Documenta cada modificació
 
 
 
-Permite tener una copia local completa del contenido. No existe un repositorio central único, cada usuario tiene una copia local y modificable del repositorio que puede actualizar.![Pasted image 20240405172045.png|100%](/img/user/Engine/Attachments/Pasted%20image%2020240405172045.png) 
+Permite tener una copia local completa del contenido. No existe un repositorio central único, cada usuario tiene una copia local y modificable del repositorio que puede actualizar.![Pasted image 20240405172045.png|50%](/img/user/Engine/Attachments/Pasted%20image%2020240405172045.png) 
 
 </div></div>
 
@@ -108,14 +108,13 @@ Usando Git en la terminal **con repositorios remotos**:
 - [[Learning/Code/Git Terminal/fork - Copiar un repo remoto a mi propio repo remoto\|fork - Copiar un repo remoto a mi propio repo remoto]] 
 
 ### Usando Git con plataformas online 
-- [[Learning/Code/GitHub\|GitHub]] 
+- [[Learning/Code/GitHub\|GitHub]]. Se puede usar en todas las plataformas (web, móvil, desktop, [[consola\|CLI]]). ~~A mi me gusta [[GitHub CLI\|GitHub CLI]] sin embargo tu debes usar lo que a ti te sirva mejor.~~ 
 - GitLab
 
 ### Usando Git con Interfaz gráfica
-- GitKraken
-- GitHub Desktop
-- Sourcetree
+- [GitHub Desktop](https://desktop.github.com/). Herramienta útil para entender los conceptos básicos, se queda corta con flujos más complicados. Es gratuita.
+- [GitKraken](https://www.gitkraken.com/). Herramienta muy completa y preparada para flujos completos, útil para visualizar proyectos muy grandes. Es gratuita para repos públicos y de pago para repos privados. 
 
 ## Flujos de trabajo en Git
-- [[Learning/Code/Trabajo local con Git\|Trabajo local con Git]] 
-- [[Learning/Code/Flujo colaborativo\|Flujo colaborativo]] 
+- [[Learning/Code/GitFlow - Trabajo local con Git\|GitFlow - Trabajo local con Git]] 
+- [[Learning/Code/GitHub Flow - Flujo colaborativo\|GitHub Flow - Flujo colaborativo]] 
