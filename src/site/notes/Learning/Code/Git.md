@@ -27,7 +27,7 @@ Es un historial de todos los cambios de un proyecto. Documenta cada modificació
 
 
 
-Permite tener una copia local completa del contenido. No existe un repositorio central único, cada usuario tiene una copia local y modificable del repositorio que puede actualizar.![Pasted image 20240405172045.png|50%](/img/user/Engine/Attachments/Pasted%20image%2020240405172045.png) 
+Permite tener una copia local completa del contenido. No existe un repositorio central único, cada usuario tiene una copia local y modificable del repositorio que puede actualizar.![Pasted image 20240405172045.png|70%](/img/user/Engine/Attachments/Pasted%20image%2020240405172045.png) 
 
 </div></div>
 
@@ -108,7 +108,7 @@ Usando Git en la terminal **con repositorios remotos**:
 - [[Learning/Code/Git Terminal/fork - Copiar un repo remoto a mi propio repo remoto\|fork - Copiar un repo remoto a mi propio repo remoto]] 
 
 ### Usando Git con plataformas online 
-- [[Learning/Code/GitHub\|GitHub]]. Se puede usar en todas las plataformas (web, móvil, desktop, [[consola\|CLI]]). ~~A mi me gusta [[GitHub CLI\|GitHub CLI]] sin embargo tu debes usar lo que a ti te sirva mejor.~~ 
+- [[Learning/Code/GitHub\|GitHub]]. Se puede usar en todas las plataformas (web, móvil, desktop, [[consola\|CLI]]). ~~A mi me gusta [[GitHub CLI\|GitHub CLI]] sin embargo~~ tu debes usar lo que a ti te sirva mejor. 
 - GitLab
 
 ### Usando Git con Interfaz gráfica
