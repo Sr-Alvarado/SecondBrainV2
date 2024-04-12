@@ -8,5 +8,5 @@
 
 Si modificas un archivo y quieres volver a su estado en el último [[Learning/Code/Git Terminal/commit - Hacer una fotografía en Git\|commit]] o la última versión que agregaste al [[Learning/Code/Git Terminal/add - Añadir ficheros a la fotografía en Git\|stage]] ejecuta:
 ```shell
-git restore
+git restore RUTA_DEL_ARCHIVO
 ```
