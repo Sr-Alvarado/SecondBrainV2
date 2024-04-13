@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Distribuido.md","permalink":"/distribuido/","created":"2024-03-14T13:58","updated":"2024-04-12T09:40"}
+{"dg-publish":true,"dg-path":"Distribuido.md","permalink":"/distribuido/","hide":true,"created":"2024-03-14T13:58","updated":"2024-04-12T19:44"}
 ---
 
 ## [[Learning/Code/Git\|Git]]
