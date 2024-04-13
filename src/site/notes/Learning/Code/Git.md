@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-04-10T17:41"}
+{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-04-12T09:49"}
 ---
 
 
@@ -73,11 +73,11 @@ Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los 
 - [[Learning/Code/Git Terminal/config - Configurar Git\|config - Configurar Git]]
 - [[Learning/Code/Git Terminal/config user name - Configurar el usuario en Git\|config user name - Configurar el usuario en Git]]
 - [[Learning/Code/Git Terminal/config user mail - Configurar el email en Git\|config user mail - Configurar el email en Git]]
-- [[Learning/Code/Git Terminal/init - Usar Git en un proyecto\|init - Usar Git en un proyecto]]
+- [[Learning/Code/Git Terminal/init - Usar Git en un proyecto\|init - Usar Git en un proyecto]] 
 - [[Learning/Code/Git Terminal/branch -m - Modificar el nombre de una rama en Git\|branch -m - Modificar el nombre de una rama en Git]] 
 - [[Learning/Code/Git Terminal/status - Ver el estado del control de versiones en Git\|status - Ver el estado del control de versiones en Git]]
 - [[Learning/Code/Git Terminal/add - Añadir ficheros a la fotografía en Git\|add - Añadir ficheros a la fotografía en Git]]
-- [[Learning/Code/Git Terminal/gitignore - Indicar a Git que ignore un archivo\|gitignore - Indicar a Git que ignore un archivo]]
+- [[Learning/Code/Git Terminal/gitignore - Indicar a Git que ignore un archivo\|gitignore - Indicar a Git que ignore un archivo]] 
 - [[Learning/Code/Git Terminal/config alias - Crear alias en Git\|config alias - Crear alias en Git]]
 - [[Learning/Code/Git Terminal/commit - Hacer una fotografía en Git\|commit - Hacer una fotografía en Git]]
 - [[Learning/Code/Git Terminal/log - Mostrar el registro de fotografías del proyecto en Git\|log - Mostrar el registro de fotografías del proyecto en Git]] 
