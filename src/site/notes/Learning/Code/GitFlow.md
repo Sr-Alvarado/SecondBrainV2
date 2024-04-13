@@ -10,7 +10,6 @@ El sistema GitFlow está basado en ramas específicas con roles muy bien definid
 - Las ramas **Feature** son aquellas ramas donde se desarrollan características. Es útil crear una rama para cada característica para mantener ordenado y limpio el proyecto. Permite que varios equipos trabajen en su característica sin que se afecten entre ellos. Se [[Learning/Code/Git Terminal/merge - Fusionar la rama actual con otra rama en Git\|merge]]a a la rama Development.
 
 Adicionalmente existen 2 ramas extra entre las ramas [[Learning/Wiki/Main\|Main]] y Development.
-
  ![Pasted image 20240410171329.png|100%](/img/user/Engine/Attachments/Pasted%20image%2020240410171329.png)
  - La rama **Release** es un adelanto de lo que vendrá luego. Añade las características "estables" de la rama Development al proyecto en producción. Se abre en Development porque tomará los cambios más recientes, se [[Learning/Code/Git Terminal/merge - Fusionar la rama actual con otra rama en Git\|merge]]a en [[Learning/Wiki/Main\|Main]] porque llevará esos cambios a producción y se cierra en Development porque ya actualizó la versión de producción con los últimos cambios de Development.
  - La rama **Hotfix** se usa para arreglar errores que aparezcan en el proyecto en producción. Se abre directamente de la rama [[Learning/Wiki/Main\|Main]] porque va a arreglar un problema y se cierra en la misma porque ya arregló el problema.
