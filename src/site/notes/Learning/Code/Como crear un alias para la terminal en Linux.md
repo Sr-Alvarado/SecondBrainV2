@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Como crear un alias para la terminal en Linux.md","permalink":"/code/como-crear-un-alias-para-la-terminal-en-linux/","tags":["linux","terminal","bash"],"created":"2024-01-27T22:11","updated":"2024-03-02T22:05"}
+{"dg-publish":true,"dg-path":"Code/Como crear un alias para la terminal en Linux.md","permalink":"/code/como-crear-un-alias-para-la-terminal-en-linux/","tags":["linux","terminal","bash"],"created":"2024-01-27T22:11","updated":"2024-03-31T14:28"}
 ---
 
 ## Vamos directo a lo bueno
@@ -12,7 +12,7 @@ echo "alias NOMBRE_ALIAS='COMANDO'" >> .bashrc
 - **`>>`** informa al sistema que todo lo anterior debe ser enviado a la ubicación que esta a la derecha.
 - **`.bashrc`** es una carpeta oculta[^1] donde el sistema guarda los comandos de terminal, aquí enviaremos el resultado del `echo`.
 
-Si lo pruebas, **aún no funcionará**. Para que los cambios surtan efecto debes reiniciar la terminal, cerrando y volviendo a abrirla.
+Si lo pruebas, **aún no funcionará**. Para que los cambios surtan efecto **debes reiniciar la terminal**, cerrando y volviendo a abrirla.
 
 Listo! Ahora ya sabes como crear un alias reusable en la terminal.
 
