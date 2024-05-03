@@ -10,9 +10,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Blog/La soledad como arma de control\|La soledad como arma de control]]: 4:53 PM - May 03, 2024
-> - [[Blog/La sociedad no existe\|La sociedad no existe]]: 6:10 PM - May 02, 2024
+>  - [[Blog/La sociedad no existe\|La sociedad no existe]]: 6:10 PM - May 02, 2024
 > - [[Learning/Wiki/Distribuido\|Distribuido]]: 7:44 PM - April 12, 2024
+> - [[Learning/Code/Git\|Git]]: 9:49 AM - April 12, 2024
 > 
 { .block-language-dataview}
 
