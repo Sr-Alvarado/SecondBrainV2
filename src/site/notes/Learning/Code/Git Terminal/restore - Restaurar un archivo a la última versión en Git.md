@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Git Terminal/restore - Restaurar un archivo a la última versión en Git.md","permalink":"/code/git-terminal/restore-restaurar-un-archivo-a-la-ultima-version-en-git/","created":"2024-04-03T21:55","updated":"2024-04-03T21:56"}
+{"dg-publish":true,"dg-path":"Code/Git Terminal/restore - Restaurar un archivo a la última versión en Git.md","permalink":"/code/git-terminal/restore-restaurar-un-archivo-a-la-ultima-version-en-git/","created":"2024-04-03T21:55","updated":"2024-04-11T20:22"}
 ---
 
 > [!info]-
