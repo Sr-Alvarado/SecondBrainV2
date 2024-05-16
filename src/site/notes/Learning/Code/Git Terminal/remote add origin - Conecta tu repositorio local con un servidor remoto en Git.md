@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Git Terminal/remote add origin - Conecta tu repositorio local con un servidor remoto en Git.md","permalink":"/code/git-terminal/remote-add-origin-conecta-tu-repositorio-local-con-un-servidor-remoto-en-git/","created":"2024-04-03T20:57","updated":"2024-04-03T20:57"}
+{"dg-publish":true,"dg-path":"Code/Git Terminal/remote add origin - Conecta tu repositorio local con un servidor remoto en Git.md","permalink":"/code/git-terminal/remote-add-origin-conecta-tu-repositorio-local-con-un-servidor-remoto-en-git/","created":"2024-04-03T20:57","updated":"2024-04-03T21:10"}
 ---
 
 Si quieres asociar, emparejar, tu repositorio con un repositorio remoto en un servidor puedes usar:
