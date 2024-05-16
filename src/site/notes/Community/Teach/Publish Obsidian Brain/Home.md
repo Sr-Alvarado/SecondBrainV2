@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"dgShowBacklinks":"false","created":"2024-01-25T19:06","updated":"2024-03-31T14:44"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"dgShowBacklinks":"false","created":"2024-01-25T19:06","updated":"2024-04-04T21:55"}
 ---
 
 ![NickNamePersonal.png|220](/img/user/Engine/Attachments/NickNamePersonal.png)
@@ -10,9 +10,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Blog/La sociedad no existe\|La sociedad no existe]]: 10:43 PM - May 10, 2024
-> - [[Learning/Wiki/Distribuido\|Distribuido]]: 7:44 PM - April 12, 2024
-> - [[Learning/Code/Git\|Git]]: 9:49 AM - April 12, 2024
+>  - [[Learning/Code/Git Terminal/gitignore - Indicar a Git que ignore un archivo\|gitignore - Indicar a Git que ignore un archivo]]: 10:44 PM - May 10, 2024
+> - [[Blog/La sociedad no existe\|La sociedad no existe]]: 10:43 PM - May 10, 2024
+> - [[Learning/Code/Como crear un alias para la terminal en Linux\|Como crear un alias para la terminal en Linux]]: 10:35 PM - April 13, 2024
 > 
 { .block-language-dataview}
 
