@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Git Terminal/reset - Restaurar los cambios a una fotografía anterior en  Git.md","permalink":"/code/git-terminal/reset-restaurar-los-cambios-a-una-fotografia-anterior-en-git/","created":"2024-03-27T16:18","updated":"2024-03-27T19:37"}
+{"dg-publish":true,"dg-path":"Code/Git Terminal/reset - Restaurar los cambios a una fotografía anterior en  Git.md","permalink":"/code/git-terminal/reset-restaurar-los-cambios-a-una-fotografia-anterior-en-git/","created":"2024-03-27T16:18","updated":"2024-03-27T20:02"}
 ---
 
 [^1]: En realidad este comando tiene trampa, en Git siempre se guardan los cambios y si quieres volver a una fotografía específica solo tienes que usar su [[Learning/Wiki/Hash\|hash]].
