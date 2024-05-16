@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Flujo colaborativo.md","permalink":"/code/flujo-colaborativo/","created":"2024-04-04T14:22","updated":"2024-04-10T17:00"}
+{"dg-publish":true,"dg-path":"Code/Flujo colaborativo.md","permalink":"/code/flujo-colaborativo/","created":"2024-04-04T14:22","updated":"2024-04-10T17:41"}
 ---
 
 
