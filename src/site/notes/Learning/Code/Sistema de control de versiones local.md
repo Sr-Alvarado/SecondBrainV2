@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Sistema de control de versiones local.md","permalink":"/code/sistema-de-control-de-versiones-local/","created":"2024-04-02T17:20","updated":"2024-04-02T17:33"}
+{"dg-publish":true,"dg-path":"Code/Sistema de control de versiones local.md","permalink":"/code/sistema-de-control-de-versiones-local/","created":"2024-04-02T17:20","updated":"2024-04-04T21:50"}
 ---
 
 
