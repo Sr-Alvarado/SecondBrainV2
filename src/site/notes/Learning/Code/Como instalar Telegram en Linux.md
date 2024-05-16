@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Como instalar Telegram en Linux.md","permalink":"/code/como-instalar-telegram-en-linux/","created":"2024-03-02T22:09","updated":"2024-03-31T14:30"}
+{"dg-publish":true,"dg-path":"Code/Como instalar Telegram en Linux.md","permalink":"/code/como-instalar-telegram-en-linux/","created":"2024-03-02T22:09","updated":"2024-04-03T19:47"}
 ---
 
 > [!info]-
