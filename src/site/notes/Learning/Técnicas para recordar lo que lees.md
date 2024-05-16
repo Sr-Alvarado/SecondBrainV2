@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Técnicas para recordar lo que lees.md","permalink":"/tecnicas-para-recordar-lo-que-lees/","created":"2024-02-27T22:10","updated":"2024-02-27T22:50"}
+{"dg-publish":true,"dg-path":"Técnicas para recordar lo que lees.md","permalink":"/tecnicas-para-recordar-lo-que-lees/","created":"2024-02-27T22:10","updated":"2024-03-05T21:41"}
 ---
 
 **Fuente original:** [💪 5 TÉCNICAS para RECORDAR lo que LEES (100% Efectivas) - YouTube](https://www.youtube.com/watch?v=Kt51Z4M39BQ)
