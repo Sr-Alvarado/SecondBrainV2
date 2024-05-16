@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Git Terminal/checkout - Moverse entre fotografías o archivos específicos en Git.md","permalink":"/code/git-terminal/checkout-moverse-entre-fotografias-o-archivos-especificos-en-git/","created":"2024-03-27T16:18","updated":"2024-03-29T18:53"}
+{"dg-publish":true,"dg-path":"Code/Git Terminal/checkout - Moverse entre fotografías o archivos específicos en Git.md","permalink":"/code/git-terminal/checkout-moverse-entre-fotografias-o-archivos-especificos-en-git/","created":"2024-03-27T16:18","updated":"2024-04-02T17:14"}
 ---
 
 
