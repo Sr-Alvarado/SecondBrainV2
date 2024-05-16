@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Fotografía.md","permalink":"/fotografia/","hide":true,"created":"2024-03-14T15:04","updated":"2024-04-02T17:45"}
+{"dg-publish":true,"dg-path":"Fotografía.md","permalink":"/fotografia/","hide":true,"created":"2024-03-14T15:04","updated":"2024-04-05T17:24"}
 ---
 
 ## [[Learning/Code/Git\|Git]]
