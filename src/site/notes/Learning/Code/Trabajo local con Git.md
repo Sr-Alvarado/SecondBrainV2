@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Trabajo local con Git.md","permalink":"/code/trabajo-local-con-git/","created":"2024-04-04T14:27","updated":"2024-04-10T17:00"}
+{"dg-publish":true,"dg-path":"Code/Trabajo local con Git.md","permalink":"/code/trabajo-local-con-git/","created":"2024-04-04T14:27","updated":"2024-04-10T17:41"}
 ---
 
 
