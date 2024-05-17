@@ -11,7 +11,7 @@ Publico mi Digital Garden porque creo firmemente que el conocimiento es más val
 
 > [!info] Últimas actualizaciones
 >  - [[Learning/Como cambiar el editor por defecto para la terminal\|Como cambiar el editor por defecto para la terminal]]: 10:14 AM - May 17, 2024
-> - [[Learning/Como cambiar el tema global en KDE desde la terminal\|Como cambiar el tema global en KDE desde la terminal]]: 9:12 AM - May 17, 2024
+> - [[Learning/Como cambiar el tema global en KDE desde la terminal\|Como cambiar el tema global en KDE desde la terminal]]: 9:25 AM - May 17, 2024
 > - [[Learning/Code/30 Days of Python/Day 1 - Introduction\|Day 1 - Introduction]]: 3:55 PM - May 16, 2024
 > 
 { .block-language-dataview}
