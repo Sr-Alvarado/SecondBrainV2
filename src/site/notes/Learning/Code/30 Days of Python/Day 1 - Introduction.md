@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/30 Days of Python/Day 1 - Introduction.md","permalink":"/code/30-days-of-python/day-1-introduction/","created":"2024-03-08T15:10","updated":"2024-04-04T21:51"}
+{"dg-publish":true,"dg-path":"Code/30 Days of Python/Day 1 - Introduction.md","permalink":"/code/30-days-of-python/day-1-introduction/","created":"2024-03-08T15:10","updated":"2024-05-16T15:55"}
 ---
 
 ## Download and Install python
@@ -30,7 +30,7 @@ YOUR_PYTHON_VERSION
 - TypeError
 - ValueError
 - ZeroDivisionError
-## Basics mathematical operations
+## Mathematical operations
 - **Sum**: 3+2
 - **Subtraction**: 3-2
 - **Multiply**: 3*\2
@@ -40,12 +40,61 @@ YOUR_PYTHON_VERSION
 ## Comments
 - **Una sola linea**: `# one line quote`
 - **Multi-linea**: `"""multi line quote"""` 
-## Strings
+
+## Create blocks / Indentation
+Python usa la indentación para crear bloques, puedes usar una sangría de 2 espacios para crear la indentación, python reconocerá todo lo que lleve esa sangria como parte bloque anterior sin sangría.
+
+```py
+Bloque 1
+   Sub Bloque 1.1
+   Sub Bloque 1.2
+      Sub Bloque 1.2.1
+Bloque 2
+```
+
+## Data types
+### Numbers
+Python acepta 3 tipos de números:
+- **Integer**. Números reales
+- **Float**. Números decimales
+- **Complex**. Números complejos
+### Strings
+Los strings son las cadenas de texto, para declarar una cadena de texto puedes usar:
 - **Una sola linea**: `'cadena de texto simple'`
 - **Una sola linea**: `"cadena de texto simple"`
 - **Multi-linea**: `'''cadena de texto de varias lineas de texto'''`
 - **Caso especial**: `"""text"""`, si un texto con comillas triples no es asignada a una variable, python lo reconocerá como un comentario.
-## Create blocks / Indentation
-Python usa la indentación para crear bloques, puedes usar una sangría de 2 espacios para crear la indentación, python reconocerá todo lo que lleve esa sangria como parte bloque anterior sin sangría.
-## Installing vscode
-Download vscode its official page and follow the installation guide.
+### Boleans
+Los boleanos son los valores de Verdadero (True) o Falso (False)
+- True / 1
+- False / 0
+### Lists
+Una lista es una colección ordenada de elementos, puede contener diferentes tipos de datos. Se define con [], ejemplo:
+- ['Banana', 10, False, 9.81]
+
+### Dictionary
+Un diccionario es una colección desordenada de elementos, usa el formato clave-valor:
+```py
+{
+'clave':'valor',
+'first_name':'Asabeneh', 
+'age':250, 
+'is_married':True,
+'skills':['JS', 'React', 'Node', 'Python']
+}
+```
+
+### Tuple
+Es como una lista, la diferencia es que, una vez creada no se pueden cambiar los datos de una Tupla, es [[Inmutabilidad\|inmutable]]. Se define usando ().
+```py
+('Asabeneh', 'Pawel', 'Brook', 'Abraham', 'Lidiya') # Names
+```
+
+### Set
+Es una lista parecida a una tupla o a una lista, la particularidad de un Set es que esta lista no es ordenada, solo acepta valores únicos, si tienes dos valores iguales, solo guardará uno.
+```py
+{3.14, 9.81, 2.7} # order is not important in set
+```
+
+## Exercises
+[Ejercicios Primer día · 30 days of python](https://github.com/Sr-Alvarado/Learn-Python/blob/main/exercicesFirstDay.py)
