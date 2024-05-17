@@ -6,7 +6,7 @@ Me encanta KDE, pero un problema es que me acostumbre al cambio automático entr
 
 Para cambiar el tema global en KDE solo debes usar:
 ```bash
-lookandfeeltool -a <nombre_del_tema>
+lookandfeeltool -a <nombre_del_tema_instalado>
 ```
 - `lookandfeeltool`. Es una herramienta de consola para KDE que permite cambiar rápidamente entre los temas globales y hacer que "look and feel".
 - `-a`. Flag de `lookandfeeltool` que declara que se aplicará un nuevo tema.
