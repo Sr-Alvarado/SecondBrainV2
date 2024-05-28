@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Autoconocimiento.md","permalink":"/autoconocimiento/","created":"2024-05-27T21:22","updated":"2024-05-27T22:22"}
 ---
 
-Este texto fue extraido de una entrevista hacia el neuropsicólogo [[Álvaro Bilbao\|Álvaro Bilbao]] en [[BBVA Aprendamos Juntos\|BBVA Aprendamos Juntos]].
+Este texto fue extraído de una entrevista hacia el neuropsicólogo [[Álvaro Bilbao\|Álvaro Bilbao]] en [[BBVA Aprendamos Juntos\|BBVA Aprendamos Juntos]].
 - Conocimiento específico de mi mismo
    - Que me gusta hacer
    - Quienes son mis amigos
