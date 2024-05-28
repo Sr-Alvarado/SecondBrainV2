@@ -10,9 +10,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Learning/Como cambiar el editor por defecto para la terminal\|Como cambiar el editor por defecto para la terminal]]: 10:14 AM - May 17, 2024
-> - [[Learning/Como cambiar el tema global en KDE desde la terminal\|Como cambiar el tema global en KDE desde la terminal]]: 9:25 AM - May 17, 2024
-> - [[Learning/Code/30 Days of Python/Day 1 - Introduction\|Day 1 - Introduction]]: 3:55 PM - May 16, 2024
+>  - [[Learning/Autoconocimiento\|Autoconocimiento]]: 10:22 PM - May 27, 2024
+> - [[Learning/Como cambiar el tema global en KDE desde la terminal\|Como cambiar el tema global en KDE desde la terminal]]: 10:30 AM - May 17, 2024
+> - [[Learning/Como cambiar el editor por defecto para la terminal\|Como cambiar el editor por defecto para la terminal]]: 10:14 AM - May 17, 2024
 > 
 { .block-language-dataview}
 
