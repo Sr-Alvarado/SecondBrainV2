@@ -10,8 +10,8 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Learning/Code/30 Days of Python/list() - tranforma elementos a una lista\|list() - tranforma elementos a una lista]]: 6:24 PM - May 29, 2024
-> - [[Learning/Code/30 Days of Python/Day 2 - Funciones\|Day 2 - Funciones]]: 6:14 PM - May 29, 2024
+>  - [[Learning/Code/30 Days of Python/Day 2 - Funciones\|Day 2 - Funciones]]: 6:27 PM - May 29, 2024
+> - [[Learning/Code/30 Days of Python/list() - tranforma elementos a una lista\|list() - tranforma elementos a una lista]]: 6:24 PM - May 29, 2024
 > - [[Learning/Code/30 Days of Python/int() - Convertir a números enteros\|int() - Convertir a números enteros]]: 6:14 PM - May 29, 2024
 > 
 { .block-language-dataview}
