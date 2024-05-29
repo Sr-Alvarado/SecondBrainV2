@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Code/30 Days of Python/Day 2 - Funciones.md","permalink":"/code/30-days-of-python/day-2-funciones/","created":"2024-05-29T16:47","updated":"2024-05-29T18:14"}
+{"dg-publish":true,"dg-path":"Code/30 Days of Python/Day 2 - Funciones.md","permalink":"/code/30-days-of-python/day-2-funciones/","created":"2024-05-29T16:47","updated":"2024-05-29T18:27"}
 ---
 
+## Funciones
+### all()
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/code/30-days-of-python/all-verificar-si-todos-los-elementos-son-verdaderos-en-python/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -30,6 +32,7 @@ Todo lo demás se considera TRUE.
 </div></div>
 
 
+### any()
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/code/30-days-of-python/any-verificar-si-todos-los-elementos-son-falsos-en-python/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -42,7 +45,7 @@ Es similar a [[Learning/Code/30 Days of Python/all() - Verificar si todos los el
 
 </div></div>
  
-
+### int()
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/code/30-days-of-python/int-convertir-a-numeros-enteros/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -68,6 +71,7 @@ print(int(c))   #ERROR
 </div></div>
  
 
+### list()
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/code/30-days-of-python/list-tranforma-elementos-a-una-lista/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -84,6 +88,19 @@ print(list(first_name))    #["A","s","a","b"]
 </div></div>
 
 
+### help()
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/code/30-days-of-python/help-obtener-informacion-sobre-alguna-funcion-integrada-en-python/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+Esta función permite obtener información, al estilo del `--help` en Linux, sobre las funciones core de python.
+
+</div></div>
+
+
+## Sistemas numéricos
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/code/30-days-of-python/sistemas-numericos-en-python/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -99,17 +116,7 @@ Para identificar que un número está en un sistema numérico o en otro Python u
 </div></div>
  
 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/code/30-days-of-python/help-obtener-informacion-sobre-alguna-funcion-integrada-en-python/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-Esta función permite obtener información, al estilo del `--help` en Linux, sobre las funciones core de python.
-
-</div></div>
-
-
+## Nombrar variables
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/code/30-days-of-python/nombres-de-variables-en-python/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -144,6 +151,7 @@ a = 2
 </div></div>
 
 
+### Varias en una sola línea
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/code/30-days-of-python/declarar-varias-variables-en-una-sola-linea-en-python/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
