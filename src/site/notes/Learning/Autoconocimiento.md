@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Autoconocimiento.md","permalink":"/autoconocimiento/","created":"2024-05-27T21:22","updated":"2024-05-27T22:22"}
+{"dg-publish":true,"dg-path":"Autoconocimiento.md","permalink":"/autoconocimiento/","created":"2024-05-27T21:22","updated":"2024-05-28T10:23"}
 ---
 
-Este texto fue extraído de una entrevista hacia el neuropsicólogo [[Álvaro Bilbao\|Álvaro Bilbao]] en [[BBVA Aprendamos Juntos\|BBVA Aprendamos Juntos]].
+Texto extraído de una entrevista al neuropsicólogo [[Álvaro Bilbao\|Álvaro Bilbao]] en [[BBVA Aprendamos Juntos\|BBVA Aprendamos Juntos]].
+El autoconocimiento esta dividido
 - Conocimiento específico de mi mismo
    - Que me gusta hacer
    - Quienes son mis amigos
