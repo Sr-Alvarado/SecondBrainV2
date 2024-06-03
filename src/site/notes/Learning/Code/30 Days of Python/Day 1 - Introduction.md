@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/30 Days of Python/Day 1 - Introduction.md","permalink":"/code/30-days-of-python/day-1-introduction/","created":"2024-03-08T15:10","updated":"2024-05-16T19:09"}
+{"dg-publish":true,"dg-path":"Code/30 Days of Python/Day 1 - Introduction.md","permalink":"/code/30-days-of-python/day-1-introduction/","created":"2024-03-08T15:10","updated":"2024-06-03T17:43"}
 ---
 
 ## Download and Install python
@@ -35,7 +35,7 @@ YOUR_PYTHON_VERSION
 - **Subtraction**: 3-2
 - **Multiply**: 3*\2
 - **Division**: 3/2
-- **Módulo**: 3%2 ==Devuelve el residuo de una división==
+- **[[Learning/Módulo - Resto de una división\|Módulo]]**: 3%2 ==Devuelve el residuo de una división==
 - **Resto**: 3//2 ==Devuelve solo la parte entera de una división==
 ## Comments
 - **Una sola linea**: `# one line quote`
