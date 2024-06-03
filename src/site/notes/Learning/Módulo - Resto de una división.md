@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Módulo - Resto de una división.md","permalink":"/modulo-resto-de-una-division/","created":"2024-06-03T17:25","updated":"2024-06-03T17:44"}
 ---
 
-El módulo de dos números se entiende como el resto de la división. La cantidad que queda después de dividir esos números, considerando que solo se hacen divisiones enteras, es decir solo números naturales. En programación se suele usar `%` para declarar esta operación.
+El módulo de dos números se entiende como el resto de la división. La cantidad que queda después de dividir esos números considerando que solo se hacen divisiones enteras, es decir solo números naturales. En programación se suele usar `%` para declarar esta operación.
 - `10 % 5 = 10 - (5 * 2) = 0`
 - `12 % 5 = 12 - (5 * 2) = 2`
 - `12 % 12 = 12 - (12 * 1) = 0`
