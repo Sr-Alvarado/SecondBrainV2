@@ -11,8 +11,8 @@ Publico mi Digital Garden porque creo firmemente que el conocimiento es más val
 
 > [!info] Últimas actualizaciones
 >  - [[Learning/Code/30 Days of Python/Operadores logicos\|Operadores logicos]]: 7:08 PM - June 10, 2024
+> - [[Learning/Code/30 Days of Python/Day 3 - Operadores\|Day 3 - Operadores]]: 7:00 PM - June 10, 2024
 > - [[Learning/Code/30 Days of Python/Operadores condicionales en python\|Operadores condicionales en python]]: 7:00 PM - June 10, 2024
-> - [[Learning/Code/30 Days of Python/Operadores matemáticos\|Operadores matemáticos]]: 5:46 PM - June 10, 2024
 > 
 { .block-language-dataview}
 
