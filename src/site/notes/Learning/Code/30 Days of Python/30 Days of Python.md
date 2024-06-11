@@ -9,3 +9,4 @@
 ## Clases
 - [[Learning/Code/30 Days of Python/Day 1 - Introduction\|Day 1 - Introduction]]
 - [[Learning/Code/30 Days of Python/Day 2 - Funciones\|Day 2 - Funciones]] 
+- [[Learning/Code/30 Days of Python/Day 3 - Operadores\|Day 3 - Operadores]]
