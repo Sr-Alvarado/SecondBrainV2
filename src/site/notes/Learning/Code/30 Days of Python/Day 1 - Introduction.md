@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/30 Days of Python/Day 1 - Introduction.md","permalink":"/code/30-days-of-python/day-1-introduction/","created":"2024-03-08T15:10","updated":"2024-06-03T17:43"}
+{"dg-publish":true,"dg-path":"Code/30 Days of Python/Day 1 - Introduction.md","permalink":"/code/30-days-of-python/day-1-introduction/","created":"2024-03-08T15:10","updated":"2024-06-10T17:37"}
 ---
 
 ## Download and Install python
@@ -31,12 +31,23 @@ YOUR_PYTHON_VERSION
 - ValueError
 - ZeroDivisionError
 ## Mathematical operations
-- **Sum**: 3+2
-- **Subtraction**: 3-2
-- **Multiply**: 3*\2
-- **Division**: 3/2
-- **[[Learning/Módulo - Resto de una división\|Módulo]]**: 3%2 ==Devuelve el residuo de una división==
-- **Resto**: 3//2 ==Devuelve solo la parte entera de una división==
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/code/30-days-of-python/operadores-matematicos/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+- **Sum**: 3`+`2
+- **Subtraction**: 3`-`2
+- **Multiply**: 3`*`2
+- **Division**: 3`/`2 
+- **Exponente**: 3`**`2 ==Se lee: 3 al exponente 2==
+- **[[Learning/Módulo - Resto de una división\|Módulo]]**: 3`%`2 ==Devuelve el residuo de una división==
+- **Resto**: 3`//`2 ==Devuelve solo la parte entera de una división==
+
+</div></div>
+
+
 ## Comments
 - **Una sola linea**: `# one line quote`
 - **Multi-linea**: `"""multi line quote"""` 
@@ -65,9 +76,18 @@ Los strings son las cadenas de texto, para declarar una cadena de texto puedes u
 - **Multi-linea**: `'''cadena de texto de varias lineas de texto'''`
 - **Caso especial**: `"""text"""`, si un texto con comillas triples no es asignada a una variable, python lo reconocerá como un comentario.
 ### Boleans
-Los boleanos son los valores de Verdadero (True) o Falso (False)
-- True / 1
-- False / 0
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/code/30-days-of-python/boleanos/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+En programación, es un tipo de dato que representa uno de dos valores: Verdadero o falso.
+- `True` or `1`
+- `False` or `0`
+
+</div></div>
+ 
 ### Lists
 Una lista es una colección ordenada de elementos, puede contener diferentes tipos de datos. Se define con [], ejemplo:
 - ['Banana', 10, False, 9.81]
