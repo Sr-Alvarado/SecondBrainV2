@@ -7,7 +7,7 @@
 >> [!cite]+ **Fuentes y enlaces de interés:**
 >> - [Entrevista](https://www.youtube.com/watch?v=nR02TDcKZOM) al neuropsicólogo [[Álvaro Bilbao\|Álvaro Bilbao]] en [[BBVA Aprendamos Juntos\|BBVA Aprendamos Juntos]]. 
 
-El autoconocimiento esta dividido en 2 ramas: El conocimiento de que me gusta y el conocimiento de como funciona mi cerebro.
+El autoconocimiento esta dividido en 2 ramas. El conocimiento de quien soy y el conocimiento de como funciona mi cerebro.
 ## Conocimiento específico de mi mismo
    - Que me gusta hacer
    - Quienes son mis amigos
@@ -20,9 +20,9 @@ No hay positivas o negativas, algunas son agradables y otras desagradables, pero
 Son la brújula que indica la dirección del camino, te dan pistas de la mejor decision para ti. Pregúntate: ¿Por qué mi cerebro siente ... ?
 - **Envidia**. Puedes resentirte o motivarte para conseguir lo que deseas.
 - **Rabia**. Nos permite quitar cosas que nos molestan.
-## Lineas rojas
+### Lineas rojas
 Escenarios que no debemos sobrepasar
-### Integridad física
+#### Integridad física
 Mantener la seguridad de nuestro cuerpo frente a daños de una manera clara y contundente.
 #### Bienestar físico 
 Dormir poco, fumar, beber alcohol, no hacer ejercicio, consumir alimentos poco saludables.
