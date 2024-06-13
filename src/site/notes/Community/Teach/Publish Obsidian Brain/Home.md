@@ -10,7 +10,7 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Learning/Autoconocimiento\|Autoconocimiento]]: 6:40 PM - June 12, 2024
+>  - [[Learning/Tu mente es el lugar donde pasarás el resto de tu vida\|Tu mente es el lugar donde pasarás el resto de tu vida]]: 6:40 PM - June 12, 2024
 > - [[Learning/Code/30 Days of Python/Operadores logicos\|Operadores logicos]]: 7:08 PM - June 10, 2024
 > - [[Learning/Code/30 Days of Python/Day 3 - Operadores\|Day 3 - Operadores]]: 7:00 PM - June 10, 2024
 > 
