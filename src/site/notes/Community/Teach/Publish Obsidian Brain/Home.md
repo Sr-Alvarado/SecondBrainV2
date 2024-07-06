@@ -10,9 +10,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Me/Productivity/Tasks\|Tasks]]: 5:14 PM - July 05, 2024
-> - [[Plan base para festival\|Plan base para festival]]: 9:34 PM - July 02, 2024
+>  - [[Plan base para festival\|Plan base para festival]]: 9:34 PM - July 02, 2024
 > - [[Learning/Code/30 Days of Python/El ciclo de la esclavitud moderna\|El ciclo de la esclavitud moderna]]: 11:47 PM - June 25, 2024
+> - [[Learning/Estratégias de mejora para actuar\|Estratégias de mejora para actuar]]: 10:53 PM - June 20, 2024
 > 
 { .block-language-dataview}
 
