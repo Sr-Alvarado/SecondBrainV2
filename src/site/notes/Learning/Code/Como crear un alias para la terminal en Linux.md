@@ -3,7 +3,7 @@
 ---
 
 ## Vamos directo a lo bueno
-Para crear un alias usamos el comando `alias NOMBRE_ALIAS='COMANDO'`. Sin embargo el alias solo estará activo mientas está abierta esa terminal. Para guardarlo y usarlo cuando queramos ejecutamos:
+         Para crear un alias usamos el comando `alias NOMBRE_ALIAS='COMANDO'`. Sin embargo el alias solo estará activo mientas está abierta esa terminal. Para guardarlo y usarlo cuando queramos ejecutamos:
 
 ```bash
 echo "alias NOMBRE_ALIAS='COMANDO'" >> .bashrc
