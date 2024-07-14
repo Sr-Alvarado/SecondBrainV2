@@ -10,9 +10,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Learning/Code/30 Days of Python/Day 3 - Operadores en Python\|Day 3 - Operadores en Python]]: 10:42 PM - July 05, 2024
-> - [[Plan base para festival\|Plan base para festival]]: 9:34 PM - July 02, 2024
-> - [[Learning/Code/30 Days of Python/El ciclo de la esclavitud moderna\|El ciclo de la esclavitud moderna]]: 11:47 PM - June 25, 2024
+>  - [[Learning/La identidad\|La identidad]]: 1:27 PM - July 14, 2024
+> - [[Learning/Code/30 Days of Python/Day 3 - Operadores en Python\|Day 3 - Operadores en Python]]: 10:42 PM - July 05, 2024
+> - [[Proyecto La vos de los jóvenes\|Proyecto La vos de los jóvenes]]: 1:46 PM - July 04, 2024
 > 
 { .block-language-dataview}
 
