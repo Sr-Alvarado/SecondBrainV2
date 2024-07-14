@@ -6,8 +6,7 @@
 > [!info]-
 > El siguiente ensayo nace de una la entrevista que le hicieron al profesor de la PUCP Hans Beuermann sobre la identidad Nacional en el programa de CENTRUM CATOLICA. 
 >> [!cite]+ **Fuentes y enlaces de interés:**
->> - [Entrevista completa](https://youtu.be/TnMtILiR5Bk) 
->> - [Identidad Nacional - YouTube](https://youtu.be/TnMtILiR5Bk)
+>> - Entrevista completa: [Identidad Nacional - YouTube](https://youtu.be/TnMtILiR5Bk)
 
 ## Tesis
 Para el profesor Hans, la identidad es "lo que nos define", y que si bien hay muchas variables una de las más relevantes es el lugar donde nacemos, "Somos lo que somos, porque pertenecemos".
