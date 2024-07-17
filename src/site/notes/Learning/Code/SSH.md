@@ -16,13 +16,13 @@ Es un protocolo criptográfico de comunicación en red segura basado [[clave pri
 El proceso de comunicación entre el servidor y el usuario se hace de esta manera:
 - El **cliente** inicia la conexión con el servidor, solicita un canal seguro. 
 - El **servidor** genera 2 claves criptográficas, una pública que se envía al usuario y otra privada que guarda de forma segura en si mismo. 
-- El **cliente** [[Learning/Code/Como generar una clave aleatoria en la terminal\|genera una clave aleatoria]] (clave de sesión) y la cifra usando la clave pública que le devolvió el servidor, luego, envía la clave cifrada al servidor.
+- El **cliente** [[Learning/Code/Bash/Como generar una clave aleatoria en la terminal\|genera una clave aleatoria]] (clave de sesión) y la cifra usando la clave pública que le devolvió el servidor, luego, envía la clave cifrada al servidor.
 - El **servidor** descifra la clave usando su clave privada, luego, envía un mensaje de éxito al usuario.
 
 Desde este momento todos los datos transmitidos entre cliente-servidor son cifrados con la clave de sesión del usuario.
 
 ## Uso
 ### Usar SSH para autentificarse en GitHub
-[[Learning/Code/GitHub\|GitHub]] ya tiene en su documentación una explicación clara de como hacer esto por ello vamos a usarla:
+[[Learning/Code/GitHub/GitHub\|GitHub]] ya tiene en su documentación una explicación clara de como hacer esto por ello vamos a usarla:
 - Si ya **tienes una clave SSH** en tu dispositivo puedes usarla para autentificar tu dispositivo en GitHub: [Comprobar tus claves SSH existentes - Documentación de GitHub](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys) 
 - Si aún **no tienes una clave SSH** debes crearla: [Generación de una nueva clave SSH y adición al agente SSH - Documentación de GitHub](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) 
