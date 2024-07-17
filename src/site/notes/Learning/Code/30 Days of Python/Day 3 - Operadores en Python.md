@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/30 Days of Python/Day 3 - Operadores en Python.md","permalink":"/code/30-days-of-python/day-3-operadores-en-python/","created":"2024-06-10T17:35","updated":"2024-07-05T22:42"}
+{"dg-publish":true,"dg-path":"Code/30 Days of Python/Day 3 - Operadores en Python.md","permalink":"/code/30-days-of-python/day-3-operadores-en-python/","created":"2024-06-10T17:35","updated":"2024-07-16T17:37"}
 ---
 
 

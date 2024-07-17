@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/30 Days of Python/Day 2 - Funciones.md","permalink":"/code/30-days-of-python/day-2-funciones/","created":"2024-05-29T16:47","updated":"2024-05-29T18:27"}
+{"dg-publish":true,"dg-path":"Code/30 Days of Python/Day 2 - Funciones.md","permalink":"/code/30-days-of-python/day-2-funciones/","created":"2024-05-29T16:47","updated":"2024-07-16T17:41"}
 ---
 
 ## Funciones
@@ -96,6 +96,76 @@ print(list(first_name))    #["A","s","a","b"]
 
 
 Esta función permite obtener información, al estilo del `--help` en Linux, sobre las funciones core de python.
+
+</div></div>
+
+
+### zip()
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/code/30-days-of-python/zip-crea-tuplas/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+La función `zip()` combina 2 o más iterables (listas, tuplas, cadenas, etc.) para crear una tupla. 
+```py
+lista1 = [1,2,3]
+lista2 = ["a","b","c"]
+
+tupla = zip(lista1, lista2) # Salida: [(1,"a"),(2,"b"),(3,"c")]
+```
+
+En caso de que los iterables tengan diferentes longitudes, zip solo se ejecuta hasta el iterable más corto.
+```py
+lista1 = [1,2]
+lista2 = ["a","b","c"]
+
+tupla = zip(lista1, lista2) # Salida: [(1,"a"),(2,"b")]
+```
+
+
+</div></div>
+
+
+### range()
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/code/30-days-of-python/range-genera-una-secuencia-de-numeros/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+La función `range` permite generar una cierta cantidad de números, por defecto, desde el 0. El funcionamiento básico es:
+```py
+range(5) # Genera 5 números comenzado del 0.
+# 0,1,2,3,4
+
+range(3,8) # Genera números desde el 3 hasta 8-1.
+# 3,4,5,6,7
+
+range(3,8,2) # Genera números desde el 3 hasta el 7-1, de 2 en 2.
+# 3,5,7
+```
+
+En términos más técnicos la función range funciona así:
+```py
+version1 = range(total)
+version2 = range(inicio,final)
+version3 = range(inicio,final,saltos)
+```
+- `inicio`. Es el número con que comenzará la secuencia.
+- `total`. El la cantidad de valores que se generará. En el caso de la versión 2 y 3 este número se calcula restando: `inicio`-`final`. Pero por temas prácticos también se puede hallar simplemente restado 1 al valor `final`.
+- `saltos`. Es el número de números que se saltará la secuencia. Ejemplo: `range(2,8,2)` devuelve `2,4,6` porque le estamos indicando que en ves de generar números sumando 1 los genere sumando 2. 
+
+## La función `range` y `print`
+
+Pasa algo interesante cuando imprimimos un rango directamente:
+```py
+rango=range(2,9,2)
+print=(rango)
+   # Imprime: range(2,9,2)
+```
+
+Esto sucede porque python usa la [[Generación bajo demanda\|Generación bajo demanda]], que en términos simples significa que si no lo va a usar pues no lo calcula. El objeto si existe pero en ves de contener los valores generados, solo almacena en memoria la información para generar estos objetos. Cuando se requiera generar alguno, varios o todos hará el calculo y recién almacenará en momoria los números que requiera según la información de generación.
 
 </div></div>
 
