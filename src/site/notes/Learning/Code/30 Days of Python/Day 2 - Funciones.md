@@ -136,10 +136,10 @@ tupla = zip(lista1, lista2) # Salida: [(1,"a"),(2,"b")]
 
 La función `range` permite generar una cierta cantidad de números, por defecto, desde el 0. El funcionamiento básico es:
 ```py
-range(5) # Genera 5 números comenzado del 0.
-# 0,1,2,3,4
+range(8) # Genera 8 números,desde 0 hasta el 8-1.
+# 0,1,2,3,4,5,6,7
 
-range(3,8) # Genera números desde el 3 hasta 8-1.
+range(3,8) # Genera 5 números,es decir (8-3), desde el 3 hasta 8-1.
 # 3,4,5,6,7
 
 range(3,8,2) # Genera números desde el 3 hasta el 8-1, de 2 en 2.
