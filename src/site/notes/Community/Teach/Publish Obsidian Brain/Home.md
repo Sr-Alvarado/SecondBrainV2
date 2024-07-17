@@ -10,9 +10,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Learning/Code/30 Days of Python/range() - Genera una secuencia de números\|range() - Genera una secuencia de números]]: 6:51 PM - July 16, 2024
+>  - [[Guerilla Open Access Manifesto en Español\|Guerilla Open Access Manifesto en Español]]: 10:20 PM - July 16, 2024
+> - [[Learning/Code/30 Days of Python/range() - Genera una secuencia de números\|range() - Genera una secuencia de números]]: 6:51 PM - July 16, 2024
 > - [[Learning/Code/30 Days of Python/zip() - Crea tuplas\|zip() - Crea tuplas]]: 5:49 PM - July 16, 2024
-> - [[Learning/Code/30 Days of Python/Day 2 - Funciones\|Day 2 - Funciones]]: 5:41 PM - July 16, 2024
 > 
 { .block-language-dataview}
 

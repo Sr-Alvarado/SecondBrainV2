@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/guerilla-open-access-manifesto-en-espanol/","created":"2024-07-16T13:55","updated":"2024-07-16T13:55"}
+{"dg-publish":true,"permalink":"/guerilla-open-access-manifesto-en-espanol/","created":"2024-07-16T13:55","updated":"2024-07-16T22:20"}
 ---
 
 ## Manifiesto de Acceso Abierto Guerrillero
@@ -31,5 +31,5 @@ Con suficientes de nosotros, alrededor del mundo, no solo enviaremos un fuerte m
 Julio 2008, Eremo, Italia
 
 ---
+
 - **Fuente original**: [Full text of "Guerilla Open Access Manifesto"](https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt)
-   - 
