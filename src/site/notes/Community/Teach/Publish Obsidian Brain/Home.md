@@ -10,9 +10,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Learning/Code/Operadores matemáticos\|Operadores matemáticos]]: 10:36 PM - July 16, 2024
+>  - [[Community/Perfil de los voluntarios\|Perfil de los voluntarios]]: 8:21 AM - July 17, 2024
+> - [[Learning/Code/Operadores matemáticos\|Operadores matemáticos]]: 10:36 PM - July 16, 2024
 > - [[Learning/Code/30 Days of Python/Day 2 - Funciones\|Day 2 - Funciones]]: 10:30 PM - July 16, 2024
-> - [[Guerilla Open Access Manifesto en Español\|Guerilla Open Access Manifesto en Español]]: 10:20 PM - July 16, 2024
 > 
 { .block-language-dataview}
 
