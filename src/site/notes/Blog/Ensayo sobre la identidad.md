@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/ensayo-sobre-la-identidad/","created":"2024-07-14T13:27","updated":"2024-07-14T13:27"}
+{"dg-publish":true,"permalink":"/blog/ensayo-sobre-la-identidad/","created":"2024-07-14T13:27","updated":"2024-07-14T15:04"}
 ---
 
 
@@ -20,7 +20,7 @@ La diversidad potencia nuestros esfuerzos. La comida peruana, una de las más ri
 ## Antítesis 
 Para el entrevistado la identidad está definida por el lugar donde nacemos, esa es la base de toda su tesis, esa es una idea correcta pero incompleta. 
 
-La identidad está definida por el contexto y las circunstancias. El contexto es el lugar donde nacemos y las circunstancias es el rol que nos tocó dentro de ese contexto, es decir , las circunstancias son los padres que nos tocaron, el colegio al que fuimos, el barrio en que crecimos y todas las otras personas que influyeron en nuestra crianza. 
+La identidad está definida por el contexto y las circunstancias. El contexto es el lugar donde nacemos y las circunstancias es el rol que nos tocó dentro de ese contexto, es decir , las circunstancias son los padres que nos tocaron, el colegio al que fuimos, el barrio en que crecimos y todas las otras personas que influyeron en nuestra crianza.
 
 ## Síntesis
 El entrevistado tiene razón al afirmar que la fractura de nuestra sociedad es solo una consecuencia de nuestra propia fractura interna generada por el resentimiento hacia los que tienen más y el trato infrahumano hacia los que consideramos por debajo de nosotros. 

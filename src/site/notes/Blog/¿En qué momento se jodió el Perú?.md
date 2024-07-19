@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/en-que-momento-se-jodio-el-peru/","created":"2024-07-18T21:18","updated":"2024-07-18T21:23"}
+{"dg-publish":true,"permalink":"/blog/en-que-momento-se-jodio-el-peru/","created":"2024-07-18T21:18","updated":"2024-07-18T22:42"}
 ---
 
 Con esta pregunta, casi retorica diría, comienzan muchos discursos, debates y textos; me pregunto si Vargas Llosa pensó en lo canon que se volvería su frase al escribir Conversación en la Catedral. Y es que como no hacer esta pregunta, al ver que cada día nuestra democracia se debilita y los viejos rancios cada vez tienen menos miedo de salir a medio día. 
@@ -18,4 +18,4 @@ Pero mejoró la economía y estabilizó la moneda verdad. Pues déjame te cuento
 
 El legado de ese vampiro es de horror. Sangre, dinero y tv es la forma en que funcionó nuestro país por 10 años de dictadura. Pero ese modelo se acabó, la amenaza de sangre dejó de dar miedo, como vas a temer por tu vida si en vida estas muerto, el dinero dejó de persuadir, porque por muy alta que sea tu torre de plata dividida entre 10 millones no alcanza. Y la tv dejó de atontar, porque hasta para mentir hay un límite. Pero este esperpento no se fue sin humillarnos por última vez, pues renunció por fax, como quien cobardemente le termina a su novia por mensaje.
 
-Asi que no te dejes mentir otra ves, la historia no se repite pero aveces rima, no te dejes atontar por la tv, no te dejes intimidar por la policía y no te dejes comprar por el dinero. Lucha, porque solo tenemos una oportunidad de ganar y el tren está a punto de partir.
+Asi que no te dejes engañar, la historia no se repite pero aveces rima, no te dejes atontar por la tv, no te dejes intimidar por la policía y no te dejes comprar por el dinero. Lucha, porque solo tenemos una oportunidad de ganar y el tren está a punto de partir.
