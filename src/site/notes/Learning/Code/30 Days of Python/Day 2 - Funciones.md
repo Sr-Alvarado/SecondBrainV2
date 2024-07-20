@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"Code/30 Days of Python/Day 2 - Funciones.md","permalink":"/code/30-days-of-python/day-2-funciones/","created":"2024-05-29T16:47","updated":"2024-07-16T22:30"}
+{"dg-publish":true,"dg-path":"Code/30 Days of Python/Day 2 - Funciones.md","permalink":"/code/30-days-of-python/day-2-funciones/","created":"2024-05-29T16:47","updated":"2024-07-20T13:44"}
 ---
 
 ## Funciones
+Python nos permite crear funciones para modificar elementos, dentro de estas existe una subclasificación, los métodos. Todos los métodos en python son funciones pero no todas las funciones son métodos, las funciones toman métodos como entrada y los métodos actúan sobre los objetos. Las funciones transforman un objeto y métodos solo brindan datos sobre ese objeto, su longitud, su tipo, el orden. Más información en [[Funciones vs métodos en Python\|Funciones vs métodos en Python]]. 
+
 ### all()
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/code/python/all-verificar-si-todos-los-elementos-son-verdaderos-en-python/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -166,6 +168,55 @@ print=(rango)
 ```
 
 Esto sucede porque python usa la [[Generación bajo demanda\|Generación bajo demanda]], que en términos simples significa que si no lo va a usar pues no lo calcula. El objeto si existe pero en ves de contener los valores generados, solo almacena en memoria la información para generar estos objetos. Cuando se requiera generar alguno, varios o todos hará el calculo y recién almacenará en momoria los números que requiera según la información de generación.
+
+</div></div>
+
+
+### len()
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/code/python/len-contar-la-longitud-de-una-lista/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+Esta función te permite calcula la longitud, el número de items, dentro de un objeto:
+```py
+empty_object = ""
+list_object = [1,2,3,5,3,7,8]
+string_object = "Hello world"
+dictionary_object = {"James": 10, "Mary": 12, "Robert": 11}
+
+leg(empty_object)
+# 0
+
+len(list_object)
+# 7
+
+len(string_object)
+# 11
+
+len(dictionary_object)
+# 3
+```
+
+
+La función `len()` no funciona con datos enteros, flotantes, complejos o boleanos porque estos objetos por definición no tienen longitud.
+```py
+len(5)
+# TypeError: object of type 'int' has no len()
+
+len(5.5)
+# TypeError: object of type 'float' has no len()
+
+len(True)
+# TypeError: object of type 'bool' has no len()
+
+len(5 + 2j)
+# TypeError: object of type 'complex' has no len()
+```
+
+## Detalles técnicos
+**Mejora la performance al usar `len()`**. Cuando se usa `len()` con secuencias ordenadas (listas, tuplas y strings) la función no necesita interactuar con el contenido del objeto. El contenedor de ese objeto almacena su longitud; cada ves que se agrega un item a ese objeto el valor del atributo de longitud suma uno y cada vez que se elimina un item, resta uno. Esto garantiza que `len()` use los recursos del sistema lo más eficientemente posible.
 
 </div></div>
 
