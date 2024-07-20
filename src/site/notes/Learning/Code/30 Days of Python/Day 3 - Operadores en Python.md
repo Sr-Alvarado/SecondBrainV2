@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"Code/30 Days of Python/Day 3 - Operadores en Python.md","permalink":"/code/30-days-of-python/day-3-operadores-en-python/","created":"2024-06-10T17:35","updated":"2024-07-16T17:49"}
+{"dg-publish":true,"dg-path":"Code/30 Days of Python/Day 3 - Operadores en Python.md","permalink":"/code/30-days-of-python/day-3-operadores-en-python/","created":"2024-06-10T17:35","updated":"2024-07-20T16:17"}
 ---
 
-
+   
 ## Boleanos
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/code/python/boleanos-en-python/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -61,9 +61,6 @@ En python el símbolo ` =` se usa para asignar un valor.
 
 </div></div>
 
-
-## Operadores matemáticos
-![[Operadores matematicos\|Operadores matematicos]] 
 
 ## Operadores condicionales
 
