@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/30-days-of-python.md","permalink":"/code/30-days-of-python/","hide":true,"created":"2024-03-08T15:09","updated":"2024-07-05T21:28"}
+{"dg-publish":true,"dg-path":"Code/30-days-of-python.md","permalink":"/code/30-days-of-python/","hide":true,"created":"2024-03-08T15:09","updated":"2024-07-21T12:07"}
 ---
 
 > [!info]-
@@ -10,8 +10,8 @@
 >> - **Ejercicios resueltos por mi (sr-alvarado)**: [GitHub - Sr-Alvarado/30-Days-Of-Python-thon-solved-exercises: Solutions to the exercises in 30-days-of-python repo of Asabeneh](https://github.com/Sr-Alvarado/30-Days-Of-Python-thon-solved-exercises/tree/main)
 
 ## Clases
-- [[Learning/Code/30 Days of Python/Day 1 - Introduction\|Day 1 - Introduction]]
+- [[Learning/Code/30 Days of Python/Day 1 - Introducción\|Day 1 - Introducción]] 
 - [[Learning/Code/30 Days of Python/Day 2 - Funciones\|Day 2 - Funciones]] 
 - [[Learning/Code/30 Days of Python/Day 3 - Operadores en Python\|Day 3 - Operadores en Python]]
-- [[Day 4 - Strings\|Day 4 - Strings]]
+- [[Day 4 - Strings\|Day 4 - Strings]] 
 - 

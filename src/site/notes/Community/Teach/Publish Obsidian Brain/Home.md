@@ -10,9 +10,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Learning/Code/30 Days of Python/Day 3 - Operadores en Python\|Day 3 - Operadores en Python]]: 12:01 PM - July 21, 2024
+>  - [[Learning/Code/30 Days of Python/30 Days of Python\|30 Days of Python]]: 12:07 PM - July 21, 2024
+> - [[Learning/Code/30 Days of Python/Day 3 - Operadores en Python\|Day 3 - Operadores en Python]]: 12:01 PM - July 21, 2024
 > - [[Learning/Code/30 Days of Python/Day 2 - Funciones\|Day 2 - Funciones]]: 12:00 PM - July 21, 2024
-> - [[Learning/Code/30 Days of Python/Day 1 - Introduction\|Day 1 - Introduction]]: 11:58 AM - July 21, 2024
 > 
 { .block-language-dataview}
 
