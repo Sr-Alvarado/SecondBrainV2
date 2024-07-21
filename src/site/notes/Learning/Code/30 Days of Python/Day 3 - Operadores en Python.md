@@ -3,7 +3,7 @@
 ---
 
 
-**| [[Learning/Code/30 Days of Python/Day 2 - Funciones\|:luc_arrow_left_circle: After day]] | [[Learning/Code/30 Days of Python/30 Days of Python\|:luc_home: Home]] | [[Day 4 - Strings\|:luc_arrow_right_circle: Next day]] | [:obs_code_glyph: Ejercicios](https://github.com/Sr-Alvarado/30-Days-Of-Python-thon-solved-exercises/blob/main/03_day_operators.py) |** 
+**| [[Learning/Code/30 Days of Python/Day 2 - Funciones\|⬅️ After day]] | [[Learning/Code/30 Days of Python/30 Days of Python\|🏠 Home]] | [[Day 4 - Strings\|➡️ Next day]] | [⌨️ Ejercicios](https://github.com/Sr-Alvarado/30-Days-Of-Python-thon-solved-exercises/blob/main/03_day_operators.py) |** 
 
 ## Boleanos
 

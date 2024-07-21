@@ -3,7 +3,7 @@
 ---
 
 
-**| [[Learning/Code/30 Days of Python/30 Days of Python\|:luc_home: Home]] | [[Learning/Code/30 Days of Python/Day 2 - Funciones\|:luc_arrow_right_circle: Next day]] | [:obs_code_glyph: Ejercicios](https://github.com/Sr-Alvarado/30-Days-Of-Python-thon-solved-exercises/blob/main/01_day_introduccion.py) |** 
+   **| [[Learning/Code/30 Days of Python/30 Days of Python\|🏠 Home]] | [[Learning/Code/30 Days of Python/Day 2 - Funciones\|➡️ Next day]] | [⌨️ Ejercicios](https://github.com/Sr-Alvarado/30-Days-Of-Python-thon-solved-exercises/blob/main/01_day_introduccion.py) |** 
 
 ## Download and Install python
 - Descarga la última versión de python desde python.org
