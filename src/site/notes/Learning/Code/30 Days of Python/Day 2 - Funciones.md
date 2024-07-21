@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Code/30 Days of Python/Day 2 - Funciones.md","permalink":"/code/30-days-of-python/day-2-funciones/","created":"2024-05-29T16:47","updated":"2024-07-20T13:44"}
+{"dg-publish":true,"dg-path":"Code/30 Days of Python/Day 2 - Funciones.md","permalink":"/code/30-days-of-python/day-2-funciones/","created":"2024-05-29T16:47","updated":"2024-07-21T12:00"}
 ---
+
+
+**| [[Learning/Code/30 Days of Python/Day 1 - Introduction\|:luc_arrow_left_circle: After day]] | [[Learning/Code/30 Days of Python/30 Days of Python\|:luc_home: Home]] | [[Learning/Code/30 Days of Python/Day 3 - Operadores en Python\|:luc_arrow_right_circle: Next day]] | [:obs_code_glyph: Ejercicios](https://github.com/Sr-Alvarado/30-Days-Of-Python-thon-solved-exercises/blob/main/02_day_variables.py) |** 
 
 ## Funciones
 Python nos permite crear funciones para modificar elementos, dentro de estas existe una subclasificación, los métodos. Todos los métodos en python son funciones pero no todas las funciones son métodos, las funciones toman métodos como entrada y los métodos actúan sobre los objetos. Las funciones transforman un objeto y métodos solo brindan datos sobre ese objeto, su longitud, su tipo, el orden. Más información en [[Funciones vs métodos en Python\|Funciones vs métodos en Python]]. 
