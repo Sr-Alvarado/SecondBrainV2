@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/30 Days of Python/Day 1 - Introducción.md","permalink":"/code/30-days-of-python/day-1-introduccion/","created":"2024-03-08T15:10","updated":"2024-07-21T11:58"}
+{"dg-publish":true,"dg-path":"Code/30 Days of Python/Day 1 - Introducción.md","permalink":"/code/30-days-of-python/day-1-introduccion/","created":"2024-03-08T15:10","updated":"2024-07-21T12:15"}
 ---
 
 
@@ -102,7 +102,10 @@ En programación, es un tipo de dato que representa uno de dos valores: Verdader
  
 ### Lists
 Una lista es una colección ordenada de elementos, puede contener diferentes tipos de datos. Se define con [], ejemplo:
-- ['Banana', 10, False, 9.81]
+
+```py
+lista1 = ['Banana', 10, False, 9.81]
+```
 
 ### Dictionary
 Un diccionario es una colección desordenada de elementos, usa el formato clave-valor:

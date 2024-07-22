@@ -11,8 +11,8 @@ Publico mi Digital Garden porque creo firmemente que el conocimiento es más val
 
 > [!info] Últimas actualizaciones
 >  - [[Learning/Code/30 Days of Python/Day 3 - Operadores en Python\|Day 3 - Operadores en Python]]: 12:17 PM - July 21, 2024
+> - [[Learning/Code/30 Days of Python/Day 1 - Introducción\|Day 1 - Introducción]]: 12:15 PM - July 21, 2024
 > - [[Learning/Code/30 Days of Python/30 Days of Python\|30 Days of Python]]: 12:07 PM - July 21, 2024
-> - [[Learning/Code/30 Days of Python/Day 2 - Funciones\|Day 2 - Funciones]]: 12:00 PM - July 21, 2024
 > 
 { .block-language-dataview}
 
