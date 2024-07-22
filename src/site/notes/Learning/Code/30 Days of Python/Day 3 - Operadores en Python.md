@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/30 Days of Python/Day 3 - Operadores en Python.md","permalink":"/code/30-days-of-python/day-3-operadores-en-python/","created":"2024-06-10T17:35","updated":"2024-07-21T12:01"}
+{"dg-publish":true,"dg-path":"Code/30 Days of Python/Day 3 - Operadores en Python.md","permalink":"/code/30-days-of-python/day-3-operadores-en-python/","created":"2024-06-10T17:35","updated":"2024-07-21T12:17"}
 ---
 
 
@@ -35,7 +35,7 @@ En [[python\|python]] siempre deben comenzar con mayúscula.
 
 ## Operadores
 En python el símbolo ` =` se usa para asignar un valor.
-![Pasted image 20240610174324.png](/img/user/Engine/Attachments/Pasted%20image%2020240610174324.png)
+![Pasted image 20240610174324.png|100%](/img/user/Engine/Attachments/Pasted%20image%2020240610174324.png)
 
 ## Operaciones aritméticas
 
