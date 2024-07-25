@@ -13,4 +13,4 @@
 - [[Learning/Code/30 Days of Python/Day 1 - Introducción\|Day 1 - Introducción]] 
 - [[Learning/Code/30 Days of Python/Day 2 - Funciones\|Day 2 - Funciones]] 
 - [[Learning/Code/30 Days of Python/Day 3 - Operadores\|Day 3 - Operadores]]
-   - [[Day 4 - Strings\|Day 4 - Strings]] 
+- [[Day 4 - Strings\|Day 4 - Strings]] 
