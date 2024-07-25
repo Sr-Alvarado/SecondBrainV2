@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/30-days-of-python.md","permalink":"/code/30-days-of-python/","hide":true,"created":"2024-03-08T15:09","updated":"2024-07-21T12:07"}
+{"dg-publish":true,"dg-path":"Code/30-days-of-python.md","permalink":"/code/30-days-of-python/","hide":true,"created":"2024-03-08T15:09","updated":"2024-07-25T13:53"}
 ---
 
 > [!info]-
@@ -12,6 +12,5 @@
 ## Clases
 - [[Learning/Code/30 Days of Python/Day 1 - Introducción\|Day 1 - Introducción]] 
 - [[Learning/Code/30 Days of Python/Day 2 - Funciones\|Day 2 - Funciones]] 
-- [[Learning/Code/30 Days of Python/Day 3 - Operadores en Python\|Day 3 - Operadores en Python]]
+- [[Learning/Code/30 Days of Python/Day 3 - Operadores\|Day 3 - Operadores]]
 - [[Day 4 - Strings\|Day 4 - Strings]] 
-- 

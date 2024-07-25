@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Code/30 Days of Python/Day 1 - Introducción.md","permalink":"/code/30-days-of-python/day-1-introduccion/","created":"2024-03-08T15:10","updated":"2024-07-21T12:15"}
+{"dg-publish":true,"dg-path":"Code/30 Days of Python/Day 1 - Introducción.md","permalink":"/code/30-days-of-python/day-1-introduccion/","created":"2024-03-08T15:10","updated":"2024-07-21T22:22"}
 ---
 
 
-   **| [[Learning/Code/30 Days of Python/30 Days of Python\|🏠 Home]] | [[Learning/Code/30 Days of Python/Day 2 - Funciones\|➡️ Next day]] | [⌨️ Ejercicios](https://github.com/Sr-Alvarado/30-Days-Of-Python-thon-solved-exercises/blob/main/01_day_introduccion.py) |** 
+**| [[Learning/Code/30 Days of Python/30 Days of Python\|🏠 Home]] | [[Learning/Code/30 Days of Python/Day 2 - Funciones\|➡️ Next day]] | [⌨️ Ejercicios](https://github.com/Sr-Alvarado/30-Days-Of-Python-thon-solved-exercises/blob/main/01_day_introduccion.py) |** 
 
 ## Download and Install python
 - Descarga la última versión de python desde python.org
