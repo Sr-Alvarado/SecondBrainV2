@@ -11,11 +11,11 @@
 ## Tesis
 Para el profesor Hans; la identidad es "lo que nos define", si bien existen muchas variables la más relevante es el lugar donde nacemos, "Somos lo que somos, porque pertenecemos" no indica.
 
-Los actos de la sociedad en la que vivimos reflejan nuestra propia identidad, los "actos [...] de violencia reflejan una identidad fracturada" explica. La fractura de la que habla es; el sentimiento de superioridad frente a otro, probablemente germinada desde la conquista, sin embargo el acto de pensarse como un ser superior a otro también nos define como un ser inferior a otro, esta inferioridad disfrazada de superioridad origina la fractura de nuestra sociedad. 
+Los actos de la sociedad en la que vivimos reflejan nuestra propia identidad, los "actos [...] de violencia reflejan una identidad fracturada" explica. La fractura de la que habla es; el sentimiento de superioridad frente a otro, probablemente germinada desde la conquista, sin embargo el acto de pensarse como un ser superior a otro también nos define como un ser inferior a otro, esta inferioridad disfrazada de superioridad origina la fractura en nuestra sociedad. 
 
-Las ideas de superioridad e inferioridad nacen desde el hogar y se fortalecen en la escuela ahí es donde debemos actuar. No hay más o menos, si bien todos somos distintos, merecemos el mismo respeto. 
+Las ideas de superioridad e inferioridad nacen desde el hogar y se fortalecen en la escuela, ahí es donde debemos actuar. No hay alguien mejor o peor, si bien todos somos distintos, merecemos el mismo respeto. 
 
-La diversidad potencia nuestros esfuerzos. La comida peruana, una de las más ricas a nivel mundial, es lo que es gracias a la mezcla de sabores. La diversidad potenció nuestros sabores y puede potenciar nuestras vidas.
+La diversidad potencia nuestros esfuerzos. La comida peruana, una de las más ricas a nivel mundial es lo que es gracias a la mezcla de sabores. La diversidad potenció nuestros sabores y puede potenciar nuestras vidas.
 
 ## Antítesis 
 Para el entrevistado la identidad está definida por el lugar donde nacemos, esa es la base de toda su tesis, esa es una idea correcta pero incompleta. 
