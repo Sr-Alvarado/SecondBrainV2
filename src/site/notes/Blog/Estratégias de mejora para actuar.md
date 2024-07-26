@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/blog/estrategias-de-mejora-para-actuar/","created":"2024-06-20T22:53","updated":"2024-06-20T22:53"}
+{"dg-publish":true,"permalink":"/blog/estrategias-de-mejora-para-actuar/","created":"2024-06-20T22:53","updated":"2024-06-20T23:17"}
 ---
+
 
 ## Lista de actividades, misión y visión
 - Divide la tarea en pequeños pasos

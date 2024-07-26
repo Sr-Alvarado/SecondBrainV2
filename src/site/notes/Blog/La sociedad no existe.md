@@ -2,7 +2,6 @@
 {"dg-publish":true,"dg-path":"La sociedad no exite.md","permalink":"/la-sociedad-no-exite/","hide":true,"dgHomeLink":"false","dgShowBacklinks":"false","dgShowFileTree":"false","dgEnableSearch":"false","created":"2024-04-22T21:57","updated":"2024-05-10T22:43"}
 ---
 
-[^1]: [[Learning/Wiki/Viktor Frankl\|Viktor Frankl]] en [[El Hombre en busca del sentido\|El Hombre en busca del sentido]] - Al hombre se le puede arrebatar todo salvo una cosa: La última de las libertades humanas. La elección de la actitud personal, para decidir su propio camino.
 
 A lo largo de toda mi vida he oído a muchas de mis influencias más cercanas culpar a la "sociedad" por las peores acciones de unos pocos humanos. Que la "sociedad" formó y encubrió a estos seres degenerados. No solo hablo de asesinos o violadores, tambien se usa para hablar de corruptos, misoginos, rasistas, fasistas, comunistas, y cualquier otro expuesto en su momento más bajo, con las manos en la masa, o como diría el pato Lucas "Así te quería agarrar puerco".
 
@@ -17,3 +16,5 @@ Pero yo soy solo un humano, uno de 8 000 millones iguales a mi, un de cientos de
 Los demás no tienen la culpa por lo que me pasa, incluso si la tuvieran, el doctor [[Learning/Wiki/Viktor Frankl\|Viktor Frankl]][^1] nos mostró que hasta en las condiciones más extremas, nosotros seguimos siendo responsables de nosotros mismos. Comienza hoy, deja de culpar a los demás por lo que pasa, y comienza a preguntarte si alguna vez permitiste que algo asi pasara, si alguna vez callaste cuando un pedazo ser humano acosó a una mujer, si alguna vez viste hacia otro lado cuando un engendro humillo a alguien por su origen, si alguna vez te tapaste lo odios cuando algún aspirante a dios engañó a tus amigos para tomar su voto.
 
 Así que lucha, lucha con furia, lucha contigo mismo, pelea contra tus creencias, cuestiona y cuestionate a ti. Porque no sabes, y reconocer que no sabes es el camino para saber.
+
+[^1]: [[Learning/Wiki/Viktor Frankl\|Viktor Frankl]] en [[El Hombre en busca del sentido\|El Hombre en busca del sentido]] - Al hombre se le puede arrebatar todo salvo una cosa: La última de las libertades humanas. La elección de la actitud personal, para decidir su propio camino.
