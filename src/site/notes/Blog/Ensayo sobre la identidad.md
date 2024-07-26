@@ -9,9 +9,9 @@
 >> - Entrevista completa: [Identidad Nacional - YouTube](https://youtu.be/TnMtILiR5Bk)
 
 ## Tesis
-Para el profesor Hans, la identidad es "lo que nos define", y que si bien hay muchas variables una de las más relevantes es el lugar donde nacemos, "Somos lo que somos, porque pertenecemos".
+Para el profesor Hans; la identidad es "lo que nos define", si bien existen muchas variables la más relevante es el lugar donde nacemos, "Somos lo que somos, porque pertenecemos" no indica.
 
-Los actos de la sociedad en la que vivimos reflejan nuestra propia identidad, los "actos [...] de violencia reflejan una identidad fracturada". La fractura es en el sentimiento de superioridad frente a otro, idea tan antigua como la conquista, sin embargo el acto de pensarse como un ser superior a otro también nos define como un ser inferior a otro, este es el origen de la fractura de nuestra sociedad. 
+Los actos de la sociedad en la que vivimos reflejan nuestra propia identidad, los "actos [...] de violencia reflejan una identidad fracturada" explica. La fractura de la que habla es; el sentimiento de superioridad frente a otro, probablemente germinada desde la conquista, sin embargo el acto de pensarse como un ser superior a otro también nos define como un ser inferior a otro, esta inferioridad disfrazada de superioridad origina la fractura de nuestra sociedad. 
 
 Las ideas de superioridad e inferioridad nacen desde el hogar y se fortalecen en la escuela ahí es donde debemos actuar. No hay más o menos, si bien todos somos distintos, merecemos el mismo respeto. 
 
