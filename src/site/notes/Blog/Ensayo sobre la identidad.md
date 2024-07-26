@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/blog/ensayo-sobre-la-identidad/","created":"2024-07-14T13:27","updated":"2024-07-14T15:04"}
+{"dg-publish":true,"permalink":"/blog/ensayo-sobre-la-identidad/","created":"2024-07-14T13:27","updated":"2024-07-18T22:54"}
 ---
 
 
 > [!info]-
-> El siguiente ensayo nace de una la entrevista que le hicieron al profesor de la PUCP Hans Beuermann sobre la identidad Nacional en el programa de CENTRUM CATOLICA. 
+> El siguiente ensayo nace de una entrevista al profesor Hans Beuermann, de la PUCP, sobre la identidad Nacional en el programa de CENTRUM CATÓLICA. 
 >> [!cite]+ **Fuentes y enlaces de interés:**
 >> - Entrevista completa: [Identidad Nacional - YouTube](https://youtu.be/TnMtILiR5Bk)
 
