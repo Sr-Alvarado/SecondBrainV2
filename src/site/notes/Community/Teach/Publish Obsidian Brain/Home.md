@@ -10,9 +10,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Learning/Code/30 Days of Python/30 Days of Python\|30 Days of Python]]: 1:53 PM - July 25, 2024
+>  - [[Blog/Vivir bajo Fujimori\|Vivir bajo Fujimori]]: 12:50 PM - July 26, 2024
+> - [[Learning/Code/30 Days of Python/30 Days of Python\|30 Days of Python]]: 1:53 PM - July 25, 2024
 > - [[Learning/Code/30 Days of Python/Day 2 - Funciones\|Day 2 - Funciones]]: 1:53 PM - July 25, 2024
-> - [[Learning/Code/30 Days of Python/Day 1 - Introducción\|Day 1 - Introducción]]: 10:22 PM - July 21, 2024
 > 
 { .block-language-dataview}
 

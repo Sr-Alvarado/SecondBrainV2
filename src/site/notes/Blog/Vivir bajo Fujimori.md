@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/blog/vivir-bajo-fujimori/","created":"2024-07-18T21:18","updated":"2024-07-18T23:00"}
+{"dg-publish":true,"permalink":"/blog/vivir-bajo-fujimori/","created":"2024-07-18T21:18","updated":"2024-07-26T12:50"}
 ---
 
 ¿En qué momento se jodió el Perú? Con esta pregunta, casi retorica diría, comienzan muchos discursos, debates y textos; me pregunto si Vargas Llosa pensó en lo canon que se volvería su frase al escribir Conversación en la Catedral. Y es que como no hacer esta pregunta, al ver que cada día nuestra democracia se debilita y los viejos rancios cada vez tienen menos miedo de salir a medio día.
 
-Como no temerían a mostrar su feo rostro en cada palabra que vomitan si su amo el "tenganme pena que ya me muero", anda libre alimentándose del futuro de nuestros niños, servida en bandeja de plata por los cristianos radicales que desde su nombre muestran su estupidez, pues ellos si se meten con los hijos de todos. Este sistema que están armando desea pervertir nuestra memoria, robándonos el pasado y vendiéndonos un futuro donde seremos esclavos.
+Como no temerían a mostrar su feo rostro en cada palabra que vomitan si su amo el "tenganme pena que ya me muero", anda libre alimentándose del futuro de nuestros niños, servida en bandeja de plata por los cristianos radicales que desde su nombre muestran su estupidez, pues ellos si se meten con los hijos de los demas. Este sistema que están armando desea pervertir nuestra memoria, robándonos el pasado y vendiéndonos un futuro donde seremos esclavos.
 
 Y es tan claro, un país que ha olvidado la palabra guerra hará la paz con armas, no dejemos que nos quiten la memoria, no te has preguntado porque no te hablan del gobierno de ese chino que hasta con su nombre nos mintió, un chino que ni siquiera es chino. Su partido prohibió hablar de mal de él, pues aquí está la verdad que te tratan de ocultar.
 
