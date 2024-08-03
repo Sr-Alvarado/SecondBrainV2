@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Git/reset - Restaurar los cambios a una fotografía anterior en  Git.md","permalink":"/code/git/reset-restaurar-los-cambios-a-una-fotografia-anterior-en-git/","created":"2024-03-27T16:18","updated":"2024-03-27T20:02"}
+{"dg-publish":true,"dg-path":"Code/Git/reset - Restaurar los cambios a una fotografía anterior en  Git.md","permalink":"/code/git/reset-restaurar-los-cambios-a-una-fotografia-anterior-en-git/","created":"2024-03-27T16:18","updated":"2024-08-03T01:32"}
 ---
 
-[^1]: En realidad este comando tiene trampa, en Git siempre se guardan los cambios y si quieres volver a una fotografía específica solo tienes que usar su [[Learning/Wiki/Hash\|hash]].
 
 Si quieres seguir el desarrollo de tu proyecto desde una fotografía anterior ejecuta:
 ```shell
@@ -14,4 +13,4 @@ Si lo que quieres es no guardar los cambios y resetear todo tu proyecto a un est
 ```shell
 git reset --hard
 ```
-- `--hard`. Propiedad de `reset` que permite "eliminar"[^1] todos los cambios posteriores.
+- `--hard`. Propiedad de `reset` que permite "eliminar"^[En realidad este comando tiene trampa, en Git siempre se guardan los cambios y si quieres volver a una fotografía específica solo tienes que usar su [[Learning/Wiki/Hash\|hash]].] todos los cambios posteriores.
