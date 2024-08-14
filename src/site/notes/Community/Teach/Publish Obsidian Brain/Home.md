@@ -10,9 +10,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Learning/Code/Git/rm --cached - Sacar archivos de la fotografía\|rm --cached - Sacar archivos de la fotografía]]: 12:35 PM - August 14, 2024
-> - [[Learning/Code/Git/reset - Restaurar los cambios a una fotografía anterior en  Git\|reset - Restaurar los cambios a una fotografía anterior en  Git]]: 1:32 AM - August 03, 2024
-> - [[Community/Blog/Vivir bajo Fujimori\|Vivir bajo Fujimori]]: 3:07 PM - July 26, 2024
+>  - [[Learning/Code/Git/add - Añadir ficheros a la fotografía en Git\|add - Añadir ficheros a la fotografía en Git]]: 12:40 PM - August 14, 2024
+> - [[Learning/Code/Git/Git\|Git]]: 12:39 PM - August 14, 2024
+> - [[Learning/Code/Git/rm --cached - Sacar archivos de la fotografía en Git\|rm --cached - Sacar archivos de la fotografía en Git]]: 12:35 PM - August 14, 2024
 > 
 { .block-language-dataview}
 

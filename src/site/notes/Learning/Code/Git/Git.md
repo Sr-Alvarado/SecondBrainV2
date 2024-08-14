@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-04-12T15:37"}
+{"dg-publish":true,"dg-path":"Code/Git.md","permalink":"/code/git/","created":"2024-03-14T13:56","updated":"2024-08-14T12:39"}
 ---
 
 
@@ -77,7 +77,7 @@ Todos los comandos de Git tienen el mismo nombre y funcionan igual en todos los 
 - [[Learning/Code/Git/branch -m - Modificar el nombre de una rama en Git\|branch -m - Modificar el nombre de una rama en Git]] 
 - [[Learning/Code/Git/status - Ver el estado del control de versiones en Git\|status - Ver el estado del control de versiones en Git]]
 - [[Learning/Code/Git/add - Añadir ficheros a la fotografía en Git\|add - Añadir ficheros a la fotografía en Git]]
-- [[Learning/Code/Git/rm --cached - Sacar archivos de la fotografía\|rm --cached - Sacar archivos de la fotografía]] 
+- [[Learning/Code/Git/rm --cached - Sacar archivos de la fotografía en Git\|rm --cached - Sacar archivos de la fotografía en Git]] 
 - [[Learning/Code/Git/gitignore - Indicar a Git que ignore un archivo\|gitignore - Indicar a Git que ignore un archivo]] 
 - [[Learning/Code/Git/config alias - Crear alias en Git\|config alias - Crear alias en Git]]
 - [[Learning/Code/Git/commit - Hacer una fotografía en Git\|commit - Hacer una fotografía en Git]]
