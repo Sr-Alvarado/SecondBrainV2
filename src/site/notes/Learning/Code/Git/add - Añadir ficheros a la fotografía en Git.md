@@ -2,7 +2,8 @@
 {"dg-publish":true,"dg-path":"Code/Git/add - Añadir ficheros a la fotografía en Git.md","permalink":"/code/git/add-anadir-ficheros-a-la-fotografia-en-git/","created":"2024-03-27T16:18","updated":"2024-03-27T16:58"}
 ---
 
+Si quieres añadir ficheros al [[Learning/Code/Git/stash - Guardar los cambios de forma temporal en Git\|stash]] (lista de archivos que serán [[Learning/Code/Git/commit - Hacer una fotografía en Git\|commit]]eados luego) puedes usar^[Para elimininar archivos del stage (unstage) puedes usar [[rm --cached - Sacar archivos de la fotografía \|rm --cached]]]: 
 ```shell
 git add NOMBRE_FICHERO
 ```
-- `add`. Propiedad de Git que permite seleccionar que ficheros se agregarán a la [[Learning/Wiki/Fotografía\|Fotografía]].
+- `add`. Propiedad de Git que permite seleccionar que ficheros se agregarán a la [[Learning/Wiki/Fotografía\|Fotografía]]
