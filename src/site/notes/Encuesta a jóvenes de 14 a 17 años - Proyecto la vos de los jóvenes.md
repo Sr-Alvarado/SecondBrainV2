@@ -11,6 +11,6 @@ Como primer paso queremos conocer el mayor problema que aflige a cada joven, por
 - **Pregunta 1.** El objetivo de esta pregunta es enfocar al joven en su mayor deseo, el sueño más grande que quiera alcanzar.
 - **Pregunta 2.** Esta es la principal pregunta que la actividad busca responder. Deseamos saber que cosa impide a los jóvenes alcanzar sus sueños, de acuerdo a sus respuestas diseñaremos futuros proyectos basados en datos que impacten positivamente a los jóvenes.
    - **Sección inferior.** Deseamos conocer la clase de problema que tiene el joven para facilitar la categorización de los datos hallados.
-- **Pregunta 3.** Este pregunta busca reunir las mejores ideas para solucionar los problemas que afligen a los jóvenes.
+- **Pregunta 3.** La última pregunta tiene como objetivo reunir las mejores ideas para solucionar los problemas que afligen a los jóvenes.
 
 Los resultados de esta encuesta se usarán para crear proyectos que traten de dar solución a los problemas actuales de la juventud. Así mismo los resultados serán publicados para que otras organizaciones conozcan de primera mano la realidad de los jóvenes cajamarquinos y para que la población en general escuche la vos de los jóvenes.
