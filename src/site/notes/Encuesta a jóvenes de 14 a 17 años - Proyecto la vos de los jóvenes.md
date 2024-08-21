@@ -9,7 +9,7 @@ El proyecto la vos de los jóvenes busca exponer los deseos y sueños de los jó
 Como primer paso queremos conocer el mayor problema que aflige a cada joven, por ello aplicaremos una pequeña encuesta anónima. La actividad consiste en 3 preguntas sobre la realidad de cada joven:
 ![Screenshot_20240722_193515.png|100%](/img/user/Engine/Attachments/Screenshot_20240722_193515.png)
 - **Pregunta 1.** El objetivo de esta pregunta es enfocar al joven en su mayor deseo, el sueño más grande que quiera alcanzar.
-- **Pregunta 2.** Esta es la principal pregunta que la actividad busca responder. Deseamos saber que cosa impide a los jóvenes alcanzar sus sueños, de acuerdo a sus respuestas diseñaremos futuros proyectos basados en datos que impacten positivamente a la gran mayoría de los jóvenes.
+- **Pregunta 2.** Esta es la principal pregunta que la actividad busca responder. Deseamos saber que cosa impide a los jóvenes alcanzar sus sueños, de acuerdo a sus respuestas diseñaremos futuros proyectos basados en datos que impacten positivamente a los jóvenes.
    - **Sección inferior.** Deseamos conocer la clase de problema que tiene el joven para facilitar la categorización de los datos hallados.
 - **Pregunta 3.** Este pregunta busca reunir las mejores ideas para solucionar los problemas que afligen a los jóvenes.
 
