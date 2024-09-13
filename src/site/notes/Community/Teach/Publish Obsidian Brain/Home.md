@@ -10,9 +10,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Encuesta a jóvenes de 14 a 17 años - Proyecto la vos de los jóvenes\|Encuesta a jóvenes de 14 a 17 años - Proyecto la vos de los jóvenes]]: 10:06 PM - August 20, 2024
+>  - [[Learning/Code/Python/Slicing en Python\|Slicing en Python]]: 4:13 PM - September 13, 2024
+> - [[Encuesta a jóvenes de 14 a 17 años - Proyecto la vos de los jóvenes\|Encuesta a jóvenes de 14 a 17 años - Proyecto la vos de los jóvenes]]: 10:06 PM - August 20, 2024
 > - [[Learning/Code/Git/add - Añadir ficheros a la fotografía en Git\|add - Añadir ficheros a la fotografía en Git]]: 12:40 PM - August 14, 2024
-> - [[Learning/Code/Git/Git\|Git]]: 12:39 PM - August 14, 2024
 > 
 { .block-language-dataview}
 
