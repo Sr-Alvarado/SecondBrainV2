@@ -12,7 +12,10 @@ por lo que para poder verlo a simple\
 vista debo cortarlo en varias lineas\
 """
 
-print(texto) # Imprime: Este es un texto realmente largo por lo que para poder verlo a simple vista debo cortarlo en varias lineas
+print(texto) 
+
+# Imprime: 
+Este es un texto realmente largo por lo que para poder verlo a simple vista debo cortarlo en varias lineas
 ```
 
 Si fuiste listo, notaste que al principio y al final del string también coloqué una `\`, lo que hace la barra invertida es unir la linea actual con la siguiente línea. Coloqué la `\` al principio y al final para que al imprimir no me diera una linea vacía antes y después del texto.
