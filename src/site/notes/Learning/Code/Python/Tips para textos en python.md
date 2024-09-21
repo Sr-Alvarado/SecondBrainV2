@@ -12,9 +12,11 @@ por lo que para poder verlo a simple\
 vista debo cortarlo en varias lineas\
 """
 
-print(texto) 
+print(texto)
+```
 
-# Imprime: 
+Imprime:
+```bash
 Este es un texto realmente largo por lo que para poder verlo a simple vista debo cortarlo en varias lineas
 ```
 
@@ -32,10 +34,13 @@ texto = dedent("""\
            vista debo cortarlo en varias lineas\
         """)
 
-print(texto) 
+print(texto)
+```
 
-# Imprime: 
+Imprime:
+```bash
 Este es un texto realmente largo
 por lo que para poder verlo a simple
 vista debo cortarlo en varias lineas
 ```
+
