@@ -10,9 +10,9 @@ Cuando trabajas con python y requieres importar paquetes debes saber que existe 
 Cada grupo debe estar separado por un espacio de los otros grupos. Ejemplo:
 ```py
 # Estándar
-import os
-from dotenv import load_dotenv      
+from dotenv import load_dotenv
 from textwrap import dedent
+import os
 
 # De terceros
 from crewai import Agent
@@ -23,3 +23,4 @@ from tools.ExaSearchTool import ExaSearchTool
 
 load_dotenv()
 ```
+Adicionalmente, a mi me gusta ordenarlas por orden alfabético, permite que verificar una dependencia sea un trabajo más rápido.
