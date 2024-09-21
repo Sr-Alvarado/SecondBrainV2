@@ -10,9 +10,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Versionado de proyectos en programación\|Versionado de proyectos en programación]]: 12:11 PM - September 21, 2024
+>  - [[Learning/Code/Python/Order de importaciones en python\|Order de importaciones en python]]: 1:04 PM - September 21, 2024
+> - [[Versionado de proyectos en programación\|Versionado de proyectos en programación]]: 12:11 PM - September 21, 2024
 > - [[Learning/Code/Python/Tips para textos en python\|Tips para textos en python]]: 8:01 PM - September 20, 2024
-> - [[Learning/Code/Python/Slicing en Python\|Slicing en Python]]: 4:13 PM - September 13, 2024
 > 
 { .block-language-dataview}
 
