@@ -7,5 +7,5 @@ No se si lo sepas pero, la gente de [[Learning/Code/GitHub/GitHub\|GitHub]] tien
 wget -O .gitignore https://raw.githubusercontent.com/github/gitignore/main/Python.gitignore
 ```
 - `wget`. Programa [[CLI\|CLI]] especializado en descargar archivos de la web.
-- `-O`. Flag de `wget` que declara el nombre que se le dará al archivo descargado^[ No es obligatorio, si no lo colocas el nombre usará el nombre original. Ejemplo: `wget www.paginadedondedesgargar.com`.].
+- `-O`. Flag de `wget` que declara el nombre que se le dará al archivo descargado^[ No es obligatorio, si no lo colocas el nombre usará el nombre original. Ejemplo: `wget www.enalce-de-descarga.com`.].
 - `link`. Enlace de donde de descargará el archivo, `wget` descargará todo lo que se pueda, si es una página web, descargará el [[Learning/Wiki/HTML\|HTML]].
