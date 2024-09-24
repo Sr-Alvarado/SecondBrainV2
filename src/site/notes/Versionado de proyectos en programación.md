@@ -7,8 +7,8 @@ Generalmente cuando crear un proyecto de programación decides nombrarlo como v1
 ## SemVer
 El formato SemVer (versionado semántico):
 
-0 → Versión mayor, para cambios incompatibles.
-1 → Versión menor, para nuevas funcionalidades.
-0 → Parche, para correcciones de errores.
+`0` → Versión mayor, para cambios incompatibles.
+`1` → Versión menor, para nuevas funcionalidades.
+`0` → Parche, para correcciones de errores.
 
 Ejemplo: `0.1.0`
