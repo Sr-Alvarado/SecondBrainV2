@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Python/requirements.txt - Instalar dependencias desde un archivo en Python.md","permalink":"/code/python/requirements-txt-instalar-dependencias-desde-un-archivo-en-python/","created":"2024-10-02T12:58","updated":"2024-10-02T12:59"}
+{"dg-publish":true,"dg-path":"Code/Python/requirements.txt - Instalar dependencias desde un archivo en Python.md","permalink":"/code/python/requirements-txt-instalar-dependencias-desde-un-archivo-en-python/","created":"2024-10-02T12:58","updated":"2024-10-02T13:07"}
 ---
 
 Una buena práctica en proyectos pequeños es usar un archivo para listar las dependencias del proyecto [[python\|python]]. Como buena práctica el archivo se nombra como:`requirements.txt`. 
-
 
 ## requirements.txt
 Dentro de `requirements.txt` coloca el nombre de cada dependencia de tu proyecto, puedes añadir y filtrar las versiones que se deberían usar. Ejemplo:
@@ -33,7 +32,7 @@ matplotlib[toolkits]==3.4.2
 
 
 ## Instalar desde un archivo usando `pip`
-Para instalar las dependencias desde un archivo, usando `pip`, solo debes ejecutar el comando:
+Para instalar las dependencias desde un archivo, usando [[pip\|pip]], solo debes ejecutar el comando:
 ```bash
 pip install -r requirements.txt
 ```
