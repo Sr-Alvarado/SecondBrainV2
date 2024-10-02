@@ -10,9 +10,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Learning/Code/Python/Añadir un .gitignore listo en Python\|Añadir un .gitignore listo en Python]]: 7:01 PM - September 23, 2024
+>  - [[Learning/Code/Python/requirements.txt - Instalar dependencias desde un archivo en Python\|requirements.txt - Instalar dependencias desde un archivo en Python]]: 12:59 PM - October 02, 2024
+> - [[Learning/Code/Python/Añadir un .gitignore listo en Python\|Añadir un .gitignore listo en Python]]: 12:51 PM - October 02, 2024
 > - [[Learning/Code/Python/Order de importaciones en python\|Order de importaciones en python]]: 1:04 PM - September 21, 2024
-> - [[Versionado de proyectos en programación\|Versionado de proyectos en programación]]: 12:11 PM - September 21, 2024
 > 
 { .block-language-dataview}
 
