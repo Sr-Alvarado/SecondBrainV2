@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/encuesta-a-jovenes-de-14-a-17-anos-proyecto-la-vos-de-los-jovenes/","created":"2024-08-20T22:06","updated":"2024-08-20T22:06"}
+{"dg-publish":true,"permalink":"/encuesta-a-jovenes-de-14-a-17-anos-proyecto-la-vos-de-los-jovenes/","created":"2024-08-20T22:06","updated":"2024-08-20T22:33"}
 ---
 
 Somos la asociación REJUVENECE, red de juventudes por la educación, la cultura y el empoderamiento. Nuestro objetivo es impulsar desarrollo de los jóvenes por ello presentamos el proyecto "La vos de los jóvenes".

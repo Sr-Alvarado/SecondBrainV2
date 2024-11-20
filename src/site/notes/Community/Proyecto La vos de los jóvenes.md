@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/community/proyecto-la-vos-de-los-jovenes/","created":"2024-07-02T18:20","updated":"2024-07-13T12:10"}
+{"dg-publish":true,"permalink":"/community/proyecto-la-vos-de-los-jovenes/","created":"2024-07-02T18:20","updated":"2024-07-25T13:44"}
 ---
 
 ~~Es un borrador:~~ ¿Si nadie se queja de un problema el problema existe? No. Los problemas son problemas cuando se identifican, al igual que los bugs de programación. Si un bug no genera errores en el código entonces no es un bug es una feature, es cuando genera problema y se identifica que aparece el bug. Si nosotros los jóvenes no expresamos cual es nuestra situación y lo que queremos otros nos dirán que queremos y nos darán lo que quieran. 

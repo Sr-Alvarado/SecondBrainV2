@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Git/reset - Restaurar los cambios a una fotografía anterior en  Git.md","permalink":"/code/git/reset-restaurar-los-cambios-a-una-fotografia-anterior-en-git/","created":"2024-03-27T16:18","updated":"2024-08-03T01:32"}
+{"dg-publish":true,"dg-path":"Code/Git/reset - Restaurar los cambios a una fotografía anterior en  Git.md","permalink":"/code/git/reset-restaurar-los-cambios-a-una-fotografia-anterior-en-git/","created":"2024-03-27T16:18","updated":"2024-08-03T01:37"}
 ---
 
 

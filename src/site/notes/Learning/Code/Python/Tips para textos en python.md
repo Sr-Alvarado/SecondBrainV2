@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Python/Tips para textos en python.md","permalink":"/code/python/tips-para-textos-en-python/","created":"2024-09-20T20:01","updated":"2024-09-20T20:01"}
+{"dg-publish":true,"dg-path":"Code/Python/Tips para textos en python.md","permalink":"/code/python/tips-para-textos-en-python/","created":"2024-09-20T20:01","updated":"2024-09-20T20:29"}
 ---
 
 ## Unir varias lineas en una sola usando  `\`

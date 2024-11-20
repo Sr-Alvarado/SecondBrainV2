@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Operadores lógicos.md","permalink":"/code/operadores-logicos/","created":"2024-06-10T19:08","updated":"2024-06-10T19:08"}
+{"dg-publish":true,"dg-path":"Code/Operadores lógicos.md","permalink":"/code/operadores-logicos/","created":"2024-06-10T19:08","updated":"2024-07-16T22:38"}
 ---
 
 ```py

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/30-days-of-python.md","permalink":"/code/30-days-of-python/","hide":true,"created":"2024-03-08T15:09","updated":"2024-07-25T13:53"}
+{"dg-publish":true,"dg-path":"Code/30-days-of-python.md","permalink":"/code/30-days-of-python/","hide":true,"created":"2024-03-08T15:09","updated":"2024-07-25T18:52"}
 ---
 
 > [!info]-

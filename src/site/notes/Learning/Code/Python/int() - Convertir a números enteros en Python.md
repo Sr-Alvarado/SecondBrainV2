@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Python/int() - Convertir a números enteros en Python.md","permalink":"/code/python/int-convertir-a-numeros-enteros-en-python/","created":"2024-05-29T18:14","updated":"2024-05-29T18:29"}
+{"dg-publish":true,"dg-path":"Code/Python/int() - Convertir a números enteros en Python.md","permalink":"/code/python/int-convertir-a-numeros-enteros-en-python/","created":"2024-05-29T18:14","updated":"2024-07-20T17:00"}
 ---
 
 Antes de hacer operaciones aritméticas con números debemos asegurarnos que el tipo de dato es numérico de contrario dará ERROR. Para convertir un string con un número en un tipo entero usamos:

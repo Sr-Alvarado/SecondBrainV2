@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Nombrar variables.md","permalink":"/code/nombrar-variables/","created":"2024-05-29T17:42","updated":"2024-05-29T17:42"}
+{"dg-publish":true,"dg-path":"Code/Nombrar variables.md","permalink":"/code/nombrar-variables/","created":"2024-05-29T17:42","updated":"2024-05-29T18:29"}
 ---
 
 ```bh

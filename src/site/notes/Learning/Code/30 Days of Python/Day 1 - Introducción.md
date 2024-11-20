@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/30 Days of Python/Day 1 - Introducción.md","permalink":"/code/30-days-of-python/day-1-introduccion/","created":"2024-03-08T15:10","updated":"2024-07-21T22:22"}
+{"dg-publish":true,"dg-path":"Code/30 Days of Python/Day 1 - Introducción.md","permalink":"/code/30-days-of-python/day-1-introduccion/","created":"2024-03-08T15:10","updated":"2024-07-22T09:06"}
 ---
 
 

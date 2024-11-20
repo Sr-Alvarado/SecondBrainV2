@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Python/range() - Genera una secuencia de números en Python.md","permalink":"/code/python/range-genera-una-secuencia-de-numeros-en-python/","created":"2024-07-16T18:25","updated":"2024-07-16T18:51"}
+{"dg-publish":true,"dg-path":"Code/Python/range() - Genera una secuencia de números en Python.md","permalink":"/code/python/range-genera-una-secuencia-de-numeros-en-python/","created":"2024-07-16T18:25","updated":"2024-07-16T20:43"}
 ---
 
 La función `range` permite generar una cierta cantidad de números, por defecto, desde el 0. El funcionamiento básico es:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Python/Declarar varias variables en una sola linea en Python.md","permalink":"/code/python/declarar-varias-variables-en-una-sola-linea-en-python/","created":"2024-05-29T17:59","updated":"2024-05-29T17:59"}
+{"dg-publish":true,"dg-path":"Code/Python/Declarar varias variables en una sola linea en Python.md","permalink":"/code/python/declarar-varias-variables-en-una-sola-linea-en-python/","created":"2024-05-29T17:59","updated":"2024-05-29T18:29"}
 ---
 
 Solo alinea el nombre y el valor:

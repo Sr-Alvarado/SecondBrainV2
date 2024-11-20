@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Python/Slicing en Python.md","permalink":"/code/python/slicing-en-python/","created":"2024-09-13T16:12","updated":"2024-09-13T16:13"}
+{"dg-publish":true,"dg-path":"Code/Python/Slicing en Python.md","permalink":"/code/python/slicing-en-python/","created":"2024-09-13T16:12","updated":"2024-09-13T16:28"}
 ---
 
 Es un método en Python que permite cortar partes de una cadena. Es válido para secuencias ordenadas como [[cadena\|cadena]]s, [[lista\|lista]]s, [[tupla\|tupla]]s, y [[array\|array]]s. La sintaxis es: `[inicio:fin:paso]`. Donde:

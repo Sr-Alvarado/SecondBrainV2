@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Code/Python/all() - Verificar si todos los elementos son verdaderos en Python.md","permalink":"/code/python/all-verificar-si-todos-los-elementos-son-verdaderos-en-python/","created":"2024-05-29T17:01","updated":"2024-05-29T17:01"}
+{"dg-publish":true,"dg-path":"Code/Python/all() - Verificar si todos los elementos son verdaderos en Python.md","permalink":"/code/python/all-verificar-si-todos-los-elementos-son-verdaderos-en-python/","created":"2024-05-29T17:01","updated":"2024-05-29T18:28"}
 ---
 
 Evalúa iterables, si todos los elementos son verdaderos devuelve TRUE, si uno es falso devuelve FALSE. Los elementos que se consideran FALSE son:
