@@ -3,9 +3,7 @@
 ---
 
 ## Resumen
-
 En Python los modificadores de parámetros (`/`, `*`, `*args`, `**kwargs`) controlan cómo se pasan los argumentos a una función, definiendo si son posicionales, nombrados o variables.
-
 - [[#`/` - Argumento solo posicional|`/` - Argumento solo posicional]]. Exige que los parámetros antes del `/` solo se pasen por posición.
 - [[#`*` - Argumento solo nombrado|`*` - Argumento solo nombrado]]. Exige que los parámetros después del `*` solo se pasen por nombre.
 - [[#`*args` - Argumentos posicionales variables|`*args` - Argumentos posicionales variables]]. Captura múltiples argumentos posicionales en una tupla.
