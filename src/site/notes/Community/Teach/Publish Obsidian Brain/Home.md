@@ -10,9 +10,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Learning/Dev/Python/Instalar y usar virtualenv para Python 3\|Instalar y usar virtualenv para Python 3]]: 2:18 PM - October 02, 2024
-> - [[Learning/Dev/Python/requirements.txt - Instalar dependencias desde un archivo en Python\|requirements.txt - Instalar dependencias desde un archivo en Python]]: 1:07 PM - October 02, 2024
-> - [[Learning/Dev/Python/Añadir un .gitignore listo en Python\|Añadir un .gitignore listo en Python]]: 12:51 PM - October 02, 2024
+>  - [[Community/Teach/Publish Obsidian Brain/Home\|Home]]: 8:39 PM - January 01, 2025
+> - [[Learning/Dev/Python/Modificadores de parámetro en Python\|Modificadores de parámetro en Python]]: 7:45 PM - January 01, 2025
+> - [[Learning/Dev/Git/Buenas prácticas para mensajes de commits en Git\|Buenas prácticas para mensajes de commits en Git]]: 1:32 PM - December 10, 2024
 > 
 { .block-language-dataview}
 
