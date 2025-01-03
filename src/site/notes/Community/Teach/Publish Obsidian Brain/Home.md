@@ -10,9 +10,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Community/Teach/Publish Obsidian Brain/Home\|Home]]: 8:39 PM - January 01, 2025
+>  - [[Learning/Dev/Versionado de proyectos en programación\|Versionado de proyectos en programación]]: 5:56 PM - January 03, 2025
+> - [[Community/Teach/Publish Obsidian Brain/Home\|Home]]: 8:39 PM - January 01, 2025
 > - [[Learning/Dev/Python/Modificadores de parámetro en Python\|Modificadores de parámetro en Python]]: 7:45 PM - January 01, 2025
-> - [[Learning/Dev/Git/Buenas prácticas para mensajes de commits en Git\|Buenas prácticas para mensajes de commits en Git]]: 1:32 PM - December 10, 2024
 > 
 { .block-language-dataview}
 
