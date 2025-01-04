@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"dgShowBacklinks":"false","created":"2024-01-25T19:06","updated":"2025-01-03T22:11"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"dgShowBacklinks":"false","created":"2024-01-25T19:06","updated":"2025-01-03T22:19"}
 ---
 
 <div style="text-align: center;">
-    <img src="https://i.imgur.com/TcDTbTy.png" alt="Un hombre joven en un fondo verde" width="220px" style="border-radius: 50%;">
+    <img src="https://i.imgur.com/e4y916O.png" alt="Un hombre joven en un fondo verde" width="220px" style="border-radius: 50%;">
 </div>
 
 🖐️¡Hola! Yo soy Jesus Alvarado y bienvenido a mi 🌱 [[Learning/Wiki/Digital Garden\|Digital Garden]].
