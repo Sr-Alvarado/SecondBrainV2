@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"dgShowBacklinks":"false","created":"2024-01-25T19:06","updated":"2024-04-04T21:55"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"dgShowBacklinks":"false","created":"2024-01-25T19:06","updated":"2025-01-03T19:18"}
 ---
 
 ![NickNamePersonal.png|220](/img/user/Engine/Attachments/NickNamePersonal.png)
@@ -10,9 +10,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mi Digital Garden espero puedas ampliar tu perspectiva.✨
 
 > [!info] Últimas actualizaciones
->  - [[Learning/Dev/Versionado de proyectos en programación\|Versionado de proyectos en programación]]: 5:56 PM - January 03, 2025
-> - [[Community/Teach/Publish Obsidian Brain/Home\|Home]]: 8:39 PM - January 01, 2025
-> - [[Learning/Dev/Python/Modificadores de parámetro en Python\|Modificadores de parámetro en Python]]: 7:45 PM - January 01, 2025
+>  - [[Community/Teach/Publish Obsidian Brain/Home\|Home]]: 7:18 PM - January 03, 2025
+> - [[Learning/Dev/Versionado de proyectos en programación\|Versionado de proyectos en programación]]: 7:18 PM - January 03, 2025
+> - [[Learning/Dev/GitHub/Añadir una descripción a mi perfil de GitHub usando README\|Añadir una descripción a mi perfil de GitHub usando README]]: 7:03 PM - January 03, 2025
 > 
 { .block-language-dataview}
 
