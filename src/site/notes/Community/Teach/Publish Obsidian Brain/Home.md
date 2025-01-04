@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"dgShowBacklinks":"false","created":"2024-01-25T19:06","updated":"2025-01-03T22:27"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"dgShowBacklinks":"false","created":"2024-01-25T19:06","updated":"2025-01-03T22:42"}
 ---
 
 <div style="text-align: center;">
     <img src="https://i.imgur.com/e4y916O.png" alt="Un hombre joven en un fondo verde degradado" width="220px" style="border-radius: 50%;">
 </div>
 
-🖐️¡Hola! Yo soy Jesus Alvarado, bienvenido a mi 🌱 [[Learning/Wiki/Digital Garden\|Digital Garden]].
+🖐️¡Hola! Soy Jesus Alvarado, bienvenido a mi 🌱 [[Learning/Wiki/Digital Garden\|Digital Garden]].
 
-Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y conocimientos que voy adquiriendo. **No es un repositorio de información**; es un ecosistema de ideas en constante evolución que se entrelazan creando creando nuevas ideas.
+Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y conocimientos que voy adquiriendo. **No es un repositorio de información**; es un ecosistema de ideas en constante evolución que se entrelazan creando conocimiento.
 
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mis notas espero puedas ampliar tu perspectiva.
 
