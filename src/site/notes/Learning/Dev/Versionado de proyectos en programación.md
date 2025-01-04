@@ -5,7 +5,7 @@
 ## Resumen
 Generalmente al crear un proyecto en programación lo nombras como `v1`, luego `v1.1`, `v2`, etc. Sin embargo, no es necesario inventarse la rueda; ya existen guías de buenas prácticas que definen claramente cómo versionar un proyecto.
 - [[Learning/Dev/Versionado de proyectos en programación#SemVer\|SemVer]]. Versionado semántico. **(Recomendado)**
-- [[Learning/Dev/Versionado de proyectos en programación#Versionado por fecha\|Versionado por fecha]]. Basado en años.
+- [[Learning/Dev/Versionado de proyectos en programación#Versionado por calendario\|Versionado por calendario]]. Basado en años.
 - [[Learning/Dev/Versionado de proyectos en programación#Versionado por código de revisión\|Versionado por código de revisión]]. Basado en el commit.
 - [[Learning/Dev/Versionado de proyectos en programación#Versionado por fecha\|Versionado por fecha]]. Basado en la fecha exacta de actualización.
 - [[Learning/Dev/Versionado de proyectos en programación#Versionado por nivel de madurez\|Versionado por nivel de madurez]]. Basado en el estado del desarrollo.
