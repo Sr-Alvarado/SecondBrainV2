@@ -44,7 +44,7 @@ Todo lo demás se considera TRUE.
 
 
 
-Es similar a [[Learning/Dev/Python/all() - Verificar si todos los elementos son verdaderos en Python\|all()]], cuando alguno es verdadero devuelve TRUE cuando todos son falsos devuelve FALSE.
+Es similar a [[Learning/Dev/Python/all() - Verificar si todos los elementos son verdaderos en Python\|all()]], cuando alguno es verdadero devuelve TRUE cuando todos son falsos devuelve FALSE. 
 
 - [[Learning/Dev/Python/Elementos que devuelven FALSE en python\|Elementos que devuelven FALSE en python]]
 

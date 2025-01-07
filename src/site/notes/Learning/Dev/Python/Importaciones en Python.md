@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Dev/Python/Importaciones en Python.md","permalink":"/dev/python/importaciones-en-python/"}
+{"dg-publish":true,"dg-path":"Dev/Python/Importaciones en Python.md","permalink":"/dev/python/importaciones-en-python/","created":"2024-11-04T17:10","updated":"2024-12-14T11:16"}
 ---
 
 ## Resumen

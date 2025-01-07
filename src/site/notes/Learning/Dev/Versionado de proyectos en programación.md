@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Dev/Versionado de proyectos en programación.md","permalink":"/dev/versionado-de-proyectos-en-programacion/","created":"2024-09-21T12:11","updated":"2025-01-03T19:18"}
+{"dg-publish":true,"dg-path":"Dev/Versionado de proyectos en programación.md","permalink":"/dev/versionado-de-proyectos-en-programacion/","created":"2024-09-21T12:11","updated":"2025-01-03T20:39"}
 ---
 
 ## Resumen

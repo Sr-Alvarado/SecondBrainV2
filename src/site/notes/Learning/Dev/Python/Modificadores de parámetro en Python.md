@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Dev/Python/Modificadores de parámetro en Python.md","permalink":"/dev/python/modificadores-de-parametro-en-python/"}
+{"dg-publish":true,"dg-path":"Dev/Python/Modificadores de parámetro en Python.md","permalink":"/dev/python/modificadores-de-parametro-en-python/","created":"2025-01-01T19:45","updated":"2025-01-01T20:37"}
 ---
 
 ## Resumen

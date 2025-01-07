@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/como-eliminar-las-cosas-que-te-estresan/"}
+{"dg-publish":true,"permalink":"/como-eliminar-las-cosas-que-te-estresan/","created":"2024-10-25T17:03","updated":"2024-11-20T19:09"}
 ---
 
 Esta es una guía simple (no fácil) de como eliminar las cosas que te estresan, esta dividida en pasos:
