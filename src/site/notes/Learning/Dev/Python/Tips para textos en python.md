@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Dev/Python/Tips para textos en python.md","permalink":"/dev/python/tips-para-textos-en-python/","created":"2024-09-20T20:01","updated":"2025-01-06T22:57"}
+{"dg-publish":true,"dg-path":"Dev/Python/Tips para textos en python.md","permalink":"/dev/python/tips-para-textos-en-python/","created":"2024-09-20T20:01","updated":"2025-01-06T23:01"}
 ---
 
 ## Unir varias lineas en una sola usando  `\`
 Si tienes un texto muy largo que, para poder verlo completo, debes cortas en varias lineas pero sabes que es una sola línea puedes usar `\`, este símbolo le indicará a python que las líneas son en realidad una sola línea. Ejemplo:
-
-Si tienes textos largos que debes cortar en varias lineas y poder visualizar bien, puedes utilizar el carácter `\` para indicarle a Python que los trate como una sola línea de texto, incluso si se muestra dividida en varias líneas. Por ejemplo:
 
 ```py
 texto = """\

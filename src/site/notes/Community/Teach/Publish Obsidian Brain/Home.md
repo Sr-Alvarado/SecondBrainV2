@@ -13,7 +13,7 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mis notas espero puedas ampliar tu perspectiva.
 
 > [!info] Últimas actualizaciones
->  - [[Learning/Dev/Python/Tips para textos en python\|Tips para textos en python]]: 10:57 PM - January 06, 2025
+>  - [[Learning/Dev/Python/Tips para textos en python\|Tips para textos en python]]: 11:01 PM - January 06, 2025
 > - [[Learning/Dev/Git/Git\|Git]]: 9:42 PM - January 06, 2025
 > - [[Learning/Dev/Python/Añadir un .gitignore listo en Python\|Añadir un .gitignore listo en Python]]: 10:29 PM - January 03, 2025
 > 
