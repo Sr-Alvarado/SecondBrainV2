@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/community/blog/vivir-bajo-fujimori/","hide":true,"created":"2024-07-18T21:18","updated":"2025-01-06T21:32"}
+{"dg-publish":true,"permalink":"/community/blog/vivir-bajo-fujimori/","hide":true,"created":"2024-07-18T21:18","updated":"2025-01-06T21:40"}
 ---
 
 
 > [!INFO]-
-> Este artículo fue hecho justo después de que el Congreso del Perú, liderado por el Fujimorismo, partido de la familia Fujimori, liberó al ex dictador Alberto Fujimori; fue una liberación inconstitucional y abiertamente ilegal.
+> Este artículo fue escrito justo después de que el Congreso del Perú, liderado por el Fujimorismo, partido de la familia Fujimori, liberó al ex dictador Alberto Fujimori; fue una liberación inconstitucional y abiertamente ilegal.
 
 ¿En qué momento se jodió el Perú? Con esta pregunta, casi retorica diría, comienzan muchos discursos, debates y textos; me pregunto si Vargas Llosa pensó en lo canon que se volvería su frase al escribir Conversación en la Catedral. Y es que como no hacer esta pregunta, al ver que cada día nuestra democracia se debilita y los viejos rancios tienen menos miedo de salir a plena luz del sol.
 

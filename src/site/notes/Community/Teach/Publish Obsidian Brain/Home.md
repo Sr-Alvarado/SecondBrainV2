@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"dgShowBacklinks":"false","created":"2024-01-25T19:06","updated":"2025-01-06T21:35"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"dgShowBacklinks":"false","created":"2024-01-25T19:06","updated":"2025-01-06T21:41"}
 ---
 
 <div style="text-align: center;">
