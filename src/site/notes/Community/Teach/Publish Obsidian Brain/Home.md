@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"dgShowBacklinks":"false","created":"2024-01-25T19:06","updated":"2025-01-06T21:41"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"dgShowBacklinks":"false","created":"2024-01-25T19:06","updated":"2025-01-06T21:45"}
 ---
 
 <div style="text-align: center;">
@@ -13,9 +13,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mis notas espero puedas ampliar tu perspectiva.
 
 > [!info] Últimas actualizaciones
->  - [[Learning/Dev/Python/Añadir un .gitignore listo en Python\|Añadir un .gitignore listo en Python]]: 10:29 PM - January 03, 2025
+>  - [[Learning/Dev/Git/Git\|Git]]: 9:42 PM - January 06, 2025
+> - [[Learning/Dev/Python/Añadir un .gitignore listo en Python\|Añadir un .gitignore listo en Python]]: 10:29 PM - January 03, 2025
 > - [[Learning/Dev/GitHub/Añadir una descripción al perfil de GitHub usando README\|Añadir una descripción al perfil de GitHub usando README]]: 10:27 PM - January 03, 2025
-> - [[Learning/Dev/Versionado de proyectos en programación\|Versionado de proyectos en programación]]: 8:39 PM - January 03, 2025
 > 
 { .block-language-dataview}
 
