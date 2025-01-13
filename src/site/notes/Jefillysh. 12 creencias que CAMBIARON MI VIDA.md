@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jefillysh-12-creencias-que-cambiaron-mi-vida/","created":"2025-01-12T19:29","updated":"2025-01-13T08:21"}
+{"dg-publish":true,"permalink":"/jefillysh-12-creencias-que-cambiaron-mi-vida/","created":"2025-01-12T19:29","updated":"2025-01-13T09:29"}
 ---
 
 #Video 
@@ -10,7 +10,7 @@
 
 ## Resumen
 Estas 12 creencias propuestas por [jefillysh](https://www.youtube.com/@jefillysh) pueden replantear tu percepción de la vida y tu lugar en el universo. Es una visión transformadora sobre cómo entender nuestra existencia, cuestionar nuestras percepciones y vivir plenamente:
-- [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#No eres el centro del universo\|No eres el centro del universo]]. Reconocer que el universo no gira en torno a ti te libera para experimentar, fracasas y crecer.
+- [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#No eres el centro del universo\|No eres el centro del universo]]. Reconocer que el universo no gira en torno a ti te libera para experimentar, fracasar y crecer.
 - [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#Todo es temporal\|Todo es temporal]]. La vida es fugaz, acéptalo, valora cada momento e impulsate a vivir con propósito.
 - [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#La disciplina te hará libre\|La disciplina te hará libre]]. Construye hábitos pequeños y ten palabra contigo mismo para lograr grandes cambios.
 - [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#Cuestiona todo\|Cuestiona todo]]. Reflexiona y desafía tus propias creencias para abrir las puertas al aprendizaje y al crecimiento personal.

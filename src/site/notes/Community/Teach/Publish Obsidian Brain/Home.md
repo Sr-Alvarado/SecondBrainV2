@@ -13,7 +13,7 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mis notas espero puedas ampliar tu perspectiva.
 
 > [!info] Últimas actualizaciones
->  - [[Jefillysh. 12 creencias que CAMBIARON MI VIDA\|Jefillysh. 12 creencias que CAMBIARON MI VIDA]]: 10:12 PM - January 12, 2025
+>  - [[Jefillysh. 12 creencias que CAMBIARON MI VIDA\|Jefillysh. 12 creencias que CAMBIARON MI VIDA]]: 9:29 AM - January 13, 2025
 > - [[Learning/Dev/Bash/Como crear un alias para la terminal en Linux\|Como crear un alias para la terminal en Linux]]: 11:23 AM - January 08, 2025
 > - [[Learning/Dev/Python/Tips para textos en python\|Tips para textos en python]]: 11:01 PM - January 06, 2025
 > 
