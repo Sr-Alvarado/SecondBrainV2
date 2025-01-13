@@ -13,9 +13,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mis notas espero puedas ampliar tu perspectiva.
 
 > [!info] Últimas actualizaciones
->  - [[Learning/Dev/Python/Tips para textos en python\|Tips para textos en python]]: 11:01 PM - January 06, 2025
-> - [[Learning/Dev/Git/Git\|Git]]: 9:42 PM - January 06, 2025
-> - [[Learning/Dev/Python/Añadir un .gitignore listo en Python\|Añadir un .gitignore listo en Python]]: 10:29 PM - January 03, 2025
+>  - [[Video. 12 creencias que CAMBIARON MI VIDA\|Video. 12 creencias que CAMBIARON MI VIDA]]: 9:46 PM - January 12, 2025
+> - [[Learning/Dev/Bash/Como crear un alias para la terminal en Linux\|Como crear un alias para la terminal en Linux]]: 11:23 AM - January 08, 2025
+> - [[Learning/Dev/Python/Tips para textos en python\|Tips para textos en python]]: 11:01 PM - January 06, 2025
 > 
 { .block-language-dataview}
 
