@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jefillysh-12-creencias-que-cambiaron-mi-vida/","updated":"2025-01-12T21:46"}
+{"dg-publish":true,"permalink":"/jefillysh-12-creencias-que-cambiaron-mi-vida/","updated":"2025-01-12T22:06"}
 ---
 
 #Video 
@@ -43,10 +43,10 @@ Estas 12 creencias propuestas por [jefillysh](https://www.youtube.com/@jefillysh
 **La verdadera anomalía es que estés vivo**. El universo tiene 13.800 millones de años; durante todo ese tiempo no exististe, después de una serie infinita de casualidades se sucedieron para que tú existas, por 70 años, y luego volverás a no existir por la infinita cantidad de años que le quedan al universo.
 
  [05:34](https://www.youtube.com/watch?t=334&v=8UOWETZzlEA)
-**Acepta que tu tiempo es limitado, te toco ser tú y la vida es fugaz**. Reconocer que cada momento que pasas es único y no se repetirá, que tu tiempo es muy corto y por tanto muy valioso puede generar desesperanza, sin embargo, si abrazas estas verdades en lugar de temerlas o rechazarlas te impulsa a vivir.
+**Acepta que tu tiempo es limitado, te toco ser tú y la vida es fugaz**. Reconoce que cada momento que pasas es único y no se repetirá, acepar tu tiempo es muy corto y por tanto muy valioso puede generar desesperanza, sin embargo, si abrazas esta verdad en lugar de temer o rechazar tu mortalidad te impulsara a vivir cada momento.
 
 [06:12](https://www.youtube.com/watch?t=372&v=8UOWETZzlEA)
-**Tu lecho de muerte no es el lugar donde pasas tus últimas horas, es el lugar donde matas el tiempo esperando**. Tu lecho de muerte es el lugar donde se te va la vida sonando con el futuro pero estático sin construir nada.
+**Tu lecho de muerte no es el lugar donde pasas tus últimas horas, es el lugar donde matas el tiempo esperando**. Tu lecho de muerte es el lugar donde se te va la vida sonando con el futuro pero estático sin construir nada en el presente.
 
 ### La disciplina te hará libre
 [06:40](https://www.youtube.com/watch?t=400&v=8UOWETZzlEA)
@@ -57,10 +57,10 @@ Estas 12 creencias propuestas por [jefillysh](https://www.youtube.com/@jefillysh
 
 ### Cuestiona todo
 [07:33](https://www.youtube.com/watch?t=453&v=8UOWETZzlEA)
-**Cuestiona todo, pero sobre todo, cuestionate a ti mismo**. Cuestiona tus creencias, las normas que sigues, las ideas que aceptaste como verdad; pero eso no significa que no creas en nada, es más una forma de saber por qué crees en lo que crees? Esto desbloquea nuevas verdades que no veías porque creías que ya conocías la verdad.
+**Cuestiona todo, pero sobre todo, cuestionate a ti mismo**. Cuestiona tus creencias, las normas que sigues, las ideas que aceptaste como verdad; eso no significa que no creas en nada, es más una forma de saber ¿por qué crees en lo que crees? Auto-cuestionarte desbloquea nuevas verdades que no veías porque creías que ya conocías la verdad.
 
 [08:01](https://www.youtube.com/watch?t=481&v=8UOWETZzlEA)
-**La forma más efectiva de equivocarte es creer que siempre estás en lo correcto**. Cuestionarte a ti mismo si realmente está bien lo que haces, si realmente tu verdad es la verdad, te impulsa a investigar y aprender más.
+**La forma más efectiva de equivocarte es creer que siempre estás en lo correcto**. Cuestiona, ¿realmente está bien lo que haces?, ¿realmente tu verdad es la verdad? Hacerte estas preguntas te impulsara a investigar y aprender más.
 
 [09:02](https://www.youtube.com/watch?t=542&v=8UOWETZzlEA)
 **El mundo en el que vivimos es suficientemente grande y hermoso para no equivocarse y ser ignorante de algo**. Descubrir y reinventarte constantemente debe ser una herramienta para crecer y ser mejor cada día.
@@ -70,42 +70,42 @@ Estas 12 creencias propuestas por [jefillysh](https://www.youtube.com/@jefillysh
 
 ### Siempre es buen momento
 [10:09](https://www.youtube.com/watch?t=609&v=8UOWETZzlEA)
-**No se te ha ido el tiempo**. A medida que envejeces, te da más miedo reinventarte, hacer cosas nuevas, porque si crees que eres el centro del universo y todo el mundo te está mirando; ¿por qué estudiarías otra carrera con un montón de "niños"?
+**No se te ha ido el tiempo**. A medida que envejeces te da más miedo reinventarte o hacer cosas nuevas, porque si crees que eres el centro del universo y todo el mundo te está mirando; ¿por qué harías algo que se supone ya no deberías hacer?
 
 [11:21](https://www.youtube.com/watch?t=681&v=8UOWETZzlEA)
 **Tú eres el único que te cierras las puertas**. Cuando crees que "ya no puedo" o "ya se te fue la oportunidad", tú mismo te niegas a oportunidades, recuerda, tú no eres el centro del universo; a nadie le importas así que arriésgate.
 
 ### Esto es lo que hay
 [11:49](https://www.youtube.com/watch?t=709&v=8UOWETZzlEA)
-**Aceptar tus circunstancias no significa rendirte, significa aceptar la realidad tal como es**. Puede sonar como darse por vencido, pero luchar contra la realidad solo genera sufrimiento y desesperanza; cuando te resistes a lo que es, desperdicias energía en el acto de negar.
+**Aceptar tus circunstancias no significa rendirte, significa aceptar la realidad tal como es**. Quizá suene a "darse por vencido", pero, luchar contra la realidad solo genera sufrimiento y desesperanza; cuando te resistes a lo que es desperdicias energía en el acto de negar.
 
 [12:21](https://www.youtube.com/watch?t=741&v=8UOWETZzlEA)
-**Aceptar de forma radical tus circunstancias te permite buscar soluciones**. Aceptar la vida tal como es te hace mas auto-conciente, te ensena que las cosas aveces no son como uno quiere, que aveces esta bien no estar bien, y que hay muchas circunstancias de las que no tienes control, al notar que cosas no están bajo tu control también identificas las que si, así es como puedes cambiar tu realidad.
+**Aceptar de forma radical tus circunstancias te permite buscar soluciones**. Aceptar la vida tal como es te hace mas auto-cociente, te ensena que las cosas aveces no son como uno quiere, que aveces esta bien no estar bien, y que hay muchas circunstancias de las que no tienes control. Al aceptar las hay cosas que no puedes controlar puedes identificar las cosas que si están bajo tu control, así es como logras cambiar tu realidad.
 
 ### Autocompasión
 [13:22](https://www.youtube.com/watch?t=802&v=8UOWETZzlEA)
 **Solo tu conoces lo que has pasado**. Cuanto comentes un error comprendete, cuida de ti como te gustaría que otro lo hiciera por ti. Tú eres la persona que más sabe de ti, tú eres la única persona que ha visto, sentido y sufrido todo lo que haz pasado, así que compadécete de ti mismo.
 
 [15:44](https://www.youtube.com/watch?t=944&v=8UOWETZzlEA)
-**La compasión a uno mismo te vuelve más compasivo con otros**. Cuando te dedicas a empatizar por lo que estás viviendo, tu cerebro también es capaz de empatizar con lo que otros viven.
+**La compasión a uno mismo te vuelve más compasivo con otros**. Cuando te dedicas a empatizar con lo que estás viviendo, tu cerebro también es capaz de empatizar con lo que otros viven.
 
 [16:01](https://www.youtube.com/watch?t=961&v=8UOWETZzlEA)
 **Tu eres tu propio equipo**. En ocasiones vas a ser el único equipo que vas a tener, necesitas estar de tu lado, vas a estar contigo toda la vida, es la relación más larga que vas a tener; tratarte bien es la base para vivir bien.
 
 ### Nuestra realidad es nuestra narrativa
 [16:15](https://www.youtube.com/watch?t=975&v=8UOWETZzlEA)
-**La historia que te cuenta tu cerebro se vuelve tu realidad**. Nuestro cerebro procesa toda la información de la realidad y crea una imagen del mundo, es imagen puede estar mucho o poco apegada a la realidad pero para tu cerebro es la realidad.
+**La historia que te cuenta tu cerebro se vuelve tu realidad**. Nuestro cerebro procesa toda la información de la realidad y crea una imagen del mundo, esa imagen puede estar bastante o poco apegada a la verdadera realidad pero para tu cerebro esa es la realidad.
 
 [16:58](https://www.youtube.com/watch?t=1018&v=8UOWETZzlEA)
-**La narrativa que tu cerebro se cuenta se puede modificar**. Puedes cambiar tus patrones de pensamiento empezando por cuestionar la historia que tu cerebro crea, critica tus creencias, comprende y reinterpreta tus experiencias. Moldea tu realidad, la realidad que tu cerebro se cuenta, y hazla más cómoda para ti.
+**La narrativa que tu cerebro se cuenta se puede modificar**. Puedes cambiar tus patrones de pensamiento empezando por cuestionar la historia que tu cerebro crea. Critica tus creencias, comprende y reinterpreta tus experiencias; moldea tu realidad, la narrativa de tu cerebro, y hazla más cómoda para ti.
 
 ### El contexto importa
 [18:09](https://www.youtube.com/watch?t=1089&v=8UOWETZzlEA)
-**Entre mas información tienes del mundo el mundo es mas hermoso**. Mientras mas cosas comprendes del mundo que te rodea mas te sorprende y maravilla, aprender y comprender mejora tu vision del mundo y te hace mas consiente de ti en el mundo.
+**Entre más información tienes del mundo, el mundo es más hermoso**. Mientras más cosas comprendes del mundo que te rodea, más te sorprende y maravilla; aprender y comprender mejora tu visión del mundo y te hace más consciente de tu lugar en el.
 
 ### Contentment
 [19:20](https://www.youtube.com/watch?t=1160&v=8UOWETZzlEA)
-**"Vivir en contentamiento"**. Todo lo que haces ocurre en el presente, apreciar este instante que vives cultiva una satisfacción al estar en paz con lo que existe ahora.
+**"Vivir en contentamiento"**. Todo lo que haces ocurre en el presente, apreciar este instante que vives cultiva una satisfacción al estar en paz con lo que existe en el presente.
 
 ### ¿Qué hago aquí?
 [20:25](https://www.youtube.com/watch?t=1225&v=8UOWETZzlEA)
@@ -116,4 +116,4 @@ Estas 12 creencias propuestas por [jefillysh](https://www.youtube.com/@jefillysh
 
 ### Come fibra
 [24:11](https://www.youtube.com/watch?t=1451&v=8UOWETZzlEA)
-**Si todo falla, come fibra**. Asi y solo asi puede que las bacterias de tu cuerpo cuiden de ti y confía que en tu interior los millones de seres dedican su existencia a mantenerte vivo. Cuando todo esté perdido, come fibra y ten fe.
+**Si todo falla, come fibra**. Así y solo así puede que las bacterias de tu cuerpo cuiden de ti; confía en los millones de seres que habitan en tu interior dedican su existencia a mantenerte vivo. Cuando todo esté perdido, come fibra y ten fe.
