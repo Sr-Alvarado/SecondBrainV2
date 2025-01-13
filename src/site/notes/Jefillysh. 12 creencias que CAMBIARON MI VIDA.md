@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jefillysh-12-creencias-que-cambiaron-mi-vida/","created":"2025-01-12T19:29","updated":"2025-01-13T09:32"}
+{"dg-publish":true,"permalink":"/jefillysh-12-creencias-que-cambiaron-mi-vida/","created":"2025-01-12T19:29","updated":"2025-01-13T09:36"}
 ---
 
 #Video 
@@ -50,7 +50,7 @@ Estas 12 creencias propuestas por [jefillysh](https://www.youtube.com/@jefillysh
 
 ### La disciplina te hará libre
 [06:40](https://www.youtube.com/watch?t=400&v=8UOWETZzlEA)
-**No se trata de restricción, se trata de crear una estructura**. Son pequeños los hábitos diarios que, repetidos en el tiempo, generan grandes cambios.
+**No se trata de restricción, se trata de crear una estructura**. Son los pequeños hábitos diarios que, repetidos en el tiempo, generan grandes cambios.
 
 [07:09](https://www.youtube.com/watch?t=429&v=8UOWETZzlEA)
 **La disciplina es saber que puedes confiar en ti mismo**. Si eres disciplinado significa que "tienes palabra con ti mismo", es decir, cuando dices que harás algo, lo haces, sin importar lo cansado o aburrido que sea.
@@ -73,14 +73,14 @@ Estas 12 creencias propuestas por [jefillysh](https://www.youtube.com/@jefillysh
 **No se te ha ido el tiempo**. A medida que envejeces te da más miedo reinventarte o hacer cosas nuevas, porque si crees que eres el centro del universo y todo el mundo te está mirando; ¿por qué harías algo que se supone ya no deberías hacer?
 
 [11:21](https://www.youtube.com/watch?t=681&v=8UOWETZzlEA)
-**Tú eres el único que te cierras las puertas**. Cuando crees que "ya no puedo" o "ya se te fue la oportunidad", tú mismo te niegas a oportunidades, recuerda, tú no eres el centro del universo; a nadie le importas así que arriésgate.
+**Tú eres el único que te cierras las puertas**. Cuando crees que "ya no puedo" o "ya se me fue la oportunidad", tú mismo te niegas a oportunidades, recuerda, tú no eres el centro del universo; a nadie le importas así que arriésgate.
 
 ### Esto es lo que hay
 [11:49](https://www.youtube.com/watch?t=709&v=8UOWETZzlEA)
 **Aceptar tus circunstancias no significa rendirte, significa aceptar la realidad tal como es**. Quizá suene a "darse por vencido", pero, luchar contra la realidad solo genera sufrimiento y desesperanza; cuando te resistes a lo que es desperdicias energía en el acto de negar.
 
 [12:21](https://www.youtube.com/watch?t=741&v=8UOWETZzlEA)
-**Aceptar de forma radical tus circunstancias te permite buscar soluciones**. Aceptar la vida tal como es te hace mas auto-cociente, te ensena que las cosas aveces no son como uno quiere, que aveces esta bien no estar bien, y que hay muchas circunstancias de las que no tienes control. Al aceptar las hay cosas que no puedes controlar puedes identificar las cosas que si están bajo tu control, así es como logras cambiar tu realidad.
+**Aceptar de forma radical tus circunstancias te permite buscar soluciones**. Aceptar la vida tal como es te hace mas auto-cociente, te ensena que las cosas aveces no son como uno quiere, que aveces esta bien no estar bien, y que hay muchas circunstancias de las que no tienes control. Al aceptar las cosas cosas que no puedes controlar logras identificar las cosas que si están bajo tu control, así es como cambias tu realidad.
 
 ### Autocompasión
 [13:22](https://www.youtube.com/watch?t=802&v=8UOWETZzlEA)
