@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jefillysh-12-creencias-que-cambiaron-mi-vida/","created":"2025-01-12T19:29","updated":"2025-01-13T09:29"}
+{"dg-publish":true,"permalink":"/jefillysh-12-creencias-que-cambiaron-mi-vida/","created":"2025-01-12T19:29","updated":"2025-01-13T09:32"}
 ---
 
 #Video 
@@ -43,7 +43,7 @@ Estas 12 creencias propuestas por [jefillysh](https://www.youtube.com/@jefillysh
 **La verdadera anomalía es que estés vivo**. El universo tiene 13.800 millones de años; durante todo ese tiempo no exististe, después de una serie infinita de casualidades se sucedieron para que tú existas, por 70 años, y luego volverás a no existir por la infinita cantidad de años que le quedan al universo.
 
  [05:34](https://www.youtube.com/watch?t=334&v=8UOWETZzlEA)
-**Acepta que tu tiempo es limitado, te toco ser tú y la vida es fugaz**. Reconoce que cada momento que pasas es único y no se repetirá, acepar tu tiempo es muy corto y por tanto muy valioso puede generar desesperanza, sin embargo, si abrazas esta verdad en lugar de temer o rechazar tu mortalidad te impulsara a vivir cada momento.
+**Acepta que tu tiempo es limitado, te toco ser tú y la vida es fugaz**. Reconoce que cada momento que pasas es único y no se repetirá, aceptar que tu tiempo es muy corto y por lo tanto muy valioso puede generar desesperanza, sin embargo, si abrazas esta verdad en lugar de temer o rechazar tu mortalidad, esta verdad te impulsara a vivir cada momento.
 
 [06:12](https://www.youtube.com/watch?t=372&v=8UOWETZzlEA)
 **Tu lecho de muerte no es el lugar donde pasas tus últimas horas, es el lugar donde matas el tiempo esperando**. Tu lecho de muerte es el lugar donde se te va la vida sonando con el futuro pero estático sin construir nada en el presente.
