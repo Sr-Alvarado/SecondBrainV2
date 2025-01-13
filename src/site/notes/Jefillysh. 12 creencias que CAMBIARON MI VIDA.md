@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/jefillysh-12-creencias-que-cambiaron-mi-vida/","created":"2025-01-12T19:29","updated":"2025-01-13T09:44"}
+{"dg-publish":true,"permalink":"/jefillysh-12-creencias-que-cambiaron-mi-vida/","created":"2025-01-12T19:29","updated":"2025-01-13T09:52"}
 ---
 
-#Video 
+#Video #YouTube 
 > [!info]-
 > Esta es una síntesis que hice del video de [jefillysh](https://www.youtube.com/@jefillysh) en YouTube. No es un resumen, es mi interpretación; la forma en que entendí el contenido, lo moldeé con mi experiencia y lo expuse con mis palabras.
 >> [!cite]+ Referencias
