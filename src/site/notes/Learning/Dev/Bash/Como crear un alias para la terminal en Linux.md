@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Dev/Bash/Como crear un alias para la terminal en Linux.md","permalink":"/dev/bash/como-crear-un-alias-para-la-terminal-en-linux/","tags":["linux","terminal","bash"],"created":"2024-01-27T22:11","updated":"2024-07-05T17:21"}
+{"dg-publish":true,"dg-path":"Dev/Bash/Como crear un alias para la terminal en Linux.md","permalink":"/dev/bash/como-crear-un-alias-para-la-terminal-en-linux/","tags":["linux","terminal","bash"],"created":"2024-01-27T22:11","updated":"2025-01-08T11:23"}
 ---
 
 ## Vamos directo a lo bueno
-         Para crear un alias usamos el comando `alias NOMBRE_ALIAS='COMANDO'`. Sin embargo el alias solo estará activo mientas está abierta esa terminal. Para guardarlo y usarlo cuando queramos ejecutamos:
+Para crear un alias usamos el comando `alias NOMBRE_ALIAS='COMANDO'`. Sin embargo el alias solo estará activo mientas está abierta esa terminal. Para guardarlo y usarlo cuando queramos ejecutamos:
 
 ```bash
 echo "alias NOMBRE_ALIAS='COMANDO'" >> .bashrc
