@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jefillysh-12-creencias-que-cambiaron-mi-vida/","created":"2025-01-12T19:29","updated":"2025-01-13T09:41"}
+{"dg-publish":true,"permalink":"/jefillysh-12-creencias-que-cambiaron-mi-vida/","created":"2025-01-12T19:29","updated":"2025-01-13T09:44"}
 ---
 
 #Video 
@@ -15,7 +15,7 @@ Estas 12 creencias propuestas por [jefillysh](https://www.youtube.com/@jefillysh
 - [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#La disciplina te hará libre\|La disciplina te hará libre]]. Construye hábitos pequeños y ten palabra contigo mismo para lograr grandes cambios.
 - [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#Cuestiona todo\|Cuestiona todo]]. Reflexiona y desafía tus propias creencias para abrir las puertas al aprendizaje y al crecimiento personal.
 - [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#Siempre es buen momento\|Siempre es buen momento]]. Nunca es tarde para reinventarte y tomar riesgos sin miedo al juicio ajeno.
-- [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#Esto es lo que hay\|Esto es lo que hay]]. Acepta la realidad, identificar lo que está bajo tu control y buscar soluciones.
+- [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#Esto es lo que hay\|Esto es lo que hay]]. Acepta la realidad, identifica lo que está bajo tu control y busca soluciones.
 - [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#Autocompasión\|Autocompasión]]. Ser amable contigo mismo fortalece tu empatía hacia ti, hacia los demás y mejora tu bienestar.
 - [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#Nuestra realidad es nuestra narrativa\|Nuestra realidad es nuestra narrativa]]. Cambiar la historia que te cuentas puede moldear una vida más satisfactoria.
 - [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#El contexto importa\|El contexto importa]]. Conocer más sobre el mundo enriquece tu perspectiva y tu conexión con la vida.
