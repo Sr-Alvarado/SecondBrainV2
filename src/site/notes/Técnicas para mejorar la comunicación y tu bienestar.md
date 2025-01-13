@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/tecnicas-para-mejorar-la-comunicacion-y-tu-bienestar/","created":"2024-10-24T21:21","updated":"2025-01-13T09:51"}
 ---
 
-#Video #AprendamosJuntosBBVA 
+#Video #AprendamosJuntosBBVA #YouTube 
 
 > [!info]-
 > Estas son notas que recopile, no es ni 100% lo que se dijo, ni 100% de lo que entendí, es una combinación de ambos. En algunos casos mi opinion varía a la del autor, aun así trato de captar su idea original para luego crear una ***Antítesis***. 
