@@ -1,27 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/jefillysh-12-creencias-que-cambiaron-mi-vida/","created":"2025-01-12T19:29","updated":"2025-01-12T22:12"}
+{"dg-publish":true,"permalink":"/jefillysh-12-creencias-que-cambiaron-mi-vida/","created":"2025-01-12T19:29","updated":"2025-01-13T08:21"}
 ---
 
 #Video 
 > [!info]-
-> Esta es una síntesis que hice del video de [jefillysh](https://www.youtube.com/@jefillysh) en YouTube. No es un resumen, es más como la forma en que yo entendí el contenido, lo moldeé con mi experiencia y lo expuse con mis palabras.
+> Esta es una síntesis que hice del video de [jefillysh](https://www.youtube.com/@jefillysh) en YouTube. No es un resumen, es mi interpretación; la forma en que entendí el contenido, lo moldeé con mi experiencia y lo expuse con mis palabras.
 >> [!cite]+
 >> [12 creencias que CAMBIARON MI VIDA - Jefillysh](https://www.youtube.com/watch?v=8UOWETZzlEA) 
 
 ## Resumen
 Estas 12 creencias propuestas por [jefillysh](https://www.youtube.com/@jefillysh) pueden replantear tu percepción de la vida y tu lugar en el universo. Es una visión transformadora sobre cómo entender nuestra existencia, cuestionar nuestras percepciones y vivir plenamente:
 - [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#No eres el centro del universo\|No eres el centro del universo]]. Reconocer que el universo no gira en torno a ti te libera para experimentar, fracasas y crecer.
-- [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#Todo es temporal\|Todo es temporal]]. La vida es fugaz, aceptarlo, valora cada momento e impulsate a vivir con propósito.
-- [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#La disciplina te hará libre\|La disciplina te hará libre]]. Construye hábitos pequeños y cumple contigo mismo para lograr grandes cambios.
-- [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#Cuestiona todo\|Cuestiona todo]]. Reflexionar y desafiar tus propias creencias abre puertas al aprendizaje y al crecimiento personal.
+- [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#Todo es temporal\|Todo es temporal]]. La vida es fugaz, acéptalo, valora cada momento e impulsate a vivir con propósito.
+- [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#La disciplina te hará libre\|La disciplina te hará libre]]. Construye hábitos pequeños y ten palabra contigo mismo para lograr grandes cambios.
+- [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#Cuestiona todo\|Cuestiona todo]]. Reflexiona y desafía tus propias creencias para abrir las puertas al aprendizaje y al crecimiento personal.
 - [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#Siempre es buen momento\|Siempre es buen momento]]. Nunca es tarde para reinventarte y tomar riesgos sin miedo al juicio ajeno.
-- [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#Esto es lo que hay\|Esto es lo que hay]]. Aceptar la realidad permite identificar lo que está bajo tu control y buscar soluciones.
+- [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#Esto es lo que hay\|Esto es lo que hay]]. Acepta la realidad, identificar lo que está bajo tu control y buscar soluciones.
 - [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#Autocompasión\|Autocompasión]]. Ser amable contigo mismo fortalece tu empatía hacia ti, hacia los demás y mejora tu bienestar.
 - [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#Nuestra realidad es nuestra narrativa\|Nuestra realidad es nuestra narrativa]]. Cambiar la historia que te cuentas puede moldear una vida más satisfactoria.
 - [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#El contexto importa\|El contexto importa]]. Conocer más sobre el mundo enriquece tu perspectiva y tu conexión con la vida.
-- [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#Contentment\|Contentment]]. Apreciar el presente fomenta la paz interior y la satisfacción.
+- [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#Contentment\|Contentment]]. Apreciar el presente fomenta tu paz interior y satisfacción.
 - [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#¿Qué hago aquí?\|¿Qué hago aquí?]]. Vive el ahora mejorando tu vida y la de los demás, pues es lo único que importa.
-- [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#Come fibra\|Come fibra]]. En última instancia, cuidar tu salud física también cuida tu existencia.
+- [[Jefillysh. 12 creencias que CAMBIARON MI VIDA#Come fibra\|Come fibra]]. En última instancia, cuidar tu estómago (intestino) también es cuidar de tu existencia.
 
 ## 12 Creencias
 
@@ -109,7 +109,7 @@ Estas 12 creencias propuestas por [jefillysh](https://www.youtube.com/@jefillysh
 
 ### ¿Qué hago aquí?
 [20:25](https://www.youtube.com/watch?t=1225&v=8UOWETZzlEA)
-**¿Qué importa si nada importa? ¿Hacemos aquí?**. Nada de lo que hagas en el mundo tiene un significado, a pesar del dinero, la fama, la popularidad, nada de eso importa, igual morirás.
+**¿Qué importa si nada importa? ¿Qué hacemos aquí?**. Nada de lo que hagas en el mundo tiene un significado, a pesar del dinero, la fama, la popularidad, nada de eso importa, igual morirás.
 
 [21:40](https://www.youtube.com/watch?t=1300&v=8UOWETZzlEA)
 **Lo único que puedes hacer es mejorar tu vida y la de los demás**. El único impacto real que puedes tener es vivir bien tu vida, recuerda, vives en el presente; el pasado ya fue y el futuro aún no es; el único momento que puedes cambiar es el ahora. Lo único que está en tu poder ahora es mejorar tu existencia y la de los demás.
