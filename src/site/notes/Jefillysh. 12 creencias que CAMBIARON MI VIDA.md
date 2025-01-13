@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jefillysh-12-creencias-que-cambiaron-mi-vida/","created":"2025-01-12T19:29","updated":"2025-01-12T22:08"}
+{"dg-publish":true,"permalink":"/jefillysh-12-creencias-que-cambiaron-mi-vida/","created":"2025-01-12T19:29","updated":"2025-01-12T22:10"}
 ---
 
 #Video 
@@ -116,4 +116,4 @@ Estas 12 creencias propuestas por [jefillysh](https://www.youtube.com/@jefillysh
 
 ### Come fibra
 [24:11](https://www.youtube.com/watch?t=1451&v=8UOWETZzlEA)
-**Si todo falla, come fibra**. Así y solo así puede que las bacterias de tu cuerpo cuiden de ti; confía en los millones de seres que habitan en tu interior dedican su existencia a mantenerte vivo. Cuando todo esté perdido, come fibra y ten fe.
+**Si todo falla, come fibra**. Así y solo así puede que las bacterias de tu cuerpo cuiden de ti; confía en los millones de seres que habitan en tu interior, ellos dedican su existencia a mantenerte vivo. Cuando todo esté perdido, come fibra y ten fe.
