@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/la-libertad-en-un-mundo-determinista/","created":"2025-01-17T22:54","updated":"2025-01-17T23:43"}
+{"dg-publish":true,"permalink":"/la-libertad-en-un-mundo-determinista/","created":"2025-01-17T22:54","updated":"2025-01-17T23:44"}
 ---
 
-### Capítulo 1: Soy lo que soy por lo que viví.
+### Capítulo 1: Soy lo que soy por lo que viví
 ¿Qué me convierte a mí en mí? ¿Qué combinación de elementos puede crearme a mí, no solo mi yo físico, también mi yo interior, el yo que es yo solo cuando nadie observa. Si volviera a nacer, ¿cuál es la probabilidad de que yo sea yo?
 
 Hay muchos factores que yo no controlo que me definieron, mis padres, el jardín que escogieron para mí, la ropa con que me vistieron, el colegio al que me presentaron, la casa donde viví, los profesores que me tocaron; hay un universo infinito de cosas que no dependieron de mí que me definieron. Pero, si todas esas cosas se repitieran justo igual una vez más, ¿yo sería yo?.
