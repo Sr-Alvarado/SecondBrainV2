@@ -13,7 +13,7 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mis notas espero puedas ampliar tu perspectiva.
 
 > [!info] Últimas actualizaciones
->  - [[La libertad en un mundo determinista\|La libertad en un mundo determinista]]: 11:44 PM - January 17, 2025
+>  - [[La libertad en un mundo determinista\|La libertad en un mundo determinista]]: 12:10 AM - January 18, 2025
 > - [[Jefillysh. 12 creencias que CAMBIARON MI VIDA\|Jefillysh. 12 creencias que CAMBIARON MI VIDA]]: 9:52 AM - January 13, 2025
 > - [[Técnicas para mejorar la comunicación y tu bienestar\|Técnicas para mejorar la comunicación y tu bienestar]]: 9:51 AM - January 13, 2025
 > 
