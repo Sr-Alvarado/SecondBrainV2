@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/manejar-caracteres-especiales-en-shell/","created":"2025-01-21T11:54","updated":"2025-01-21T12:59"}
+{"dg-publish":true,"permalink":"/manejar-caracteres-especiales-en-shell/","created":"2025-01-21T11:54","updated":"2025-01-21T13:00"}
 ---
 
 ## Resumen
