@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/libertad-o-libre-albedrio-son-lo-mismo/","created":"2025-01-21T13:54","updated":"2025-01-21T14:50"}
+{"dg-publish":true,"permalink":"/libertad-o-libre-albedrio-son-lo-mismo/","created":"2025-01-21T13:54","updated":"2025-01-21T15:02"}
 ---
 
-¿Cuál es la diferencia entre libertad y libre albedrío? ¿Existe? o ¿son lo mismo? Aunque a menudo se usan indistintamente en el lenguaje cotidiano, **no son exactamente lo mismo** y la cuestión de si existe el libre albedrío es un tema aparte. Pero vamos primero con la diferencia:
+¿Cuál es la diferencia entre libertad y libre albedrío? ¿Existe? o ¿son lo mismo? Aunque a menudo se usan como sinónimos, **no son exactamente lo mismo**:
 ## ¿Qué es?
 ### Libertad
 Es la **posibilidad de actuar en ausencia de coerción o restricciones externas**; según la propia voluntad, sin que fuerzas externas (como la opresión, la ley, la cárcel, etc.) lo impidan. Ejemplo: 
