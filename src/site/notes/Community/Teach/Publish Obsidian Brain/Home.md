@@ -13,9 +13,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mis notas espero puedas ampliar tu perspectiva.
 
 > [!info] Últimas actualizaciones
->  - [[¿Libertad o libre albedrío? ¿son lo mismo?\|¿Libertad o libre albedrío? ¿son lo mismo?]]: 3:03 PM - January 21, 2025
-> - [[Manejar caracteres especiales en shell\|Manejar caracteres especiales en shell]]: 1:00 PM - January 21, 2025
-> - [[La libertad en un mundo determinista\|La libertad en un mundo determinista]]: 12:10 AM - January 18, 2025
+>  - [[Video. ¿Viene un segundo renacimiento?\|Video. ¿Viene un segundo renacimiento?]]: 6:37 PM - January 21, 2025
+> - [[Jefillysh. 12 creencias que CAMBIARON MI VIDA\|Jefillysh. 12 creencias que CAMBIARON MI VIDA]]: 4:10 PM - January 21, 2025
+> - [[¿Libertad o libre albedrío? ¿son lo mismo?\|¿Libertad o libre albedrío? ¿son lo mismo?]]: 3:03 PM - January 21, 2025
 > 
 { .block-language-dataview}
 
