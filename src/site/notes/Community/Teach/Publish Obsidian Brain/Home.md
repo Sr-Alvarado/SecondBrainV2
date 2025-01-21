@@ -13,9 +13,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mis notas espero puedas ampliar tu perspectiva.
 
 > [!info] Últimas actualizaciones
->  - [[Migala. ¿Viene un segundo renacimiento?\|Migala. ¿Viene un segundo renacimiento?]]: 6:39 PM - January 21, 2025
+>  - [[Aprendamos juntos BBVA. Técnicas para mejorar la comunicación y tu bienestar\|Aprendamos juntos BBVA. Técnicas para mejorar la comunicación y tu bienestar]]: 6:45 PM - January 21, 2025
+> - [[Migala. ¿Viene un segundo renacimiento?\|Migala. ¿Viene un segundo renacimiento?]]: 6:39 PM - January 21, 2025
 > - [[Jefillysh. 12 creencias que CAMBIARON MI VIDA\|Jefillysh. 12 creencias que CAMBIARON MI VIDA]]: 4:10 PM - January 21, 2025
-> - [[¿Libertad o libre albedrío? ¿son lo mismo?\|¿Libertad o libre albedrío? ¿son lo mismo?]]: 3:03 PM - January 21, 2025
 > 
 { .block-language-dataview}
 
