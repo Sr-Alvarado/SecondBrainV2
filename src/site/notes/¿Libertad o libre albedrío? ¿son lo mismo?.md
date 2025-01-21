@@ -15,4 +15,4 @@ Es la **capacidad de elegir realmente entre diferentes opciones**; según la pro
 ## ¿Cuál es la diferencia?
 **La libertad es una condición externa, mientras que el libre albedrío es una capacidad interna.**  Puedo tener libertad para salir a la calle, pero yo decido salir o no.
 
-Pero, todo esto no tiene sentido si no tenemos libre albedrío, puesto que a pesar de la libertad nuestras decisiones no serian elección nuestra. Así que hagamos la pregunta: [[¿Existe el Libre Albedrío?\|¿Existe el Libre Albedrío?]] 
+Pero, todo esto no tiene sentido si no tenemos libre albedrío, puesto que a pesar de la libertad nuestras decisiones no serian elección nuestra, si no condicionadas por el entorno. Así que hagamos la pregunta: [[¿Existe el Libre Albedrío?\|¿Existe el Libre Albedrío?]] 
