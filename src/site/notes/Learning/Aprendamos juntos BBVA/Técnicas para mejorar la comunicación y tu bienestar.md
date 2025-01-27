@@ -101,7 +101,7 @@ Las presentaciones aburridas no solo cansan a los alumnos, el profesor también 
 { #284fa0}
 
 
-> - ***[[Learning/Wiki/Como eliminar las cosas que te estresan\|Como eliminar las cosas que te estresan]]*** 
+> - ***[[Blog/Como eliminar las cosas que te estresan\|Como eliminar las cosas que te estresan]]*** 
 > 
 > - ***Antítesis: [[El peligro de perseguir la felicidad\|El peligro de perseguir la felicidad]]*** 
 
