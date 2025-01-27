@@ -13,7 +13,7 @@
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/dev/boleanos/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/dev/logica/boleanos/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -39,7 +39,7 @@ En python el símbolo ` =` se usa para asignar un valor.
 
 ## Operaciones aritméticas
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/dev/operadores-matematicos/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/dev/logica/operadores-matematicos/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -50,7 +50,7 @@ En python el símbolo ` =` se usa para asignar un valor.
 - **Multiply**: 3`*`2
 - **Division**: 3`/`2 
 - **Exponente**: 3`**`2 ==Se lee: 3 al exponente 2==
-- **[[Learning/Dev/Módulo - Resto de una división\|Módulo]]**: 3`%`2 ==Devuelve el residuo de una división==
+- **[[Learning/Dev/Logica/Módulo - Resto de una división\|Módulo]]**: 3`%`2 ==Devuelve el residuo de una división==
 - **Resto**: 3`//`2 ==Devuelve solo la parte entera de una división==
 
 ## Operadores
@@ -71,7 +71,7 @@ En python el símbolo ` =` se usa para asignar un valor.
 
 
 
-- `is` --> Verifica que 2 variables sean el mismo objeto, si 2 variables apunten al mismo objeto en memoria si es asi devuelve `True`. [[Learning/Dev/is vs ==\|is vs ==]] 
+- `is` --> Verifica que 2 variables sean el mismo objeto, si 2 variables apunten al mismo objeto en memoria si es asi devuelve `True`. [[Learning/Dev/Logica/is vs ==\|is vs ==]] 
 - `is not` --> Es el opuesto de `is`, verifica que 2 variables no sean el mismo objeto, si es así devuelve `True`
 - `in` --> Comprueba que un elemento pertenezca a una secuencia. Si se cumple devuelve `True`
 - `not in` --> Opuesto a `in` verifica que un elemento no pertenezca a una secuencia. Si se cumple devuelve `True`
@@ -82,7 +82,7 @@ En python el símbolo ` =` se usa para asignar un valor.
 
 ## Operadores lógicos
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/dev/operadores-logicos/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/dev/logica/operadores-logicos/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
