@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Dev/Git/diff - Ver diferencias entre un commit y ahora en Git.md","permalink":"/dev/git/diff-ver-diferencias-entre-un-commit-y-ahora-en-git/","created":"2024-03-27T16:18","updated":"2024-03-29T18:37"}
+{"dg-publish":true,"permalink":"/learning/dev/git/diff-ver-diferencias-entre-un-commit-y-ahora-en-git/","created":"2024-03-27T16:18","updated":"2024-03-29T18:37"}
 ---
 
 

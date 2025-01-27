@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Obsidian/Proceso de toma de notas en Obsidian.md","permalink":"/obsidian/proceso-de-toma-de-notas-en-obsidian/","created":"2024-02-27T13:43","updated":"2024-03-16T16:19"}
+{"dg-publish":true,"permalink":"/learning/obsidian/proceso-de-toma-de-notas-en-obsidian/","created":"2024-02-27T13:43","updated":"2024-03-16T16:19"}
 ---
 
 ## General

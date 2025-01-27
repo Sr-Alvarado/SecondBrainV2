@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Dev/Bash/Manejar caracteres especiales en shell.md","permalink":"/dev/bash/manejar-caracteres-especiales-en-shell/","created":"2025-01-21T11:54","updated":"2025-01-21T13:00"}
+{"dg-publish":true,"permalink":"/learning/dev/bash/manejar-caracteres-especiales-en-shell/","created":"2025-01-21T11:54","updated":"2025-01-21T13:00"}
 ---
 
 ## Resumen

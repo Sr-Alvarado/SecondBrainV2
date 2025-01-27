@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Dev/Git/branch - Crear y eliminar ramas en Git.md","permalink":"/dev/git/branch-crear-y-eliminar-ramas-en-git/","created":"2024-03-27T20:05","updated":"2024-04-05T14:28"}
+{"dg-publish":true,"permalink":"/learning/dev/git/branch-crear-y-eliminar-ramas-en-git/","created":"2024-03-27T20:05","updated":"2024-04-05T14:28"}
 ---
 
 Si quieres **añadir una rama nueva** para hacer modificaciones sin que afecten a la rama principal [[Learning/Wiki/Main\|main]] puedes usar:

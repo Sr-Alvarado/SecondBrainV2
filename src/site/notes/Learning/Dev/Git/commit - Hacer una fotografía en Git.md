@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Dev/Git/commit - Hacer una fotografía en Git.md","permalink":"/dev/git/commit-hacer-una-fotografia-en-git/","created":"2024-03-27T16:18","updated":"2024-03-29T18:23"}
+{"dg-publish":true,"permalink":"/learning/dev/git/commit-hacer-una-fotografia-en-git/","created":"2024-03-27T16:18","updated":"2024-03-29T18:23"}
 ---
 
 Si ya definiste que ficheros se agregarán a la [[Learning/Wiki/Fotografía\|Fotografía]] de tu proyecto es momento de hacerla:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Dev/Git/Flujo colaborativo.md","permalink":"/dev/git/flujo-colaborativo/","created":"2024-04-04T14:22","updated":"2024-04-10T17:41"}
+{"dg-publish":true,"permalink":"/learning/dev/git/flujo-colaborativo/","created":"2024-04-04T14:22","updated":"2024-04-10T17:41"}
 ---
 
 

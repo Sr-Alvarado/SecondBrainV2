@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Dev/30 Days of Python/Day 2 - Funciones.md","permalink":"/dev/30-days-of-python/day-2-funciones/","created":"2024-05-29T16:47","updated":"2024-07-25T13:53"}
+{"dg-publish":true,"permalink":"/learning/dev/30-days-of-python/day-2-funciones/","created":"2024-05-29T16:47","updated":"2024-07-25T13:53"}
 ---
 
 

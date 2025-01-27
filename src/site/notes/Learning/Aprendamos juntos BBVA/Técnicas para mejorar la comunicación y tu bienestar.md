@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Aprendamos juntos BBVA/Técnicas para mejorar la comunicación y tu bienestar.md","permalink":"/aprendamos-juntos-bbva/tecnicas-para-mejorar-la-comunicacion-y-tu-bienestar/","created":"2024-10-24T21:21","updated":"2025-01-27T14:58"}
+{"dg-publish":true,"permalink":"/learning/aprendamos-juntos-bbva/tecnicas-para-mejorar-la-comunicacion-y-tu-bienestar/","created":"2024-10-24T21:21","updated":"2025-01-27T14:58"}
 ---
 
 #Video #AprendamosJuntosBBVA #YouTube 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Dev/Python/Boleanos en python.md","permalink":"/dev/python/boleanos-en-python/","created":"2024-06-10T17:40","updated":"2024-06-10T19:13"}
+{"dg-publish":true,"permalink":"/learning/dev/python/boleanos-en-python/","created":"2024-06-10T17:40","updated":"2024-06-10T19:13"}
 ---
 
 

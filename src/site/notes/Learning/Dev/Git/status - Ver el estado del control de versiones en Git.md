@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Dev/Git/status - Ver el estado del control de versiones en Git.md","permalink":"/dev/git/status-ver-el-estado-del-control-de-versiones-en-git/","created":"2024-03-27T16:18","updated":"2024-03-27T16:57"}
+{"dg-publish":true,"permalink":"/learning/dev/git/status-ver-el-estado-del-control-de-versiones-en-git/","created":"2024-03-27T16:18","updated":"2024-03-27T16:57"}
 ---
 
 ```shell

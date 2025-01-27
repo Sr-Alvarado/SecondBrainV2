@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Dev/Bash/Como crear un alias para la terminal en Linux.md","permalink":"/dev/bash/como-crear-un-alias-para-la-terminal-en-linux/","tags":["linux","terminal","bash"],"created":"2024-01-27T22:11","updated":"2025-01-08T11:23"}
+{"dg-publish":true,"permalink":"/learning/dev/bash/como-crear-un-alias-para-la-terminal-en-linux/","tags":["linux","terminal","bash"],"created":"2024-01-27T22:11","updated":"2025-01-08T11:23"}
 ---
 
 ## Vamos directo a lo bueno

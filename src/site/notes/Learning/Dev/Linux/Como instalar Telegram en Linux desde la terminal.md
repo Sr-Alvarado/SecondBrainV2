@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Dev/Linux/Como instalar Telegram en Linux desde la terminal.md","permalink":"/dev/linux/como-instalar-telegram-en-linux-desde-la-terminal/","created":"2024-03-02T22:09","updated":"2024-04-03T19:47"}
+{"dg-publish":true,"permalink":"/learning/dev/linux/como-instalar-telegram-en-linux-desde-la-terminal/","created":"2024-03-02T22:09","updated":"2024-04-03T19:47"}
 ---
 
 > [!info]-

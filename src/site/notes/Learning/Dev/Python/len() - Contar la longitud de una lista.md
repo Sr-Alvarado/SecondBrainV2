@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Dev/Python/len() - Contar la longitud de una lista.md","permalink":"/dev/python/len-contar-la-longitud-de-una-lista/","created":"2024-07-20T13:44","updated":"2024-07-20T15:54"}
+{"dg-publish":true,"permalink":"/learning/dev/python/len-contar-la-longitud-de-una-lista/","created":"2024-07-20T13:44","updated":"2024-07-20T15:54"}
 ---
 
 Esta función te permite calcula la longitud, el número de items, dentro de un objeto:

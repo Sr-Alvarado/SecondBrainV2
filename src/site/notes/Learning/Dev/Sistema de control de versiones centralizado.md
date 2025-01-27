@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Dev/Sistema de control de versiones centralizado.md","permalink":"/dev/sistema-de-control-de-versiones-centralizado/","created":"2024-04-02T17:24","updated":"2024-04-04T21:51"}
+{"dg-publish":true,"permalink":"/learning/dev/sistema-de-control-de-versiones-centralizado/","created":"2024-04-02T17:24","updated":"2024-04-04T21:51"}
 ---
 
 

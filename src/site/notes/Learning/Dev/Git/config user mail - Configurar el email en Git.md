@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Dev/Git/config user mail - Configurar el email en Git.md","permalink":"/dev/git/config-user-mail-configurar-el-email-en-git/","created":"2024-03-27T16:18","updated":"2024-03-27T16:57"}
+{"dg-publish":true,"permalink":"/learning/dev/git/config-user-mail-configurar-el-email-en-git/","created":"2024-03-27T16:18","updated":"2024-03-27T16:57"}
 ---
 
 ```shell

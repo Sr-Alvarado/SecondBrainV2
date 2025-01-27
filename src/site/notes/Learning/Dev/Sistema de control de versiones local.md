@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Dev/Sistema de control de versiones local.md","permalink":"/dev/sistema-de-control-de-versiones-local/","created":"2024-04-02T17:20","updated":"2024-04-04T21:50"}
+{"dg-publish":true,"permalink":"/learning/dev/sistema-de-control-de-versiones-local/","created":"2024-04-02T17:20","updated":"2024-04-04T21:50"}
 ---
 
 

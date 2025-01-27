@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Aprendamos juntos BBVA/Tu mente es el lugar donde pasarás el resto de tu vida.md","permalink":"/aprendamos-juntos-bbva/tu-mente-es-el-lugar-donde-pasaras-el-resto-de-tu-vida/","created":"2024-05-27T21:22","updated":"2024-06-12T19:20"}
+{"dg-publish":true,"permalink":"/learning/aprendamos-juntos-bbva/tu-mente-es-el-lugar-donde-pasaras-el-resto-de-tu-vida/","created":"2024-05-27T21:22","updated":"2024-06-12T19:20"}
 ---
 
 

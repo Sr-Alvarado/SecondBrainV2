@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Dev/Python/requirements.txt - Instalar dependencias desde un archivo en Python.md","permalink":"/dev/python/requirements-txt-instalar-dependencias-desde-un-archivo-en-python/","created":"2024-10-02T12:58","updated":"2024-10-02T13:07"}
+{"dg-publish":true,"permalink":"/learning/dev/python/requirements-txt-instalar-dependencias-desde-un-archivo-en-python/","created":"2024-10-02T12:58","updated":"2024-10-02T13:07"}
 ---
 
 Una buena práctica en proyectos pequeños es usar un archivo para listar las dependencias del proyecto [[python\|python]]. Como buena práctica el archivo se nombra como:`requirements.txt`. 
