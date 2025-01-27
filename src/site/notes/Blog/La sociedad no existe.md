@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"La sociedad no exite.md","permalink":"/la-sociedad-no-exite/","dgHomeLink":"false","dgShowBacklinks":"false","dgShowFileTree":"false","dgEnableSearch":"false","created":"2024-04-22T21:57","updated":"2024-08-26T13:50"}
+{"dg-publish":true,"permalink":"/blog/la-sociedad-no-existe/","dgHomeLink":"false","dgShowBacklinks":"false","dgShowFileTree":"false","dgEnableSearch":"false","created":"2024-04-22T21:57","updated":"2025-01-27T15:51"}
 ---
 
 

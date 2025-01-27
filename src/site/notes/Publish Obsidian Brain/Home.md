@@ -13,9 +13,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mis notas espero puedas ampliar tu perspectiva.
 
 > [!info] Últimas actualizaciones
->  - [[Learning/Aprendamos juntos BBVA/Técnicas para mejorar la comunicación y tu bienestar\|Técnicas para mejorar la comunicación y tu bienestar]]: 2:58 PM - January 27, 2025
+>  - [[Blog/La sociedad no existe\|La sociedad no existe]]: 3:51 PM - January 27, 2025
+> - [[Learning/Aprendamos juntos BBVA/Técnicas para mejorar la comunicación y tu bienestar\|Técnicas para mejorar la comunicación y tu bienestar]]: 2:58 PM - January 27, 2025
 > - [[Learning/Jefillysh. 12 creencias que CAMBIARON MI VIDA\|Jefillysh. 12 creencias que CAMBIARON MI VIDA]]: 10:30 AM - January 22, 2025
-> - [[Learning/Migala. ¿Viene un segundo renacimiento?\|Migala. ¿Viene un segundo renacimiento?]]: 6:39 PM - January 21, 2025
 > 
 { .block-language-dataview}
 
