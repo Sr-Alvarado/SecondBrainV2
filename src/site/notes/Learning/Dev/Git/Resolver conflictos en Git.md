@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/dev/git/resolver-conflictos-en-git/","created":"2024-03-27T20:38","updated":"2024-04-10T16:40"}
+{"dg-publish":true,"dg-path":"Dev/Git/Resolver conflictos en Git.md","permalink":"/dev/git/resolver-conflictos-en-git/","created":"2024-03-27T20:38","updated":"2024-04-10T16:40"}
 ---
 
 ## En local

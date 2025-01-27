@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/dev/python/instalar-y-usar-virtualenv-para-python-3/","tags":["python/3","virtualenv","shell","terminal"],"created":"2024-03-04T11:36","updated":"2024-10-02T14:18"}
+{"dg-publish":true,"dg-path":"Dev/Python/Instalar y usar virtualenv para Python 3.md","permalink":"/dev/python/instalar-y-usar-virtualenv-para-python-3/","tags":["python/3","virtualenv","shell","terminal"],"created":"2024-03-04T11:36","updated":"2024-10-02T14:18"}
 ---
 
 Si estás en este artículo, se asume que: sabes que es [[virtualenv\|virtualenv]], [[Python 3\|Python 3]] y [[pip\|pip]], y tienes instalado los 2 últimos. Así que vamos de frente a lo bueno.

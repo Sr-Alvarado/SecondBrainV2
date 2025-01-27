@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/dev/git/config-pull-configurar-el-tipo-de-modificacion-de-ficheros-con-pull-en-git/","created":"2024-04-03T21:33","updated":"2024-04-03T21:33"}
+{"dg-publish":true,"dg-path":"Dev/Git/config pull - Configurar el tipo de modificación de ficheros con pull en Git.md","permalink":"/dev/git/config-pull-configurar-el-tipo-de-modificacion-de-ficheros-con-pull-en-git/","created":"2024-04-03T21:33","updated":"2024-04-03T21:33"}
 ---
 
 Hay varias opciones para esta configuración:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/dev/git/buenas-practicas-para-mensajes-de-commits-en-git/","created":"2024-12-10T13:32","updated":"2024-12-10T14:27"}
+{"dg-publish":true,"dg-path":"Dev/Git/Buenas prácticas para mensajes de commits en Git.md","permalink":"/dev/git/buenas-practicas-para-mensajes-de-commits-en-git/","created":"2024-12-10T13:32","updated":"2024-12-10T14:27"}
 ---
 
 ## Resumen

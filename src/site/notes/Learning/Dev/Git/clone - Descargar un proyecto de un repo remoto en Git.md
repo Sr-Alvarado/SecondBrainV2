@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/dev/git/clone-descargar-un-proyecto-de-un-repo-remoto-en-git/","created":"2024-04-03T21:44","updated":"2024-04-03T21:44"}
+{"dg-publish":true,"dg-path":"Dev/Git/clone - Descargar un proyecto de un repo remoto en Git.md","permalink":"/dev/git/clone-descargar-un-proyecto-de-un-repo-remoto-en-git/","created":"2024-04-03T21:44","updated":"2024-04-03T21:44"}
 ---
 
 Si quieres descargar un proyecto de un repo remoto puedes usar:

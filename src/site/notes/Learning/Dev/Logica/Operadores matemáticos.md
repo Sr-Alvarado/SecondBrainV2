@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/dev/logica/operadores-matematicos/","created":"2024-06-10T17:46","updated":"2024-07-16T22:36"}
+{"dg-publish":true,"dg-path":"Dev/Logica/Operadores matemáticos.md","permalink":"/dev/logica/operadores-matematicos/","created":"2024-06-10T17:46","updated":"2024-07-16T22:36"}
 ---
 
 ## Operaciones

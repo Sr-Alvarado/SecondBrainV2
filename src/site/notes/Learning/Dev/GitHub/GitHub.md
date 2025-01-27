@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/dev/git-hub/git-hub/","created":"2024-03-29T19:03","updated":"2024-04-10T17:49"}
+{"dg-publish":true,"dg-path":"Dev/GitHub/GitHub.md","permalink":"/dev/git-hub/git-hub/","created":"2024-03-29T19:03","updated":"2024-04-10T17:49"}
 ---
 
 

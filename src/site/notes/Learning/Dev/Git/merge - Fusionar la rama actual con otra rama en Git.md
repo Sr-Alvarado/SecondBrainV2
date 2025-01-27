@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/dev/git/merge-fusionar-la-rama-actual-con-otra-rama-en-git/","created":"2024-03-27T20:22","updated":"2024-03-29T18:40"}
+{"dg-publish":true,"dg-path":"Dev/Git/merge - Fusionar la rama actual con otra rama en Git.md","permalink":"/dev/git/merge-fusionar-la-rama-actual-con-otra-rama-en-git/","created":"2024-03-27T20:22","updated":"2024-03-29T18:40"}
 ---
 
 Si deseas traerte los cambios de otra rama a tu rama puedes usar:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/dev/python/zip-crea-tuplas-en-python/","created":"2024-07-16T17:36","updated":"2024-07-16T18:54"}
+{"dg-publish":true,"dg-path":"Dev/Python/zip() - Crea tuplas en Python.md","permalink":"/dev/python/zip-crea-tuplas-en-python/","created":"2024-07-16T17:36","updated":"2024-07-16T18:54"}
 ---
 
 La función `zip()` combina 2 o más iterables (listas, tuplas, cadenas, etc.) para crear una tupla. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/dev/git/rm-cached-sacar-archivos-de-la-fotografia-en-git/","created":"2024-08-14T12:35","updated":"2024-08-14T12:35"}
+{"dg-publish":true,"dg-path":"Dev/Git/rm --cached - Sacar archivos de la fotografía en Git.md","permalink":"/dev/git/rm-cached-sacar-archivos-de-la-fotografia-en-git/","created":"2024-08-14T12:35","updated":"2024-08-14T12:35"}
 ---
 
 Esta función permite hacer lo contrario a [[Learning/Dev/Git/add - Añadir ficheros a la fotografía en Git\|git add]], en ves de agregar archivos al stage, permite eliminar esos archivos del stage.

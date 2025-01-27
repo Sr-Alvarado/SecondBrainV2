@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/dev/30-days-of-python/30-days-of-python/","hide":true,"created":"2024-03-08T15:09","updated":"2025-01-27T15:46"}
+{"dg-publish":true,"dg-path":"Dev/30 Days of Python/30 Days of Python.md","permalink":"/dev/30-days-of-python/30-days-of-python/","hide":true,"created":"2024-03-08T15:09","updated":"2025-01-27T15:46"}
 ---
 
 > [!info]-

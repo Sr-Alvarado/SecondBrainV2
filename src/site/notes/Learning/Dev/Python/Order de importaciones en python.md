@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/dev/python/order-de-importaciones-en-python/","created":"2024-09-21T13:03","updated":"2024-09-21T13:04"}
+{"dg-publish":true,"dg-path":"Dev/Python/Order de importaciones en python.md","permalink":"/dev/python/order-de-importaciones-en-python/","created":"2024-09-21T13:03","updated":"2024-09-21T13:04"}
 ---
 
 Cuando trabajas con python y requieres importar paquetes debes saber que existe una forma correcta de ordenarlas:

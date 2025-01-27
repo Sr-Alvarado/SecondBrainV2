@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/dev/python/nombres-de-variables-en-python/","created":"2024-05-29T17:48","updated":"2024-05-29T18:29"}
+{"dg-publish":true,"dg-path":"Dev/Python/Nombres de variables en Python.md","permalink":"/dev/python/nombres-de-variables-en-python/","created":"2024-05-29T17:48","updated":"2024-05-29T18:29"}
 ---
 
 ```py

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/dev/git/config-alias-crear-alias-en-git/","created":"2024-03-27T16:18","updated":"2024-03-27T18:55"}
+{"dg-publish":true,"dg-path":"Dev/Git/config alias - Crear alias en Git.md","permalink":"/dev/git/config-alias-crear-alias-en-git/","created":"2024-03-27T16:18","updated":"2024-03-27T18:55"}
 ---
 
 Git nos permite crear "alias" al mismo estilo de la terminal, solo debes añadir:

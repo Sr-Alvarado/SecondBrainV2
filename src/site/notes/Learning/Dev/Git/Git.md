@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/dev/git/git/","created":"2024-03-14T13:56","updated":"2025-01-06T21:42"}
+{"dg-publish":true,"dg-path":"Dev/Git/Git.md","permalink":"/dev/git/git/","created":"2024-03-14T13:56","updated":"2025-01-06T21:42"}
 ---
 
 

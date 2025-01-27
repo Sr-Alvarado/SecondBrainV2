@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/dev/git/config-user-name-configurar-el-usuario-en-git/","created":"2024-03-27T16:18","updated":"2024-03-27T16:57"}
+{"dg-publish":true,"dg-path":"Dev/Git/config user name - Configurar el usuario en Git.md","permalink":"/dev/git/config-user-name-configurar-el-usuario-en-git/","created":"2024-03-27T16:18","updated":"2024-03-27T16:57"}
 ---
 
 Definir a tu usuario junto con el email es lo primero que debes hacer para usar Git.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/dev/ssh/","created":"2024-03-30T22:57","updated":"2024-04-01T19:00"}
+{"dg-publish":true,"dg-path":"Dev/SSH.md","permalink":"/dev/ssh/","created":"2024-03-30T22:57","updated":"2024-04-01T19:00"}
 ---
 
 

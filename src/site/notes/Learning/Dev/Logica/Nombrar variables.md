@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/dev/logica/nombrar-variables/","created":"2024-05-29T17:42","updated":"2024-05-29T18:29"}
+{"dg-publish":true,"dg-path":"Dev/Logica/Nombrar variables.md","permalink":"/dev/logica/nombrar-variables/","created":"2024-05-29T17:42","updated":"2024-05-29T18:29"}
 ---
 
 ```bh

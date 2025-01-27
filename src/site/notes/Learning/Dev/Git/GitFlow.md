@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/dev/git/git-flow/","created":"2024-04-10T17:42","updated":"2024-04-12T19:36"}
+{"dg-publish":true,"dg-path":"Dev/Git/GitFlow.md","permalink":"/dev/git/git-flow/","created":"2024-04-10T17:42","updated":"2024-04-12T19:36"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/dev/git/push-u-origin-asociar-una-rama-remota-con-una-rama-local-en-git/","created":"2024-04-03T21:01","updated":"2024-04-03T21:13"}
+{"dg-publish":true,"dg-path":"Dev/Git/push -u origin - Asociar una rama remota con una rama local en Git.md","permalink":"/dev/git/push-u-origin-asociar-una-rama-remota-con-una-rama-local-en-git/","created":"2024-04-03T21:01","updated":"2024-04-03T21:13"}
 ---
 
 Si quieres definir a que rama de tu repositorio remoto se envirarán los cambios puedes usar:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/dev/node/node/","created":"2024-01-25T19:06","updated":"2024-03-31T14:36"}
+{"dg-publish":true,"dg-path":"Dev/Node/Node.md","permalink":"/dev/node/node/","created":"2024-01-25T19:06","updated":"2024-03-31T14:36"}
 ---
 
 
