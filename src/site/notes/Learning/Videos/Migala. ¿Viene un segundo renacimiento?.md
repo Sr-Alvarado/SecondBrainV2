@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/videos/migala-viene-un-segundo-renacimiento/","created":"2025-01-21T17:44","updated":"2025-01-21T18:39"}
+{"dg-publish":true,"dg-path":"Videos/Migala. ¿Viene un segundo renacimiento?.md","permalink":"/videos/migala-viene-un-segundo-renacimiento/","created":"2025-01-21T17:44","updated":"2025-01-21T18:39"}
 ---
 
 #Video

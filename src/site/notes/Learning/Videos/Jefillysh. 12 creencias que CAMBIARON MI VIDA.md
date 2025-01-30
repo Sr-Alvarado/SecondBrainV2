@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/videos/jefillysh-12-creencias-que-cambiaron-mi-vida/","created":"2025-01-12T19:29","updated":"2025-01-22T10:30"}
+{"dg-publish":true,"dg-path":"Videos/Jefillysh. 12 creencias que CAMBIARON MI VIDA.md","permalink":"/videos/jefillysh-12-creencias-que-cambiaron-mi-vida/","created":"2025-01-12T19:29","updated":"2025-01-22T10:30"}
 ---
 
 #Video #YouTube 
