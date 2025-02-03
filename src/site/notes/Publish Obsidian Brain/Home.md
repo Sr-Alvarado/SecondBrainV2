@@ -13,7 +13,7 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mis notas espero puedas ampliar tu perspectiva.
 
 > [!info] Últimas actualizaciones
->  - [[Yo y las redes sociales\|Yo y las redes sociales]]: 9:43 PM - February 02, 2025
+>  - [[Yo y las redes sociales\|Yo y las redes sociales]]: 9:46 PM - February 02, 2025
 > - [[Blog/La sociedad no existe\|La sociedad no existe]]: 3:51 PM - January 27, 2025
 > - [[Learning/Aprendamos juntos BBVA/Técnicas para mejorar la comunicación y tu bienestar\|Técnicas para mejorar la comunicación y tu bienestar]]: 2:58 PM - January 27, 2025
 > 
