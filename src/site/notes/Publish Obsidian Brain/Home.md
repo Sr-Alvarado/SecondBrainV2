@@ -13,7 +13,7 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mis notas espero puedas ampliar tu perspectiva.
 
 > [!info] Últimas actualizaciones
->  - [[CHARLA SOBRE LIDERAZGO\|CHARLA SOBRE LIDERAZGO]]: 10:59 PM - March 18, 2025
+>  - [[CHARLA SOBRE LIDERAZGO\|CHARLA SOBRE LIDERAZGO]]: 11:16 PM - March 18, 2025
 > - [[Blog/Ensayo sobre la identidad\|Ensayo sobre la identidad]]: 7:36 PM - February 26, 2025
 > - [[Yo y las redes sociales\|Yo y las redes sociales]]: 9:46 PM - February 02, 2025
 > 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/charla-sobre-liderazgo/","created":"2025-03-18T18:42","updated":"2025-03-18T22:59"}
+{"dg-publish":true,"permalink":"/charla-sobre-liderazgo/","created":"2025-03-18T18:42","updated":"2025-03-18T23:16"}
 ---
 
 ## Introduccion: Lider vs Jefe
@@ -33,6 +33,8 @@
 	- Pregunta: por que?
 - El poder del grupo
 - Pasitos
+- La comunidad.
+	- Fomenta actividades de integracion, uniras a las personas
 
 ### Tips: Debes ayudarlos con sus problemas?
 - Respuesta corta. NO
@@ -63,9 +65,9 @@
 		- Si tu haces un chiste machista, los demas a pesar (incluso los que no les gusta) lo aceptaran.
 
 ## El ideal: Ideas de como debe ser una organizacion social
+- Enfocada en proyectos
 - Horizontal
 - Basada en maximas
 - El representante dentro de la organizacion
 	- La comunicacion afuera/adentro
-- Enfocada en proyectos
 - Unida frente al exterior, plural en el interior
