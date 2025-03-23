@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/charla-liderazgo-el-arte-de-inspirar/","created":"2025-03-23T09:24","updated":"2025-03-23T09:27"}
+{"dg-publish":true,"permalink":"/charla-liderazgo-el-arte-de-inspirar/","created":"2025-03-23T09:24","updated":"2025-03-23T09:30"}
 ---
 
 ## Resumen
@@ -128,4 +128,4 @@
 
 
 ### Presentacion
-<iframe src="https://slides.mrchasp.com/leadership/" alt="presentacion en version web" width="100%" height="100%">
+<iframe src="https://slides.mrchasp.com/leadership/" alt="presentacion en version web" width="100%" height="100%"></iframe>
