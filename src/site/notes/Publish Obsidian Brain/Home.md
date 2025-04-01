@@ -13,9 +13,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mis notas espero puedas ampliar tu perspectiva.
 
 > [!info] Últimas actualizaciones
->  - [[Dinamicas\|Dinamicas]]: 3:34 PM - March 25, 2025
+>  - [[Selección Patria C. Fase 2 - ¿Qué te moviliza para ejercer tu ciudadanía?\|Selección Patria C. Fase 2 - ¿Qué te moviliza para ejercer tu ciudadanía?]]: 11:33 PM - March 31, 2025
+> - [[Dinamicas\|Dinamicas]]: 3:34 PM - March 25, 2025
 > - [[Talks/Liderazgo/Charla. Liderazgo El arte de inspirar - Skeleton\|Charla. Liderazgo El arte de inspirar - Skeleton]]: 9:25 AM - March 23, 2025
-> - [[Talks/Liderazgo/Charla. Liderazgo El arte de inspirar - Guion metodológico\|Charla. Liderazgo El arte de inspirar - Guion metodológico]]: 9:23 AM - March 23, 2025
 > 
 { .block-language-dataview}
 
