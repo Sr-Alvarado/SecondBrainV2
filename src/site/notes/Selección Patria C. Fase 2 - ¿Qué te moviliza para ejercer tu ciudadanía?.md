@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/seleccion-patria-c-fase-2-que-te-moviliza-para-ejercer-tu-ciudadania/","created":"2025-03-31T22:34","updated":"2025-03-31T23:33"}
+{"dg-publish":true,"permalink":"/seleccion-patria-c-fase-2-que-te-moviliza-para-ejercer-tu-ciudadania/","metatags":{"description":"Reflexión personal sobre el problema de la manipulación de la información en política regional peruana. El autor identifica la la manipulacion de la verdad como un obstáculo para el diálogo constructivo y propone una solución tecnológica: un sistema de gestión del conocimiento que registre y contraste las acciones de los políticos con sus palabras, utilizando IA para procesar información de medios independientes."},"created":"2025-03-31T22:34","updated":"2025-04-01T09:00"}
 ---
 
 >[!info]-
@@ -20,7 +20,7 @@ Hablaba con el papá de una amiga sobre la época del terrorismo. Daba mis argum
 
 **¿Por qué es importante para ti ese problema?**
 
-He visto muchas veces cómo los "vivasos" mienten y engañan. La razón por la que lo pueden hacer es porque los otros no saben. La ignorancia pasó de ser el punto de partida a ser el promedio. Si logramos que las personas vean la verdad, si logramos que noten sus errores, libres del peso del ego, ya jamás nadie nos manipulará.
+He visto muchas veces como los "vivasos" mienten y engañan. La razón por la que lo pueden hacer es porque los otros no saben. La ignorancia pasó de ser el punto de partida a ser el promedio. Si logramos que las personas vean la verdad, si logramos que noten sus errores, libres del peso del ego, ya jamás nadie nos manipulará.
 
 La libertad no es libre sin conocimiento. ¿Si escoges sin conocer las consecuencias, eres realmente libre? ¿Acaso esas eran las únicas opciones? ¿Acaso ese era el único camino?^[¿Eres [inserte religión aquí] porque lo escogiste o porque eso es lo que eran todos?]. Si queremos ser libres, debemos saber; si queremos liberar a los nuestros, debemos enseñarles. Yo amo la libertad, por eso me educo.
 
