@@ -13,7 +13,7 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mis notas espero puedas ampliar tu perspectiva.
 
 > [!info] Últimas actualizaciones
->  - [[Community/Educar Pensamiento Critico/Guion metodologico - Sesion 1. Reconociendo mis emociones\|Guion metodologico - Sesion 1. Reconociendo mis emociones]]: 12:14 PM - April 02, 2025
+>  - [[Community/Educar Pensamiento Critico/Guion metodologico - Sesion 1. Reconociendo mis emociones\|Guion metodologico - Sesion 1. Reconociendo mis emociones]]: 12:24 PM - April 02, 2025
 > - [[Community/Educar Pensamiento Critico/Skeleton. Reconocimiento de emociones\|Skeleton. Reconocimiento de emociones]]: 11:40 AM - April 02, 2025
 > - [[Selección Patria C. Fase 2 - ¿Qué te moviliza para ejercer tu ciudadanía?\|Selección Patria C. Fase 2 - ¿Qué te moviliza para ejercer tu ciudadanía?]]: 9:00 AM - April 01, 2025
 > 
