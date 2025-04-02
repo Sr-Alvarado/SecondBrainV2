@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/community/educar-pensamiento-critico/skeleton-reconocimiento-de-emociones/","created":"2025-04-02T09:10","updated":"2025-04-02T11:24"}
+{"dg-publish":true,"permalink":"/community/educar-pensamiento-critico/skeleton-reconocimiento-de-emociones/","created":"2025-04-02T09:10","updated":"2025-04-02T11:34"}
 ---
 
 | Sesión interactiva para explorar el concepto de emociones y sentimientos, identificar desencadenantes emocionales, reconocer fortalezas y debilidades personales, y compartir experiencias en grupo. Incluye un taller práctico y el inicio de un diario de emociones. | - Identificar tus debilidades y fortalezas. <br> - Comienza a hacer un diario de emociones. <br> - Aprende a ponerte en el lugar de otro. | - Charla interactiva: ¿Qué es la emoción?, diferencia entre emociones y sentimientos, qué las desencadena. <br> - Taller de identificación de emociones. <br> - Compartiendo mis emociones con el grupo. | - Expreso mis emociones y qué las desencadena. <br> - Comparto con el grupo algunas de las emociones de las que me siento orgulloso. |
@@ -70,13 +70,12 @@ Actividad: Las reglas del juego
 
 **Dinamica: Expresate sin miedo**
 
-### Los desencadenantes
-- Que son: 
-	- cuando lo sentiste
-	- que sentiste
-	- que lo genero
-	- que hiciste en ese momento
-	- que hubieras hecho si volvieras a ese momento
+### Analicemos cada emocion
+- cuando lo sentiste
+- que sentiste
+- que lo genero
+- que hiciste en ese momento
+- que hubieras hecho si volvieras a ese momento
 
 *Actividad: Describe tus emociones*
 ### La respiración
@@ -95,4 +94,4 @@ El diario de emociones. Darles una plantilla y hacer que la llenen
 - 30 plumones de colores
 - 150 hojas de colores
 - 1 cinta de pegar gruesa
-- 
+- Extra (no necesario): Stikers de estellitas
