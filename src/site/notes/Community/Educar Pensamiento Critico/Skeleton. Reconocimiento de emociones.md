@@ -1,13 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/community/educar-pensamiento-critico/skeleton-reconocimiento-de-emociones/","created":"2025-04-02T09:10","updated":"2025-04-02T11:17"}
+{"dg-publish":true,"permalink":"/community/educar-pensamiento-critico/skeleton-reconocimiento-de-emociones/","created":"2025-04-02T09:10","updated":"2025-04-02T11:24"}
 ---
 
 | Sesión interactiva para explorar el concepto de emociones y sentimientos, identificar desencadenantes emocionales, reconocer fortalezas y debilidades personales, y compartir experiencias en grupo. Incluye un taller práctico y el inicio de un diario de emociones. | - Identificar tus debilidades y fortalezas. <br> - Comienza a hacer un diario de emociones. <br> - Aprende a ponerte en el lugar de otro. | - Charla interactiva: ¿Qué es la emoción?, diferencia entre emociones y sentimientos, qué las desencadena. <br> - Taller de identificación de emociones. <br> - Compartiendo mis emociones con el grupo. | - Expreso mis emociones y qué las desencadena. <br> - Comparto con el grupo algunas de las emociones de las que me siento orgulloso. |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 
+## Presentacion
+Dinamica de presentacion.
+- Se le da a cada participante una hoja de color, deben doblarla por la mitad y poner su nombre, adornar la hoja para personalizarla.
 
-
+Actividad: Las reglas del juego
+- Se une en grupos y se pide por grupo poner reglas del juego para mantener el orden y el respeto en el taller
+## Las emociones
 ### Que son las emociones / vs sentimientos
+- Descripcion basica de una emocion y comparacion con un sentimiento.
 ### Las emociones
 - **El miedo.** Respuesta a situaciones de peligro real o percibido. Nos permite protegernos y evitar amenazas "esto representa un peligro para mí, debo ponerme a salvo o prepararme".
   - Respuestas fisiológicas: aceleración del ritmo cardíaco, pupilas dilatadas, sudoración, tensión muscular, respiración rápida
@@ -81,3 +87,12 @@
 ### El diario de emociones
 El diario de emociones. Darles una plantilla y hacer que la llenen
 - tecnica del semaforo
+- Haz tuya la actividad
+
+*Actividad: Llena tu primera entrada de tu diario de emociones*
+
+## Materiales
+- 30 plumones de colores
+- 150 hojas de colores
+- 1 cinta de pegar gruesa
+- 
