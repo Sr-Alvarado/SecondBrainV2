@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/community/educar-pensamiento-critico/guion-metodologico-sesion-1-reconociendo-mis-emociones/","created":"2025-04-02T11:40","updated":"2025-04-02T12:24"}
+{"dg-publish":true,"permalink":"/community/educar-pensamiento-critico/guion-metodologico-sesion-1-reconociendo-mis-emociones/","created":"2025-04-02T11:40","updated":"2025-04-02T21:55"}
 ---
 
 
@@ -54,11 +54,9 @@
 
 **Fecha:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-| Hora | Emoción | Situación | ¿Qué sentí? | ¿Qué pensé? | ¿Cómo reaccioné? |
-| ---- | ------- | --------- | ----------- | ----------- | ---------------- |
-|      |         |           |             |             |                  |
-|      |         |           |             |             |                  |
-|      |         |           |             |             |                  |
+| Hora    | Emoción | Intensidad | Situación | ¿Qué sentí? | ¿Qué pensé? | ¿Cómo reaccioné? | ¿Cómo reaccionaron los demas? |
+| ------- | ------- | ---------- | --------- | ----------- | ----------- | ---------------- | ----------------------------- |
+| 8:00 am | Alegria | 🌟🌟🌟🌟🌟 |           |             |             |                  |                               |
 
 **Técnica del semáforo para la emoción más intensa:**
 - **ROJO (Detente):** ¿Qué necesito para calmarme? _________________
