@@ -28,5 +28,7 @@ El entrevistado tiene razón al afirmar que la fractura de nuestra sociedad es s
 Si bien se enfoca en el contexto, las circunstancias es un tema que no deja de lado, lo menciona cuando dice "Todos somos diferentes, pero con los mismos derechos", al decir esto declara que a pesar de crecer en el mismo lugar nuestro rol es diferente, nuestras circunstancias son distintas.
 
 La fractura interna es consecuencia del deseo por tener lo que no tenemos, esta idea solo crea frustración, jamás podrá generar satisfacción real, siempre habrá alguien que tenga algo que no tenemos. Si en vez de fijarnos en lo que no tenemos nos fijamos en lo que podemos compartir con otros, juntos podemos construir un mejor país, una mejor sociedad y unas vidas con más felicidad. 
+{ #6d2df2}
+
 
 Al igual que la combinación de ingredientes hizo a nuestra comida tan famosa, la combinación de nuestras mentes puede hacer famoso a nuestro país.

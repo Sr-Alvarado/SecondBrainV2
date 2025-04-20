@@ -13,9 +13,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mis notas espero puedas ampliar tu perspectiva.
 
 > [!info] Últimas actualizaciones
->  - [[Skeleton. Identificar el propósito\|Skeleton. Identificar el propósito]]: 5:07 PM - April 09, 2025
+>  - [[El Hilo Invisible, nuestro Vínculo con la Vida\|El Hilo Invisible, nuestro Vínculo con la Vida]]: 8:57 AM - April 20, 2025
+> - [[Skeleton. Identificar el propósito\|Skeleton. Identificar el propósito]]: 10:55 PM - April 09, 2025
 > - [[Community/Educar Pensamiento Critico/Guion metodologico - Sesion 1. Reconociendo mis emociones\|Guion metodologico - Sesion 1. Reconociendo mis emociones]]: 9:55 PM - April 02, 2025
-> - [[Community/Educar Pensamiento Critico/Skeleton. Reconocimiento de emociones\|Skeleton. Reconocimiento de emociones]]: 4:22 PM - April 02, 2025
 > 
 { .block-language-dataview}
 

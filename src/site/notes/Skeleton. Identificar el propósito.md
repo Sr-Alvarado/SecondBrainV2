@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skeleton-identificar-el-proposito/","created":"2025-04-09T12:55","updated":"2025-04-09T17:07"}
+{"dg-publish":true,"permalink":"/skeleton-identificar-el-proposito/","created":"2025-04-09T12:55","updated":"2025-04-09T22:55"}
 ---
 
 [[version 0\|version 0]] 
@@ -45,12 +45,6 @@
 | "Empoderar a jóvenes a través de la educación" | "Desarrollar un nuevo currículum"      |
     - _Analogía práctica:_ "El propósito es el río, los objetivos son los afluentes. El propósito fluye constantemente, mientras los objetivos vienen y van"
     - _Aclaración clave:_ "No confundas tu trabajo o profesión con tu propósito. Tu trabajo puede ser un vehículo para tu propósito, pero raramente son idénticos"
-- **El propósito y el dharma** (10 min)
-    - Explicación sencilla del concepto de dharma: "Tu función única en el gran tapiz de la vida"
-    - _Historia inspiradora:_ Breve relato de alguien ordinario que encontró su propósito extraordinario (ej. Jadav Payeng "El hombre que plantó un bosque solo")
-    - La conexión universal: Cómo tu propósito siempre conecta con algo más grande que tú mismo
-    - _Reflexión guiada:_ "Cierra los ojos. Recuerda un momento en que sentiste que estabas exactamente donde debías estar, haciendo exactamente lo que debías hacer. ¿Qué estabas haciendo? ¿Quién estaba allí? ¿Qué necesidad estabas satisfaciendo?" (pausa de 30 segundos)
-    - Instrucción: "Anota tres palabras clave de esa experiencia"
 
 ## PARTE 2: LOS COMPONENTES DEL PROPÓSITO (40 minutos)
 
@@ -116,7 +110,7 @@
         - "¿Qué impacto concreto te gustaría haber tenido en tu familia, comunidad y mundo?"
     - _Instrucción:_ "Escribe un titular de periódico ideal sobre tu vida y su impacto"
 - **Integrando los componentes** (10 min)
-    - _Técnica del mapeo de patrones:_
+    - _Técnica del mapeo de patrones:o_
         - "Observa todas tus anotaciones. Busca palabras o temas que se repiten"
         - "¿Qué conexiones ves entre tus pasiones y los problemas que te importan?"
         - "¿Cómo podrían tus talentos específicos abordar esos problemas?"
@@ -154,7 +148,7 @@
         - "No debates, solo escucha y agradece el feedback"
     - _Cierre del ejercicio:_ "Haz cualquier ajuste final a tu declaración basado en el feedback recibido"
 
-## CIERRE: VIVIENDO TU PROPÓSITO (5 minutos)
+	## CIERRE: VIVIENDO TU PROPÓSITO (5 minutos)
 
 - **Mejorando mi diario** (3 min)
     - Registra las acciones del día y cual es su relación con tu propósito.
@@ -170,4 +164,4 @@
 - **Despedida inspiradora** (2 min)
     - _Reconocimiento del trabajo realizado:_ "Hoy has dado un paso valiente hacia una vida con mayor significado"
     - _Reflexión final:_ "El propósito no es una meta a alcanzar, sino un camino a recorrer. A partir de hoy, cada decisión puede ser una expresión de tu propósito"
-    - _Cita inspiradora:_ "Como dijo Wall Disney: 'Nuestros sueños pueden convertirse en realidad si los deseamos tanto como para ir tras ellos'"
+    - _Cita inspiradora:_ "Como dijo **Pablo Picaso**: 'El significado de la vida es encontrar tu don. El propósito de la vida es regalarlo.'"
