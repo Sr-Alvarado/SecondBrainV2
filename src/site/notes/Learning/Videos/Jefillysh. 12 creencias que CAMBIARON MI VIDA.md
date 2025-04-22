@@ -10,18 +10,18 @@
 
 ## Resumen
 Estas 12 creencias propuestas por [jefillysh](https://www.youtube.com/@jefillysh) pueden replantear tu percepción de la vida y tu lugar en el universo. Es una visión transformadora sobre cómo entender nuestra existencia, cuestionar nuestras percepciones y vivir plenamente:
-- [[Learning/Videos/Jefillysh. 12 creencias que CAMBIARON MI VIDA#No eres el centro del universo\|No eres el centro del universo]]. Reconocer que el universo no gira en torno a ti te libera para experimentar, fracasar y crecer.
-- [[Learning/Videos/Jefillysh. 12 creencias que CAMBIARON MI VIDA#Todo es temporal\|Todo es temporal]]. La vida es fugaz, acéptalo, valora cada momento e impulsate a vivir con propósito.
-- [[Learning/Videos/Jefillysh. 12 creencias que CAMBIARON MI VIDA#La disciplina te hará libre\|La disciplina te hará libre]]. Construye hábitos pequeños y ten palabra contigo mismo para lograr grandes cambios.
-- [[Learning/Videos/Jefillysh. 12 creencias que CAMBIARON MI VIDA#Cuestiona todo\|Cuestiona todo]]. Reflexiona y desafía tus propias creencias para abrir las puertas al aprendizaje y al crecimiento personal.
-- [[Learning/Videos/Jefillysh. 12 creencias que CAMBIARON MI VIDA#Siempre es buen momento\|Siempre es buen momento]]. Nunca es tarde para reinventarte y tomar riesgos sin miedo al juicio ajeno.
-- [[Learning/Videos/Jefillysh. 12 creencias que CAMBIARON MI VIDA#Esto es lo que hay\|Esto es lo que hay]]. Acepta la realidad, identifica lo que está bajo tu control y busca soluciones.
-- [[Learning/Videos/Jefillysh. 12 creencias que CAMBIARON MI VIDA#Autocompasión\|Autocompasión]]. Ser amable contigo mismo fortalece tu empatía hacia ti, hacia los demás y mejora tu bienestar.
-- [[Learning/Videos/Jefillysh. 12 creencias que CAMBIARON MI VIDA#Nuestra realidad es nuestra narrativa\|Nuestra realidad es nuestra narrativa]]. Cambiar la historia que te cuentas puede moldear una vida más satisfactoria.
-- [[Learning/Videos/Jefillysh. 12 creencias que CAMBIARON MI VIDA#El contexto importa\|El contexto importa]]. Conocer más sobre el mundo enriquece tu perspectiva y tu conexión con la vida.
-- [[Learning/Videos/Jefillysh. 12 creencias que CAMBIARON MI VIDA#Contentment\|Contentment]]. Apreciar el presente fomenta tu paz interior y satisfacción.
-- [[Learning/Videos/Jefillysh. 12 creencias que CAMBIARON MI VIDA#¿Qué hago aquí?\|¿Qué hago aquí?]]. Vive el ahora mejorando tu vida y la de los demás, pues es lo único que importa.
-- [[Learning/Videos/Jefillysh. 12 creencias que CAMBIARON MI VIDA#Come fibra\|Come fibra]]. En última instancia, cuidar tu estómago (intestino) también es cuidar de tu existencia.
+- [[#No eres el centro del universo|No eres el centro del universo]]. Reconocer que el universo no gira en torno a ti te libera para experimentar, fracasar y crecer.
+- [[#Todo es temporal|Todo es temporal]]. La vida es fugaz, acéptalo, valora cada momento e impulsate a vivir con propósito.
+- [[#La disciplina te hará libre|La disciplina te hará libre]]. Construye hábitos pequeños y ten palabra contigo mismo para lograr grandes cambios.
+- [[#Cuestiona todo|Cuestiona todo]]. Reflexiona y desafía tus propias creencias para abrir las puertas al aprendizaje y al crecimiento personal.
+- [[#Siempre es buen momento|Siempre es buen momento]]. Nunca es tarde para reinventarte y tomar riesgos sin miedo al juicio ajeno.
+- [[#Esto es lo que hay|Esto es lo que hay]]. Acepta la realidad, identifica lo que está bajo tu control y busca soluciones.
+- [[#Autocompasión|Autocompasión]]. Ser amable contigo mismo fortalece tu empatía hacia ti, hacia los demás y mejora tu bienestar.
+- [[#Nuestra realidad es nuestra narrativa|Nuestra realidad es nuestra narrativa]]. Cambiar la historia que te cuentas puede moldear una vida más satisfactoria.
+- [[#El contexto importa|El contexto importa]]. Conocer más sobre el mundo enriquece tu perspectiva y tu conexión con la vida.
+- [[#Contentment|Contentment]]. Apreciar el presente fomenta tu paz interior y satisfacción.
+- [[#¿Qué hago aquí?|¿Qué hago aquí?]]. Vive el ahora mejorando tu vida y la de los demás, pues es lo único que importa.
+- [[#Come fibra|Come fibra]]. En última instancia, cuidar tu estómago (intestino) también es cuidar de tu existencia.
 
 ## 12 Creencias
 

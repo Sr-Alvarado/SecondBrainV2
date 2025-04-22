@@ -4,11 +4,11 @@
 
 ## Resumen
 Bash ofrece dos métodos para manejar caracteres especiales:
-- [[Learning/Dev/Bash/Manejar caracteres especiales en shell#Secuencias de Escape\|Secuencias de Escape]]. La barra invertida `\`, evita la interpretación de caracteres especiales en comandos.
-- [[Learning/Dev/Bash/Manejar caracteres especiales en shell#Comillas Dobles\|Comillas Dobles]]. Las comillas `"` o `'`, tratan múltiples palabras como un solo argumento.
+- [[#Secuencias de Escape|Secuencias de Escape]]. La barra invertida `\`, evita la interpretación de caracteres especiales en comandos.
+- [[#Comillas Dobles|Comillas Dobles]]. Las comillas `"` o `'`, tratan múltiples palabras como un solo argumento.
 
 Ademas, debemos tener claro:
-- [[Learning/Dev/Bash/Manejar caracteres especiales en shell#¿Comillas simples o comillas dobles\|¿Comillas simples o comillas dobles?]]. Las que eviten la ambigüedad. Si el argumento incluye comillas dobles, usa comillas simples; si el argumento incluye comillas simples, usa comillas dobles.
+- [[#¿Comillas simples o comillas dobles|¿Comillas simples o comillas dobles?]]. Las que eviten la ambigüedad. Si el argumento incluye comillas dobles, usa comillas simples; si el argumento incluye comillas simples, usa comillas dobles.
 ## Tipos
 ### Secuencias de Escape
 Impide que la shell interprete el siguiente carácter como especial, tratándolo como texto plano. Ejemplo:

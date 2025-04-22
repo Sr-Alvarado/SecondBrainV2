@@ -3,11 +3,11 @@
 ---
 
 ## Resumen
-- [[Learning/Dev/Git/Buenas prácticas para mensajes de commits en Git#Escríbelo en inglés\|#Escríbelo en inglés]]. Hazlo mas accesible para todos sin importar el idioma.
-- [[Learning/Dev/Git/Buenas prácticas para mensajes de commits en Git#Máximo 50 caracteres\|#Máximo 50 caracteres]]. Permite que se vea bien en diferentes visualizadores.
-- [[Learning/Dev/Git/Buenas prácticas para mensajes de commits en Git#Comienza con el verbo\|#Comienza con el verbo]]. Ve directo a la acción realizada.
-- [[Learning/Dev/Git/Buenas prácticas para mensajes de commits en Git#Usa el modo imperativo\|#Usa el modo imperativo]]. Es claro, formal, y directo.
-- [[Learning/Dev/Git/Buenas prácticas para mensajes de commits en Git#Cambios atómicos\|#Cambios atómicos]]. Solo un cambio por commit.
+- [[#Escríbelo en inglés]]. Hazlo mas accesible para todos sin importar el idioma.
+- [[#Máximo 50 caracteres]]. Permite que se vea bien en diferentes visualizadores.
+- [[#Comienza con el verbo]]. Ve directo a la acción realizada.
+- [[#Usa el modo imperativo]]. Es claro, formal, y directo.
+- [[#Cambios atómicos]]. Solo un cambio por commit.
 
 ## Buenas practicas
 ### Escríbelo en inglés

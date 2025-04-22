@@ -4,11 +4,11 @@
 
 ## Resumen
 Generalmente al crear un proyecto en programación lo nombras como `v1`, luego `v1.1`, `v2`, etc. Sin embargo, no es necesario inventarse la rueda; ya existen guías de buenas prácticas que definen claramente cómo versionar un proyecto.
-- [[Learning/Dev/Versionado de proyectos en programación#SemVer\|SemVer]]. Versionado semántico. **(Recomendado)**
-- [[Learning/Dev/Versionado de proyectos en programación#Versionado por calendario\|Versionado por calendario]]. Basado en años.
-- [[Learning/Dev/Versionado de proyectos en programación#Versionado por código de revisión\|Versionado por código de revisión]]. Basado en el commit.
-- [[Learning/Dev/Versionado de proyectos en programación#Versionado por fecha\|Versionado por fecha]]. Basado en la fecha exacta de actualización.
-- [[Learning/Dev/Versionado de proyectos en programación#Versionado por nivel de madurez\|Versionado por nivel de madurez]]. Basado en el estado del desarrollo.
+- [[#SemVer|SemVer]]. Versionado semántico. **(Recomendado)**
+- [[#Versionado por calendario|Versionado por calendario]]. Basado en años.
+- [[#Versionado por código de revisión|Versionado por código de revisión]]. Basado en el commit.
+- [[#Versionado por fecha|Versionado por fecha]]. Basado en la fecha exacta de actualización.
+- [[#Versionado por nivel de madurez|Versionado por nivel de madurez]]. Basado en el estado del desarrollo.
 
 ## Guías de versionado
 ### SemVer
@@ -60,4 +60,4 @@ Indica el estado del desarrollo de la versión.
 
 ## Preguntas y Respuestas
 ### ¿Cuál es la diferencia entre el versionado por calendario y el versionado por fecha?
-El **[[Learning/Dev/Versionado de proyectos en programación#Versionado por calendario\|Versionado por calendario]]** es más general, se enfoca en actualizaciones por segmentos del año (como años o semestres), es decir, si tu proyecto está acostumbrado a lanzar una actualización en cierto mes del año. El **[[Learning/Dev/Versionado de proyectos en programación#Versionado por fecha\|Versionado por fecha]]** es más especifico, detalla el momento exacto del lanzamiento, se usa para proyectos que se actualizan constantemente.
+El **[[#Versionado por calendario|Versionado por calendario]]** es más general, se enfoca en actualizaciones por segmentos del año (como años o semestres), es decir, si tu proyecto está acostumbrado a lanzar una actualización en cierto mes del año. El **[[#Versionado por fecha|Versionado por fecha]]** es más especifico, detalla el momento exacto del lanzamiento, se usa para proyectos que se actualizan constantemente.
