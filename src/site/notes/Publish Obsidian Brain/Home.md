@@ -13,9 +13,9 @@ Aquí encontrarás una colección orgánica de pensamientos, proyectos 💡 y co
 Publico mi Digital Garden porque creo firmemente que el conocimiento es más valioso cuando se comparte. A través de la interacción con mis notas espero puedas ampliar tu perspectiva.
 
 > [!info] Últimas actualizaciones
->  - [[El Hilo Invisible, nuestro Vínculo con la Vida\|El Hilo Invisible, nuestro Vínculo con la Vida]]: 8:57 AM - April 20, 2025
-> - [[Skeleton. Identificar el propósito\|Skeleton. Identificar el propósito]]: 10:55 PM - April 09, 2025
-> - [[Community/Educar Pensamiento Critico/Guion metodologico - Sesion 1. Reconociendo mis emociones\|Guion metodologico - Sesion 1. Reconociendo mis emociones]]: 9:55 PM - April 02, 2025
+>  - [[Susan David. Técnicas para mejorar la comunicación y tu bienestar\|Susan David. Técnicas para mejorar la comunicación y tu bienestar]]: 4:24 PM - April 29, 2025
+> - [[Learning/Aprendamos juntos BBVA/Nicole Vignola. Los hábitos que creas hoy, determinarán quién serás\|Nicole Vignola. Los hábitos que creas hoy, determinarán quién serás]]: 5:55 PM - April 25, 2025
+> - [[Learning/Videos/Jefillysh. 12 creencias que CAMBIARON MI VIDA\|Jefillysh. 12 creencias que CAMBIARON MI VIDA]]: 5:07 PM - April 25, 2025
 > 
 { .block-language-dataview}
 

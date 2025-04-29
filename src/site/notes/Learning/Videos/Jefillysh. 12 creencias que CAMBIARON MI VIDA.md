@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Videos/Jefillysh. 12 creencias que CAMBIARON MI VIDA.md","permalink":"/videos/jefillysh-12-creencias-que-cambiaron-mi-vida/","created":"2025-01-12T19:29","updated":"2025-01-22T10:30"}
+{"dg-publish":true,"dg-path":"Videos/Jefillysh. 12 creencias que CAMBIARON MI VIDA.md","permalink":"/videos/jefillysh-12-creencias-que-cambiaron-mi-vida/","created":"2025-01-12T19:29","updated":"2025-04-25T17:07"}
 ---
 
 #Video #YouTube 
@@ -27,7 +27,7 @@ Estas 12 creencias propuestas por [jefillysh](https://www.youtube.com/@jefillysh
 
 ### No eres el centro del universo
 [02:08](https://www.youtube.com/watch?t=128&v=8UOWETZzlEA)
-	**De entre todo lo que existe tu no eres el centro**. El universo tiene 93 millones de años luz de diámetro, y no, entre todas las galaxias, estrellas y especies tú no eres el centro del universo.
+**De entre todo lo que existe tu no eres el centro**. El universo tiene 93 millones de años luz de diámetro, y no, entre todas las galaxias, estrellas y especies tú no eres el centro del universo.
 
 [02:49](https://www.youtube.com/watch?t=169&v=8UOWETZzlEA)
 **Las creencias basadas en fe mantienen viva la idea**. Durante la gran mayoría de la historia humana hemos creído que si somos el centro del universo, una idea arrastrada aún en nuestra época por muchas religiones y creencias.
